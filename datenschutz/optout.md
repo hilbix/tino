@@ -70,14 +70,15 @@ Details:
 - Man kann nicht davon ausgehen, dass JavaScript eingeschaltet ist.
   - Wenn man die Seite in TABs unterteilt, dann darf das nicht mit JavaScript geschehen, d. h. die anderen TABs müssen unsichtbar sein, bis sie eingeblendet werden.
   - Bitte auch auf Screenreader achten, die auf Seiten nicht zwingend nur sichtbare Elemente vorlesen.
+  - Besser, man macht das einfach nicht.  Auch nicht per AJAX.
 
 ### Teil 3: Die Abmeldebestätigung (`POST`)
 
 Schickt der Browser statt wie in Teil 2 einen `GET`-Request einen `POST`-Request and as URL, wird sofort die komplette Abmeldung vorgenommen.
-Auch bei dieser Seite handelt es sich um eine einfache cookielose HTML-Seite
+Auch bei dieser Seite handelt es sich um eine einfache cookielose HTML-Seite.
 
 - Dieser zweite cookielose Request geschieht [RESTful per `POST`](https://de.wikipedia.org/wiki/Representational_State_Transfer#Prinzipien)
-  - Der Browser schickt also einen `PUT`-Request an dieselbe URL, an die er vorher einen `GET` geschickt hat.
+  - Der Browser schickt also einen `POST`-Request an dieselbe URL, an die er vorher einen `GET` geschickt hat.
   - Welche Daten sonst mitbekommen, bestimmt der User.
     - Ein minimaler Request (ohne `Referer`, ohne `Agent` usw.) muss reichen.
     - Insbesondere darf der übermittelte Button fehlen
