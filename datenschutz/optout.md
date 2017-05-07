@@ -1,9 +1,9 @@
 # Datenschutz
-## Opt-Out
+## Opt-Out per HTTP
 
 Ich habe mir Gedanken darüber gemacht, wie ein datenschutzkonformer Opt-Out nach deutschem Recht auszusehen hat.
 
-## Voraussetzung
+### Voraussetzung
 
 - Irgendwer hat, z. B. einen Newsletter abonniert.
 - Man bekommt eine Mail, in der ist ein Abmeldelink enthalten
@@ -16,14 +16,14 @@ Das Datenschutzgesetz schreibt folgendes vor:
 - Der Prozess muss einfach sein, in dem Sinne, dass normale Menschen ihn mit ihren Mitteln nachvollziehen können
 - und dabei dürfen die normalen Menschen nicht unfreiwillig dazu gezwungen werden, mehr zu übermitteln, als notwendig.
 
-## Daraus entsteht folgender Prozess
+### Daraus entsteht folgender Prozess
 
-### Teil 1: Der klar ersichtliche Abmeldelink
+#### Teil 1: Der klar ersichtliche Abmeldelink
 
 - In der Mail befindet sich ein Link zu einem URL.
 - Der User klickt auf den Link.
 
-### Teil 2: Die mininmale Abmeldeseite (`GET`)
+#### Teil 2: Die mininmale Abmeldeseite (`GET`)
 
 Zusammenfassung:
 
@@ -72,7 +72,7 @@ Details:
   - Bitte auch auf Screenreader achten, die auf Seiten nicht zwingend nur sichtbare Elemente vorlesen.
   - Besser, man macht das einfach nicht.  Auch nicht per AJAX.
 
-### Teil 3: Die Abmeldebestätigung (`POST`)
+#### Teil 3: Die Abmeldebestätigung (`POST`)
 
 Schickt der Browser statt wie in Teil 2 einen `GET`-Request einen `POST`-Request and as URL, wird sofort die komplette Abmeldung vorgenommen.
 Auch bei dieser Seite handelt es sich um eine einfache cookielose HTML-Seite.
@@ -139,7 +139,7 @@ Nochmals zur Klarheit:
   - Es wäre jetzt unsinn, den Nutzer auf etwas hinzuweisen, wenn er gerade dabei ist, genau das Gegenteil zu erklären.
 
 
-## Hinweise
+### Hinweise
 
 - Der hier defnierte Algorithmus funktioiert.
 - Er ist minimal, in dem Sinne, dass ich keine Möglichkeit fand, weniger zu übermitteln.
@@ -147,6 +147,37 @@ Nochmals zur Klarheit:
   - Das bedeutet: Wer sich an meinen Algorithmus hält und trotzdem einen Datenschutzverstoß begeht, ist dafür selbst verantwortlich, ich garantiere nicht dafür, dass der Algorithmus gesetzeskonform ist.
   - **Garantiert verstößt aber jeder gegen das Datenschutzgesetz, der mehr Daten übermittelt, als was ich als "minimal" ermittelt habe!**
 - Mir ist kein einziges Opt-Out-System bekannt, das sich an diese hier sichtbaren Rahmenbedingungen einhält.
+
+Man kann argumentieren, dass ein einfacher Klick auf den Abmeldelink bereits abmeldet.
+
+Diese Forderung ist verständlich und erscheint sinnvoll.
+Tatsächlich kann man es auch gerne so umsetzen, wenn man will, d. h. der einfache Klick auf den Abmeldelink meldet bereits ab.
+Aber das ist technisch der falsche Vorgang.
+
+Das WWW ist ein technisches Web.  Dieses unterliegt gewissen technischen Implikationen und Standards.  An diese Standards hat man sich zu halten und diese Standards sind auch, gesehen aus der Warte des Datenschutzes, vollkommen gültig.
+
+Wer es so implementiert, nämlich dass schon der erste `GET`-Request die Abmeldung vornimmt, derjenig hat sich zwar auch ganz sicher an den Datenschutz gehalten, verstößt dabei aber gegen den HTTP-Standard!  Er bricht also nicht das menschliche Gesetz, aber die technischen Gesetze.  Der Datenschutz erwartet nicht, dass man auch die technischen Gesetze (wie Physik etc.) bricht.
+
+Also ist es vollkommen legitim, sich an die korrekte Implementierung gemäß HTTP zu halten.
+So lange es unmöglich ist, einen minimaleren Algorithmus zu definieren, der sich an HTTP hält, ist das vollkommen einwandfrei.
+
+Und genau das ist es.
+
+- Ein Link in einer Mail löst immer einen `GET` aus.
+- Ein `GET` ändert, gemäß HTTP, niemals den Zustand eines Resource (REST).
+  - Er ist jederzeit wiederholbar und sollte zu immer dem erwarteten Ergebnis führen.
+  - Es wäre also vollkommen unerwartet, dass der erste `GET` ein "Sie wurden abgemeldet" und der zweiter `GET` ein "Sie sind bereits abgemeldet" entspricht.
+- Der Vorgang, der der Änderung eines Resource entspricht, ist `POST` und nicht `GET`.
+- Um mich an HTTP zu halten, muss ich also einen `POST` auslösen, um die Änderung zu bewirken, die meiner Erklärung entspricht.
+- Es ist nicht sichergestellt, dass der Mailbrowser auch `FORM`-Elemente anzeigen kann.
+  - Es ist sogar sicherheitstechnisch empfehlenswert, wenn er es nicht kann.
+- Aus diesem Grund kann man nur davon ausgehen, dass die Mail im reinen Textmodus angezeigt und der Link als einfacher Link gerendert wird.
+- Das bedeutet, man bekommt einen `GET`-Request, der eben die gewünschte Änderung noch nicht auslösen darf.
+- Ebenso verhält es sich übrigens mit dem Anmeldelink.  Der einfache Klick auf den Link darf die Anmeldung eigentlich nicht vornehmen, da dazu ein Statuswechsel notwendig wäre.  Die Antwort wäre also einmal "Sie wurden angemeldet" und die andere "Sie sind bereits angemeldet".  Genau das sollte so nicht sein, wenn man sich an den HTTP-Standard gem. REST hält.
+
+Sprich, Datenschutz und Technik gehen hier Hand in Hand und geben einem ein sehr einfaches und klares Mittel vor, wie man es implementieren darf.  Eine Abweichung von dem, was ich geschrieben habe, erscheint mir schwer möglich.  Eine Vereinfachung ist zwar möglich, indem man dem REST-Standard eine Absage erteilt, aber das Datenschutzgesetz schreibt nicht vor, dass man andere Regeln brechen muss, wenn man ihn einhalten will.  (Diese Regeln müssen allerdings unabhängig für alle gelten, nicht nur für einen selbst.)
+
+Mag sein, dass jemand eine Möglichkeit findet, es einfacher auf der Basis von HTTP zu gestalten.  Dann wäre ich daran unbedingt interessiert.
 
 ## Links
 
