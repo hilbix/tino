@@ -98,8 +98,8 @@ Die Rücknahme hat dann - zwingend - per doppeltem Opt-In zu geschiehen, d. h. m
 
 Nochmals zur Klarheit:
 
-- Es ist zwar nicht zwingend, dass man bei Double-Opt-In dieses schon als vollbracht ansieht, wenn jemand auf den Link in der Mail geklickt hat.
-- Aber es ist unverständlich, wenn der Abmeldevorgang komplizierter ist, als der Anmeldevorgang!
+- Es ist zwar nicht zwingend verboten, dass man bei Double-Opt-In dieses schon als vollbracht ansieht, wenn jemand auf den Link in der Mail geklickt hat,
+- aber es vollkommen unverständlich, wenn der Abmeldevorgang aus der Sicht des Users komplizierter ist, als der Anmeldevorgang!
 - Deshalb tut man gut daran, den Anmeldevorgang nach dem Abmeldevorgang zu konstruieren, d. h. ausgehend von der Mail ist beides ähnlich.
 - Wenn man das nicht tut, kann man argumentieren, dass der User annehmen können muss, dass seine Erklärung der Abmeldung bereits angekommen ist, wenn er auf den Abmeldelink klickt, und nicht erst wenn er auf den zusätzlichen Bestätigungsbutton klickt.
 - Und diese Annahme sehe ich als vollkommen logisch und zwingend an.
