@@ -20,13 +20,6 @@ This is Debian/Ubuntu centric.  Adapt yourself.  Once and for all final warnings
 > - **Warning!**  This guide is short, so it assumes, you can follow the yellow brick road, together with `strace` and `man`.
 > - **Warning!**  This guide is for the experienced sysop, so it assumes that you understand how to be careful.
 
-## Rants
-
-`apparmor` is very badlty designed.  There are tons of commands, and the documentation is only a skeleton, barely explained and often misleading, outdated or plain wrong.
-
-All commands do not really do what you would expect and leave you completely alone in the dark if they fail, so thanks for the fish, but you have been eaten by a Grue.
-
-
 ## Get started
 
     sudo apt-get install apparmor-notify apparmor-utils
@@ -95,9 +88,16 @@ Other unknowns:
   - `aa-logprof` does not do the job, as it does not allow to do it properly.
   - How to do this locally, such that dist-rules are not altered?
 
+## Rants
+
+`apparmor` is very badly designed.  There are tons of commands, and the documentation is only a skeleton, barely explained and often misleading, outdated or plain wrong.
+
+All commands do not really do what you would expect and leave you completely alone in the dark if they fail, so thanks for all the fish, but you have been eaten by a Grue, already.
+
 ## Shit in shit out
 
     sudo aa-logprof 
+
 >     Reading log entries from /var/log/syslog.
 >     Updating AppArmor profiles in /etc/apparmor.d.
 >     Enforce-mode changes:
