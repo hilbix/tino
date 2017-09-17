@@ -97,8 +97,6 @@ Other unknowns:
 
 ## Shit in shit out
 
-Example:
-
     $ sudo aa-logprof 
     Reading log entries from /var/log/syslog.
     Updating AppArmor profiles in /etc/apparmor.d.
@@ -113,7 +111,73 @@ Example:
      [2 - /proc/*/net/arp]
     (A)llow / [(D)eny] / (I)gnore / (G)lob / Glob with (E)xtension / (N)ew / Abo(r)t / (F)inish / (M)ore
 
-No way to [do the right thing](https://lists.ubuntu.com/archives/apparmor/2016-November/010254.html):
+Not documented how to [do the right thing](https://lists.ubuntu.com/archives/apparmor/2016-November/010254.html):
 
     @{PROC}/@{pid}/net/arp r,
 
+Undocumented solution:
+
+Press `n`
+
+    Enter new path: @{PROC}/@{pid}/net/arp
+    
+    The specified path does not match this log entry:
+    
+      Log Entry: /proc/5585/net/arp
+      Entered Path:  @{PROC}/@{pid}/net/arp
+    Do you really want to use this path?
+    
+    (Y)es / [(N)o]
+
+Press `y` (WTF?!?)
+
+    Profile:  /usr/lib/firefox/firefox{,*[^s][^h]}
+    Path:     /proc/5585/net/arp
+    Mode:     r
+    Severity: 6
+    
+      1 - /proc/5585/net/arp 
+      2 - /proc/*/net/arp 
+     [3 - @{PROC}/@{pid}/net/arp]
+    (A)llow / [(D)eny] / (I)gnore / (G)lob / Glob with (E)xtension / (N)ew / Abo(r)t / (F)inish / (M)ore
+
+Press `a`
+
+    Adding @{PROC}/@{pid}/net/arp r to profile
+
+Press `f`
+
+    = Changed Local Profiles =
+    
+    The following local profiles were changed. Would you like to save them?
+    
+     [1 - /usr/lib/firefox/firefox{,*[^s][^h]}]
+    (S)ave Changes / Save Selec(t)ed Profile / [(V)iew Changes] / View Changes b/w (C)lean profiles / Abo(r)t
+
+Press `v`
+
+> WTF!?!?!
+
+Press `c` - I have no clue what this wants to tell me, as this is completely undocumented:
+
+    --- /tmp/tmprx7l18a4    2017-09-17 10:28:40.064954791 +0200
+    +++ /tmp/tmp16n9owxc    2017-09-17 10:28:40.064954791 +0200
+    @@ -129,6 +129,7 @@
+       owner @{HOME}/Public/* r,
+       @{MOZ_LIBDIR}/** rix,
+       @{PROC}/ r,
+    +  @{PROC}/@{pid}/net/arp r,
+       owner @{PROC}/[0-9]*/auxv r,
+       @{PROC}/[0-9]*/cmdline r,
+       owner @{PROC}/[0-9]*/environ r,
+
+Press `s`
+
+    Writing updated profile for /usr/lib/firefox/firefox{,*[^s][^h]}.
+
+Whatever this wants to tell me, again.  `etckeeper` to the rescue:
+
+    cd /etc; sudo git diff --numstat
+    117     176     apparmor.d/usr.bin.firefox
+
+Am I the only one who has a major problem with this?
