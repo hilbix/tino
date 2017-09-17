@@ -51,7 +51,9 @@ because what is presented there cannot be enabled.
 
 ## Fix things
 
-    sudo 
+    sudo aa-logprof
+
+> No clue, how to use this, as documentation is outdated, so it does not fit to what you see.
 
 ## WTFs
 
@@ -89,5 +91,29 @@ Note that this shall be very easy to use 1-liners:
 
 Other unknowns:
 
-- How to fix rules properly?  (`aa-logprof` does not allow to do it properly)
+- How to fix rules properly?
+  - `aa-logprof` does not do the job, as it does not allow to do it properly.
   - How to do this locally, such that dist-rules are not altered?
+
+## Shit in shit out
+
+Example:
+
+    $ sudo aa-logprof 
+    Reading log entries from /var/log/syslog.
+    Updating AppArmor profiles in /etc/apparmor.d.
+    Enforce-mode changes:
+    
+    Profile:  /usr/lib/firefox/firefox{,*[^s][^h]}
+    Path:     /proc/5585/net/arp
+    Mode:     r
+    Severity: 6
+    
+      1 - /proc/5585/net/arp 
+     [2 - /proc/*/net/arp]
+    (A)llow / [(D)eny] / (I)gnore / (G)lob / Glob with (E)xtension / (N)ew / Abo(r)t / (F)inish / (M)ore
+
+No way to [do the right thing](https://lists.ubuntu.com/archives/apparmor/2016-November/010254.html):
+
+    @{PROC}/@{pid}/net/arp r,
+
