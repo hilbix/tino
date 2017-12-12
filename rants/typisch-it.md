@@ -4,6 +4,73 @@
 
 Aus gegebenem Anlass und über 30 Jahren Erfahrung als ITler:  Hier die Aussagen der IT und deren Übersetzung in die Realität.
 
+## Footer
+
+> Bitte denken Sie an die Umwelt, bevor Sie diese E-Mail ausdrucken.  Pro Blatt sparen Sie durchschnittlich 15g Holz, 260ml Wasser, 0,05kWh Strom und 5g Kohlendioxid.
+
+KAWUMM!  Jedes Mal wenn ich solch einen Schwachsinn lesen muss, fühle ich mich so, als wäre gerade die Tischplatte mit voller Wucht gegen meine Stirn gedonnert.
+
+Warum?
+
+Also: 15g Holz.  Ein Din-A4-Blatt wiegt etwa 15g.  Bekanntlich werden die meisten Blätter aber nicht aus neuem Holz, sondern aus recycling-Material hergestellt, was bedeutet, in jedem Blatt steckt maximal 1g Holz.  Aber das ist kein "gutes Holz".  Gutes Holz wird verfeuert.  In all den stinkenden und die Umwelt mit Feinstaub verpestenden Sonderfeuerstellen, die die Leute ach so lieben.
+
+Selbst wenn größere Firmen alle Mails ausdrucken sollten, geht der Holzbedarf deshalb nicht einmal so stark zurück, dass sich das lohnen würde.  Tatsächlich ist Holz in diesem Zusammenhang vollkommen unwichtiges Beiwerk.  Wenn etwas dem Wald schadet, dann ist das nicht der Holzeinschlag zur Papierherstellung, sondern die Rodung um so äußerst dumme Dinge wie E10 herzustellen, wodurch Menschen aus Nahrungsmangel krepieren.  Durch Holzeinschlag ist noch niemand krepiert - außer der Baum ist auf ihn draufgefallen.
+
+260ml Wasser.  Hä?  Das habe ich noch nie verstanden.  Wassersparen.  Was soll das sein?  Also, ich "verbrauche" 1l Rohöl.  Dann ist das Rohöl weg.  Und wenn ich 1l Wasser verbrauche?  Dann ist hinterher mindestens 1l Wasser da, evtl. sogar mehr, da ich es "verdünnt" habe.  Merke:  Wasser wird durch "Verbrauchen" in der Regel mehr!
+
+Ich kann Wasser also eigentlich nur verbrauchen, wenn ich es zerlege, also Knallgas herstelle etc.  Aber dadurch ist es weiterhin da.  Das einzige, was passieren kann ist, dass ich Wasser verliere.  Dazu muss ich aber die Sonne bemühen und den Abwind des Planeten Erde.  Darauf haben wir Menschen bisher wenig Einfluss, ergo:
+
+Wasser kann man nicht verbrauchen.  Da man es nicht verbrauchen kann, kann man es auch nicht sparen!  Was man sparen kann ist Trinkwasser.  Aber kein Mensch verwendet Trinkwasser zur Papierherstellung.  In dem Prozess wird zwar Wasser eingebracht, und es entstehen "Abwässer", aber technisch gesehen wird kein Tropfen Wasser verbraucht, also kann dieser auch nicht gespart werden.
+
+0,05 kWh Strom.  Really?  Also für eine 500-Blatt-Paket braucht es 25 kWh Strom, zur Herstellung, Drucken usw.?  WTF?  Was sind das für Drucker die man da verwendet?  Oder werden Papiere in glühenden LKW oder glühenden Fabriken produziert?
+
+Leute, ich denke, da ist das Komma verrutscht oder jemand war extrem schlecht in Mathematik!  Es dürften eher 0,05Wh Strom sein, etwas im Bereich um 1Ws.
+
+Und dann 5g Kohlendioxid.  Oh, wie schlimm.  Mal überlegen.  Der Mensch produziert mindestens 1kg(!) CO2 pro Tag.  Pro Tag wohlgemerkt.  Dampfplauderer und dumme Menschen mehr (Intelligenz definiert sich anhand des Energieeinsatzes den es braucht, um ein Problem zu lösen.  Intelligente Menschen sind effizienter, verbrauchen als weniger Energie um dasselbe zu leisten).  Bei Spitzensportlern steigert das sich auf 5kg pro Tag und mehr!
+
+Also **haltet bei diesem CO2-Scheiß gefälligst die Luft an**.  Spitzensport ist CO2-Mord, weil es den CO2-Ausstoß mehr als verdoppelt!  Wenn ich hingegen 100 Seiten am Tag drucke, bin ich immer noch ein weit weniger schlimmer Klimakiller als jeder Fußballer usw.
+
+Außerdem denke ich, dass da jemand mal wieder falsch gerechnet hat.  Er hat den gesamten Carbon-Footprint des Papiers zugrundegelegt.  Also alles CO2, das entsteht, wenn das Papier hergestellt, gedruckt und hinterher verbrannt wird.  Inklusive des CO2-Äquivalents des notewendigen Energieverbrauchs.  Was aber vergessen wurde:  Das Papier ist gewachsen.  Es gibt beim Verbrennen also genausoviel CO2 ab (naja, mit Toner etwas mehr), wie es beim Wachsen verbraucht hat.
+
+### Fazit:
+
+Verblödung auf jeder Stufe.  Das Problem bei der Papierherstellung ist weder das Holz, noch das Wasser, noch der Strom, noch Kohlenstoffdioxid, sondern die toxikologischen Komponenten der Papierherstellung.  Also die Verseuchung der Arbeiter und Umwelt mit Chemikalien, die es ohne die Papierherstellung nicht gäbe.
+
+Darauf, worauf aber immer abgezielt wird, ist vollkommen irrelevant in dem Zusammenhant.
+
+- Holz ist ein nachwachsender Rohstoff, davon gibt es also so viel wie wir wollen, wir müssen es nur richtig machen.  Und schädlich ist die Herstellung von Holz ganz sicher nicht!
+- H2O ist auf der Erde alles andere als rar.  Wir haben so viel Wasser, wie wir nur wollen.  Wir müssen damit nur passend umgehen, in den Meeren gibt es genug davon.
+- CO2 ist ebenfalls alles andere als ein Problem.  Wäre CO2 ein Klimakiller (so wie Methan), hätten wir ganz andere Probleme.  Kohlenstoffdioxid aus der Luft zu holen ist so einfach wie einen Baum zu pflanzen.  Und das ist dann auch sehr gut sehr lange lagerfähig. Statt auf Plastik einfach auf Holz als Verpackungsmaterial wechseln, und alles ist gut.
+- Bleibt nur noch die Energie.  Ja und die können wir aus der Sonne holen.  Alles absolut 0 Problem, Photovoltaik reicht voll aus.
+
+Sprich, KEINE der Angaben ist ein Problem, JEDE ist gemeistert und eine echte Lösung leicht verständlich vorhanden.
+
+Das Problem liegt an ganz anderer Stelle.  Drucker werden produziert, die Papierfabrik verpestet die Umwelt usw.  Statt also solch einen dümmlichen Satz in die Welt zu blasen, wäre es besser, man schreibe etwas wie:
+
+**Bitte denken Sie an die Umwelt, bevor Sie diese E-Mail ausdrucken.  Verwenden Sie ausschließlich nachhaltig umweltverträglich hergestelltes Papier von einem verantwortungsbewussten Unternehmen, das nicht nur die Umweltstandards einhält, sondern die Produktion des Papiers so gestaltet hat, dass dadurch die Umwelt verbessert wird.
+Die Liste all solcher Hersteller finden Sie hier:
+>> <<  (Ja, leider ist die Liste leer.  Was Sie machen können ist, auf Papier mit dem Blauen Engel zu achten.  Das verbessert bei der Herstellung zwar nicht die Umwelt, aber wird meistens weniger übel hergestellt, als anderes Papier.)**
+
+Übrigens bin ich absolut gegen sparen.  Das genaue Gegenteil ist richtig!  Nein, ich propagiere nicht die Verschendung, sondern das absolute nicht-sparen.  Es ist vollkommen richtig, sparsame Autos zu fahren.  Aber falsch ist dann, Sprit zu sparen indem man langsam fährt.  Nur wenn wir mit sparsamen Autos maximal schnell fahren wird die Autoindustrie gezwungen, noch sparsamere Autos auf den Markt zu bringen, weil sonst der reale Flottenverbrauch zu hoch wird.
+
+Genauso ist es beim Wasser.  Das Wassersparen hat dazu geführt, dass die Abwasserkanäle inzwischen mit Trinkwasser gespült werden müssen, weil zu wenig Transportwasser vorhanden ist, um die Abfälle wegzutransportieren und zu verhindern, dass diese sich aufstauen und die Rohre verstopfen.
+
+Und ebenso ist es beim Papier.  Nur wenn wir genug Papier verbrauchen lohnen sich Fabriken, die so konstruiert sind, dass sie die Umwelt verbessern.  Sprich mit jedem hergestellten Blatt Papier die Umwelt weiter entlasten!  Wenn aber der Papierverbrauch sinkt, dann gibt es keine Investitionsnotwendigkeit, d. h. die alten, umweltverpestenden Maschinen werden weiter und weiter verwendet.
+
+**Deshalb ist das unsinnigste, was man machen kann, Papier per Default zweiseitig zu bedrucken.**  Regelmäßig vergesse ich, diese Option abzudrehen, und regelmäßig muss ich nochmals neu ausdrucken oder kann mit dem Mist nicht ordentlich arbeiten.  Wie kann ich bitte 3 Blatt nebeneinander auf den Schreibtisch legen, um mit ihnen zu arbeiten, wenn davon ein Blatt doppelseitig ist?#
+
+Doppelseitiger Druck am Arbeitsplatz per Default zeigt keine gute umweltverträgliche Einstellung, sondern lediglich, wie hohl die Birne desjenigen ist, der das zu verantworten hat.  Natürlich sinkt der Papierverbrauch (weil die Leute aufhören zu drucken, das ist zu kompliziert), aber gleichzeitig sinkt die Produktivität, etwas, das den Mehrverbrauch an Papier mehr als wett gemacht hätte!
+
+Und nur Mehrverbrauch - siehe oben - fördert die Innovation!  Also, seien Sie innovativ, und verbannen Sie solch dümmliche Mail-Footer bitte dahin, wohin sie gehören:  In den Abfall!
+
+Denn milliardenfach verschickt bedeutet das einen wesentlich höhreren Resourcenverbrauch beim Speichern der Mail, beim Verarbeiten der Mail und beim Übertragen der Mail.  Das dürfte millionenfach schwerer wiegen, als die mögliche Papierersparnis, die dadurch jemals erreicht werden kann.  **Sprich, solche Mail-Footer verpesten die Umwelt!**
+
+SPAM-Filter sollten Mails mit solchen Footern dahin verbannen, wohin sie gehören:  In den Giftschrank!
+
+(Ich überlege ernsthaft, ob ich meinem MTA beibringen soll, Mails mit solch dümmlichen Mailfootern abzulehnen, in etwa so:
+**Die Mail wurde automatisch abgelehnt.  Grund:  Kritische Überschreitung der Dummheitsgrenze im Footer.  Bitte schicken Sie nur vernünftige Mails mit einem vernünftigen Mailfooter.  Vielen Dank!**)
+
+
 ## Wartung
 
 Das System muss zur Wartung heruntergefahren werden und steht ab 16:00 Uhr wieder zur Verfügung.
