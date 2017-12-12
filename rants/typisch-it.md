@@ -4,7 +4,7 @@
 
 Aus gegebenem Anlass und über 30 Jahren Erfahrung als ITler:  Hier die Aussagen der IT und deren Übersetzung in die Realität.
 
-## Footer
+## Kritische Überschreitung der Dummheitsgrenze im Mailfooter
 
 > Bitte denken Sie an die Umwelt, bevor Sie diese E-Mail ausdrucken.  Pro Blatt sparen Sie durchschnittlich 15g Holz, 260ml Wasser, 0,05kWh Strom und 5g Kohlendioxid.
 
@@ -14,7 +14,7 @@ Warum?
 
 Also: 15g Holz.  Ein Din-A4-Blatt wiegt etwa 15g.  Bekanntlich werden die meisten Blätter aber nicht aus neuem Holz, sondern aus recycling-Material hergestellt, was bedeutet, in jedem Blatt steckt maximal 1g Holz.  Aber das ist kein "gutes Holz".  Gutes Holz wird verfeuert.  In all den stinkenden und die Umwelt mit Feinstaub verpestenden Sonderfeuerstellen, die die Leute ach so lieben.
 
-Selbst wenn größere Firmen alle Mails ausdrucken sollten, geht der Holzbedarf deshalb nicht einmal so stark zurück, dass sich das lohnen würde.  Tatsächlich ist Holz in diesem Zusammenhang vollkommen unwichtiges Beiwerk.  Wenn etwas dem Wald schadet, dann ist das nicht der Holzeinschlag zur Papierherstellung, sondern die Rodung um so äußerst dumme Dinge wie E10 herzustellen, wodurch Menschen aus Nahrungsmangel krepieren.  Durch Holzeinschlag ist noch niemand krepiert - außer der Baum ist auf ihn draufgefallen.
+Selbst wenn wir weltweit keinerlei Mails mehr ausdrucken, geht der Holzbedarf deshalb nicht einmal so stark zurück, dass sich das lohnen würde.  Tatsächlich ist Holz in diesem Zusammenhang vollkommen unwichtiges Beiwerk.  Wenn etwas dem Wald schadet, dann ist das nicht der Holzeinschlag zur Papierherstellung, sondern die Rodung um so äußerst dumme Dinge wie E10 herzustellen, wodurch Menschen aus Nahrungsmangel krepieren.  Durch Holzeinschlag ist noch niemand krepiert - außer der Baum ist auf ihn draufgefallen.
 
 260ml Wasser.  Hä?  Das habe ich noch nie verstanden.  Wassersparen.  Was soll das sein?  Also, ich "verbrauche" 1l Rohöl.  Dann ist das Rohöl weg.  Und wenn ich 1l Wasser verbrauche?  Dann ist hinterher mindestens 1l Wasser da, evtl. sogar mehr, da ich es "verdünnt" habe.  Merke:  Wasser wird durch "Verbrauchen" in der Regel mehr!
 
