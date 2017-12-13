@@ -4,6 +4,37 @@
 
 Aus gegebenem Anlass und über 30 Jahren Erfahrung als ITler:  Hier die Aussagen der IT und deren Übersetzung in die Realität.
 
+## Sparzwang
+
+> OK, folgendes hat keinen realen Hintergrund, außer, dass ich gerade auf Toilette war
+
+Liebe Kollegen,
+
+wie bereits mitgeteilt, unterliegen wir nächstes Jahr weiteren Sparzwängen.
+
+Aus diesem Grund wurde beschlossen, die bereits bei der letzten Sparrunde beschlossene Reduktion der Redundanz von N+1 auf N+0 noch weiter fortzuführen.  Für die Zukunft gilt also die strikte Redundanzbedingung N-1.
+
+Da dies aber leider nicht ausgereicht hat, wurde für N die übliche (nichterdundante) Sekundärabstützung abgeschafft.  Sprich, wo früher N=2 galt gilt jetzt N=1.
+
+Das hat folgende Auswirkungen:
+
+- Früher haben wir an Racks eine Doppelte Stromversorgung angebracht, gestützt von 3 USV-Anlagen.
+- Durch N+0 wurde dies auf 2 USV-Anlagen reduziert.
+- Durch das reduzierte N haben wir in Zukunft nur noch 1 USV-Anlage und an jedes Rack wird auch nur noch eine Stromversorgung gelegt.
+- Aufgrund N-1 teilen sich je zwei Räume nun die USV-Anlagen.
+- Standorte, an denen es nur einen Raum mit einer USV-Anlage gibt, dürfen die USV ohne Wartung weiterbetreiben.
+
+Außerdem gibt es noch weitere Auswirkungen:
+
+- Server werden nur noch mit einem Netzteil geordert.
+- Doppellagiges Klopapier (N=2) wird auf einlagiges (N=1) heruntergestuft.
+- Aufgrund der Redundanzbedinung N-1 darf in Zukunft nur 0-Lagiges Klopapier angeschafft werden.
+
+Heben Sie die leeren Papprollen der Restbeständen des Klopapiers bitte auf, denn diese fungieren dann als Träger für das 0-lagige Klopapier.
+
+Vielen Dank und ein schönes neues Jahr 2018!
+
+
 ## Kritische Überschreitung der Dummheitsgrenze im Mailfooter
 
 > Bitte denken Sie an die Umwelt, bevor Sie diese E-Mail ausdrucken.  Pro Blatt sparen Sie durchschnittlich 15g Holz, 260ml Wasser, 0,05kWh Strom und 5g Kohlendioxid.
