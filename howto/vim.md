@@ -4,7 +4,9 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 
 ## errorformat
 
-> In Quick:  To your `~/.vimrc` add following two lines:
+> In Quick: [see script python3vim.sh](python3vim.sh)
+> 
+> To your `~/.vimrc` add following two lines:
 >	
 >     nnoremap M :silent make\|redraw!\|cc<CR>
 >     set efm+=#%t#%f#%l#%c#%m#
