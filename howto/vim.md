@@ -7,15 +7,17 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 > In Quick:  To your `~/.vimrc` add following two lines:
 >	
 >     nnoremap M :silent make\|redraw!\|cc<CR>
->     set efm+=:%t:%f:%l:%c:%m:
+>     set efm+=#%t#%f#%l#%c#%m#
 >
 > Then have your programs output something like:
 >
->     :E:filename:line:column:message:
+>     #E#filename#line#column#message#
 >
 > to quickly jump to the reported error.
 >
 > How did I find out?  I didn't.  Just created it the hard way.
+>
+> Why `#`?  Because `:` would match other messages quite too easliy, and I did not find out how to work around this.
 
 Errorformat comes very handy if you work with `vim`.  Vor example if you have following in your `.vimrc`
 
