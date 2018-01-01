@@ -46,10 +46,10 @@ print "#E#" file "#" err "#" length(d[2]) "#" $0 "#"
 }
 
 /^[^[:space:]]/				{ ok(); armed=0; }
-/^Traceback \(most recent call last\):/	{ armed=1; next }
+/^Traceback \(most recent call last\):/	{ next }
 
-armed && /^  File/	{ err=$0; delete have; armed=1; next }
-armed			{ d[armed++]=$0; next }
+/^  File/	{ err=$0; delete have; armed=1; next }
+armed		{ d[armed++]=$0; next }
 
 END			{ ok() }
 '
