@@ -11,17 +11,20 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 >     nnoremap M :silent make\|redraw!\|cc<CR>
 >     set efm+=#%t#%f#%l#%c#%m#
 >
-> Then have your programs output something like:
+> Then create a `Makefile` which runs/tests your code
+> and outputs something like:
 >
 >     #E#filename#line#column#message#
 >
-> to quickly jump to the reported error.
+> If you press `M` in `vim` (in normal mode) this quickly jumps to the first reported error.
 >
-> How did I find out?  I didn't.  Just created it the hard way.
+> Example `Makefile` using [python3vim.sh](python3vim.sh) to `make love`:
 >
-> Why `#`?  Because `:` would match other messages quite too easliy, and I did not find out how to work around this.
+>     .PHONY:	love
+>     love:
+>     	python3vim.sh ./script.py
 
-Errorformat comes very handy if you work with `vim`.  Vor example if you have following in your `.vimrc`
+Errorformat comes very handy if you work with `vim`.  For example if you have following in your `.vimrc`
 
 	nnoremap M :silent make\|redraw!\|cc<CR>
 
@@ -165,9 +168,19 @@ Now to the major formats:
 
 Conclusion:
 
-I do not know why my errorline looks at it looks like.  I think it may change for some reason or another by some magic happening in the background.
+I do not know why `errorformat` looks like that.  And I think it may change for some reason or another by some magic happening in the background.  Hence I cannot relie on it.
 
-So what I do is just transform the output to something, VIM understands.
+My goal was to just transform the output to something, VIM understands reliably.  But I failed.
+Sadly there seems to be no really generic guaranteed line format in there, so I had to introduce some myself.
 
-Sadly there is nothing really generic line in the format, so I had to introduce some myself.
 
+## FAQ
+
+How did you find out?
+
+- I didn't.  This was created the hard way with just trial and error after giving up.
+
+Why `#` as a separator?
+
+- Because `:` would match other messages quite too easliy, and I did not find out how to work around this.
+- Also `#` protects the output against accidental pasting in a shell
