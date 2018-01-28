@@ -555,3 +555,5 @@ Für wen das ein Problem ist, der hat mehrere Möglichkeiten:
 
 > Das soll's für heute sein.
 > Ich gehe davon aus, ich könnte noch Terabyteweise mehr dazu schreiben, habe nur nicht die Zeit.
+
+Ömpft, sorry für Tippfehler und Formatierungswahnsinn.  Habe gerade keinen Bock, das zu korrigieren.
