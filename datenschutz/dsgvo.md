@@ -70,7 +70,7 @@ Besser:
     Wird zum Zwecke der Weitergabe der Daten eine Firma gründet, die sofort nach der Weitergabe den Firmenzweck erfüllt hat,
     so dass sie wieder geschlossen wird, wird diese Form der Datenschutzauskunft effektiv unmöglich.
     Danach sind die Daten quasi vogelfrei, da eine Überwachung nach DSGVO effektiv unmöglich wird.
-    Hier hat das Gesetz eindeutig eine fehlt eindeutig im Gesetz eine
+    Siehe "Lücken" weiter unten.
 
 - Der Widerruf einer freiwilligen Erlaubnis zur Datenverarbeitung muss mindestens so einfach sein, wie es die Erteilung war.
 
