@@ -1,6 +1,6 @@
 # Firefox Tricks
 
-## Remove close button on TAB
+## Remove close button on all TABs
 
 FF56++ (until Mozilla decides to change it .. again .. and again .. as usual):
 ```
@@ -31,3 +31,10 @@ than to keep this default major design fault in place.
 
 Now there is still missing:  How to bring back a global close button for TABs, which lives on a fixed interface position.
 (Like keeping a Chainsaw somewhere in a hut in the forest, just in case you want to cut a tree.)
+
+BTW: There once was a time, where extensions existed, which brought back the feature which was removed by Mozilla a long time ago.  However this was for the great ancient times, where extensions of such kind still were allowed.  These times now have
+passed, since FF 56, winter has come and the ecosystem has died.  You decide if this is good or bad.
+But one thing cannot be denied:  The world lost some freedom.  Freedom to do good.  And freedom to do evil.
+
+If you think, this is good, then think again.  As Entropy cannot get lower, it is impossible to make the world more easy.
+All you can do is to increase the disturbance.  As Mozilla did.
