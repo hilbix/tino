@@ -37,4 +37,5 @@ passed, since FF 56, winter has come and the ecosystem has died.  You decide if 
 But one thing cannot be denied:  The world lost some freedom.  Freedom to do good.  And freedom to do evil.
 
 If you think, this is good, then think again.  As Entropy cannot get lower, it is impossible to make the world more easy.
-All you can do is to increase the disturbance.  As Mozilla did.
+All you can do is to increase the disturbance.
+As Mozilla did.  They cannot deny this fact.  And they cannot deny, that they are the only one who is responsible for this.
