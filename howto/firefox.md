@@ -38,4 +38,4 @@ But one thing cannot be denied:  The world lost some freedom.  Freedom to do goo
 
 If you think, this is good, then think again.  As Entropy cannot get lower, it is impossible to make the world more easy.
 All you can do is to increase the disturbance.
-As Mozilla did.  They cannot deny this fact.  And they cannot deny, that they are the only one who is responsible for this.
+As Mozilla did.  They cannot deny this fact.  And they cannot deny, that they are the only one, who is responsible for this.
