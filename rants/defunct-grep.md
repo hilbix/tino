@@ -13,12 +13,25 @@ grep -i hello test
 KABOOOM.
 
 What I would expect is that it prints "Hello World" within a millisecond.
-Even on a 32 Bit system.
+Even on a 32 Bit system.  On a 32 Bit system you can proof it as follows:
 
-Sigh.
+```
+truncate -s 1T test    # if this fails, get something that works.
+echo $'\nHello World' >> test
+grep -i hello test
+```
+gives
+```
+Memory exhausted
+```
 
-Apparently it is time to
-Time to create something, which really works again.
+Sigh.  Conclusion:  **You can no more rely on `grep` doing the job!**
+
+Apparently it is time to create something, which really works.  As usual.
+
+(Note that `/bin/cp` is no more up to it's job either.  If you try to copy some file which fails on the 0th byte,
+this might be taken as EOF, and `cp` returns success instead of failing.  I once stumbled upon this.)
+
 
 ## Background
 
