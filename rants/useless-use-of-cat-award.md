@@ -154,7 +154,7 @@ WTF?  Why would you do that?
 
 Consider:
 
-    cat() { let debug++; echo "catting *" >debug$debug.out; cat "$@" | tee -a debug$debug.out; }
+    cat() { touch debug.txt; ( flock 6; read debug < debug.txt; let debug++; echo "$debug" > debug.txt; echo "catting *" >debug$debug.out; cat "$@" | tee -a debug$debug.out; ) 6<debug.txt; }
 
 Understood why even using `cat` in this most useless way can be a very good idea?
 
