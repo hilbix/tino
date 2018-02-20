@@ -13,11 +13,11 @@ Here is why!
 
 Just look at it:
 
-    cat /some/protected/file | tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }'
+    cat /some/protected/file | tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }';
 
 vs.
 
-    </some/protected/file tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }'
+    </some/protected/file tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }';
 
 Do you spot the difference?
 
@@ -31,7 +31,7 @@ Do you spot the difference?
 
 Just look at this:
 
-    sudo cat /some/protected/file | tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }'
+    sudo cat /some/protected/file | tr 'A-Z' 'a-z' | awk '$1=="wanted" { print $2 }';
 
 This now makes a lot of a difference, right?
 
@@ -42,14 +42,14 @@ This now makes a lot of a difference, right?
     while IFS=", " read -r col1 col2 col3;
     do
       some processing;
-    done
+    done;
 
 vs.
 
     while IFS=", " read -r col1 col2 col3;
     do
       some processing;
-    done </some/protected/file
+    done </some/protected/file;
 
 Do you spot the difference?
 
@@ -64,7 +64,7 @@ Also you must be very careful, not to redirect `stdin` of `some processing` to t
     while IFS=", " read -ru6 col1 col2 col3;
     do
       some processing 6<&-;
-    done 6</some/protected/file
+    done 6</some/protected/file;
 
 This code is much better.
 
@@ -81,26 +81,26 @@ WTF?  Why would anybody want to do that?
 
 Well, let's change that a bit to look why this perhaps is better than the other way round:
 
-    rm -f testfile.tmp
+    rm -f testfile.tmp;
     while reader <&6
     do
       writer 6<&-;
     done 6<testfile.tmp;
-    echo $?
+    echo $?;
 
 and
 
-    rm -f testfile.tmp
+    rm -f testfile.tmp;
     while reader <&6
     do
       writer 6<&-;
     done 6< <(cat testfile.tmp);
-    echo $?
+    echo $?;
 
 with
 
-    reader() { echo R; read -r a b c; }
-    writer() { echo W; }
+    reader() { echo R; read -r a b c; };
+    writer() { echo W; };
 
 Now, let us run this code:
 
@@ -154,7 +154,23 @@ WTF?  Why would you do that?
 
 Consider:
 
-    cat() { touch debug.txt; ( flock 6; read debug < debug.txt; let debug++; echo "$debug" > debug.txt; echo "catting *" >debug$debug.out; cat "$@" | tee -a debug$debug.out; ) 6<debug.txt; }
+    cat()
+    {
+      touch debug.txt;
+      (
+        flock 6;
+        ead debug < debug.txt;
+        let debug++;
+        echo "$debug" > debug.txt;
+        echo "catting *" >debug$debug.out;
+        cat "$@" | tee -a debug$debug.out;
+      ) 6<debug.txt;
+    };
 
 Understood why even using `cat` in this most useless way can be a very good idea?
 
+BTW, why do I add the `;` in these examples?  Because this aids Copy'n'Paste.
+If you happen to not copy the line endings correctly, it still works.
+Adding `;` does not hurt, but it can help.  So why not add it?
+
+Likewise with `cat`:  It seldom hurts, but often helps.
