@@ -143,4 +143,4 @@ You can see that as a shell-bug or whatever.  But if you use `cat` there is not 
 
 All I can say is:
 
-**Use `cat` as often as you can, it always is your firend!**
+**Use `cat` as often as you can, it is very friendly to do so!**
