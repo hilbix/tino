@@ -144,3 +144,17 @@ You can see that as a shell-bug or whatever.  But if you use `cat` there is not 
 All I can say is:
 
 **Be friendly to others and use `cat` as often as you can!**
+
+
+## A final note
+
+    producer | cat | consumer
+
+WTF?  Why would you do that?
+
+Consider:
+
+    cat() { let debug++; echo "catting *" >debug$debug.out; cat "$@" | tee -a debug$debug.out; }
+
+Understood why even using `cat` in this most useless way can be a very good idea?
+
