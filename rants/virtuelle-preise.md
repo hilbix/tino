@@ -38,6 +38,12 @@ Sorry, aber das nenne ich schon krminiell!
 
 Das sind Dinge im Spiel, die man einzeln kaufen kann.  Also z. B. Kleidung für den Charakter, oder andere Dinge die man im Spiel gebrauchen oder verbrauchen kann.
 
+Ein Bundling ist zwar möglich, das erhöht aber die Bitzahl nur mäßig.
+Da man ja nicht den Inhalt des Bundles kauft, sondern das Bundle, trägt jedes Item maximal 1 Bit bei.
+
+Man hat also die N Items, was N Bits entspricht, plus die Referenz auf das Bundle, was wiederum 32 Bit entspricht.
+Gedeckelt ist das ebenso auf 128 Bits, alles darüber ist ganz sicher nur künstlich aufgeblasen.
+
 
 ## Wie berechnen sich die Bits?
 
