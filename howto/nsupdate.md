@@ -42,7 +42,7 @@ Notes about Cloudflare:
   - I have a free Cloudflare account for evaluation purpose, but no Domain there yet.
   - Cloudflare is paid per-domain.  (However if comparing with Dyn, for a secure setup, for security purpose, you need separate accounts there, too.)
   - I do not consider Cloudflare to be cheap.  (But compared to them Dyn is extraordinary expensive.)
-  - IMHO Cloudflare offers some reasonable pricing in case you do not want to do it all of your own or do not have the expertise to, say, run a fleet of 500 different VPS boxes all around the world.
+  - IMHO Cloudflare offers some reasonable pricing in case you do not want to do it all of your own or do not have the expertise to, say, run a fleet of 500 different VPS boxes all around the world (or have some special DDoS-needs, of course).
   - If I ever need DDoS protection, I definitively will consider Cloudflare (however I will never even consider Dyn).
 
 
