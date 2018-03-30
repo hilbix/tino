@@ -4,66 +4,20 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 
 ## `.vimrc`
 
-Here is my current `.vimrc`
+Here is [my somewhat current `.vimrc`](.vimrc)
 
-```
-set modeline
-set cul
-hi CursorLine term=none cterm=none ctermbg=0
+Install it like this:
 
-set showcmd             " Show (partial) command in status line.
-set showmatch           " Show matching brackets.
-set ignorecase          " Do case insensitive matching
-set smartcase           " Do smart case matching
-set incsearch           " Incremental search
-set autowrite           " Automatically save before commands like :next and :make
+	git clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
+	ln --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 
-set background=dark
-
-if has("autocmd")
-  au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
-endif
-
-hi MySHOW ctermbg=black
-match MySHOW /\(\t\)\|\(\s\s*$\)/
-
-set ts=8 sw=8 noet ai ru fo=cqrt ls=2 shm=at
-
-nnoremap M :silent make\|redraw!\|cc<CR>
-
-set efm+=#%t#%f#%l#%c#%m#
-
-syntax on
-
-:command P %s/^\t\+/\=repeat('        ',len(submatch(0)))       " :P is just easy to type
-
-" see https://github.com/ConradIrwin/vim-bracketed-paste/blob/master/plugin/bracketed-paste.vim
-let g:loaded_bracketed_paste = 1
-
-let &t_ti .= "\<Esc>[?2004h"
-let &t_te .= "\<Esc>[?2004l"
-
-function! XTermPasteBegin(ret)
-  set pastetoggle=<f29>
-  set paste
-  return a:ret
-endfunction
-
-execute "set <f28>=\<Esc>[200~"
-execute "set <f29>=\<Esc>[201~"
-map <expr> <f28> XTermPasteBegin("i")
-imap <expr> <f28> XTermPasteBegin("")
-vmap <expr> <f28> XTermPasteBegin("c")
-cmap <f28> <nop>
-cmap <f29> <nop>
-```
 
 ## errorformat
 
-> In Quick: [see script python3vim.sh](python3vim.sh)
-> 
+> In Quick: [see script `python3vim.sh`](python3vim.sh)
+>
 > To your `~/.vimrc` add following two lines:
->	
+>
 >     nnoremap M :silent make\|redraw!\|cc<CR>
 >     set efm+=#%t#%f#%l#%c#%m#
 >
@@ -89,7 +43,7 @@ Which might only take some milliseconds depending on how you constructed your Ma
 
 > This can extremely improve your development speed if properly used!
 
-However this needs some output format of the Makefile which can be understood by `vim`.
+However this needs some output format of the `Makefile` which can be understood by `vim`.
 The definitions are in the variable `errorformat`, which is more or less some mystery.
 There is documentation about that, but .. it is far too lengthy for my taste.
 
@@ -224,7 +178,7 @@ Now to the major formats:
 
 Conclusion:
 
-I do not know why `errorformat` looks like that.  And I think it may change for some reason or another by some magic happening in the background.  Hence I cannot relie on it.
+I do not know why `errorformat` looks like that.  And I think it may change for some reason or another by some magic happening in the background.  Hence I cannot rely on it.
 
 My goal was to just transform the output to something, VIM understands reliably.  But I failed.
 Sadly there seems to be no really generic guaranteed line format in there, so I had to introduce some myself.
