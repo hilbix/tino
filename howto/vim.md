@@ -11,17 +11,17 @@ set modeline
 set cul
 hi CursorLine term=none cterm=none ctermbg=0
 
-set showcmd " Show (partial) command in status line.
-set showmatch " Show matching brackets.
-set ignorecase " Do case insensitive matching
-set smartcase " Do smart case matching
-set incsearch " Incremental search
-set autowrite " Automatically save before commands like :next and :make
+set showcmd             " Show (partial) command in status line.
+set showmatch           " Show matching brackets.
+set ignorecase          " Do case insensitive matching
+set smartcase           " Do smart case matching
+set incsearch           " Incremental search
+set autowrite           " Automatically save before commands like :next and :make
 
 set background=dark
 
 if has("autocmd")
-au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+  au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
 hi MySHOW ctermbg=black
@@ -29,7 +29,7 @@ match MySHOW /\(\t\)\|\(\s\s*$\)/
 
 set ts=8 sw=8 noet ai ru fo=cqrt ls=2 shm=at
 
-nnoremap M :silent make\|redraw!\|cc
+nnoremap M :silent make\|redraw!\|cc<CR>
 
 set efm+=#%t#%f#%l#%c#%m#
 ```
