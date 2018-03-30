@@ -1,6 +1,6 @@
 " Copy+paste the next 2 lines ore do: bash THIS_FILE_HERE
 "git" clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
-"ln" --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
+"ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 "return"; exit
 
 set modeline

@@ -8,8 +8,8 @@ Here is [my somewhat current `.vimrc`](.vimrc)
 
 Install it like this:
 
-	git clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
-	ln --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
+	"git" clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
+	"ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 
 
 ## errorformat
