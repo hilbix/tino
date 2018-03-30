@@ -5,11 +5,13 @@
 # Add in ~/.vimrc:
 #	nnoremap M :silent make\|redraw!\|cc<CR>
 #	set efm+=#%t#%f#%l#%c#%m#
-# Add in Makefile:
-#	rule:
-#		python3vim.sh command-running-some-python3-code
+# Add a first rule to Makefile:
+#	.PHONY:	love
+#	love:
+#		python3vim.sh ./python-script.py
 # Now run vim and in vim press:
 #	M
+# This then jumps to the first error encounted.
 
 OUT="/tmp/$USER-python3lasterrors.out"
 
@@ -74,6 +76,6 @@ then
 	cat "$OUT"
 else
 	python3 "$@" 2> >(catcherrors) || warn "$1" 0 0 failed
-	
+	sed 's/^/### /' "$OUT"
 fi
 
