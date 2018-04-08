@@ -50,7 +50,7 @@ print "#E#" file "#" err "#" length(d[2]) "#" $0 "#"
 /^[^[:space:]]/				{ ok(); armed=0; }
 /^Traceback \(most recent call last\):/	{ next }
 
-/^  File/	{ err=$0; delete have; armed=1; next }
+/^  File/ && $2!~/\/usr\//	{ err=$0; delete have; armed=1; next }
 armed		{ d[armed++]=$0; next }
 
 END			{ ok() }
@@ -61,8 +61,8 @@ $have && note "$0" 14 14 Running python3 "$@" >&2
 
 catcherrors()
 {
-tee "/tmp/$USER-python3lasterrors.out" |
-parseerrors
+tee "$OUT.$$" >(parseerrors)
+mv -f "$OUT.$$" "$OUT"
 }
 
 if 	[ 0 = $# ]
@@ -75,7 +75,7 @@ then
 	echo
 	cat "$OUT"
 else
-	python3 "$@" 2> >(catcherrors) || warn "$1" 0 0 failed
+	( python3 "$@" 2> >(catcherrors) || warn "$1" 0 0 failed ) | cat	# cat synchronizes
 	sed 's/^/### /' "$OUT"
 fi
 
