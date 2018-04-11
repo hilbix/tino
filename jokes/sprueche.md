@@ -2,4 +2,4 @@
 
 - 2017-04-04 Dieser Planet hat die Schwelle zum Wahnsinn schon lange überschritten.  Aber schreitet ruhig weiter voran, ich muss nur nochmal kurz zurück ..
 
-- 2017-04-11 Scheiße.  War gar nicht clever, mein Passwort `sudo rm -rf /` zu nennen.  Hab's gerade ausversehen auf die Commandline gepastet ..
+- 2017-04-11 Scheiße.  War gar nicht clever, mein Passwort `sudo rm -rf /` zu nennen.  Hab's nämlich gerade ausversehen auf die Commandline gepastet ..
