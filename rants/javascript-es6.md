@@ -40,4 +40,5 @@ And that these scopes are all different.  But actually this is not the case: **`
 
 However my recommendation is:
 
-If you want to create readable code, which people can understand when they are not very familiar with JS, do the `const j=i` and use the `j` instead of `i` within the block, just to express, that it is a closure.  Of course the `j` is redundant in the JS sense.
+If you want to create readable code, which people can understand when they are not very familiar with JS, do the `const j=i` and use the `j` instead of `i` within the block.  This then expresses, that the closures see different contexts.
+(Of course the `j` is redundant in the JS sense.)
