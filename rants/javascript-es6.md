@@ -24,7 +24,7 @@ I would expect, that there are 3 scopes:
 
 And that these scopes are all different.  But actually this is not the case: **`i` is in the same scope as `element`!**
 
-> Well, this is very helpful, as this do not need to create a closure to pass `i` it individually to the alert.
+> Well, this is very helpful, as this do not need to create a closure to pass `i` individually to the alert.
 > In case `listItems` has length 5 you get these alerts: `number 0/4`, `number 1/4` to `number 4/4`
 > For more on this see: https://www.sitepoint.com/joys-block-scoping-es6/
 >
