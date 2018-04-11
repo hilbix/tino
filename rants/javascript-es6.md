@@ -35,3 +35,5 @@ And that these scopes are all different.  But actually this is not the case: **`
 >
 > Again, this is not a bad thing and comes very helpful.
 > However it is something completely different than found in other languages.
+>
+> **So this is my rant:  Stop to try to explain JS scoping with other languages!**  Scoping in JS is differnt.  Period.
