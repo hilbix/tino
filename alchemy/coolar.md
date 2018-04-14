@@ -459,4 +459,8 @@ Von einem innovativen Startup erwarte ich einfach, dass sich diese Berechnungen 
 
 Mag ja sein, dass es die Unterlagen sind.  **Nur warum sind die nicht öffentlich?**
 
-Sorry, aber damit habt ihr Euch eine vernichtende Rezension wie diese verdient.  Note: 7, setzen.
+Sorry, aber damit habt ihr Euch eine vernichtende Rezension wie diese verdient, denn ihr seid im Bereich der Alchemie unterwegs.
+
+Oder in Schulnoten ausgedrückt:
+
+7, setzen!
