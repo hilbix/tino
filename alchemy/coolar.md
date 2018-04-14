@@ -483,10 +483,14 @@ An dieser Stelle deshalb klar und deutlich hier meine Meinung:
 
 So wie ich Cargolifter für reinen Nepp hielt und halte, halte ich Coolar ebenso für ganz klaren Nepp.
 
-Oder anders gesagt:
+An Coolar habe ich folgenden Tipp:
 
 Macht euch eine schöne Zeit und lasst euch als Stars ruhig Feiern so lange die Masche läuft!
 Aber sagt hinterher nicht, ich hätte euch nicht rechtzeitig gewarnt.
 Ich würde jedenfalls aussteigen, so lange es noch möglich ist.
 
-Nebenbei:  Das habe ich getan, mehrfach.  Bei mir geschah das nur immer auf meine eigenen Kosten, und nicht auf die von anderen.
+Nebenbei:
+
+In der Vergangeneit bin ich schon mehrfach rechtzeitig ausgestiegen.  Bei mir geschah das jedoch immer auf eigenen Kosten.
+Noch nie bin ich jemandem etwas schuldig geblieben.  Genau das Gegenteil ist der Fall, ich habe immer draufgezahlt.
+Aber das ist besser so, denn anderenfalls könnte ich mir selbst nicht mehr im Spiegel begegnen.
