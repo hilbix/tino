@@ -12,7 +12,7 @@ Der erste Eintrag in dieser Reihe: 2018-04-14
 
 Coolar ist ein Startup, das angetreten ist, einen Kühlschrank ohne Strom zu entwickeln.
 
-- WFF?  Aber das gibt es doch schon lange!  Jedes Wohnmobil hat einen mit Gas betriebenen Kühlschrank!
+- WTF?  Aber das gibt es doch schon lange!  Jedes Wohnmobil hat einen mit Gas betriebenen Kühlschrank!
 
 Genau nach dem Absorber-Prinzip funktioniert Coolar ja auch.
 Es geht hierbei halt um einen Kühlschrank, der mit Solarenergie betrieben werden kann.
