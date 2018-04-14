@@ -180,6 +180,8 @@ Das nicht offensichtliche hingegen, und das ist der weitaus schwierigere Teil, d
 
 Wonach riecht das?
 
+Danach:
+
 
 ### Ist COOLAR der Cargolifter unter den Kühlschränken?
 
@@ -198,7 +200,7 @@ Er wurde bewusst verschwiegen, um die Investoren abzuzocken.
 Cargolifter mag mit einer realen Vision angeteten sein,
 [wurde dann aber laut Presseberichten zu Nepp und reinrassigem Betrug](https://daserste.ndr.de/panorama/archiv/2002/Presseerklaerung-Betrugsvorwuerfe-gegen-CargoLifter,erste7814.html)
 
-> Ich halte den Bericht von Panorama am 7.11.2001 weiterhin für mehr als nur absolut glaubwürdig und weiterhin deutlich angebracht.
+> Ich halte den Bericht von Panorama am 7.11.2002 weiterhin für mehr als nur absolut glaubwürdig und weiterhin deutlich angebracht.
 > Dass die Staatsanwaltschaft keinerlei Beweise für eine Konkursverschleppung fand
 > und auch bisher kein Betrugsverfahren Erfolg hatte,
 > bedeutet nicht, dass die Bereichte unglaubwürdig sind.
@@ -215,3 +217,246 @@ Cargolifter mag mit einer realen Vision angeteten sein,
 > Und da sie genau das alle nicht konnten, genau das **ist** der Betrug.
 > Rein rechtlich vielleicht nicht zu ahnden, aber nichtsdestotrotz das, was man sich unter Betrug vorstellt.
 
+Also, nochmal zum Mitdenken:
+
+- Es gibt einen Prototyp.
+
+Nochmal zum Mitdenken:
+
+- Es gibt einen Prototyp.
+
+Nochmal zum Mitdenken:
+
+- Tatsächlich, es gibt einen einzigen Prototypen!
+
+WTF?  Alleine das schon müsste bedenklich stimmen.  Ein Prototyp.  Irgendwo da steht einer.
+Daneben steht ein Wasserbad-Behälter, der aussieht wie die Dinge in jeder Frittenbude.
+Natürlich leicht verändert mit ein paar nett angeklebten Rohren.
+
+Also ernsthaft!  Ich würde sagen:
+
+Jeder Azubi bei Filmsets im ersten Lehrjahr bekommt mit geeignetem Zeug aus dem üblichen Abfall,
+bewaffnet mit seiner Spraypistole in wenigen Stunden ein eindrucksvolleres Filmset gebastelt!
+
+Das soll jetzt nicht heißen, dass das, was COOLAR sagt nicht stimmt.
+Das soll nur heißen, dass mich das, was ich in den Videos sehe, in keinster Weise überzeugen kann.
+
+Ich bin Technonerd.  Ich bin nicht nur technikafin, ich habe einen ganz besonderen Draht zur Technik.
+Wenn ich sinnvolle Technik sehe, dann bin ich normalerweise sofort beeindruckt.
+
+Genau das bin ich hier nicht.
+
+Aber selbst wenn mich etwas beeindruckt, dann bin ich noch lange nicht überzeugt.
+Ich lasse mich ja gerne überzeugen, aber selbst wenn ich überzeugt werde,
+werde ich nicht euphorisch, sondern behalte meine gesunde Skepsis.
+(Ich muss nicht beeindruckt sein um überzeugt zu werden, aber es hilft.)
+
+Von COOLAR bin ich auch alles andere als überzeugt.
+
+Das ist hier einfach so wie mit Chemtrails:
+Traue nicht allem, was Du siehst!
+Überprüfe es und überzeuge Dich selbst!
+Aber vor allem vergiss nicht als allererstes Dein Hirn einzuschalten!
+
+Und genau hier patzt COOLAR.
+
+
+### Das Wichtigste fehlt
+
+Dass das Absorberprinzip mit Silikatgel funktioniert, das bezweifle ich ja gar nicht.
+Der Cargolifter-Prototyp flog ja auch.
+
+Was ich bezweifle ist der wichtigere Teil, nämlich der des nutzbaren Kreislaufs.
+
+> Wenn es um Kühlung geht, könnte ich ja auch einfach nur Eis nehmen.
+>
+> Wasser nimmt beim Verdampfen etwa 7 mal soviel Energie auf wie beim Schmelzen.
+> Silikagel nimmt nur ca. 20% seines Gewichts an Wasser auf.
+>
+> Um es mal vollkommen vorschriftswidrig auf einen Nenner zu bringen:
+>
+> Ob ich 1kg Silikagel zur Absorbtion verwende oder 1kg Eis, der Kühleffekt ist super grob gerechnet derselbe!
+>
+> Wenn ich also einen Kühlschrank mit Silikagel betreibe, könnte ich auch eine Kühlbox einfach mit derselben Menge Eis betreiben.
+> Der Effekt bleibt sich absolut gleich!
+>
+> Der einzige deutlich sichtbare Unterschied ist:
+> Ich brauche etwas mehr als das doppelte Volumen an Eis um dasselbe Gewicht zu erreichen,
+> und ich kann das Silikagel bei Zimmertemperatur in der Handtasche transportieren,
+> weil es erst bei über 1700 Grad schmilzt - da wäre ich dann schon sehr knusprig.
+>
+> (Die von mir verwendeten Zahlen um das zu berechnen stammen aus Wikipedia.  Und ich hoffe ich habe mich nicht verrechnet.)
+
+Zu dem Kreislauf gehören einige Dinge, von denen wir auch schon einiges wissen:
+
+- Bei Zimmertemperatur ist Silikagel hygroskopisch.
+- Bei 150 Grad treibt es dem Silikagel das Wasser in Form von Wasserdampf aus.
+- Warmes Wasser verdampft besser, man kann so die Energiemenge pro Zeit erhöhen (dabei steigt entsprechend der Wasserverbrauch).
+- Solarthermie kann Temperaturen von über 200 Grad erzeugen.
+
+Zu dem Kreislauf gehören aber auch folgende Dinge, für die ich keinerlei Erklärung habe:
+
+- Der bei 150 Grad ausgetriebene Wasserdampf muss zurück in den Kreislauf.  Alternativ muss es eine Wasserquelle geben.
+- Die Silikagel-Kügelchen müssen aus der Absorberkammer in die Trennkammer gebracht werden.
+- Die regenerierten Silikagel-Kügelchen müssen danach wieder in die Absorberkammer.
+- Das Wasser verdampft von sich aus nur sehr wenig wenn man es nicht entsprechend versprüht.  Was treibt den Prozess an?
+
+Nun, die Prämisse ist, "ohne Strom".  Wir haben also keine Pumpe oder so die etwas bewerkstelligen kann.
+Auch fehlt irgendein irgendwie gearteter mit einem Mikroprozessor gesteuerter Prozess, um z. B. die Kügelchen zu bewegen.
+
+Eine weitere Prämisse ist: "Keine beweglichen Teile".  Das bedeutet:  Die Kügelchen werden icht bewegt!
+
+#### Variante 1: Manuellen Austausch der Kügelchen
+
+Das ist durchaus vorstellbar:
+
+- Man nimmt morgens die verbrauchten Kügelchen aus der Absobtionskammer und legt neue frische Kügelchen nach.
+- Dann legt man die verbrauchten Kügelchen in die Trennkammer/Regenerationskammer und die Sonne regeneriert die Kügelchen über den Tag
+- Wash, Rinse, Repeat, day-by-day
+
+Hört sich doch gut an, nicht war?
+
+Nein.  Aus vielen Gründen halte ich dieses Vorgehen für nicht sinnvoll.
+
+- Verschleiß durch diesen Prozess.  Es widerspricht der Prämisse "Keine beweglichen Teile"
+- Der Kühlschrank braucht ständige Wartung.  Ohne diese hört er auf zu funktionieren.
+- Beim täglichen Handling geht gerne mal etwas daneben.
+- Die Absorbtionskammer erzeugt die Kälte.  Das geht besser bei niedrigen Drücken deutlich Richtung Vakuum.
+- Das Wasser evaporiert.  Ich muss also ständig destiliertes(!) Wasser nachkippen.
+
+Das Ganze macht deshalb noch weniger Sinn, weil der Prozess dann keinen Sinn mehr ergibt.
+
+Den Prozess kennen wir nämlich.  Lassen wir das Silikagel weg und nehmen normales Wasser das verdampft,
+haben wir die Tontopfkühlung.  Vermutlich dürfte es wesentlich einfacher sein,
+die damit leicht erzielbare Temperatur von 8 Grad Celsius um 4 Grad zu senken,
+(oder Impfstoffe und Medikamente zu produzieren die bei 8 Grad gelagert werden können)
+als jetzt einen überbordend komplizierten technischen Prozess zu definieren,
+nur weil's so cool ist.  (Pun intended.)
+
+
+#### Variante 2: Absorbtionskammer == Trennkammer
+
+Der Kühlschrank wird also im Impulsbetrieb betrieben:
+
+- X Minuten kühlen.
+- Dann X Minuten regenerieren.
+- Dann wieder X Minuten kühlen.
+
+Man muss ja nicht nur eine Absorbtionskammer haben, es kann deren mehrere geben.
+
+Während also z. B. 2 davon gerade regenerieren, macht eine die Kühlung.
+
+Hört sich gut an?  Nun ja eher nicht, oder um es mit den Worten von Slartibartfast zu sagen: Kniffelig!
+
+Rein theoretische geht das natürlich.  Aber praktisch wird das nun sehr kompliziert.
+
+Wiederholen wir die Voraussetzungen:  Kein Strom.  Keine beweglichen Teile.
+
+Weichen wir das mit den beweglichen Teilen für einen Moment auf.
+Dann können wir eine mechanische Zeitschaltuhr bauen, die uns die Phasen passend umschaltet.
+
+Aber selbst wenn wir solch eine Umschaltung erlauben, wie sieht es mit der Konstruierbarkeit von der Absorbtionskammer aus?
+
+Nun, sie muss kühlen.  Das bedeutet, sie muss das in der Verdampfungskammer entstandene Gas aufnehmen.  Dazu muss das Gas möglichst ungehindert in die Verdampfungskammer strömen können.
+
+Aber erst einmal einen Schritt zurück.
+
+Die Regeneration findet in der Absorbtionskammer statt.  Das bedeutet, den Kügelchen wird der Wasserdampf ausgetrieben.  Dieser Wasserdampf füllt dann die Kammer, oder den Teil, der von den Kügelchen nicht genutzt wird.
+
+Ist die Regeneration beendet, dann kühlt das Ganze auf Zimmertemperatur ab.  In einem geschlossenen Behälter bedeutet das, der ganze (restliche) Wasserdampf kondensiert bzw. wird von den Kügelchen absorbiert.  Es entsteht soetwas wie ein Vakuum.
+
+Es muss also Ventile geben.  Ventile, die die Strömungsrichtung des Wasserdampfes bestimmen.
+
+Während der Regeneration (bei 150 Grad) strömt der Wasserdampf in den Wasservorrat zurück und kondensiert dort.
+
+Nach der Regneration kühlt alles ab, es entsteht ein Vakuum und der Wasserdampf wird aus der Verdampfungskammer "gesaugt".
+
+Da wir hier mit einem nahezu-Vakuum arbeiten, muss auch hier ein Ventil sein, sonst würde der Wasserdampf beim Austreiben ja eher in die Verdampfungkammer stömen als zum Wasservorrat.
+
+Naja, vielleicht kann man da noch etwas die Schwerkraft nutzen.  Bei nahezu-Vakuum kann man den Behälter evtl. so bauen, dass die Brownsche Bewegung der Gasmoleküle unwahrscheinlicher in die Verdampfungskammer zurückbringt, als zum Kondensator, der den Wasservorrat speist.  Aber, hey, solch einen niedrigen Druck?  Und wie konstruiert man so etwas?
+
+Bei einem Impulsbetrieb im Millisekundenbereich könnten wir uns evtl. noch der Massenträgheit bedienen.
+
+Aber hier geht es um kein Hochvakuum und auch sprechen wir hier über Minuten oder gar Stunden statt Millisekunden.
+
+Ventil.  Eindeutig Ventil.  Auch wenn es rein mechanische Ventile sein dürfen die keiner aktiven Steuerung bedürfen.
+
+Wir haben also "Moving Parts".  **Oder gibt es Gasventile ohne bewegliche Teile?**
+
+Gut, diese Teile dürften recht wartungsarm sein, da man sie recht einfach aufbauen kann (Feder + Stempel), da sie keine hohe Güte an Dichtigkeit haben müssen - sie müssen nur den Gasstrom hinreichend lenken und den Drücken widerstehen.
+
+
+### Klingt doch alles bisher gut, oder nicht?
+
+Nun, jein.
+
+Mal abgesehen davon, dass ich eine mechanische Uhr brauche - oder einen Menschen der irgendwelche Schalter umlegt.
+Denn evtl. kann man so etwas einfach mit der Sonne synchronisieren, d. h. eine Wärmebrücke erzeugt einen wandernden Temperaturgradienten durch einen langsamen Wärmeleiter, der dann per Bimetall-Schalter die jeweiligen Aktionen auslösen.
+
+Das Ganze krankt an einer entscheidenen Stelle, für die ich keine Lösung finde:
+
+Der Sonne.
+
+Die Sonne ist etwas, das ich nicht in den Griff kriegen kann.  Mal scheint sie, mal nicht.  Jeden Tag ist sie irgendwo anderes.
+
+Sie arbeitet zwar wie ein Uhrwerk, aber eines mit einem eigenen Willen.  Sind dicke Wolken da, dann scheint sie nicht und ich kann das mit der Solarthermie vergessen.
+
+Aber der Kühlschrank braucht ständig einen Antrieb.  Das Wasser muss in die Verdampfungskammer eingespritzt werden.  Oder ich brauche doch noch eine Pumpe, die das überschüssige Wasser wieder abpumpt.  (Bei entsprechendem Druck unterhalb von 0,01 Bar gibt es bei 4 Grad kein flüssiges Wasser.  Das Problem lässt sich also lösen.)
+
+Ja, eine Pumpe kann ich auch mit Solarthermie antreiben.  Aber dafür scheint die Sonne nicht zuverlässig genug (insbesondere Nachts).
+
+Es steht klipp und klar da, dass der Kühlschrank über keine Batterien (oder Akkus) verfügt.  Also muss man mit einem passenden Druckunterschied arbeiten, damit der entsprechende Kreislauf ohne Pume aufrecht erhalten werden kann.
+
+Das wiederum bedeutet aber, man braucht regelmäßiges Heizen.  Um Wasser mit 150 Grad zu speichern, braucht es aber einen Druck von mehr als 10 Bar!  **Ich würde das nicht mehr als ungefährlich bezeichnen!**  (Erzeugt man den Druck mit Schwerkraft, bedeutet das eine Speichertiefe von über 100m, was wiederum alles andere als einfach ist.)
+
+
+### Und noch ein weiteres Problem
+
+Gehen wir mal davon aus, das alles sei gelöst.  Es reicht, wenn einmal pro Woche die Sonne ordentlich scheint.  Und man hat genug Reservekapazität, um die Kühlung auch dann aufrecht zu erhalten, wenn man mal längere Zeit Pech hat.
+
+Dann hat man noch das Problem, dass der Kühlschrank eine enorme Kühlleistung erbringen muss.
+
+Das Teil steht in prallen Hitze, also sagen wir mal 50 Grad Lufttemperatur.  Und dann wird die Schranktür geöffnet und diese heiße Luft strömt sofort ein.  Es handelt sich sagen wir mal um ein kleines Ärztehaus, das 3 Ärzte beherbergt.  Also alle 5 Minuten wird die Tür geöffnet, etwas herausgenommen und wieder geschlossen.  Über 10 Stunden am Tag.
+
+Dann kommen noch 1-2 Mal in der Woche Lieferungen.  Das Material muss auch noch von den 8 Grad beim Transport auf 4 Grad runtergekühlt werden.  Und bei den zu erwartenden Durchsätzen sind das 20 bis 30 Liter Wasser, pro Woche.
+
+Dann werden noch Proben zwischengelagert.  Also Urinprobe mit 37 Grad muss runter auf 4 Grad.
+
+Usw. etc. pp.  Ich habe das nicht wirklich durchgerechnet.  Aber diese Herausforderung erscheint mir schon sehr hoch zu sein.
+
+Das bedeutet nicht, dass das alles nicht machbar ist.
+
+Das bedeutet aber für mich, dass da noch sehr viele technische Herausforderungen warten, die man lösen muss.
+Das sind keine Dinge, die man einfach mal so angehen kann, dafür müssen handfeste Berechnungen her.
+
+Aber was sehe ich auf der Seite?  Nur reiunstes Marketing-Bla-Bla.  Keine Fakten.  Keine thermischen Beispielsrechnungen.
+
+- die sind eben NICHT geheim oder irgendwelche hochtrabenden Dinge, sondern einfachste Physik.
+- Da muss sich einfach nur mal ein Physiker mit einem Blatt Papier hinsetzen und den typischen Anwendungsfall durchrechnen.
+- Dann noch die typischen ingenieurstechnischen Verluste dazukalulieren.
+- Und die typischen ingenieurstechnischen Sicherheitsmargen einrechnen.
+
+Und plopp, haben wir eine valide Grundlage über die wir diskutieren können.
+
+Wo sind diese Unterlagen?
+
+### Wie ich schrieb
+
+Der Prototyp ist nicht einmal ein Anfang.
+
+Denn am Anfang stehen die von mir beschriebenen Berechnungen.
+
+# Hinweis
+
+Ich könnte durchaus die Berechnungen anfertigen.  Aber warum sollte ich?
+
+Von einem innovativen Startup erwarte ich einfach, dass sich diese Berechnungen und Grundlagen auf ihrer Homepage befinden.
+
+- Weil diese nichts mit einem Patent zu tun haben, das kann jeder Studienanfänger in Physik mit dem Abiturswissen erledigen!
+- Weil das Grundlagen sind, die einfach zu einem seriösen Unternehmen gehören.
+- Weil das gute Wissenschaft ist, nämlich seine eigenen Theorien erst einmal ordentlich zu untermauern.
+- Und weil es sich für eine Firma geziemt, die sich um öffentliche Förderungen bemüht.
+
+Mag ja sein, dass es die Unterlagen sind.  **Nur warum sind die nicht öffentlich?**
+
+Sorry, aber damit habt ihr Euch eine vernichtende Rezension wie diese verdient.  Note: 7, setzen.
