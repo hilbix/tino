@@ -446,21 +446,47 @@ Der Prototyp ist nicht einmal ein Anfang.
 
 Denn am Anfang stehen die von mir beschriebenen Berechnungen.
 
+**Und dieser Anfang, der fehlt!**
+
+
 # Hinweis
 
-Ich könnte durchaus die Berechnungen anfertigen.  Aber warum sollte ich?
+Ich könnte durchaus die Berechnungen durchführen.  Aber warum sollte ich?
 
-Von einem innovativen Startup erwarte ich einfach, dass sich diese Berechnungen und Grundlagen auf ihrer Homepage befinden.
+Von einem aufrichtigen, ehrlichen und innovativen Startup erwarte ich, dass sich diese Berechnungen und Grundlagen auf ihrer Homepage befinden.
 
-- Weil diese nichts mit einem Patent zu tun haben, das kann jeder Studienanfänger in Physik mit dem Abiturswissen erledigen!
+- Weil diese nichts mit einem Patent zu tun hat, denn das kann jeder Studienanfänger in Physik mit dem Abiturswissen erledigen!
 - Weil das Grundlagen sind, die einfach zu einem seriösen Unternehmen gehören.
 - Weil das gute Wissenschaft ist, nämlich seine eigenen Theorien erst einmal ordentlich zu untermauern.
-- Und weil es sich für eine Firma geziemt, die sich um öffentliche Förderungen bemüht.
+- Und weil finde, dass es sich für jede Firma geziemt, die sich um öffentliche Förderungen bemüht.
 
-Mag ja sein, dass es die Unterlagen sind.  **Nur warum sind die nicht öffentlich?**
+Mag ja sein, dass es die Unterlagen irgendwo in einem Giftschrank gibt.  **Nur warum sind die nicht öffentlich?**
 
-Sorry, aber damit habt ihr Euch eine vernichtende Rezension wie diese verdient, denn ihr seid im Bereich der Alchemie unterwegs.
+Sorry, aber damit habt ihr Euch eine vernichtende Rezension wie diese verdient, denn ihr seid dadurch **ganz klar im Bereich der Alchemie unterwegs**.  Zumindest derzeit.
 
 Oder in Schulnoten ausgedrückt:
 
-7, setzen!
+6, setzen!
+
+
+# Disclaimer
+
+Bei diesem Text handelt sich um verfassungrechtlich geschützte MEINUNG gem. Art 5 Abs. 1 GG.
+
+Ich habe mich nach bestem Wissen und Gewissen redlich bemüht, alle Informationen korrekt zusammenzutragen um wahrheitsgemäß darüber zu berichten.  Sofern ich dabei versagt habe und mir wesentliche Informationen durch die Lappen gegangen sind, ändert das nichts an der Darstellung meiner Meinung zum derzeitigen Zeitpunkt.
+
+Sollte ich meine Meinung entsprechend revidieren, werde ich das an dieser Stelle tun.  Aber nur freiwillig.
+Niemand kann gezwungen werden, seine Meinung zu revidieren oder zu widerrufen,
+da dies einen direkten Eingriff in die Persönlichkeitsrechte bedeuten würde.
+
+An dieser Stelle deshalb klar und deutlich hier meine Meinung:
+
+So wie ich Cargolifter für reinen Nepp hielt und halte, halte ich Coolar ebenso für ganz klaren Nepp.
+
+Oder anders gesagt:
+
+Macht euch eine schöne Zeit und lasst euch als Stars ruhig Feiern so lange die Masche läuft!
+Aber sagt hinterher nicht, ich hätte euch nicht rechtzeitig gewarnt.
+Ich würde jedenfalls aussteigen, so lange es noch möglich ist.
+
+Nebenbei:  Das habe ich getan, mehrfach.  Bei mir geschah das nur immer auf meine eigenen Kosten, und nicht auf die von anderen.
