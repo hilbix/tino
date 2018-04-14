@@ -168,8 +168,8 @@ Wir erinnern uns:
 - Das Prinzip der Kühlung durch Verdampfung ist uralt.
 - Das Prinzip der Absorbtion ist ebenso uralt, nur wurde es nicht als solches begriffen.
 
-Es dauerte über 3000(!) vom Prinzip der Kühlung durch Verdampung bis zum Verständnis der Absorbtion.
-Und es dauerte nochmals über 100 Jahre, bis daraus ein brauchbarer Prototyp für eine Kühlung wurde.
+Es dauerte über 3000(!) Jahre vom Prinzip der Kühlung durch Verdampfung bis zum Verständnis der Absorbtion.
+Und es dauerte nochmals über 300 Jahre, bis daraus ein brauchbarer Prototyp für eine Kühlung wurde.
 (YMMV)
 
 Das soll nicht heißen, dass COOLAR nun weitere 100 Jahre braucht.
