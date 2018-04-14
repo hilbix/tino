@@ -196,6 +196,9 @@ Vergleichen wir Cargolifter:
 
 Wie später herauskam war genau dieser Umstand bei Cargolifter bekannt.
 Er wurde bewusst verschwiegen, um die Investoren abzuzocken.
+(So stellt es sich mir jedenfalls nach Anwendung von Occams Rasiermesser dar.
+Ich lasse mich gerne eines Besseren belehren, aber das wird schwer, sehr schwer,
+denn die Physik spricht eine sehr deutliche Sprache!)
 
 Cargolifter mag mit einer realen Vision angeteten sein,
 [wurde dann aber laut Presseberichten zu Nepp und reinrassigem Betrug](https://daserste.ndr.de/panorama/archiv/2002/Presseerklaerung-Betrugsvorwuerfe-gegen-CargoLifter,erste7814.html)
