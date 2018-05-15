@@ -2,7 +2,7 @@
 
 Dies ist mein Ersatzzettelkasten, bis mein Haupt-Zettelkasten wieder funktioniert.
 
-Hier befinden sich Ideen, Verfahren, Notizen und Meinungen von mir.  Halt so alles mögliche, was aus dem Kopf raus muss, damit es da nicht weiter rumschwirrt.
+Hier befinden sich Ideen, Verfahren, Notizen und Meinungen von mir.  Halt so alles mögliche, was festgehalten werden muss, damit es nimmer im Hopf rumschwirrt.
 
 # Impressum
 
