@@ -61,8 +61,10 @@ $have && note "$0" 14 14 Running python3 "$@" >&2
 
 catcherrors()
 {
+trap 'mv -f "$OUT.$$" "$OUT"' 0
 tee "$OUT.$$" >(parseerrors)
 mv -f "$OUT.$$" "$OUT"
+trap '' 0
 }
 
 if 	[ 0 = $# ]
