@@ -81,9 +81,9 @@ After hours (at least if felt this long) of Googling I found out that this is du
     gpg: /tmp/debsign.e4uYKsEH/json2sh_1.dsc: clearsign failed: secret key not available
     debsign: gpg error occurred!  Aborting....
 
-WTF?  Why isn't this command printed complete?  Why do you have to first scrape some billion terabyte of documentation (this is what Google does) just to find this?
+WTF?  Why isn't this command printed when the error occurs?  Why do you have to first scrape some billion terabyte of documentation (this is what Google does) just to find out what's wrong?  Why is documentation so bad?  (Note that you do not need any documentation if the scripts are just self-explaining, especiall in case when some error occurs.)
 
-Now the problem is, how to make
+Now the problem left is, how to make
 
     "Valentin Hilbig <webmaster@scylla-charybdis.com>"
     
@@ -91,17 +91,16 @@ out of
 
     "Valentin Hilbig (Temporary signing key) <webmaster@scylla-charybdis.com>"
     
-I really cannot present the correct way how to fix this, but I somehow managed it after an enormous amount of incomprehensible commands.
-What I did was (partly):
+I really cannot present the correct way how to fix this, because it is inexplainable.  I somehow managed it after some enormous amounts of incomprehensible commands with trial and error.  What I did was (partly):
 
      gpg --edit-key 4976C9BA
      adduid
      deluid 1
      save
 
-And with "adduid" I needed to re-enter just everything as before, but leave away the comment.
-SIGH.  I know what caused this mega-GAU of usability.  I understand what the programmers did.
-However I do not accept that.  This is more than plain wrong, this is not only ridiculous, it is plain crap as it is unuable.
+And with "adduid" I needed to re-enter just everything as before, but leave away the comment.  Nag nag nag!  SIGH.
+
+I know what caused this mega-GAU of usability.  I understand what the programmers did.  However I do not accept that.  This is more than plain wrong, this is not only ridiculous, it is plain crap as it is unusable.
 
 Hence, again, a major fail here.  Things must not happen this way.  Period.  And no discussions about that.  This is wrong.
 This already was wrong 20 years ago.  It shall never happend this way.  Period.  Again.
