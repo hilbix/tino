@@ -1,6 +1,7 @@
-# 2018-05-24
+> Ich habe versucht, es auf https://coincierge.de/2018/bank-of-america-sichert-sich-ein-blockchain-patent/ als Kommentar zu posten.  Hat jedoch nicht geklappt, irgendetwas mit dem Captcha das nicht erkannt wird.  Na dann eben hier.
 
-https://coincierge.de/2018/bank-of-america-sichert-sich-ein-blockchain-patent/
+
+# 2018-05-24
 
 WTF?  Die Idee der Blockchain ist - mindestens - 30 Jahre alt.  Um 2000 herum hat Lutz Donnerhacke die Idee des "ewigen Logfile" veröffentlicht - das ist im Prinzip eine nicht-verteilte Blockchain.  Damals bereits konnte er feststellen, dass in dem Sektor aufgrund von Prior Art nichts patentierbar ist.
 
