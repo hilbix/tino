@@ -82,7 +82,7 @@ Also look into the example section of `man 5 cgconfig.conf`.  Compare the really
 Following
 - creates cgroup `memlimit`
 - Sets a 3GB RAM limit
-- Allows an additional use of max 3GB of swap space
+- Allows an additional use of max 3GB of swap space.  Note that this means, it can occupy up to 6GB in swap if everything is swapped out.
 - And dynamically reduces the RAM consumption to 1GB in case there is memory pressure
 
 ```
@@ -91,4 +91,11 @@ mkdir /sys/fs/cgroup/memory/$NAME
 echo 3G > /sys/fs/cgroup/memory/$NAME/memory.limit_in_bytes
 echo 6G > /sys/fs/cgroup/memory/$NAME/memory.memsw.limit_in_bytes
 echo 1G > /sys/fs/cgroup/memory/$NAME/memory.soft_limit_in_bytes
+```
+
+Now let the current `/bin/bash` join this group and fork `firefox`:
+
+```
+echo $$ >> /sys/fs/cgroup/memory/memlimit/memory.soft_limit_in_bytes/tasks
+firefox
 ```
