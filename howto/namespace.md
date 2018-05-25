@@ -1,0 +1,66 @@
+# Linux Namespaces
+
+Well, there are two beasts.  Control Groups and Namespaces.  They are mostly additive.  However things are implemented very confusingly!
+
+# Control Groups
+
+> See: `/sys/fs/cgroup/` and `cat /proc/$$/cgroup`
+
+With Control Groups you can manage ressources (this is incomplete, as I am still puzzled):
+
+- 1:`name` (I really have no idea)
+- 2:`cpuset` (I really have no idea)
+- 3:`hugetlb` (I really have no idea)
+- 4:`cpu,cpuacct` (I really have no idea)
+- 5:`blkio` (I really have no idea)
+- 6:`freezer` (I really have no idea)
+- 7:`memory` limit the memory usage - this is especially handy with firefox, which loves to eat multiple times the available RAM if not limited
+- 8:`net_cls,net_prio` (I really have no idea)
+- 9:`perf_event` (I really have no idea)
+- 10:`pids` (I really have no idea)
+- 11:`devices` (I really have no idea)
+
+# Namespaces
+
+> See: `???` and `ls -al /proc/$$/ns/`
+
+Namespaces allow to partition the hardware as well as to virtualize the kernel without virtualization.
+It is what containers are made of.
+
+Following namespaces exist (I have really no idea how this corresponds to `cgroups`!):
+
+- `cgroup` (I really have no idea)
+- `ipc` separated shared memory.  It also separates System V message queues (whatever this is) and semaphopres (I know what semaphores are, but I do not know what they refer to in this context)
+- `mnt` this allows processes to have another root and even see another mount table.  This is like `chroot` on steroids.
+- `net` can define your own virtual IP stack, which involves everything:  Separate loopback, routing, firewall, sockets, etc.  This way two processes can even listen on the same port on the same IP without trouble.
+- `pid` limit what processes see in `/proc/`.  This allows processes to run better isolated, as processes in different `pid` namespaces cannot see each other.
+- `user` allows to have different user tables.  This mainly is to allow a different set of capabilities.  (Perhaps there is some user-mapping to, I will see.)
+- `uts` the process sees different `hostname` and `domainname` (this affects the kernel calls, not the filesystem!)
+
+## Namespace `net`
+
+With `net` you can create virtual IP stacks.  And you can assign physical interfaces to those stacks.  One physical interface can only be in a single namespace, though.
+
+AFAICS if you need to share things, you need to create virtual interfaces and route between those interfaces.
+Or all processes which need the interface must be in the same namespace.
+
+## Namespace `pid`
+
+AFAICS `pid`-namespaces do not increase the limit of available processes.  So all namespaces still share the same process table.
+And a single PID can only be present in one of the namespaces.
+
+The only thing is, that another namespace cannot see and cannot access the process space of the other namespace.
+As they are separate.
+
+Note:
+
+- The newly run (`fork()`ed) process (the child) will become PID 1 in it's new namespace, taking over the role of `/bin/init`.  (This is impossible without `fork()`.)
+
+
+## Common commands
+
+- `cgcreate` etc.:  Forget about those.  They might be nice.  Perhaps they are portable.  But they are far too complex to understand.  There is a better way.
+- `unshare`: This is the command to create and enter namespaces.  You cannot move existing processes into namespaces, because this would rise the need to force taking away things from a process which might make them fail.  Instead there must be a `fork()` to enter a namespace.
+- `nsenter`:
+- `setns`:
+
