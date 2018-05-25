@@ -86,11 +86,11 @@ Following
 - And dynamically reduces the RAM consumption to 1GB in case there is memory pressure
 
 ```
-NAME=memlimit
-mkdir /sys/fs/cgroup/memory/$NAME
-echo 3G > /sys/fs/cgroup/memory/$NAME/memory.limit_in_bytes
-echo 6G > /sys/fs/cgroup/memory/$NAME/memory.memsw.limit_in_bytes
-echo 1G > /sys/fs/cgroup/memory/$NAME/memory.soft_limit_in_bytes
+NAME=/sys/fs/cgroup/memory/memlimit;
+mkdir -p $NAME;
+echo 3G > $NAME/memory.limit_in_bytes;
+echo 6G > $NAME/memory.memsw.limit_in_bytes;
+echo 1G > $NAME/memory.soft_limit_in_bytes;
 ```
 
 Now let the current `/bin/bash` join this group and fork `firefox`:
