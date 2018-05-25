@@ -61,6 +61,15 @@ Note:
 
 - `cgcreate` etc.:  Forget about those.  They might be nice.  Perhaps they are portable.  But they are far too complex to understand.  There is a better way.
 - `unshare`: This is the command to create and enter namespaces.  You cannot move existing processes into namespaces, because this would rise the need to force taking away things from a process which might make them fail.  Instead there must be a `fork()` to enter a namespace.
-- `nsenter`:
-- `setns`:
+- `nsenter`: T.B.D.
+- `setns`: T.B.D.
 
+### Managing cgroups
+
+Managing cgroups is better done directly via the filesystem.  This is less error prone, more easy to understand and you do not need to learn a newer syntax.
+
+Have a look here: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/starting_a_process
+
+Also look into the example section of `man 5 cgconfig.conf`.  Compare the really puzzling syntax with the easy to understand commands shown in this example section which result from these complex setups.
+
+(It's similar on how Puppet does things, compared to some some easy batch file which just presets the firewall in a predictable way.)
