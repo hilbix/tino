@@ -105,3 +105,5 @@ Here is a `suid` rule (for my tool [suid](//github.com/hilbix/suid)) which limit
 ```
 mem3:::::/:/bin/bash:-c:NAME=/sys/fs/cgroup/memory/memlimit; mkdir -p $NAME; echo 3G > $NAME/memory.limit_in_bytes; echo 6G > $NAME/memory.memsw.limit_in_bytes; echo 1G > memory.soft_limit_in_bytes; echo $PPID >> $NAME/tasks
 ```
+
+(After installing `suid`, put this in a file like `/etc/suid.conf.d/memory.conf` and call it with `suid mem3`.  Life can be easy.)
