@@ -96,6 +96,6 @@ echo 1G > /sys/fs/cgroup/memory/$NAME/memory.soft_limit_in_bytes
 Now let the current `/bin/bash` join this group and fork `firefox`:
 
 ```
-sudo bash -c 'echo $1 >> /sys/fs/cgroup/memory/memlimit/tasks' $$
+sudo bash -c 'echo $1 >> /sys/fs/cgroup/memory/memlimit/tasks' . $$
 firefox
 ```
