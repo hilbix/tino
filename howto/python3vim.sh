@@ -13,7 +13,7 @@
 #	M
 # This then jumps to the first error encounted.
 
-OUT="/tmp/$USER-python3lasterrors.out"
+OUT="/tmp/$LOGNAME-python3lasterrors.out"
 
 send()
 {
