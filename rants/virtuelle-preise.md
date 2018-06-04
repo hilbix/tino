@@ -160,4 +160,4 @@ Ist doch schon ein bisserl viel, oder nicht?  Dafür kann man erwarten, dass die
 
 Die Gewinnmarge beträgt also Faktor 100000.  Dieser Faktor sollte IMHO wirklich reichen.
 
-TL;DR: Selbst 1 Cent pro Byte ist schon hart am Wucher!
+TL;DR: Selbst 1 Cent pro Byte ist schon Wucher!
