@@ -20,7 +20,7 @@ Die Anzahl der Items die man besitzt, ist unerheblich, die kauft man ja nicht mi
 
 Das ergibt für solch ein Item einen maximalen "Wert" von 32 Cent.
 
-Evtl. besitzt das Item noch bestimmte Eigenschaften, man kann es also in N Vatianten kaufen.
+Evtl. besitzt das Item noch bestimmte Eigenschaften, man kann es also in N Varianten kaufen.
 Diese Varianten könnten ebenfalls nochmals 32 Bit benötigen.
 
 Indem man viele Dimensionen an das Item dranhängt, könnten Firmen auf die Idee kommen, das beliebig aufzublasen.
@@ -140,3 +140,24 @@ Nichts gegen Geldverdienen, aber etwas Ethik muss man von den Herstellern einfac
 Hinweis:  Wenn ich jemals bei einem Spiel etc. etwas zu sagen habe, werde ich darauf hinwirken, dass die hier beschriebenen ethischen Grundlagen eingehalten werden.
 
 Das und der Datenschutz, natürlich.
+
+# Nachtrag
+
+An sich wäre ich sogar für einen Deckel von 1 Cent pro Byte.  Rechnen wir mal nach:
+
+- 1 Byte = 1 Cent
+- 1 KB = 10 EUR
+- 1 MB = 10000 EUR
+- 1 GB = 10 MioEUR
+- 1 TB = 10 Milliarden EUR.
+
+Ist doch schon ein bisserl viel, oder nicht?  Dafür kann man erwarten, dass die Daten - mindestens - 1000 Jahre vorgehalten werden.  Rechnen wir wieder nach:
+
+- 1 TB Onlinespeicher kostet heutzutage ca. 5 EUR/Monat.
+- 1000 Jahre lang diese Mengen (online!) zu speichern kosten also 60000 EUR.
+- Dass die Speicherung von Datenmengen schneller günstiger wird als die Inflation lassen wir mal außen vor.
+- Runden wir außerdem zum besseren Rechnen auf 100 kEUR auf.
+
+Die Gewinnmarge beträgt also Faktor 100000.  Dieser Faktor sollte IMHO wirklich reichen.
+
+TL;DR: Selbst 1 Cent pro Byte ist schon hart am Wucher!
