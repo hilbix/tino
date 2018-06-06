@@ -20,7 +20,7 @@ Ein "Intranet in der Cloud" ist - vielleicht - ein Extranet.  Aber als Extranet 
 Vor allem nicht über einen Buttonklick, denn dazu gehört eine ausführliche Anwendungsstrategie für das Extranet, sonst geht das in die Hose.
 Extranets sind übrigens nicht direkt das Gegenteil eines Intranets, aber halt doch etwas vollkommen anderes.
 
-Aber das schützt natürlich nicht vor Fake-News [wie folgendem Mist](https://www.google.com/search?q=%22intranet%22+%22cloud%22):
+Aber das schützt natürlich nicht vor Hirnschiss [wie folgendem Mist](https://www.google.com/search?q=%22intranet%22+%22cloud%22):
 
 - https://www.cloudcomputing-insider.de/vier-vorteile-des-cloudbasierten-intranets-a-676811/
 
