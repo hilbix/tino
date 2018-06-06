@@ -10,7 +10,7 @@ Naja, nur für Leute, die von der Materie weniger als absolut 0 Ahnung haben (sp
 
 Nur mal zum Verständnis:
 
-- Eine Intranetlösung in der Cloud kann nicht und wird niemals existieren.  Das sind zwei Begriffe, die sich gegenseitig vollkommen ausschließen!
+- Eine Intranetlösung in einer internetbasierten Cloud kann nicht und wird niemals existieren.  Das sind zwei Begriffe, die sich gegenseitig vollkommen ausschließen!
 - Eine Intranet-App für das Handy, mit der man bequem von überall aus zugreifen kann, kann und wird niemals existieren.  Wer etwas derartig bezeichnet, beweist nur, dass er von der Materie weniger als absolut 0 Ahnung hat.  (AKA: Er ist destruktiv unterwegs, vergleichbar wie ein Raubmörder.)
 
 Im Vergleich zu "Intranet in der Cloud" ist es geradezu eine wissenschaftlich erwiesene Tatsache, dass Jesus tatsächlich eine Jungfrauengeburt darstellte, an der also kein Mann beteiligt war!
