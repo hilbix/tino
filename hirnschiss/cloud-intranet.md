@@ -28,12 +28,13 @@ Zum Verständnis:
 
 - Cloudbasierte Intranets kann es (in der derzeitigen Netzinfrastruktur) nicht geben.  Dagegen ist Fucking for Virginity eine geradezu empfehlenswerte Strategie!
 - Intranetbasierte Clouds (private Clouds) gibt es natürlich.  In der Regel sind diese (zumindest für typische mittelständische Unternehmen) vollkommener Blödsinn.
+- Man kann natürlich eine private Cloud für einen Intranetdienst aufbauen, getreu dem Motto "warum einfach, wenn es auch überbordend kompliziert geht".  Eine solche private Cloud bietet sich Diensten wie Google und Facebook an, aber schon bei Twitter dürfte sich eine private Cloud wenig rentieren.  Jedenfalls heute.  Im Internet sind Dinge nicht in Stein gemeißelt, in einigen Jahren (eher Jahrzehnten) wird es vielleicht sinnvoll, diesen Ansatz zu reevaluieren.  Aber eben nicht heute!
 
-Aber ja doch, man kann tatsächlich rein theoretisch ein Cloudbasiertes Intranet herstellen.  Dazu fehlen uns aber heute einige Details:
+Natürlich kann man, rein theoretisch, ein Cloudbasiertes Intranet herstellen.  Heute schon.  Aber dazu fehlen uns einige wichtige Bausteine:
 
-- Entsprechende Mobilnetze.  Die müssen mindestens weltweit ein VPN bereitstellen.  Ein im Mobilnetz roamendes Handy ist genau das Paradebeispiel wie es nicht implementiert sein darf, weil das dem Intranet-Gedanken zuwiderläuft.
-- Entsprechende Mobiltelefone, die als Cloud-Knoten agieren können.  Anderenfalls haben wir eine Intranetbasierte Cloud und kein Cloudbasiertes Intranet.
-- Und entsprechende Cloudknoten in den Netzwerkkarten der Rechner.  Das ist etwas, das wir ansich heute schon problemlos haben könnten.
+- Entsprechende Mobilnetze.  Die müssen mindestens weltweit ein VPN bereitstellen.  Ein im Mobilnetz roamendes Handy ist genau das Paradebeispiel wie es nicht implementiert sein darf, weil das dem Intranet-Gedanken zuwiderläuft.  Das Handy muss also permanent mit dem VPN, und nur eben diesem VPN, verbunden sein, und das VPN niemals verlassen.
+- Entsprechende Mobiltelefone, die als Cloud-Knoten agieren können.  Anderenfalls haben wir eine Intranetbasierte Cloud und kein Cloudbasiertes Intranet.  Der Daten-Roaming-Tarif steht da direkt entgegen!
+- Und entsprechende Cloudknoten in den Netzwerkkarten der Rechner die direkt (also nicht via VPN) am Intranet teilnehmen.  Das ist etwas, das wir ansich heute schon problemlos haben könnten, die meisten Netzwerkkarten haben die dafür notwendige Eigenintelligenz und die meisten Rechner (Stichwort: Intel Management Engine) die dafür notwendige Autonomie.  (Ich bewerte nicht, ob das gut oder schlecht ist.  Ich schildere nur die Faktenlage.)
 
 Merke:
 
