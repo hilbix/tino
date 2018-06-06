@@ -4,7 +4,7 @@ Zitat https://pages.coyoapp.com/intranet (sorry, dass es die gerade trifft, aber
 
 > Als Cloud Intranet Lösung passt COYO perfekt auf dein Smartphone.
 
-Intranet in der Cloud?  Von überall und jederzeit via Smartphone zugreifbar?  Sounds legit!!!!!!einsElf
+Intranet in der Cloud, überall verfügbar auf dem Smartphone?  **Sounds legit!!!!1!einsElf**
 
 Naja, nur für Leute, die von der Materie weniger als absolut 0 Ahnung haben (sprich: Wohl alle Geschäftsführer größerer Unternehmen).
 
