@@ -13,5 +13,5 @@ Mehr zu den Kommandos: RTFM!
 
 Rubrik: Sieht interssant aus, das Manual habe ich nur leider nicht verstanden.
 
-- `fcopy [-BdDhHilMnrUv|-bDIR|-cCLS|-Cfile|-Ffile|-Idir|-Lfile|-mUGM|-sSRC|-tTRG] SOURCE`
-- `ftar [-dDhlrv|-cCLS|-sSRC|-tTRG].. SOURCE..`
+- `fcopy [-BdDhHilMnrUv|-bDIR|-cCLS|-Cfile|-Ffile|-Idir|-Lfile|-mUGM|-sSRC|-tTRG] SOURCE` (`fai-client`)
+- `ftar [-dDhlrv|-cCLS|-sSRC|-tTRG].. SOURCE..` (`fai-client`)
