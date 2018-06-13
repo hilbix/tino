@@ -11,7 +11,7 @@ Mehr zu den Kommandos: RTFM!
 
 # WTF!
 
-Rubrik: Sieht interssant aus, das Manual habe ich nur leider nicht verstanden.
+Rubrik: Sieht interssant aus, nur war leider das Manual für mich komplett unverständlich:
 
 - `fcopy [-BdDhHilMnrUv|-bDIR|-cCLS|-Cfile|-Ffile|-Idir|-Lfile|-mUGM|-sSRC|-tTRG] SOURCE` (`fai-client`)
 - `ftar [-dDhlrv|-cCLS|-sSRC|-tTRG].. SOURCE..` (`fai-client`)
