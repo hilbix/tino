@@ -6,6 +6,7 @@ Blöd oder wahnsinnig zu sein ist nichts Schlechtes. Wer blöd ist, der kann nic
 
 ### Spoiler
 
+- "Die Entropie kann nicht sinken" [Zweiter Hauptsatz der Thermodynamik](https://de.wikipedia.org/wiki/Zweiter_Hauptsatz_der_Thermodynamik#Entropie)
 - "Vielen Dank für die Einhaltung aller Sicherheitsbestimmungen." [Dark Star](https://de.wikipedia.org/wiki/Dark_Star_(Film))
 - "Keine Panik" [Per Anhalter durch die Galaxis](https://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis)
 - "Der Doktor wird's richten" [Doctor Who](https://de.wikipedia.org/wiki/Doctor_Who)
