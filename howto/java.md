@@ -31,4 +31,8 @@ For the paranoid:
     a7cb0f2ae7767c26a17e8f70555af17f  bcprov-ext-jdk15on-158.jar
     083a9e739d9c718180ba544fe007a67ca3a61cad  bcprov-ext-jdk15on-158.jar
 
-However, this was not enough at my side.  This still needs improvement.
+However, this was not enough at my side.  This still needs improvement, as this now changed to:
+
+## `net.i2p.router.JobQueueRunner : Error processing job [Publish Local Router Info] on thread 3: Unknown EC type`
+
+I really have no idea how to fix this
