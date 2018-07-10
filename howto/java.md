@@ -1,3 +1,5 @@
+c80a49d3e1075c44923570eac95de3d7  bcprov-ext-jdk15on-160.jar
+0faea4c950bbfa6e8882830f0266bc9185755d37  bcprov-ext-jdk15on-160.jar
 # JAVA HowTo
 
 ## `java.security.InvalidKeyException: EC parameters error`
@@ -36,3 +38,11 @@ However, this was not enough at my side.  This still needs improvement, as this 
 ## `net.i2p.router.JobQueueRunner : Error processing job [Publish Local Router Info] on thread 3: Unknown EC type`
 
 I really have no idea how to fix this
+
+- https://bouncycastle.org/latest_releases.html
+
+    wget https://bouncycastle.org/download/bcprov-ext-jdk15on-160.jar
+    md5sum bcprov-ext-jdk15on-160.jar; sha1sum bcprov-ext-jdk15on-160.jar
+    c80a49d3e1075c44923570eac95de3d7  bcprov-ext-jdk15on-160.jar
+    0faea4c950bbfa6e8882830f0266bc9185755d37  bcprov-ext-jdk15on-160.jar
+
