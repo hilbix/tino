@@ -2,7 +2,7 @@
 
 Dies ist es eine Beschwerde darüber, dass die Kunden hierzulande von Telekommunikationsunternehmen nicht mit transparenten Informationen versorgt werden, seit wann eine Störung besteht, wie lange die Störung anhält, und bis wann man mit der Beseitigung der Störung rechnen kann.
 
-Meine Bitte an die BNetzA ist, dass diese von den Telekommunikationsunternehmen verlangen, transparenz für ihre Kunden zu üben, und zwar in folgender Form:
+Meine Bitte an die BNetzA ist, dass diese von den Telekommunikationsunternehmen verlangen, transparenz für ihre Kunden zu üben, und zwar möglichst in folgender Form:
 
 - ISPs, die Telekommunikation anbieten, müssen eine leicht erreichbare Webseite betreiben.  Leicht erreichbar bedeutet, dass die Informationen nicht hinter einem Login, Cookies oder JavaScript verborgen sind.  Die Informationen müssen also per Lynx, W3M, Curl, WGET abrufbar sein.
 - Die Webseite muss dem semantischen Web ensprechen, d. h. maschinenlesbar ausgelegt sein.  Das Format muss maschinenlesbar sein.  Es gibt dabei aber keine direkte Formatforschrift, außer, dass man sich an gängige Standards (z. B. Datumsangaben in Computerlesbarer Form) hält.
