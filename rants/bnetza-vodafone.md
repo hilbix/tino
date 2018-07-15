@@ -23,20 +23,27 @@ Während eine Störung besteht, darf diese Information zur aktuellen Störung ei
 - Der Zugriff muss aber auch ohne Login möglich sein, z. B. über ein fallweises Access-Token (z. B. in der Form eines Links).
 - Das Access-Token muss missbrauch vorbeugen.  D. h. wenn es in einem Forum geteilt wird (Stichwort: In zu kurzer Zeit greifen zu viele verschiedene IPs auf den gleichen Link zu), muss es automatisch gesperrt werden.
 - Der Nutzer bekommt bei Sperrung automatisch einen neues Token zugeschickt, aber nur bis zu 3 Mal.  Danach muss er sich an den Support wenden um zu erklären, warum sein Link ständig verbreitet wird.
-- Wenn jemand tatsächlich ständig mit wechselnder IP zugreifen will, muss für den Fallback ein OTP (wie der Google-Authenticator) den Zugriff ermöglichen.
+- Wenn jemand tatsächlich ständig mit wechselnder IP zugreifen will, muss für den Fallback etwas wie ein OTP (wie der Google-Authenticator) den Zugriff ermöglichen.  Es sollen verfahren wie U2F (aka. FIDOkey) verwendet werden, sofern der Nutzer diese Möglichkeit hat.  Auf jeden Fall aber muss es eine Lösung geben, die der Nutzer unmittelbar ohne längere Wartezeit oder kostenpflichtigen Zukauf eines Geräts erhalten kann.  (Es ist zumutbar, dass der Nutzer sich ein solches Token z. B. beim nächstgelegenen T-Punkt zur Öffnungszeit abholt, oder dieses per Postexpress am nächsten Werktag zugesendet wird.  Rückstand/Wartezeit bis Lieferung möglich darf es aber nicht geben.)
 - Dies kann z. B. auch über einen Sprachcomputer lösen.  Dieser erkennt die anrufende Telefonnummer und gibt dann, ohne weitere Abfragen, sofort den Störungsstatus per Sprachansage aus.
 - Die Sprachansage muss allgemein gehalten werden, darf nicht personalisiert sein (alle Betroffenen erhalten dieselbe Ansage), werbefrei sein und das wichtigste zuerst nennen:
   - Beispiel: "Die Strörung besteht weiterhin.  Die Störung besteht seit XXXX." ggf. gefolgt von einem Verlauf der allgemeinen Störung.
   - Beispiel: "Die Störung ist beseitigt.  Die Störung bestand von XXXX bis YYYYY." ggf. gefolgt von einem Verlauf der allgemeinen Störung.
 - Wenn jemand mit mehreren verschiedenen Telefonnummern auf diese Information zugreifen will (Handy, Festnetz vom Arbeitgeber, etc.) ist dies ebenso zu ermöglichen.
 
-Außerdem haben die Telekommunikationsunternehmen den Anschlussinhabern sämtliche geplanten Wartungsarbeiten mitzuteilen, die den Anschluss betreffen könnten, inkl. der entsprechenden Zeiten.
+Außerdem haben die Telekommunikationsunternehmen den Anschlussinhabern sämtliche geplanten Wartungsarbeiten mitzuteilen, die den Anschluss betreffen könnten, inkl. der entsprechenden Zeiten, wenn der Anschlussihaber dies verlangt.
 
-- Dies kann per Login oder per Brief geschehen.
+- Wartungen sind 1 Woche (6 Werktage) vorher anzukündigen.
+- Außergewöhnliche Wartungen sind 1 Tag vorher anzukündigen.
+- Notfallwartungen sind schnellstmöglich über die bestehenden Wege mitzuteilen.
+- Dies kann per Login oder z. B. per Brief geschehen.  Wichtig ist, dass der Anschlussinhaber rechtzeitig von der Wartung erfährt.
+- Die Mitteilung ist prinzipiell kostenlos.  Dafür muss es ein kostenloses Verfahren geben, das dem Anschlussmithaber zumutbar ist.  Neben den kostenlosen Verfahren gab es auch andere nichtkostenlose Verfahren (z. B. Brief) geben, die der Anschlussinhaber wählen darf.
 - Es muss Anfang und geplantes Ende der Wartung (minutengenau) angegeben werden.
 - Es muss die Form und Dauer (sekundengenau, 1h entspricht 3600s) der erwarteten Diensteinschränkung bekanntgegeben werden.  Aussagen wie "bis zu" oder "kürzer als" sind dabei zu vermeiden.
-- Kommt es bei der Wartung zu einer Störung (auch geplant) ist dies im Störungsprotokoll aufzuführen.
-- Ist die Störung unerwartet, darf dies nicht als "Wartungsfall" gewertet werden.
+- Die Wartung ist anschließend ins Störungsprotokoll aufzunehmen mit geplantem Anfang/Ende der Wartung inkl. tatsächlichem Anfang/Ende der Wartung.  Letztere Angaben können entfallen, wenn die Wartung nicht früher angefangen und nicht später beendet wurde.  Geht die Wartung über den geplanten Zeitraum hinaus, gilt immer der größtmögliche Zeitraum (Beispiele: 10:00-11:00 Uhr geplant, 12:00 bis 13:30 dann tatsächlich, Wartungsdauer ist 2,5h.  10:00-11:00 Uhr geplant, 10:45-11:30 tatsächlich, Wartungsdauer 1,5h).
+- Ist es eine Wartung ohne erwartete Störung (Störungsdauer 0s) und kommt es zu keiner Störung, gilt der Anschluss in dem Zeitraum vollständig verfügbar.
+- Ist es eine Wartung mit erwarteter Störung, gilt der Anschluss für den gesamten Wartungszeitraum als nicht verfügbar, da der Nutzer ja davon ausgehen muss, dass er diesen während der Wartung evtl. nicht regulär nutzen kann.
+- Tritt bei der Wartung eine unerwartete Störung auf, ist beides einzutragen:  Die Wartung sowie die Störung.  Der Anschluss gilt dann bei der Wartung als nicht verfügbar.  Da die Angaben falsch waren wird aber zusätzlich die Störungszeit ebenso als Nichtverfügbarkeit des Anschlusses gewertet, wobei die Zeit kompensiert wird (theoretisch ist so 200% Nichtverfügbarkeit erreichbar).
+- Gleiches gilt, wenn die Störung vor oder nach der Wartung mit erwarteter Störung auftritt.  In diesem Fall gilt die gesamte Wartung als nicht verfügbar, sowie die gesamte Störungszeit.  Dabei kann der Rest der erwarteten Störungszeit von der Gesamtstörungszeit abgezogen werden.  Der "Rest der erwarteten Störungszeit" ist der positive Anteil der erwarteten Störungzeit abzüglich der Zeit, in der die Störung während der Wartung vorlag.  (Beispiele: Wartung 10:00-11:30 Uhr, Erwartete Störung 1h, Störung 11:00-13:00 Uhr.  Das bedeutet, der Rest der erwarteten Störungszeit ist 1h (erwartete Störung) abzüglich 30min (Zeitraum in dem die Störung während der Warung vorlag).  Nicht-Verfügbarkeit des Anschlusses ist also 1,5h(=Wartungszeit) + 2h(=Störungszeit) - 30min (=Rest).  Wartung 10:00-11:30 Uhr, Erwartete Störung 1h, Störung 10:00-14:00 Uhr, Rest der erwarteten Störungszeit wäre -30min, d. h. 0min, man kann also nichts abziehen, Nichtverfügbarkeit ist 1,5h+2h.
 
 Des Weiteren muss für Firmen und interessierte Privatpersonen ein Dienst bereitgestellt werden, über den diese aktuelle Störungen, die ihren Anschluss oder ihre Anschlüsse betrifft, über das Internet maschinenlesbar abrufen können.
 
@@ -89,6 +96,8 @@ Da die Störungen so selten waren, war das wie höhere Gewalt.  Man konnte mit d
 Das hat sich geändert.  Unternehmer von heute müssen die Unerreichbarkeit einkalulieren, sonst wird das Risiko untragbar.
 Das Problem ist nun, zu beweisen, dass man selbst die Unerreichbarkeit nicht zu vertreten hat.
 Genau hier muss den Unternehmen (damit meine ich KMUs) ein Mittel in die Hand geben, Schaden ausgrund von unerwartet schlechter Telefoniequalität von sich abzuwenden.
+
+# Ab Hier: T.B.D.
 
 Konkreter Fall:
 
