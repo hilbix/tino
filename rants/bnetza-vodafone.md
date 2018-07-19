@@ -1,3 +1,5 @@
+> Das habe ich NICHT verschickt, da ich keine Zeit hatte, es fertigzuschreiben.  Es gab dann wichtigeres nachdem der Frust verpufft war
+
 # Folgendes verlinke ich in die Meldung an die BNetzA
 
 Dies ist es eine Beschwerde darüber, dass die Kunden hierzulande von Telekommunikationsunternehmen nicht mit transparenten Informationen versorgt werden, seit wann eine Störung besteht, wie lange die Störung anhält, und bis wann man mit der Beseitigung der Störung rechnen kann.
