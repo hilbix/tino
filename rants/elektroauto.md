@@ -347,3 +347,9 @@ Genau da, wo es wichtig ist.
 Aber es ginge besser.  Indem man den Hybrid eben umdreht.  Aus ihm ein reinelektrisches Auto mit Zusatzverbrenner macht.
 
 Genau deshalb schreibe ich das.  Es wäre das, was ich heute brauche.
+Eine nochmalige wesentliche Verbesserung zum bestehenden Hybrid, in jeder Weise,
+also Alltagstauglichkeit, Verbrauch, Nutzen, Geldsparen beim Tanken und Zufriedenheit usw.
+
+Eine Win-Win-Win-Situation.
+
+Und dann noch den Selbstfahrer oben drauf und wir haben eine Win-Win-Win-Win-Situation.
