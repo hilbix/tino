@@ -253,3 +253,97 @@ Es gibt kein Getriebe mehr, sondern eine Synchronübertragung, d. h. der Verbren
 Der Verbrenner wird auch als Heizung genutzt.  Es ist vollkommen banane, ein Auto reinelektrisch zu heizen, selbst mit Wärmepumpe.  Diese kann man viel besser mit Verbrenner antreiben, insbesondere wenn der immer gleichmäßig dreht.  Außerdem muss man Akkus ja auch ggf. heizen oder kühlen.
 Also dürfte ein integriertes Wärme/Kühlkonzept das den Verbrenner einschließt das Optimum bedeuten.
 
+Da der Verbrenner optimal betrieben wird, kann die Abgasreinigung entsprechend genau von diesem Fall ausgehen und darauf optimiert werden.  Das vereinfacht nicht nur die Steuerung erheblich, sondern macht die Reinigung besonders effizient.
+
+Aus diesem Grund können für den Verbrenner Diesel und (Erd)Gas verwendet werden, die Alternative wäre ein Stirlingmotor.
+
+Da Stirlingmotoren im Gegensatz zu modernen Verbrennern nicht besonders gut untersucht und entwickelt sind, dürften die aktuellen Motoren die bessere Wahl sein, bis sich entsprechende Alternativen entwickeln können.
+
+> Was ich hier schreibe ist kein Wolkenkuckucksheim.
+>
+> Es geht darum:  Man nehme bestehende, gut verstandene Technik und baue sie so um, dass man sie immer noch gut versteht.
+>
+> Wir wissen, wie
+>
+> - moderne Verbrennungsmotoren funktionieren
+> - man sie optimal betreibt
+> - wir sie sauber bekommen
+> - wir elektrische Antriebe herstellen
+> - man Akkus herstellt
+> - man sie lädt.
+> - man Lineargetriebe bzw. Drehmomentwandler baut
+> - man das effizient tut.
+> - man eine Reichweite von 100km bei 130km/h reinelektrisch bekommt.
+> - man eine Reichweite von 500km bei 200km/h mit Verbrenner bekommt.
+> - man Autos mit dem Formfaktor Verbrennungsmotor baut.
+>
+> All das ist problemlos erreichbar und vollkomme beherrschte Technik.
+>
+> Die einzige Herausforderung ist, diese Technik zusammenzuführen.
+> Der Verbrenner wird etwas kleiner, der Elektroantrieb wird etwas größer.
+> Jedenfalls im Vergleich zu den heutigen Hybriden.
+>
+> Ein Auto
+> - ohne Reichweitenangst
+> - absolut praxistauglich
+> - absolut alltagstauglich
+> - Langstckentauglich
+> - Kurzstreckentauglich
+> - das einfach nur besser ist als alles sonst auf dem Markt
+> - das nicht teuer sein muss, weil die Eckwerte von oben sind nichts besonderes
+>
+> Und ja, damit meine ich sowohl andere Verbrenner als auch andere reinelektischen Fahrzeuge von heute.
+
+Ja, das Ziel dürfte sein, die hybride Technik irgendwann loszuwerden, weil das ist aufwendig.
+Aber genau das können wir heute noch nicht, weil die Abstriche von reinen E-Autos zu groß sind.
+
+- E-Autos sind nicht langstreckentauglich, da sie keine 500km bei hoher Geschwindigkeit erreichen können.
+- Verbrenner in der heutigen Form sind aber eindeutig End-of-Life, da sie die Städte verpesten.
+- Die Ladeinfrastruktur ist noch nicht ubiquitär
+- Die Autos sind noch keine Selbstfahrer (was viele erleichtert, siehe oben)
+- usw.
+
+Autos der heutigen Mittelklassewagen mit Verbrennungsmotor sind rundum-sorglos-Pakete.
+Sie sind absolut alltagstauglich, sind absolut langstreckengeeignet (auch wenn sie keine Langstreckenautos sind),
+man hat keine Reichweitenangst und kann sie in ganz Europa problemfrei nutzen.
+Im Geschwindigkeitsbereich von 180km/h-230km/h sind sie sinnvoll, bequem und sicher zu betreiben.
+
+Autos mit Hybridantrieb (siehe oben) sind eine eindeutige Verbesserung dazu.
+Ja, sie taugen nicht für den Auto-Apologeten, egal ob er PS oder E vertritt.
+
+Langstreckenwagen sind bei E sowieso außen vor.  Autos, die 4h lang mit über 200km/h Durchschnitt gefahren werden können.
+Ja, die gibt es.  Das sind die schweren Oberklassenfahrzeuge mit Tankvolumen im Schiffsbereich.
+Um die geht es nicht.
+
+Richtig ist, für die Kleinwagen sind E-Autos inzwischen eine hervoragende Alternative.
+Wer sich maximal 50km im Umkreis um sein Haus bewegt, das meistens unter 100km/h weil wenig Landstraße,
+der kann sich ein reinelektrisches kaufen.  Sofern er kein Laternenparker ist
+(und schwupps ist die Menge der Leute, die das nutzen können, winzig klein).
+Mit so einem Auto will man nicht auf die Langstrecke.  Glaubt mir.
+Ja, man kann das.  Aber mit so vielen Einschränkungen, da ist die Reichweitenangst bei E-Autos
+oder die notwendige Streckenplanung entlang den Ladesäulen eher sekundär.
+
+Worum es geht sind die all-in-one praxistauglischen Allroundfahrzeuge.
+Eben "das Auto", das ich verwende.
+
+Mit leichten Ausprägungen eher im Nahbereich oder zum Pendeln oder auch mal langstreckentauglicher.
+Die Variation ist hier gering, weil alle mehr oder weniger dasselbe bieten, der Rest sind Nuancen.
+
+Das ist die größte Masse.  Das ist das, was man sich zulegt, wenn man nicht genau weiß, was man in 5 Jahren vielleicht braucht.  Das ist für Leute, die ein Auto lange bis sehr lange (20 Jahre) fahren.
+Wo sich die Leute reinsetzen, ohne nachzudenken, und losfahren.
+Die einfach verfügbar sind, jederzeit.
+
+Genau da braucht es weiterhin Autos.  Und genau das können die reinelektrischen von heute eben nicht.  Alle, wie sie da sind.  Ohne jede Ausnahme.
+
+Aber wie geschrieben:
+
+Hybrid ist da eindeutig eine Verbesserung.
+
+- Man kann sie anstecken, muss aber nicht.
+- Und der Verbrauch in der Stadt - auch wenn man sie nicht oder nur gelegentlich lädt - geht drastisch zurück.
+
+Genau da, wo es wichtig ist.
+
+Aber es ginge besser.  Indem man den Hybrid eben umdreht.  Aus ihm ein reinelektrisches Auto mit Zusatzverbrenner macht.
+
+Genau deshalb schreibe ich das.  Es wäre das, was ich heute brauche.
