@@ -31,13 +31,21 @@ Ich habe folgende Notwendigkeiten:
 
 - Minimale Reichweite reinelektrisch (bei 130 km/h): 100 km
 - Minimale Reichweite Benzin (200km/h Durchschnitt): 500 km
+- Reserve: 50 km
 
 Reinelektrisch hätte ich folgende Notwendigkeiten:
 
 - Minimale Reichweite reinelektrisch (bei 200km/h): 250 km
+- Reserve: 50 km
 
 Unter "Minimaler Reichweite" meine ich, im nachts im Winter bei -15 Grad mit 10h vollständiger Heizleistung wegen Stau.
 Mit einem Benziner hatte ich das schon.  Mehrfach.
+
+Unter "Reserve" meine ich, was man noch fahren kann, wenn die Reichweite aufgebraucht ist.
+Die Reserve kommt also auf die angegenenen Fahrleistungen oben drauf.
+Unter Reserve hat man Einschränkungen, z. B. fährt das Auto dann max. 80 km/h damit man die 50km auch erreicht.
+
+Bei Benzinern ist diese Reserve vorhanden.  Ich erwarte, dass es bei E-Autos ebenso ist.
 
 Technisch habe ich derzeit folgende Strecke:
 
@@ -54,7 +62,7 @@ Bei einem elektrischen Auto wird es außerdem gar nicht selten der Fall sein, da
 Ja, das ist so.  Und nein, das wird sich nicht ändern.
 
 Ich erwarte, dass das Auto nach den 5h wieder voll einsatzfähig ist.
-"Voll einsatzfähig" bedeutet nicht unbedingt vollgeladen.
+"Voll einsatzfähig" bedeutet nicht unbedingt vollgeladen, sondern dass ich die 170km schaffe.
 
 Mein Benziner ist ja auch nicht plötzlich voll, nur weil ich zuhause losfahre.
 Aber den Benziner kann ich binnen 10 Minuten an der Tankstelle volltanken.
@@ -66,13 +74,14 @@ weil ich erwarten kann, dass ich eine offene Tankstelle finde.
 24h offene Tankstellen gibt es direkt auf dem Weg oder mit ca. 1 Minute Umweg.
 
 Diese 10 Minunten muss das E-Auto nicht erreichen.  Ich erhöhe diese Zeit für E-Autos gerne um 50%, also auf 15 Minunten.
-50% ist aber das maximum dessen, das ich als Einschränkung gewillt bin zu geben.
+50% ist aber das Maximum dessen, das ich als Einschränkung gewillt bin zu geben.
 Erst, wenn reinelektrische Fahrzeuge dies erreichen, bin ich gewillt umzusteigen.
 
 Für den kurzen Umweg, umständlichen Handling an der Ladesäule usw. gehen ca. 5 Minuten drauf.
 Damit hängt das Auto dann volle 10 Minuten an der Ladesäule.
 
 Das muss reichen, damit ich genug Reichweite ins Auto hineinbekomme, um den Termin rechtzeitig zu halten.
+Sprich, ich muss in 10 Minunten von "Akku leer" auf sichere 170 km kommen.
 
 Reichweitenextender wären eine Alternative.  Das Problem bei den Teilen ist, dass man dann langsam fahren muss.
 Auf meiner Strecke macht der Unterschied zwischen 100 und 200 in etwa 25 Minuten aus.
@@ -210,3 +219,37 @@ weil die mehr kostet als seine Wohnung, darf er nicht benachteiligt werden!
 >
 > Das gilt für alles, was ubuquitär ist.  So lange es aber nicht ubuquitär ist, sondern eher der Sonderfall,
 > ist das vollkommen anders.
+
+
+## Umdrehen: Elektroauto mit Benzinmotor
+
+So lange das nicht so ist, hätte ich gerne etwas anders.
+
+Nämlich einen Hybrid, der ein Elektroauto mit Benzinmotor darstellt.
+
+D. h.
+
+- Das Auto fährt in der Regel reinelektrisch.
+- Wenn das Auto höhere Geschwindigkeiten (>120km/h) fährt, schaltet es den Verbrenner zu.
+- Auf längeren Strecken schaltet es ebenfalls den Verbrenner zu.
+- Der Verbrenner hat eine Reichweite (wie geschrieben) um 500km bei 200km/h
+- Der reinelektrische Antrieb hat eine Reichweite von 100km bei 130km/h.  (Darunter mehr!)
+- Der Verbrenner wird immer im optimalen Bereich betrieben.
+  So dass die Abgasreinigung immer im optimalen Bereich gehalten werden kann.
+  Damit entfallen Reinigunszyklen etc.
+- Der Verbrenner liefert die Grundleistung.  Die dynamische Leistung kommt vom Elektromotor.
+
+Sprich:
+
+- Trete ich auf das Gas, beschleunigt der Elektromotor, nicht der Verbrenner!
+- Der Verbrenner geht auch nicht ständig aus und an, sondern läuft durch und pumpt ungenutzte Energie in den Akku.
+
+Der Verbrenner ist kein reiner Range-Extender, sondern ist auch mit der Achse gekoppelt.
+
+Dabei kann das so konstruiert sein wie beim Volvo, d. h. der Verbrenner hängt an einer Achse, der Elektroantrieb an der anderen.  Allerdings geht die meiste Leistung beim Bremsen auf die Vorderachse.  Deshalb sollte der Elektroantrieb an der Vorderachse hängen, während der Verbrenner die Hinterachse antreibt.  **Sinnvollerweise wandert der Verbrenner dann nach hinten**.
+
+Es gibt kein Getriebe mehr, sondern eine Synchronübertragung, d. h. der Verbrenner kann immer im optimalen Bereich laufen.  Im Stand muss die Energie vom Verbrenner aber vollständig(!) in den Akku gehen können.  (Das ist beim Volvo z. B. leider nicht so.)
+
+Der Verbrenner wird auch als Heizung genutzt.  Es ist vollkommen banane, ein Auto reinelektrisch zu heizen, selbst mit Wärmepumpe.  Diese kann man viel besser mit Verbrenner antreiben, insbesondere wenn der immer gleichmäßig dreht.  Außerdem muss man Akkus ja auch ggf. heizen oder kühlen.
+Also dürfte ein integriertes Wärme/Kühlkonzept das den Verbrenner einschließt das Optimum bedeuten.
+
