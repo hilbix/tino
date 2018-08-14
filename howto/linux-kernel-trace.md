@@ -5,11 +5,6 @@ This here tries to be short and comprehensive.
 
 ## Kernel Debug (Trace Event)
 
-See:
-
-- https://www.kernel.org/doc/Documentation/trace/events.txt
-- https://github.com/joeyli/openSUSE_ASIA/blob/master/openSUSE_Asia_2017_Tokyo/
-
 Everything is below this here:
 
     cd /sys/kernel/debug/tracing
@@ -41,4 +36,17 @@ En/Dis event (`available_events`'s `LINE`=`MAIN:SUB` then `EVENT`=`MAIN/SUB`):
     echo 1 > event/EVENT/enable     # en
     echo 0 > event/EVENT/enable     # dis
 
-Triggers and filters:  Please see https://www.kernel.org/doc/Documentation/trace/events.txt
+https://www.kernel.org/doc/Documentation/trace/events.txt contains more on this:
+
+- Filters (only log interesting things)
+- Triggers (do things when some function starts/exits)
+
+https://www.kernel.org/doc/Documentation/trace/ftrace.txt explains
+
+- `tracing/` subdirectory
+- Latency and function 
+
+See also:
+
+- `tracing/` docmented in 
+- https://github.com/joeyli/openSUSE_ASIA/blob/master/openSUSE_Asia_2017_Tokyo/
