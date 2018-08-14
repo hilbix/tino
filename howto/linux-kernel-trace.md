@@ -43,10 +43,9 @@ https://www.kernel.org/doc/Documentation/trace/events.txt contains more on this:
 
 https://www.kernel.org/doc/Documentation/trace/ftrace.txt explains
 
-- `tracing/` subdirectory
-- Latency and function 
+- `trace` file
+- Latency and function tracing
 
 See also:
 
-- `tracing/` docmented in 
 - https://github.com/joeyli/openSUSE_ASIA/blob/master/openSUSE_Asia_2017_Tokyo/
