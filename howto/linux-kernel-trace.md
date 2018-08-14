@@ -10,7 +10,7 @@ See:
 - https://www.kernel.org/doc/Documentation/trace/events.txt
 - https://github.com/joeyli/openSUSE_ASIA/blob/master/openSUSE_Asia_2017_Tokyo/
 
-### List all 
+Everything is below this here:
 
     cd /sys/kernel/debug/tracing
 
