@@ -16,7 +16,7 @@ Stand:
 - Beim Einschalten blinkt die rote LED
 - "Schublade für Kaffeepulverreste" ging nicht rein.
 - "Brüheinheit" blockiert (geht nicht raus)
-- Maschine fährt weder beim Einschalten noch durch Tricks in die Grundstellung
+- Maschine fährt weder beim Einschalten noch durch Reset in die Grundstellung
 
 > **Warnung!**
 >
