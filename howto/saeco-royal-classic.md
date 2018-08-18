@@ -68,12 +68,12 @@ Aber genau in der Stellung braucht man sie nicht zu lösen, da die "Brüheinheit
 
 Der Vorgang ist also der:
 
-- Schraube lösen.  Es ist nicht notwendig, sie vollständig rauszuschrauben aber sie ist länger, als man vielleicht denkt ;)
+- Schraube (3) lösen.  Es ist nicht notwendig, sie vollständig rauszuschrauben aber sie ist länger, als man vielleicht denkt ;)
 - "Press" drücken und die "Brüheinheit" mit äußerst sanfter Gewalt herausziehen.  Dabei löst sich eine Steckverbindung mit Dichtung.
 - Die Steckverbindung löst sich bei angezogener Schraube nicht, denn genau dafür ist die Schraube da!
 - Im hinteren Teil bleibt dann das Teil liegen, welches man abgeschraubt hat und das die Arretierung verursachte.
 - Dieses Teil jetzt wieder anstecken und wieder festschrauben.
-- Dann die Brüheinheit in Grundstellung bringen.  Der Steg hinten ist dann am unteren Anschlag, die beiden Markierungen vorne unter dem Griff zeigen aufeinander.
+- Dann die "Brüheinheit" in Grundstellung bringen.  Der Steg hinten ist dann am unteren Anschlag, die beiden Markierungen (5) vorne unter dem Griff zeigen aufeinander.
 - All das geht vollkommen gewaltfrei!
 
 Jetzt ist die Achse des Motors noch zur Grundstellung verdreht.  Man muss den Motor dazu bringen, in die Grundstellung zu fahren.
@@ -88,3 +88,28 @@ Das geht nur, wenn die Maschine funktioniert und wenn drei(!) Microswitches gesc
 - Nun Pappen entfernen und "Brüheinheit" wieder einschieben.  Das geht ohne Gewalt.
 - Wenn der Motor sich in Grundstellung bewegt, hält er kurz an und fährt dann ganz kurz nochmals weiter.
 - Hat man Probleme, die "Brüheinheit" ganz reinzuschieben, einfach einen der zwei Stopps probieren.  Bei mir gingen beide.
+
+Bilder:
+
+- Der Microswitch befindet sich im Schlitz unter der 1
+![Der Microswitch befindet sich im Schlitz unter der 1](saeco/saeco-schubladenschlitz.png)
+
+- Die Überbrückung per Pappe
+![Betätigung des Microswitch mit etwas Pappe](saeco/saeco-hack.png)
+
+- Die Schraube, die die "Brüheinheit" festhält wenn die normale Entnahme blockiert ist
+![Schraube in der "Brüheinheit"](saeco/saeco-schraube.png)
+
+- Markierungen zeigen aufeinander wenn die "Brüheinheit" in Grundstellung ist (das Plastik links ist der Griff)
+![Grundstellung der "Brüheinheit"](saeco/saeco-grundstellung.png)
+
+- Position des Microswitches von der "Brüheinheit" (4).  Auch zu sehen der Schlitz der "Schublade" mit Microswitch (1)
+![Innere Seitenwand des Kaffeevollautomaten, Position vom 2. Microswitch](saeco/saeco-seite.png)
+
+Legende:
+
+- (1) Microschalter "Schublade"
+- (2) Pappe im Schlitz zur Betätigung vom Microschalter "Schublade"
+- (3) Schraube die die Steckverbindung von der "Brüheinheit" festhält
+- (4) Microschalter "Brüheinheit"
+- (5) Grundstellung der "Brüheinheit"
