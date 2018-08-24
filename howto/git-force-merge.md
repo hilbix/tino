@@ -1,3 +1,5 @@
+See implementation: https://github.com/hilbix/gitstart/blob/master/aliases.sh#L142-L157
+
 # Why is there no forced merge in `git`?
 
 Why is there an asymmetry?
