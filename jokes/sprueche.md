@@ -5,3 +5,5 @@
 - 2017-04-11 Scheiße.  War gar nicht clever, mein Passwort `sudo rm -rf /` zu nennen.  Hab's nämlich gerade ausversehen auf die Commandline gepastet ..
 
 - 2018-05-12 Das ist in etwa so sinnvoll wie eine zweite Blinddarmoperation.  Machbar?  Durchaus.  Sinnvoll?  Eher nicht!  (Zum Thema Coolar)
+
+- 2018-09-06 Bar Ironie deucht's sich mir gar passend, dreht sich der KESL wie beim Roulette. (Zum Thema Kaspersky Endpoint Security for Linux)
