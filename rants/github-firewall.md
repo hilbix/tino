@@ -34,6 +34,9 @@ To fix that, we need something like a GitHub firewall!
 
 ## Semaphore -> Easy to set up but Extremely Insecure by Default
 
+- Pros: Very easy to setup.  Supports GitHub and BitBucket.  Nearly no documentation to read, it tells you everything you need to know (perhaps except on how to add branches).
+- Cons: Unusable from a security perspective.  Only supports GitHub and BitBucket.
+
 I went through the registration and then added my first project.  Then I had issues to find out where to add additional branches.
 (Nope, it's not under Project's setting in the Branches tab, instead it's hiding as 'lil tiny (+) right next to the branch in the project's dashboard).
 
@@ -73,6 +76,10 @@ Unfortunately doing so needs a high effort.
 
 ## Cirrus CI (evaluating)
 
+- Pros: I do not know yet.  Perhaps:  Integrated in GitHub, is for Linux/Windows/MacOS
+- Cons: I do not know yet.  Perhaps:  Integrated in GitHub
+
+
 At a first glance it looks promising, as it only wants to get Readonly access to everything.
 Write access is only needs for states, which is correct, as this is needed.
 
@@ -81,19 +88,36 @@ However it seems much more complicated to get it started.  I am now reading docu
 
 ## CircleCI (not yet evaluated)
 
+- Pros: I do not know yet.
+- Cons: I do not know yet.
+
 Perhaps I will evaluate next, if I fail with Cirrus CI.
 
 
 ## Codefresh (not yet evaluated)
+
+- Pros: I do not know yet.
+- Cons: I do not know yet.
 
 Just read the very first sentence on Marketplace.
 
 
 ## Buddy (not yet evaluated)
 
+- Pros: I do not know yet.
+- Cons: I do not know yet.
+
 Is this a CI as I want?
 
 
 ## Travis CI (not yet evaluated)
 
-Perhaps the godfather of CIs.  I did not yet come around to test this.
+- Pros: I do not know yet.  Probably:  Godfather of CIs for GitHub.
+- Cons: I do not know yet.
+
+And really, I did not yet come around to test this.
+
+## Jenkins (not yet evaluated)
+
+- Pros: I do not know yet.  Probably:  Godfather of CIs.
+- Cons: I do not know yet.  Probably:  Not a hosted service, so you need to do it yourself.
