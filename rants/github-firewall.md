@@ -32,8 +32,7 @@ To fix that, we need something like a GitHub firewall!
 
 (This text will be extended when I have the time.)
 
-
-## Semaphore -> Extremely Insecure by Default
+## Semaphore -> Easy to set up but Extremely Insecure by Default
 
 I went through the registration and then added my first project.  Then I had issues to find out where to add additional branches.
 (Nope, it's not under Project's setting in the Branches tab, instead it's hiding as 'lil tiny (+) right next to the branch in the project's dashboard).
@@ -70,3 +69,24 @@ This also improves privacy, because you can use a throw-away-mail-address for th
 Hence if Semaphore gets hacked, **this would not even leak your nonpublic mail address**.
 
 Unfortunately doing so needs a high effort.
+
+## Cirrus CI (evaluating)
+
+At a first glance it looks promising, as it only wants to get Readonly access to everything.
+Write access is only needs for states, which is correct, as this is needed.
+
+However it seems much more complicated to get it started.  I am now reading documentation on how to get started - which should not be needed in a postmodern product!  (Semaphore is better in this respect.)
+
+
+## CircleCI (not yet evaluated)
+
+Perhaps I will evaluate next, if I fail with Cirrus CI.
+
+
+## Travis CI (not yet evaluated)
+
+Perhaps the godfather of CIs.  I did not yet come around to test this.
+
+## Buddy (not yet evaluated)
+
+Is this a CI as I want?
