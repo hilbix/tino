@@ -3,10 +3,10 @@
 > This is some firewalled account with arbitrary (fake) account data which has readonly access to all of your public repositories.
 > (It can have readonly access to your private repositories as well if you allow.)
 >
-> All changes to the firewalled account never makes it back to your real account without your consent.
-> Hence whatever happens to the data in your firewalled account in't affecting your real account at all.
+> All changes to the firewalled account never make it back to your real account without your consent.
+> Hence, whatever happens to the data in your firewalled account, it isn't affecting your real account at all!
 >
-> So a GitHub Firewall does two things:
+> So a **GitHub Firewall** does two things:
 >
 > - It defends your privacy against any and all possiblilities.
 >   It not only protects you against failure on the other side, it also protects you for your own human errors.
