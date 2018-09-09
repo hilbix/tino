@@ -54,7 +54,8 @@ If Semaphore ever is taken over by some evil entity (aka cracked), it can not on
 
 ### Conclusion: You cannot use Semaphore without a GitHub Firewall
 
-The fix was too complicated for me to try out, as long as there are others.  Here is the idea how to firewall Semaphore:
+The fix was too complicated for me to try out, as long as there are others in the marketplace to try out.
+Here is the idea how to firewall Semaphore:
 
 - Create a secondary GitHub Account.
 - Configure Semaphore on that secondary account only.
