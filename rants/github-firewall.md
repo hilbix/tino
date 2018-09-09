@@ -113,7 +113,7 @@ Is this a CI as I want?
 ## Travis CI (not yet evaluated)
 
 - Pros: I do not know yet.  Probably:  Godfather of CIs for GitHub.
-- Cons: I do not know yet.
+- Cons: I do not know yet.  Probably:  Needs `.travis.yml` in your codebase, so it cannot be applied without a change
 
 And really, I did not yet come around to test this.
 
