@@ -21,11 +21,11 @@
 
 Having a CI is a nice thing.  And there are [quite a lot in the Marketplace](https://github.com/marketplace/category/continuous-integration)
 
-All my data is Open Source and I use the GitHub free Tier, so I decided to try all those which are Free to use, in favor of my OpenSource project.
+All my data is Open Source and I use the GitHub free Tier, so I decided to try all those which are Free to use, in favor of my OpenSource projects.
 
 > With a CI in Background you prevent some errors, like to push code to the master branch with does nut survive Unit Tests.
 
-However, AFAICS some of those CIs are implemented so braindeadly, that they are a major security risk to your data.
+However, AFAICS some of those CIs are implemented so braindeadly, that they are a major security risk to your data on GitHub.
 (Am I the only one to notice that yet?)
 
 To fix that, we need something like a GitHub firewall!
