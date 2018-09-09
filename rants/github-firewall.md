@@ -1,6 +1,6 @@
 > We definitively need a GitHub Firewall!  What is a GitHub Firewall?
 >
-> This is some firewalled account with arbitrary (fake) account data which das readonly access to all of your public repositories.
+> This is some firewalled account with arbitrary (fake) account data which has readonly access to all of your public repositories.
 > (It can have readonly access to your private repositories as well if you allow.)
 >
 > All changes to the firewalled account never makes it back to your real account without your consent.
