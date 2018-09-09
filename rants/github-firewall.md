@@ -70,6 +70,7 @@ Hence if Semaphore gets hacked, **this would not even leak your nonpublic mail a
 
 Unfortunately doing so needs a high effort.
 
+
 ## Cirrus CI (evaluating)
 
 At a first glance it looks promising, as it only wants to get Readonly access to everything.
@@ -83,10 +84,16 @@ However it seems much more complicated to get it started.  I am now reading docu
 Perhaps I will evaluate next, if I fail with Cirrus CI.
 
 
-## Travis CI (not yet evaluated)
+## Codefresh (not yet evaluated)
 
-Perhaps the godfather of CIs.  I did not yet come around to test this.
+Just read the very first sentence on Marketplace.
+
 
 ## Buddy (not yet evaluated)
 
 Is this a CI as I want?
+
+
+## Travis CI (not yet evaluated)
+
+Perhaps the godfather of CIs.  I did not yet come around to test this.
