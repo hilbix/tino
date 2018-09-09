@@ -43,8 +43,8 @@ Then I noticed horrible things, which are an extreme danger to all of my reposit
 - Semaphore uses Read/Write deployment keys.
   That's extremely bad, because for security reasons, a CI must not have write access.
 
-- **Semaphore is able to take over all data in the repositories and replace it by fake data!**  This is an absolute no-go.
-  (Note that this only happens, if Semaphore is granted access to your Repo data.  But without it does not work.)
+- Semaphore uses the "all repo" permission (or whatever it's called).  So **Semaphore is able to take over all data in the repositories and replace it by fake data!**  This is an absolute no-go.
+  (Note that this can only happen, if Semaphore is granted access to your Repo data, and somebody evil takes over Semaphore.  As soon as you revoke OAuth access, this can no more happen.  **So be sure to revoke Access on the GitHub side!** It's under **[Settings :: Applications](https://github.com/settings/applications) :: Authorized OAuth Apps**)
 
 If Semaphore ever is taken over by some evil entity (aka cracked), it can not only read all the data
 (which is public anyway) but it also can change them, as it likes.  So it can add backdoors or worse to your software!
