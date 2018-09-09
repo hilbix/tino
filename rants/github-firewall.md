@@ -28,7 +28,7 @@ All my data is Open Source and I use the GitHub free Tier, so I decided to try a
 However, AFAICS some of those CIs are implemented so braindeadly, that they are a major security risk to your data.
 (Am I the only one to notice that yet?)
 
-Read below, why we need such a GitHub firewall.
+To fix that, we need something like a GitHub firewall!
 
 (This text will be extended when I have the time.)
 
