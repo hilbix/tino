@@ -84,12 +84,12 @@ How to compile for Windows or MacOS?
 
 - Both work in the free tier, too.
 - [Windows](https://cirrus-ci.org/guide/windows/) executes on Azure (untested so far) `windows_container`s:  
-  [`cirrusci/windowsservercore:2016`](https://hub.docker.com/r/cirrusci/windowsservercore/tags/)
+  [`cirrusci/windowsservercore:2016`](https://hub.docker.com/r/cirrusci/windowsservercore/tags/)  
   [`microsoft/windowsservercore:ltsc2016`](https://hub.docker.com/r/microsoft/windowsservercore/tags/)  
 - [MacOSx](https://cirrus-ci.org/guide/macOS/) executes on Anka Cloud [example](https://github.com/hilbix/macshim/blob/dev/.cirrus.yml)) [`osx_instance`](https://github.com/cirruslabs/osx-images)s:  
   `high-sierra-base` without Xcode  
   `high-sierra-xcode-9.4` with Xcode 9.4  
-  `high-sierra-xcode-9.4.1` with Xcode 9.4.1
+  `high-sierra-xcode-9.4.1` with Xcode 9.4.1  
 - Android and others [see yourself](https://hub.docker.com/u/cirrusci/)
 
 How to use with `gbp` and Debian Toolchain?
