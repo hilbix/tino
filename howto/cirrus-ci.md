@@ -98,7 +98,7 @@ How to compile for Windows or MacOSX?
   `high-sierra-xcode-9.4` with Xcode 9.4  
   `high-sierra-xcode-9.4.1` with Xcode 9.4.1  
   (This list was compiled in 2018-09)
-- Android and others [see yourself](https://hub.docker.com/u/cirrusci/) ([examples](https://cirrus-ci.org/examples/) from Cirrus CI]
+- Android and others [see yourself](https://hub.docker.com/u/cirrusci/) ([examples](https://cirrus-ci.org/examples/) from Cirrus CI)
 
 How to use with `gbp` and Debian Toolchain?
 
