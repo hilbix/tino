@@ -2,6 +2,11 @@
 
 Unfortunately, Cirrus CI is not self explanatory.  You need documentation.  This tries to sum it up.
 
+But if you managed that, it "just works"(tm) as it ought to be.
+
+Benefit: It provides CI for Linux, Windows and MacOS-X.
+
+
 # Hello World
 
 ## Enable it on GitHub Marketplace
