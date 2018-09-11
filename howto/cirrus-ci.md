@@ -70,10 +70,14 @@ Where Do I find a list of all possible containers?
 
 - I really have no idea yet.
 
+Docker?
+
+- Sorry, I really have no idea, yet.  
+- Docker looks worthwhile in the context of a public CI.  But in over 30 years of intimate experience in IT, networking, computing and software development, and even with an Asperger-IQ above 150, I still was unable to find out how to run Docker, Gradle, Maven and similar in a secure fashion (inner+outer+sidechannel+hub should add up to, at least, 399,9999999%).  So I cannot use it at my side to improve things.  Hence I never came around to look into it, because I do not think, it helps much.
 
 How to compile for Windows or MacOS?
 
-- This probably needs paid accounts somewhere else.  I really have no idea.
+- This probably needs paid accounts somewhere else.  I really have not found out yet.
 - [Windows](https://cirrus-ci.org/guide/supported-computing-services/#windows-support)?  (Sorry, I do not understand any detail here.)
 - [Mac](https://cirrus-ci.org/guide/supported-computing-services/#anka)?  (And I am completely lost.)
 
@@ -81,3 +85,4 @@ How to compile for Windows or MacOS?
 How to use with `gbp` and Debian Toolchain?
 
 - I really have no idea yet.
+- However it should be easy to find out when I find the time to look into it.
