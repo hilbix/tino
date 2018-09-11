@@ -168,6 +168,17 @@ This is error prone, you need Backups and the like.  Bad thing, get rid of this!
 
 So Cirrus CI would do good to support it this way.  It would leverage most Cons.
 
+Also note:
+
+- Currently, there is no way to build a repo with Cirrus CI, before you push to it.  It needs a push.  Which is stupid.
+- With such a meta-repo, a push against the meta-file of a repo would trigger a build.  This is good.
+
+Why is it good?  Well, consider you have a repo named XXX which depends on YYY.  YYY might have a bug, so XXX fails.
+
+Perhaps this relationship is very very complex.  Like something, which works when the traffic lights of a certain crossing is operational to 80% oder more.  You get the idea.  So you need to be able to build something out of a push schedule.
+
+Cirrus CI apparently does not support this easily today.  Which is a sad thing.
+
 
 ## CircleCI (not yet evaluated)
 
