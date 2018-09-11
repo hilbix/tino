@@ -74,7 +74,7 @@ Hence if Semaphore gets hacked, **this would not even leak your nonpublic mail a
 Unfortunately doing so needs a high effort.
 
 
-## Cirrus CI (evaluating)
+## Cirrus CI (works, looks secure enough, but needs a `.cirrus.yml` to function)
 
 - Pros: Integrated into GitHub, supports Linux/Windows/MacOS (even that I do not know how)
 - Cons: Complex, as it is integrated into GitHub and needs a complex file `.cirrus.yml` (`yml` alone is far too complex already!)
