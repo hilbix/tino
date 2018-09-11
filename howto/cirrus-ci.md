@@ -69,7 +69,7 @@ Badges?
 Where Do I find a list of all possible containers?
 
 - I am really not sure, as this is not really explained good.
-- It appears to me, that you can use [any Docker-Contaner](https://hub.docker.com/explore/) via `image: DOCKERIMAGE/TAG`
+- It appears to me, that you can use [any Linux Docker-Contaner](https://hub.docker.com/explore/) via `image: DOCKERIMAGE/TAG`
   - `https://hub.docker.com/_/DOCKERIMAGE` can be accessed with `DOCKERIMAGE` directly
   - `https://hub.docker.com/r/OWNER/IMAGE` can be accessed with `DOCKERIMAGE` given as `OWNER/IMAGE`
   - `TAG`s are listed on the "Tags" page of the Docker image on hub.docker.com (page `https://hub.docker.com/r/OWNER/IMAGE/tags/`)
@@ -78,16 +78,19 @@ Where Do I find a list of all possible containers?
 Docker?
 
 - Sorry, I really have no idea, yet.  
-- Docker looks worthwhile in the context of a public CI.  But in over 30 years of intimate experience in IT, networking, computing and software development, and even with an Asperger-IQ above 150, I still was unable to find out how to run Docker, Gradle, Maven and similar in a secure fashion (inner+outer+sidechannel+hub should add up to, at least, 399,9999999%).  So I cannot use it at my side to improve things.  Hence I never came around to look into it, because I do not think, it helps much.
+- Docker looks worthwhile in the context of a public CI.  But in over 30 years of intimate experience in IT, networking, computing and software development, and even with an Asperger-IQ above 150, I still was unable to find out how to run Docker, Gradle, Maven and similar in a secure fashion (inner+outer+sidechannel+hub should add up to, at least, 399,9999999%) at my side.  So I cannot use it for me myself and I to improve things.  Hence I never came around to look into it, because I do not think, it helps me much.
 
 How to compile for Windows or MacOS?
 
-- This probably needs paid accounts somewhere else.
-  - Or not? https://cirrus-ci.org/guide/windows/
-  - Or not? https://cirrus-ci.org/guide/macOS/
-- I have not found out yet.
-- [Windows](https://cirrus-ci.org/guide/supported-computing-services/#windows-support)?  (Sorry, I do not understand any detail here.)
-- [Mac](https://cirrus-ci.org/guide/supported-computing-services/#anka)?  (And I am completely lost.)
+- Both work in the free tier, too.
+- [Windows](https://cirrus-ci.org/guide/windows/) executes on Azure (untested so far) `windows_container`s:  
+  [`cirrusci/windowsservercore:2016`](https://hub.docker.com/r/cirrusci/windowsservercore/tags/)
+  [`microsoft/windowsservercore:ltsc2016`](https://hub.docker.com/r/microsoft/windowsservercore/tags/)  
+- [MacOSx](https://cirrus-ci.org/guide/macOS/) executes on Anka Cloud [example](https://github.com/hilbix/macshim/blob/dev/.cirrus.yml)) [`osx_instance`](https://github.com/cirruslabs/osx-images)s:  
+  `high-sierra-base` without Xcode  
+  `high-sierra-xcode-9.4` with Xcode 9.4  
+  `high-sierra-xcode-9.4.1` with Xcode 9.4.1
+- Android and others [see yourself](https://hub.docker.com/u/cirrusci/)
 
 How to use with `gbp` and Debian Toolchain?
 
