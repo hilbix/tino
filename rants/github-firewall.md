@@ -97,47 +97,51 @@ Let alone the `.cirrus.yml` file.  This is very good and very bad at the same ti
 
 It is quite complex to get it proper.  However this way Cirrus CI does not need to maintain some arbitrary setup, all you need is to activate it and create this file and push.  And this is where the problem starts.
 
+
 ### `.cirrus.yml` WTF
 
 See https://cirrus-ci.org/guide/writing-tasks/
 
 There is no configuraton tool.  At least I did not find one.  All I found were https://cirrus-ci.org/examples/ which is a bit .. well .. bare.  Do not get me wrong.  The exampls are quite amazing.  And that is the problem:  You are amazed.  This does not really help you to understand it.
 
-Immediate questions which arise are:
+Open questions and issues with Cirrus CI:
 
 - How to exclude some repo from the dashboard?  I have repos, which are pushed frequently (say: each microsecond).  How how prevent these galaxies of planets of fields with heyballs to hide the needles?
 
 - Where is the list of containers I can use?
+  - Moreover:  Is there a standard container with all GNU-tools like `gcc` and `gawk`?
 
 - How to test a build against several platforms at once?
+
+- How to create a badge on the `README.md` for some branch?
 
 My usual build looks like:
 
 ```
+git submodule update --init
 make
+make test # sometimes
 sudo make install
 ```
 
-and sometimes
-
-```
-make
-make test
-sudo make install
-```
-
-This probably translates to following `.cirrus.yml` (I will see if this idea holds as soon as I get around it)
+This translates to following `.cirrus.yml`:
 
 ```
 container:
   image: gcc:latest
 
 make_task:
+  prep_script: git submodule update --init
   compile_script: make
-  install_script: sudo make install
+  install_script: make install
 ```
 
+
 ### BTW
+
+I like the UI.  It's minimal but functional.  No bloat, no distracting things.
+It's quite not perfect, you still can leave away something.
+For example those repository settings could be replaced by a Cirrus CI meta repo (see below how).
 
 A good idea are the encrypted variables.  However I would like to see following improvement there:
 
