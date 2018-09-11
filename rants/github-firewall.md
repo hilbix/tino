@@ -76,14 +76,97 @@ Unfortunately doing so needs a high effort.
 
 ## Cirrus CI (evaluating)
 
-- Pros: I do not know yet.  Perhaps:  Integrated in GitHub, is for Linux/Windows/MacOS
-- Cons: I do not know yet.  Perhaps:  Integrated in GitHub
+- Pros: Integrated into GitHub, supports Linux/Windows/MacOS (even that I do not know how)
+- Cons: Complex, as it is integrated into GitHub and needs a complex file `.cirrus.yml` (`yml` alone is far too complex already!)
 
+> To get it started:  Activate on GitHub Marketplace.  Then create some `.cirrus.yml` on the repo you want, push and there you go.  See below.
 
-At a first glance it looks promising, as it only wants to get Readonly access to everything.
-Write access is only needs for states, which is correct, as this is needed.
+From a security point of view it looks very promising:
+Readonly access to everything and write access is only needed for states.
+This is correct, as this is the minimum needed.
 
-However it seems much more complicated to get it started.  I am now reading documentation on how to get started - which should not be needed in a postmodern product!  (Semaphore is better in this respect.)
+So technically it seems to be implemented very nice, but humanly it is very puzzling to get it started.
+Just everything happens behind the scenes, and there is no nifty front end interface which might blow your mind.
+
+https://cirrus-ci.com/ is the dashboard and it is just the bare minimum.  Not much to do there except Logout.
+Until you push something against GitHub, then it suddenly gets filled with information!
+
+Documentation sits on https://cirrus-ci.org/ and without documentation, you are doomed.  This is not a modern setup ;)
+
+Let alone the `.cirrus.yml` file.  This is very good and very bad at the same time!
+
+It is quite complex to get it proper.  However this way Cirrus CI does not need to maintain some arbitrary setup, all you need is to activate it and create this file and push.  And this is where the problem starts.
+
+### `.cirrus.yml` WTF
+
+See https://cirrus-ci.org/guide/writing-tasks/
+
+There is no configuraton tool.  At least I did not find one.  All I found were https://cirrus-ci.org/examples/ which is a bit .. well .. bare.  Do not get me wrong.  The exampls are quite amazing.  And that is the problem:  You are amazed.  This does not really help you to understand it.
+
+Immediate questions which arise are:
+
+- How to exclude some repo from the dashboard?  I have repos, which are pushed frequently (say: each microsecond).  How how prevent these galaxies of planets of fields with heyballs to hide the needles?
+
+- Where is the list of containers I can use?
+
+- How to test a build against several platforms at once?
+
+My usual build looks like:
+
+```
+make
+sudo make install
+```
+
+and sometimes
+
+```
+make
+make test
+sudo make install
+```
+
+This probably translates to following `.cirrus.yml` (I will see if this idea holds as soon as I get around it)
+
+```
+container:
+  image: gcc:latest
+
+make_task:
+  compile_script: make
+  install_script: sudo make install
+```
+
+### BTW
+
+A good idea are the encrypted variables.  However I would like to see following improvement there:
+
+- Be able to re-use such variables by different users.
+- Be able to use an external service to securely provide such variables.
+
+Re-Use means, that if I clone a project, I do not need to change the `.cirrus.yml` file to use my credentials.
+This can be done by a two-step-translation of a variable instead of a single step.
+
+This works hand in hand with the second wish.  Cirrus CI certainly does not want to keep state information for users.
+This is error prone, you need Backups and the like.  Bad thing, get rid of this!
+
+`git` to the rescue here.  Require users to have one "**Cirrus CI meta repo**".  This then serves following purpose:
+
+- First, it keeps all the user meta data.  All, even that, which Cirrus CI needs to keep today.
+  - So you do not need to keep the "Security Preferences" of each repo as this can be configured in the meta-repo.
+  - Please note that secured variable are not stored by Cirrus CI today, as they are self-contained.
+- In case a variable uses two-step-translation, it is translated as follows:
+  - In the `master` branch of the meta-repo a YML file is looked up which is named after the repo.
+  - If a variable value is present there, it is taken.
+  - If the value is a secured variable, it is decrypted.
+  - If it is a "commitish:file" definition, this object is read and used as the variable value
+  - If the latter is secured, it is decryted as well.
+- Also you can put more information into this meta-repo, like preferences for builds etc.
+  - As you look up a yml file named after the repo anyway, you could even eliminate the need for a `.cirrus.yml` file
+- If you authorize Cirrus CI to push against the meta repo, you can even build a user UI for most tasks users want to do with Cirrus CI.
+  - You do not need direct write access.  Write access can go to a secondary `git` repo which then is used to cherry-pick the changes.
+
+So Cirrus CI would do good to support it this way.  It would leverage most Cons.
 
 
 ## CircleCI (not yet evaluated)
