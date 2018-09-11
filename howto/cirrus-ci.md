@@ -85,6 +85,7 @@ How to compile for Windows or MacOS?
 - This probably needs paid accounts somewhere else.  I really have not found out yet.
 - [Windows](https://cirrus-ci.org/guide/supported-computing-services/#windows-support)?  (Sorry, I do not understand any detail here.)
 - [Mac](https://cirrus-ci.org/guide/supported-computing-services/#anka)?  (And I am completely lost.)
+  - Or not? https://cirrus-ci.org/guide/macOS/
 
 
 How to use with `gbp` and Debian Toolchain?
