@@ -68,7 +68,12 @@ Badges?
 
 Where Do I find a list of all possible containers?
 
-- I really have no idea yet.
+- I am really not sure, as this is not really explained good.
+- It appears to me, that you can use [any Docker-Contaner](https://hub.docker.com/explore/) via `image: DOCKERIMAGE/TAG`
+  - `https://hub.docker.com/_/DOCKERIMAGE` can be accessed with `DOCKERIMAGE` directly
+  - `https://hub.docker.com/r/OWNER/IMAGE` can be accessed with `DOCKERIMAGE` given as `OWNER/IMAGE`
+  - `TAG`s are listed on the "Tags" page of the Docker image on hub.docker.com (page `https://hub.docker.com/r/OWNER/IMAGE/tags/`)
+- I did not find out yet how to do this machine readable.  But there probably is a way.
 
 Docker?
 
