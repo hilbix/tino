@@ -1,3 +1,7 @@
 # please ignore
 
-comment: please ignore
+container:
+  image: busybox:latest
+
+task:
+  script: true
