@@ -1,8 +1,8 @@
 Summary:
 
 - Cirrus CI ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
-- Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - needs a firewall as it wants full write access.  Besides of that it looks very easy to use.
-- Travis CI ([Marketplace](https://github.com/marketplace/travis-ci)) - needs a firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
+- Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - cannot use without firewall as it wants full write access.  Besides of that it looks very easy to use.
+- Travis CI ([Marketplace](https://github.com/marketplace/travis-ci)) - cannot use without firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
 
 > We definitively need a GitHub Firewall!  What is a GitHub Firewall?
 >
