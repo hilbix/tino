@@ -1,8 +1,10 @@
 Summary:
 
-- Cirrus CI ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
+- [Cirrus CI](https://cirrus-ci.com) ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
 - Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - cannot use without firewall as it wants full write access.  Besides of that it looks very easy to use.
 - Travis CI ([Marketplace](https://github.com/marketplace/travis-ci)) - cannot use without firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
+- [Codecov](https://codecov.io/) ([Marketplace](https://github.com/marketplace/codecov)) - cannot use without firewall as it wants full write access
+- [Coverity](https://scan.coverity.com/github) - Evaluating eventually next
 
 > We definitively need a GitHub Firewall!  What is a GitHub Firewall?
 >
@@ -226,10 +228,29 @@ Falls in the same trap as Semaphore.  So I cannot use it.
 
 The permissions on the GitHub App look reasonable.  They are a bit broader than from Semaphore, though.
 
-However as soon as you try to login to https://www.travis-ci.com/ it wants "all repository read/write" for your account.  As Semaphore wants, too.
+However as soon as you try to login to https://www.travis-ci.com/ it wants "all repository read/write" for your account for all public and private repos.  As Semaphore wants, too.
 
-Sorry, no, I won't give that.  Ever.  For the same reasons stated above.  **Not without a firewall.**
-This is sad!
+This is a double no-go.  First, it must not have write access.  Second I want to restrict it to public Repos.  (Note that I have no private repos, but if I have I want to keep them private to Micrsoft and not any third party.)
+
+So sorry, no, I won't give that permissions.  Ever.  So I **cannot use Travis-CI without a firewall**.  This is sad!
+
+
+## Codecov -> Extremely Insecure by Default
+
+- Pros: I do not know yet.
+- Cons: Unusable from a security perspective at my side.
+
+[Codecov](https://codecov.io/) ([Marketplace](https://github.com/marketplace/codecov)) wants reasonable permissions as GitHub App, but then, as all those others, it demands "all repository read/write".  You can restrict it to public repos, though, which does not help me much.
+
+Hence **Codecov must be used with a firewall**.  (At present, I have none.)
+
+
+## Coverity - not yet evaluated
+
+- Pros: I do not know yet.
+- Cons: I do not know yet.
+
+Coverity is used for http://snapraid.it/ for code coverage.  Perhaps it is usable, we will see.
 
 
 ## Jenkins (not yet evaluated)
