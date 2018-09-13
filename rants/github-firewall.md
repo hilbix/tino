@@ -17,6 +17,12 @@
 >
 > As a naming:  Instead account `XXXX` use account `XXXX-fw`
 
+Summary:
+
+- Cirrus CI - [looks good](../howto/cirrus-ci.md)
+- Semaphore - cannot use, makes my account insecure
+- Travis CI - cannot use, makes my account insecure
+
 # GitHub Firewall
 
 Having a CI is a nice thing.  And there are [quite a lot in the Marketplace](https://github.com/marketplace/category/continuous-integration)
