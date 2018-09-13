@@ -77,7 +77,7 @@ Unfortunately doing so needs a high effort.
 ## Cirrus CI (works, looks secure enough, but needs a `.cirrus.yml` to function)
 
 - Pros: Integrated into GitHub, supports Linux/Windows/MacOS (even that I do not know how)
-- Cons: Complex, as it is integrated into GitHub and needs a complex file `.cirrus.yml` (`yml` alone is far too complex already!)
+- Cons: Complex, as it is integrated into GitHub and needs a complex file `.cirrus.yml` (`yml` alone is far too complex already!).  Only supports GitHub
 
 > To get it started:  Activate on GitHub Marketplace.  Then create some `.cirrus.yml` on the repo you want, push and there you go.  See below.
 
@@ -208,12 +208,20 @@ Just read the very first sentence on Marketplace.
 Is this a CI as I want?
 
 
-## Travis CI (not yet evaluated)
+## Travis CI -> Complex to Set Up and Extremely Insecure by Default
 
-- Pros: I do not know yet.  Probably:  Godfather of CIs for GitHub.  Local configuration in `.travis.yml` instead of some obscure external service.
-- Cons: I do not know yet.  Probably:  Needs `.travis.yml` in your codebase, so it cannot be applied without a change
+- Pros: Godfather of CIs for GitHub.  Local configuration in `.travis.yml` instead of some obscure external service.
+- Cons: Unusable from a security perspective at my side.
 
-And really, I did not yet come around to test this.
+Falls in the same trap as Semaphore.  So I cannot use it.
+
+The permissions on the GitHub App look reasonable.  They are a bit broader than from Semaphore, though.
+
+However as soon as you try to login to https://www.travis-ci.com/ it wants "all repository read/write" for your account.  As Semaphore wants, too.
+
+Sorry, no, I won't give that.  Ever.  For the same reasons stated above.  **Not without a firewall.**
+This is sad!
+
 
 ## Jenkins (not yet evaluated)
 
