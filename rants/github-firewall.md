@@ -1,3 +1,9 @@
+Summary:
+
+- Cirrus CI - [secure, as it only needs read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, not-so-easy to use due to `.cirrus.yml` file
+- Semaphore - needs firewall due to write access.  Besides of that it looks very easy to use.
+- Travis CI - needs firewall due to write access.  not-so-easy to use (`.travis.yml`)
+
 > We definitively need a GitHub Firewall!  What is a GitHub Firewall?
 >
 > This is some firewalled account with arbitrary (fake) account data which has readonly access to all of your public repositories.
@@ -17,11 +23,6 @@
 >
 > As a naming:  Instead account `XXXX` use account `XXXX-fw`
 
-Summary:
-
-- Cirrus CI - [looks good](../howto/cirrus-ci.md)
-- Semaphore - cannot use, makes my account insecure
-- Travis CI - cannot use, makes my account insecure
 
 # GitHub Firewall
 
