@@ -11,3 +11,6 @@
 - 2018-09-13 Die Wahrheit ist keine Provokation, sondern Motivation.  Etwas, das die AFD wohl niemals verstehen wird.
 
 - 2018-09-13 In diesem Fall finde ich Dein Verhalten kindisch und traurig.  Daher mein Versuch, es Dir zu erklären.  Das erwarte ich von Erwachsenen gegenüber Kindern, weshalb ich mir in diesem Fall auch überhaupt die Zeit nehme.  Und anschließend kommst Du dann in mein Killfile.
+
+- 2018-09-13 "beA.  Digital.  Einfach.  Sicher" hätte man es besser "beA. Finger weg!  Unhandhabbar!  Sicherheitskatastrophe!" nennen müssen ..  (Spoiler: "digital" = "mithilfe des Fingers erfolgend")
+
