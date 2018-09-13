@@ -9,3 +9,5 @@
 - 2018-09-06 Bar Ironie deucht's sich mir gar passend, dreht sich der KESL wie beim Roulette.  Darin zieht eine Kugel ihre Bahn. Beobachtet vom Spieler, bedächtig wartend, dass sie in ein Kämmerlein hüpfe.  Ob's ein Gewinn, das kann nur der Zufall sagen.  (Zum Thema Kaspersky Endpoint Security for Linux)
 
 - 2018-09-13 Die Wahrheit ist keine Provokation, sondern Motivation.  Etwas, das die AFD wohl niemals verstehen wird.
+
+- 2018-09-13 In diesem Fall finde ich Dein Verhalten kindisch und traurig.  Daher mein Versuch, es Dir zu erklären.  Das erwarte ich von Erwachsenen gegenüber Kindern, weshalb ich mir in diesem Fall auch überhaupt die Zeit nehme.  Und anschließend kommst Du dann in mein Killfile.
