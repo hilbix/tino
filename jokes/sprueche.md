@@ -7,3 +7,5 @@
 - 2018-05-12 Das ist in etwa so sinnvoll wie eine zweite Blinddarmoperation.  Machbar?  Durchaus.  Sinnvoll?  Eher nicht!  (Zum Thema Coolar)
 
 - 2018-09-06 Bar Ironie deucht's sich mir gar passend, dreht sich der KESL wie beim Roulette.  Darin zieht eine Kugel ihre Bahn. Beobachtet vom Spieler, bedächtig wartend, dass sie in ein Kämmerlein hüpfe.  Ob's ein Gewinn, das kann nur der Zufall sagen.  (Zum Thema Kaspersky Endpoint Security for Linux)
+
+- 2018-09-13 Die Wahrheit ist keine Provokation, sondern Herausforderung.  Etwas, das die AFD wohl niemals verstehen wird.
