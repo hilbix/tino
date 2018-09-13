@@ -76,6 +76,8 @@ Unfortunately doing so needs a high effort.
 
 ## Cirrus CI (works, looks secure enough, but needs a `.cirrus.yml` to function)
 
+> I have a [small HowTo for Cirrus CI](../howto/cirrus-ci.md)
+
 - Pros: Integrated into GitHub, supports Linux/Windows/MacOS (even that I do not know how)
 - Cons: Complex, as it is integrated into GitHub and needs a complex file `.cirrus.yml` (`yml` alone is far too complex already!).  Only supports GitHub
 
