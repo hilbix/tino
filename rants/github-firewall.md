@@ -1,8 +1,8 @@
 Summary:
 
-- Cirrus CI - [secure, as it only needs read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, not-so-easy to use due to `.cirrus.yml` file except with `Dockerfile`s (which I do not grok)
-- Semaphore - needs firewall due to write access.  Besides of that it looks very easy to use.
-- Travis CI - needs firewall due to write access.  not-so-easy to use (`.travis.yml`)
+- Cirrus CI ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
+- Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - needs a firewall as it wants full write access.  Besides of that it looks very easy to use.
+- Travis CI ([Marketplace](https://github.com/marketplace/travis-ci)) - needs a firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
 
 > We definitively need a GitHub Firewall!  What is a GitHub Firewall?
 >
