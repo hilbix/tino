@@ -1,8 +1,9 @@
 Summary:
 
 - [Cirrus CI](https://cirrus-ci.com) ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
+- [Travis CI (ORG)](https://travis-ci.org/) (Marketplace) seems to work with only read access, not completely evaluated.  Needs not-so-easy-to-use file `.travis.yml`
+- [Travis CI (COM)](https://travis-ci.com/) ([Marketplace](https://github.com/marketplace/travis-ci)) - cannot use without firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
 - Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - cannot use without firewall as it wants full write access.  Besides of that it looks very easy to use.
-- Travis CI ([Marketplace](https://github.com/marketplace/travis-ci)) - cannot use without firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
 - [Codecov](https://codecov.io/) ([Marketplace](https://github.com/marketplace/codecov)) - cannot use without firewall as it wants full write access
 - [Coverity](https://scan.coverity.com/github) - Evaluating eventually next
 
@@ -219,9 +220,16 @@ Just read the very first sentence on Marketplace.
 Is this a CI as I want?
 
 
-## Travis CI -> Complex to Set Up and Extremely Insecure by Default
+## Travis CI - There are two
 
 - Pros: Godfather of CIs for GitHub.  Local configuration in `.travis.yml` instead of some obscure external service.
+
+### travis-ci.org -> Complex to Set Up but seems to work
+
+Need to evaluate that
+
+### travis-ci.com -> Complex to Set Up and Extremely Insecure by Default
+
 - Cons: Unusable from a security perspective at my side.
 
 Falls in the same trap as Semaphore.  So I cannot use it.
