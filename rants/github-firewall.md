@@ -1,6 +1,6 @@
 Summary:
 
-- Cirrus CI - [secure, as it only needs read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, not-so-easy to use due to `.cirrus.yml` file
+- Cirrus CI - [secure, as it only needs read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, not-so-easy to use due to `.cirrus.yml` file except with `Dockerfile`s (which I do not grok)
 - Semaphore - needs firewall due to write access.  Besides of that it looks very easy to use.
 - Travis CI - needs firewall due to write access.  not-so-easy to use (`.travis.yml`)
 
