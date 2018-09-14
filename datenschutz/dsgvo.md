@@ -557,3 +557,77 @@ Für wen das ein Problem ist, der hat mehrere Möglichkeiten:
 > Ich gehe davon aus, ich könnte noch Terabyteweise mehr dazu schreiben, habe nur nicht die Zeit.
 
 Ömpft, sorry für Tippfehler und Formatierungswahnsinn.  Habe gerade keinen Bock, das zu korrigieren.
+
+
+# Nachträge
+
+Dinge die ich noch einarbeiten muss, oder was mir so aufgefallen ist.
+
+Ich bin da fast vom Stuhl gefallen als ich das erfahren musste:
+
+## Die meisten personenbezogenen Daten von früher sind keine personenbezogene Daten mehr
+
+Früher war mein Verständnis, dass personenbezogene Daten immer diejenigen Daten sind, die man auf eine Person beziehen kann.
+
+Beispielsweise das Geburtsdatum, die Augenfarbe, die Wohnadresse usw.
+
+All das sind jetzt offensichtlich keine personenbezogenen Daten mehr, jedenfalls nicht gem. DSGVO.
+Erkläre nicht ich.  Erklärt mir der Landkreis Augsburg.
+
+Ich hatte gefragt, wo denn die Erklärung gem. DSGVO war, als die meinen Nachnamen samt Wohnanschrift auf die Tonnen geklebt haben.
+
+Erklärung vom Landkreis:  Das sind keine personenbezogenen Daten und unterliegen somit nicht der Erklärungspflicht.
+
+WTF?
+
+Wenn ich genau darüber nachdenke, hat der Landkreis Recht.
+Auf den Tonnen steht nicht mein Name, sondern der des Hauseigentümers.
+Dass wir beide denselben Namen tragen ist zwar kein wirklicher Zufall, aber der Unterschied ist hier, dass der Landkreis die Angaben eben ganz klar nicht auf mich bezieht.
+
+Sprich:
+
+Eine Wohnadresse wird erst dann zu einem personenbezogenen Datum, wenn man diese Angabe auf die Person bezieht und eben nicht dadurch, dass man sie auf die Person beziehen kann.
+
+Macht man das nicht, ist es kein personenbezogenes Datum mehr.  Laut Lesart des Landkreises gilt also in der DSGVO, dass man beliebige nicht-personenbezogene Daten beliebig verknüpfen darf, ohne dass daraus personenbezogene Daten werden.
+
+**Es wird schlimmer.**
+
+In der Mülltonne, die meinen Namen mit Anschrift trägt, steckt mein Müll.  Dieser Müll ist klar personenbezogen, denn ich habe den produziert.
+
+Die Müllautos führen Buch über die Leerung der Mülltonnen, da die Mülltonnen mit dem Datensatz elektronisch verknüpft sind - durch einen Chip den sie inzwischen tragen.
+
+Auch dieser ist - laut Aussage des Landkreises - keinerlei Verarbeitung personenbezoger Daten.
+
+Das sehe ich total anders.  Die Leerung meines Mülls aus der Mülltonne ist eine Datenverarbeitung, da damit mein Müll verarbeitet wird - der ja Daten von mir enthält.  (Dass die Realität auf Daten fußt sage nicht ich, das sagt die Wissenschaft.  Quarks zerfallen in ihrer unteren Ebene in States.  Das sind einfache Zustände, die sich mathematisch erfassen lassen.  Es handelt sich dabei also einfach um Daten.  Nich tunbedingt physikalisch messbare Daten.  Aber mathematisch fassbare Daten!  Es ist also - nach Occam - absolut vernünftig, anzunehmen, dass die Realität in ihrer untersten Ebene schlicht in Daten zerfällt.  Damit stellt die Realität eine einzige, große Datenverarbeitung dar.  Und unterliegt damit der DSGVO.  Alles andere zu behaupten ist absolut und offensichtlich unverünftig!).
+
+Der Landkreis könnte also in diesem Fall meine personenbezogenen Daten verarbeiten.  Aber genau das tut er nicht, behauptet er, und deshalb fällt das nicht unter die DSGVO.
+
+Das Müllunternehmen - das ist privatwirtschaftlich - erfasst zwar meine personenbezogenen Daten (indem sie den Müll ins Auto kippt), dabei werden die Daten aber anonymisiert, so die Auffassung.  IMHO stimmt das eben nicht.  Wenn ich in eine Socke wichse und die dann wegwerfe, trägt die Socke meine DNA ja weiterhin, auch wenn sie mit anderem Müll vermischt wird.  Genauso ist es mit Fingerabdrücken usw.
+
+Alles unstrittig personenbezogene Daten, deren Verarbeitung nach DSGVO geregelt ist.
+
+In der DSGVO steht unmissverständlich, dass man vor der Erfassung und Verarbeitung der Daten Aufklärung zu leisten hat.  Man muss also erklären, wozu die Daten erfasst werden, wie die Daten weiterverarbeitet werden und was mit den Daten geschieht.
+
+In der DSGVO steht auch explizit drinnen, dass Daten dann personenbezogen sind, wenn man sie auf die Person beziehen kann.  Es gibt nur dann eine Ausnahme, wenn die Daten so vorliegen, dass man selbst diese Daten nicht auf die Person beziehen kann (etwas, was ich ziemlich heftig als Kaugummiparagraph sehe.  Das wird noch viel Spaß in Zukunft bedeuten.)
+
+Meinen Fingerabdruck und mein Sperma sind ganz klar nur auf eine Person beziehbar (davon gehe ich mal aus).  Die Firma, die den Müll abtransportiert, ist ganz klar in diesem Sinne ein Auftragsverarbeiter.  Damit ist der Landkreis gemeinschaftlich mit dem Auftragsverarbeiter in der Pflicht.  Mir kann außerdem niemand erklären, dass der Landkreis nicht in der Lage ist, Fingerabdrücke zu nehmen oder ein DNA-Profil zu erstellen.  Somit hat er eindeutig die Möglichkeit des Personenbezugs!  Nach DSGVO.  Ist also zur vorherigen Aufklärung verpflichtet, auch dann, wenn er es nicht macht!
+
+Diese Aufklärung beim Müll ist bisher nicht erfolgt.  Ich weiß z. B. nicht, was mit dem Müll geschieht, nachdem er im Müllauto landet.  Darüber wurde ich niemals aufgeklärt.
+
+Es geht nicht darum, die Müllleerung zu torpedieren.  Die ist nicht in Gefahr!  Die DSGVO erlaubt solche Datenverarbeitung ja aus einem guten Grund.  Die Aufrechterhaltung der Gesundheit der Bevölkerung ist ein solcher guter Grund.  Keinerlei Einwand von mir deshalb gegen die Müllentsorgung.
+
+**Was ich aber fordere ist, eine lückenlose Aufklärung, was mit unserem Müll geschieht, also wie die damit verbundnenen personenbezogenen Daten erfasst, gespeichert und verarbeitet werden!**
+
+Die Leute haben noch nicht begriffen, was die DSGVO eigentlich ist.
+
+Der Staat ist mächtig.  Er ist - gem. DSGVO - in der Lage, aus fast jeglichem Datum einen Personenbezug herzustellen.  Kameraüberachung, Verkehrsüberwachung, Kontrollen, Daten- und Versorgungsnetze, Smarte Zähler, alles was der Staat betreibt unterliegt in diesem Sinne der DSGVO.
+
+**Der Staat hat die Obliegenheit, uns über die gesamten Vorgänge in diesem Zusammenhang aufzuklären.  Gem. DSGVO muss er das proaktiv tun, also darf diese Sachen erst machen, wenn er uns darüber lückenlos aufgeklärt hat!**
+
+Genau dagegen wird verstoßen.  Gravierend und auf europaweiter Ebene!
+
+Anders gesagt:
+
+Die DSGVO ist das Informationsfreiheitsgesetz auf Crack.  Nicht wir, die Bürger müssen eine Datenauskunft einholen, nein, **der Staat ist jetzt verpflichtet, uns über all diese Datenverarbeitungen aufzuklären.  Und zwar vorher.**
+
+Also ich finde die DSGVO gut ;)
