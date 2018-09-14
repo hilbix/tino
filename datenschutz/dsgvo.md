@@ -632,7 +632,7 @@ Die DSGVO ist das Informationsfreiheitsgesetz auf Crack.  Nicht wir, die Bürger
 
 Also ich finde die DSGVO gut ;)
 
-### Freibrief für die schamlose Verarbeitung aller personenbezogener Daten
+### Freibrief für die schamlose Verarbeitung aller personenbezogener Daten?
 
 Nach der DSGVO sind alle Daten, die man nicht auf personen bezieht und auch nicht beziehen kann, auch keine personenbezogenen Daten, und deren Verarbeitung unterliegt somit nicht der DSGVO.
 
@@ -678,3 +678,129 @@ Dass Unternehmen A dann die Daten von Unternehmen B wieder zurückkauft, das mus
 >
 > Und dann ist klar:  Der Landkreis, in dem ich wohle, der hat grob Unrecht.  Er muss aufklären.
 > Auch und gerade wenn es nur um Müll geht ;)
+
+### Denkmodell
+
+Ich habe mir ein einfaches Denkmodell dazu überlegt, warum Daten bereits dann als personenbezogen gem. DSGVO angesehen werden müssen, wenn ihre Zusammenführung zufällig ein Personenbezug bildet.
+
+Nehmen wir einen Hersteller von Schrauben und sonstigem Beschlagsmaterial.  Die Kunden können dabei die Lieferung nach eigenen Wünschen ordern, so dass alles so angeliefert wird, wie es der Kunde wünscht.
+
+Beispielsweise braucht ein Tischhersteller für einen bestimmten Tisch soundsoviel Schrauben des einen Typs, dazu Muttern und Unterlegscheiben usw.
+
+Für jedes dieser Produkte gibt es eine eigene ID und einen zugeordneten Namen.  Der Kunde kann Säckchen bestellen und dabei bestimmen, was in die Säckchen hineinkommt.
+
+Der Hersteller geht nun zu den Meldeämtern (oder zur Post) und holt sich die Adressen aller Wohnungen in Deutschland.  Das ist zulässig, da es sich nicht um personenbezogene Daten handelt, sondern um öffentlich zugängliche Register.
+
+Jeder dieser Adressen ordnet er eine ID zu und dieser ID eine Schraube mit dem - rein zufällig gewählten Namen eben dieser Adresse.
+
+Dazu kommen Muttern und Unterlegscheiben, die man auf die Schraube aufziehen kann.  Eine Unterlegscheibe ist ein Vorname.  Eine Mutter ein Nachname.  Alles sind keine personenbezogenen Daten, da es ja freie Namensregister gibt.
+
+Der Kunde kann nun Schraube zusammen mit Unterlegscheiben und Muttern ordern.  Dazu gibt er die Namen in die Suchmaschine ein und erhält so die Produkt-ID um sie in Säckchen zusammenzufügen.
+
+Ich zerlege also die Daten eines Kunden in Vornamen, Nachname und Wohnadresse.  Ordere dann ein Säckchen.  Dann nehme ich die Teile aus dem Säckchen, und packe das in der richtigen Reihenfolge auf die Schraube.
+
+Oh, wie komme ich an die Reihenfolge?  Ist doch einfach:
+
+- Erster Vorname, eine Unterlegscheibe.
+- zweiter Vorname, zwei gleiche Unterlegscheiben.
+- Ebenso mit den Nachnamen.
+
+Die überschüssigen Teile werfe ich anschließend weg.
+
+Und wie behandle ich mehrere Bewohner in einer Unterkunft?
+
+- Ich ordere ein 2. Säckchen
+- Ziehe Unterlegscheiben und Muttern auf die Schraube vom 1. Säckchen
+- Und werfe die dann doppelte Schraube weg
+
+Das vermeidet unsinnigen Abfall und funktioniert auch mit hunderten Bewohnern gut.
+
+Weitere Daten wie Geburtsjahr usw. kann ich durch andere Farben ausdrücken.  Insgesamt bekomme ich so also eine Schraube, auf der alle von mir gewünschten Daten *anonym* gespeichert sind!
+
+Warum ist das anonym?  Auf den Teilen sind ja nur die Produkt-IDs aufgedruckt, nicht die Daten selbst.  Dass die Schraube alle Daten enthält, tja, das ist doch nur Zufall!  Ich habe an den Schraubenhersteller nur anonymisierte Daten (IDs, dazu noch zerlegt) übertragen.
+
+Es erscheint nun eigentlich offensichtlich, dass dieses Vorgehen falsch ist.  Stimmt.  Aber diese Offensichtlichkeit ist nur dann gegeben, wenn man den Gesamtvorgang kennt.  Man kann das alles wesentlich komplizierter gestalten.  Beispielsweise indem man die Sache weiter zerlegt, über Zwischenhändler arbeitet usw.
+
+Das interessante an dem Vorgehen ist, dass jeder Schritt selbsterklärend ist.  Ich muss keinen Bezug zu den originalen Daten mehr haben, um sie trotzdem rekonstruieren zu können.  Die reinen Metadatan (Anzahl Plättchen usw.) reichen.
+
+Metadaten?  Das sind so "Beufänge" wie aus Spectre und Meltdown.  Das sind eigentlich Fehler, die man aber nicht vermeiden kann.  Metadaten fallen bei allem an.  Metadaten sind der Grund dafür, dass sich bestimmte Dinge vollautomatisch in einer bestimmten Form anordnen.  Das sind unausgesprochene, teils nicht einmal notwendigerweise vorhandene Teile, die Sachen Organisieren.  Einfach je nachdem, wie man es handhabt.
+
+Ich kann also (mittels Physik) einen Prozess konstruieren, der **beweisbar die Daten anonymisiert** aber dennoch **konstruktiv die Daten rekonstruiert**, aber dies passiert nur rein zufällig.  Wie ein Zaubertrick.  Keiner weiß, warum es überhaupt funktioniert, alle Theorie spricht dagegen, trotzdem funktioniert es.
+
+Meine Forderung ist, dass man bei jeder Zusammenführung von nicht-personenbezogenen Daten gem. DSGVO sicherstellen muss, dass dadurch nicht - zufällig - ein Personenbezug entstehen kann.  Wenn das der Fall ist, also das nicht ausgeschlossen werden kann, dann muss man die Datenverarbeitung so behandeln, als wären personenbezogene Daten beteiligt.
+
+Man muss also jede möglicherweise betroffene Person darüber vorher aufklären (in Kenntnis setzen), sofern das technisch möglich und zumutbar ist.
+
+> Im Fall Müllbeseitigung ist das sehr einfach möglich und absolut zumutbar.  Der Landkreis hat ein Melderegister.
+
+Wenn ich Unrecht habe, dann hat die DSGVO ein Schlupfloch und es gibt keine personenbezogenen Daten mehr.
+
+# TL;DR was sind personenbezogene Daten und was nicht?
+
+Erscheint eigentlich sehr einfach.  Aber Vorsicht, das ist meine Sichtweise.
+
+## Die IP ist kein personenbezogenes Datum, außer ich kann sie auf eine Person beziehen
+
+Ich kann sie auf eine Person beziehen, wenn die IP mit einem Account der Person verknüpft wird.
+
+**Lösung:** Einfach nicht tun.
+
+Habe ich einen Webservice der normale Logs mitschreibt (IP, Browser, usw.), kann das Log aber keiner konkreten Person zuordnen, habe ich kein Problem.
+
+Ein Blogger hat also diesbezüglich kein Thema.  Er kann weiterhin sein Blog betreiben und dabei Logs auswerten etc. und muss dafür keinerlei Angaben nach DSGVO machen, weil er keine personenbezogenen Daten verarbeitet.
+
+Kompliziert wird es nur, wenn er Werbung schaltet oder eine fremde Plattform verwendet, also selbst das Blog gar nicht betreibt.  Darüber will ich gar nicht nachdenken. ;)
+
+Mein Rat ist, ein eigenes Blog selbst zu betreiben ist nicht teuer ist.  3 EUR/Monat, also 32 EUR pro Jahr, mehr dürfte das nicht kosten.  Dafür gibt es eine VM in der Hetzner-Cloud mit über 10 TB/Monat, was selbst für extrem große Blogs ausreichend sein sollte!  (Naja, kommt wohl auf die Blogging-Software an, ob 1 vCPU dafür ausreicht.  Aber ich denke irgendwie, das sollte reichen ..).
+
+Erlaube ich Kommentare, brauche ich einen kurzen Hinweis gem. DSGVO:
+
+- Ich kläre die Leute darüber auf, welche Daten die Kommentarfunktion erfasst.
+- Die sichtbaren Informationen muss ich eigentlich nicht erklären.  Es geht um die verknüpften unsichtbaren Infos.
+
+> Hier baue ich eine Datenschutzauskunft ein.  In der Kommentarfunktion ist ja meist die Mailadresse gespeichert.
+> Also schicke ich einfach die Auskunft - ein Auszug, was alles mit der Mail verknüpft wurde - an eben jene Mailadresse.
+> Vollautomatisch.
+>
+> Das kann ich sogar proaktiv tun, d. h. wird ein Kommentar hinterlassen wird die Auskunft automatisch geschickt.
+> Dann bin ich fein raus, der Mailbesitzer hat immer alle Informationen.  Fertig.
+>
+> Hat die Kommentarfunktion gar keinen Login, kann ich die Informationen auch nicht auf eine Person beziehen!
+> Bin also wieder fein raus.  Wenn die Person freiwillige Angaben macht sind diese dann ja öffentlich.
+> Und über öffentlich zugängliche Informationen muss ich keine Datenschutzauskunft erbringen.
+
+Habe ich ein System, bei dem man sich einloggen kann, dann wird die IP personenbezogen.  Ich sehe 2 Möglichkeiten, wie man das löst:
+
+- Nach DSGVO ohne Zustimmung.  Dann klärt man die Leute auf, dass man die IP speichert und mit dem Account assoziiert.  
+  Man muss dafür dokumentieren, dass die Leute die Datenschutzauskunft zur Kenntnis genommen haben.  
+  Das ist sehr einfach per Haken machbar.  Man muss anhaken "Ich habe die Datenbestimmungen zur Kenntnis genommen."
+  Erst dann wird der Absendebutton aktiv.  Damit ist technisch sichergestellt, dass jeder, der sich registriert hat,
+  diese zur Kenntnis genommen haben muss, selbst dann, wenn er lügt und sie gar nicht gelesen hat.
+  Ich muss also nichts dokumentieren.  In der Datenschutzbestimmung steht, dass sie aktualisiert werden kann.
+  Ändere ich die Bestimmungen, reicht es, wenn ich beim nächsten Login darauf Hinweise, dass da eine Änderung besteht.  
+  In der Datenschutzauskunft muss die IP dann nur aufgeführt werden, wenn sie auch tatsächlich assoziiert wurde.  
+  Bei normalen Web-Logs ist das in der Regel eben nicht der Fall.  Man sieht zwar den POST, aber nicht welcher Account es ist,
+  da Session-Daten normalerweise eben nicht in den Web-Logs erscheinen.  
+  Das bedeutet:  Wenn man tatsächlich einmal die IP mit dem Account verbindet, macht man einen entsprechenden Eintrag,
+  der im Account dann erkennbar wird, und alles ist gut.  Der Nutzer kann diese Notiz dann löschen.
+  Da er sie aber zur Kenntnis erhielt, braucht es keine weitere Datenschutzauskunft, da er schon alle Informationen hat.  
+  Nachteil dieser Lösung:  
+  Es wird komplizierter, wenn der Nutzer "vergessen" werden will.
+  Dann muss man all die Verknüpfungen, die man erstellt hat, wieder löschen.
+  Bei Backups bedeutet das, man muss aktiv verhindern, dass man diese Verknüpfungen dann nicht ausversehen nutzt.
+  Und das ist zu dokumentieren.
+
+- Nach DSGVO mit Zustimmung.  Dann müssen die Leute nach dem Login zustimmen, dass die IP assoziiert wird.  
+  Sinnvollerweise macht man das ebenfalls mit einem Haken in den Account-Settings, der initial eben nicht aktiv ist.
+  Klickt man den an, muss man das nochmals bestätigen, also dass man zur Kenntnis genommen hat,
+  dass man jederzeit wiederrufen kann, indem man hier den Haken wieder wegnimmt.  
+  Sinnvollerweise zeigt man das Log mit den Logins und den IPs dann auch im Account mit an.
+  Damit erübrigt sich die Datenschutzauskunft, denn der Nutzer sieht ja alles indem er sich in den Account einloggt.
+  Fertig.  
+  Der Vorteil der Zustimmungslösung ist, dass man keine Probleme mit dem "Vergessen werden" hat.
+  Die Zustimmung gilt nämlich auch über das Vergessen Werden hinaus, so jedenalls meine Interpretation!
+  Man muss also nicht verhindern, dass man, z. B. in Backups, ausversehen die Verknüpfung wieder bekommt.
+
+Ich persönlich baue gerade ein entsprechendes DSGVO-konformes Loginsystem auf (authster.de).  Dieses wird deshalb die Zustimmungslösung verwenden.
+
+Wenn man nicht zustimmt, wird das System sehr eingeschränkt arbeiten, was aber technisch nicht anders geht, weil es ja nur dann die Daten verarbeiten darf, wenn man zustimmt.  Entweder darf ich ja die Daten verarbeiten, oder eben nicht.
