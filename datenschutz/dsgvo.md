@@ -833,3 +833,9 @@ Ohne Zustimmungslösung kann man also in Anfragen ertrinken.  Mit Zustimmungslö
 - Gab es keine Zustimmung, reicht das Löschen des Accounts, und dann ist nichts mehr davon irgendwo verfügbar.
 
 In beiden Fällen ist die Datenschutzauskunft also exakt leer.  Das geht nur mit Zustimmungslösung, jedenfalls sofern man Backups machen will.
+
+> Hört sich einfach an?  Isses nicht!
+>
+> Technisch steckt da schon einiges mehr dahinter.  
+> Wer es nicht wirklich verstanden hat, sollte dem hier beschrieben Weg besser nicht folgen.
+> Es skaliert nur, wenn man es richtig macht.  Mit skalieren meine ich 100 Milliarden Accounts und mehr.
