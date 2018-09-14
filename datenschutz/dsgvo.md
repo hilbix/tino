@@ -631,3 +631,50 @@ Anders gesagt:
 Die DSGVO ist das Informationsfreiheitsgesetz auf Crack.  Nicht wir, die Bürger müssen eine Datenauskunft einholen, nein, **der Staat ist jetzt verpflichtet, uns über all diese Datenverarbeitungen aufzuklären.  Und zwar vorher.**
 
 Also ich finde die DSGVO gut ;)
+
+### Freibrief für die schamlose Verarbeitung aller personenbezogener Daten
+
+Nach der DSGVO sind alle Daten, die man nicht auf personen bezieht und auch nicht beziehen kann, auch keine personenbezogenen Daten, und deren Verarbeitung unterliegt somit nicht der DSGVO.
+
+Ein beim verknüpfen zufällig auftretender Personenbezug soll - so die Denke - keinen Personenbezug gem. DSGVO bedeuten, da die Daten ja nicht explizit auf die Person bezogen werden.
+
+WTF? **Wenn das so ist, gibt es keine personenbezogenen Daten gem. DSGVO mehr!**
+
+- Ich zerlege die personenbezogenen Daten erst einmal, so dass sie nach DSGVO anonymisiert sind.
+- Diese Daten gebe ich an einen Dritten weiter.  Das darf ich, da es sich um anonymisierte Daten handelt.
+- Dieser Dritte ist nicht in der Lage, aus den anonymisierten Daten einen Personenbezug herzustellen, da er die Person nicht kennt.
+- Dieser Dritte kann also die Daten in Beziehung stellen, wie er will.  Rekonstruiert er dabei aus Zufall den Personenbezug, dann ist das gem. DSGVO nicht relevant - so jedenfalls das, was ich gerade zu hören bekomme.
+
+Big Data macht es möglich, dass ich auf diese Weise über 99% der ursprünglichen personenbezogenen Daten wiederherstellen kann.  In den Daten werden sich danach zwar 1% falsche Informationen befinden, aber das ist nicht tragisch.
+
+Es ist nämlich vollkommen unmöglich, Datenbanken über einen längeren Zeitraum immer vollkommen korrekt zu halten.  Selbst in der bestgepflegtesten Datenbank befinden sich deshalb nach einiger Zeit mehr als 1% falsche Informationen, die Informationsleichen.  Ein Thema, mit dem Banken und Telekommunikationsunternehmen ständig zu kämpfen haben, und zwar täglich.
+
+Ich bin u. A. Datenmigrationsexperte.  Es klingt paradox, aber Kunden sind höchstzufrieden, wenn man bei einer Datenmigration aus einem Altsystem mehr als 80% des Datenbestands sauber in das neue System übertragen werden.  Nur 20% Ausfälle in den Daten?  Das sind hervorragende Werte!  Meist werden nur Werte um 70% bis 75% erwartet, ich habe schon erlebt, dass man unter 50% erwartet.
+
+**Gar nicht selten sind also der Großteil ihrer Daten schlicht nur Schrott, und die Unternehmen wissen das!**
+
+Deshalb macht Big Data so viel Furore.  Es erlaubt eine wesentliche Verbesserung der Datenqualität, in dem es einfach nur richtig rät.  Leider ist das kein Treppenwitz.  Der Grund warum man trotzdem weiter auf Datenmigration statt Big Data vertraut, ist die Datenqualität.  Nach einer ordentlichen Datenmigration weiß man von jedem einzelnen Datensatz, ob er korrekt übertragen wurde oder nicht.  Bei Big Data kennt man hingegen von jedem Datensatz nur eine Wahrscheinlichkeit, wie akkurat er erscheint.
+
+> Wo sind wir?
+>
+> - Unternehmen A hat die Daten anonymisiert an Unternehmen B weitergegeben.
+> - Unternehmen B hat die Originaldaten per Big Data mit einer Genauigkeit von 99% wiederhergestellt und diese sogar noch um weitere Faktoren erweitert
+
+Der nächste Schritt ist einfach:
+
+- Unternehmen A kauft nun diese Daten von Unternehmen B wieder zurück.
+
+Unternehmen A schreibt also in der verlinkten Datenschutzerklärung, dass es keinerlei personenbezogene Daten speichert und weiterverarbeitet, sondern dies nur in anonymisierter Form tut.  Das ist gem. DSGVO auch vollkommen korrekt.
+
+Unternehmen A klärt vielleicht darüber auf, dass es diese anonymisierten Daten weitergibt.  Das muss Unternehmen A aber nicht erklären, denn anonymisierte Daten fallen gem. DSGVO nicht unter eine Regelung, dass man erklären muss, was man mit diesen tut.
+
+Dass Unternehmen A dann die Daten von Unternehmen B wieder zurückkauft, das muss nirgendwo erklärt werden.  Bei den Daten, die Unternehmen B weitergibt, handelt es sich - jedenfalls nach der Auffassung des Landkreises in dem ich wohne - unmöglich um personenbezogene Daten!  Dieser Personenbezug ist rein zufällig!
+
+> Dass das so nicht ist, da bin ich wohl nicht ganz alleine:
+>
+> https://www.cr-online.de/blog/2016/05/03/dsgvo-gibt-es-regelungen-fuer-anonyme-daten/
+>
+> Allerdings wird es noch dauern, bis sich das durchsetzt.
+>
+> Und dann ist klar:  Der Landkreis, in dem ich wohle, der hat grob Unrecht.  Er muss aufklären.
+> Auch und gerade wenn es nur um Müll geht ;)
