@@ -788,7 +788,7 @@ Habe ich ein System, bei dem man sich einloggen kann, dann wird die IP personenb
   Es wird komplizierter, wenn der Nutzer "vergessen" werden will.
   Dann muss man all die Verknüpfungen, die man erstellt hat, wieder löschen.
   Bei Backups bedeutet das, man muss aktiv verhindern, dass man diese Verknüpfungen dann nicht ausversehen nutzt.
-  Und das ist zu dokumentieren.
+  Und das ist zu dokumentieren, falls Anfragen von einer zuständigen Stelle für den Datenschutz erfolgt.
 
 - Nach DSGVO mit Zustimmung.  Dann müssen die Leute nach dem Login zustimmen, dass die IP assoziiert wird.  
   Sinnvollerweise macht man das ebenfalls mit einem Haken in den Account-Settings, der initial eben nicht aktiv ist.
@@ -798,9 +798,38 @@ Habe ich ein System, bei dem man sich einloggen kann, dann wird die IP personenb
   Damit erübrigt sich die Datenschutzauskunft, denn der Nutzer sieht ja alles indem er sich in den Account einloggt.
   Fertig.  
   Der Vorteil der Zustimmungslösung ist, dass man keine Probleme mit dem "Vergessen werden" hat.
-  Die Zustimmung gilt nämlich auch über das Vergessen Werden hinaus, so jedenalls meine Interpretation!
-  Man muss also nicht verhindern, dass man, z. B. in Backups, ausversehen die Verknüpfung wieder bekommt.
+  Die Zustimmung gilt nämlich auch über das Vergessen Werden hinaus, so jedenalls meine Interpretation.
+  Man muss also nicht verhindern, dass man, z. B. in Backups, ausversehen die Verknüpfung wiederbekommt.
+  Man muss nur sicherstellen, dass das Recht auf Vergessen gewahrt bleibt.
+  (Man darf den Account also nicht wiederherstellen.  Aber man kann das Backup weiter verwenden.)
 
-Ich persönlich baue gerade ein entsprechendes DSGVO-konformes Loginsystem auf (authster.de).  Dieses wird deshalb die Zustimmungslösung verwenden.
+Ich persönlich baue gerade ein entsprechendes DSGVO-konformes Loginsystem auf (authster.de).  Dieses wird deshalb die Zustimmungslösung verwenden:
 
-Wenn man nicht zustimmt, wird das System sehr eingeschränkt arbeiten, was aber technisch nicht anders geht, weil es ja nur dann die Daten verarbeiten darf, wenn man zustimmt.  Entweder darf ich ja die Daten verarbeiten, oder eben nicht.
+- Der Nutzer erhält die Information, dass sein Account nur gesichert wird, wenn er der Datenverarbeitung zustimmt.
+- Dem Nutzer wird bei Zustimmung erklärt, dass sie jederzeit widerrufen kann, der Account dann aber nicht mehr gesichert wird.
+- Dem Nutzer wird außerdem erklärt, dass das Recht auf Vergessenwerden nur vollständig ausgeübt werden kann, so lange er nicht zustimmt.
+- Das Recht auf Vergessenwerden geschieht, indem der Account gelöscht und blockiert wird.  
+  Die Verknüpfungen bleiben bestehen, können aber mangels Account nicht mehr einander zugeordnet werden, wodurch sie ihren Personenbezug verlieren.  
+  Die mit Zustimmung durchgeführten Backups bleiben bestehen, aber durch die Blockadeliste ist sichergestellt, dass in Zukunft keine Weiterverarbeitung der so wiederhergestellten Daten erfolgt.
+- Außerdem wird erklärt, dass mit der Löschung des Account jegliche Anfrage gem. Datenschutz nicht mehr beantwortet werden kann.
+
+Dadurch vermeide ich komplizierte Vorgänge:
+
+- Wenn jemand nicht zustimmt, ist die Löschung einfach, sie geschieht nur auf dem Webserver, fertig.
+- Wenn jemand zustimmt kann ich die Accountdaten sichern und muss die Sicherung nie wieder anfassen.
+- Wenn jemand das Recht auf Vergessen ausübt, habe ich hinterher keinerlei Anfragen mehr zu beantworten.
+
+Das wäre anders, wenn ich Art. 6(1)f verwende, also die Daten "aus gutem Grund" verarbeite.  Übt dann jemand das Recht auf Vergessen aus, muss ich entweder die Backups löschen oder einen dokumentierten Weg haben, der verhindert, dass ich die Daten in Zukunft wieder anfasse.  Das bedeutet aber auch, dass ich weiterhin Daten halten muss, nämlich genau diese Informationen, die die Datenverarbeitung verhindert!  Es können bei mir also Datenschutzanfragen aufschlagen, die ich beantworten muss.
+
+Letzteres kann ich aber nur, indem ich den Nutzer identifiziere.  Also muss ich weiter Daten haben, die eine solche Identifikation vorhalten.  Das läuft dem Recht auf Vergessen zuwider.
+
+Nur wenn der Nutzer explizit über diesen Umstand aufgeklärt wurde **und diesem zugestimmt hat**, darf ich davon ausgehen, dass der Nutzer es wissen muss, dass hinterher keine Datenschutzauskunft mehr möglich ist.  Ohne die Zustimmung kann ich so nicht argumentieren.
+
+Die Zustimmungslösung ist also Voraussetzung dafür, die Datenschutzauskunft zu automatisieren.  Diese Automatisierung funktioniert ja nur mit Account.  Wurde der gelöscht ist die Auskunft nicht mehr abrufbar.  Und genau dann entsteht evtl. Aufwand, den nich nicht mehr leisten kann (siehe Fall DomainFactory, sie schaffen die Last der Datenschutzauskünfte nimmer).
+
+Ohne Zustimmungslösung kann man also in Anfragen ertrinken.  Mit Zustimmungslösung ist die Sache aber einfach:
+
+- Gab es eine Zustimmung, gibt es hinterher keine Anfragen mehr, da der Nutzer es hat wissen müssen und damals zustimmte!
+- Gab es keine Zustimmung, reicht das Löschen des Accounts, und dann ist nichts mehr davon irgendwo verfügbar.
+
+In beiden Fällen ist die Datenschutzauskunft also exakt leer.  Das geht nur mit Zustimmungslösung, jedenfalls sofern man Backups machen will.
