@@ -30,6 +30,7 @@ Some LOKI-Factors as of 2018-09-18:
 
 - 0% Valentin Hilbig (that's me)
 - 6% Lena Meyer-Landrut
+- 13% Barbarella
 - 30% Barbra Streisand
 - 33% Jenna Coleman
 - 66% Heidi Klum
