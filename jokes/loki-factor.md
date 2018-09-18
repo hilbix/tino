@@ -50,6 +50,7 @@ Some LOKI-Factors as of 2018-09-18:
 - 100% Johnny Depp
 - 100% Loki `GOOGLEHITS(Loki) = 52 900 000`
 - 101% Oktoberfest
+- 105% Natalie Portman
 - 105% Supergirl
 - 115% Christian Slater
 - 119% Jack Nicholson
