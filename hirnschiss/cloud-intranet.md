@@ -58,11 +58,21 @@ Merke:
 
 # Fazit
 
-Wenn Ihnen jemand von den Vorteilen eines Cloudbasierten Intranets etwas vorfaseln will,
-ballen Sie bitte die Faust und schlagen Sie ihm die Nase ein.
+Wenn Ihnen jemand im Internet von den Vorteilen eines Cloudbasierten Intranets etwas vorfaseln will,
+**ballen Sie bitte ihre Faust und schlagen Sie ihm sofort und mit aller Ihnen zur Verfügung stehenden Kraft die Nase ein, und zwar so tief und nachhaltig, wie sie können** damit er schnellstmöglich aus dem Cyberspace ausscheidet.
 
-Derjenige, der Ihnen von solch einem Quatsch erzählt, ist nämlich nicht nur ein Vollidiot, sondern äußerst gefährlich.
+Derjenige, der Ihnen von solch einem Quatsch erzählt, ist nämlich nicht nur nachweisbar ein absoluter Vollidiot, sondern schlimmer noch, auch noch äußerst gefährlich!
 
-**Wehren Sie sich mit allem, das Sie haben!  Schützen Sie das wichtigste, Ihre Integrität!**
+**Wehren Sie sich deshalb mit allem, das Sie haben!  Schützen Sie das wichtigste, Ihre Integrität im Internet!**
 
 -Tino
+
+PS:
+
+Das, was ich hier schreibe wendet sich an die Normalos im Internet.  Hätte man diese Horden hier nicht reingelassen, hätten Nepper mit solchem Quatsch wie "Cloudbasiertem Intranet" sowieso keine Chance weil sie jeder auslachen würde bevor sie den Satz beendet haben.  Aber so ist es im Internet leider nimmer, und ich muss mich dieser traurigen Realität stellen.  Deshalb folgender **Disclaimer zum Verständnis**:
+
+- Das hier stellt selbstverständlich kein Aufruf zur realen Körperverletzung dar.  Hier geht es ums Internet, also um eine rein virtuelle Umgebung.  Mit Faust und Nase sind entsprechend deren virtuellen Vertreter gemeint, es ist damit nicht die physikalisch materielle Nase einer konkreten Person gemeint, die Sie einschlagen sollen!  (Wer so etwas nicht differenzieren kann hält sich besser aus dem Internet raus, weil er keine Ahnung hat, wie man damit umgeht.)
+
+- Das hier stellt allerdings sehr deutlich einen Aufruf zum "Virtuellen Mord" dar.  "Virtueller Mord" bedeutet, dass hier jemand effektiv und endgültig aus dem Cyberspace elliminiert werden soll.  In diesem Fall dient das dazu, dass derjenige keinen realen Schaden mehr anrichten kann, indem er sich eine derart blutige Nase holt, dass er nicht umhin kann, eine sehr deutliche Lernerfahrung zu machen.  Anders lernen sie nicht.  Leider.
+
+(Warum kann mein "Aufruf zum virtuellen Mord" nicht strafbar sein?  Wäre es das, müsste so gut wie jeder Gamer, der PvP macht, im Knast sitzen.  Es wäre sogar gemeinschaftlich verabredeter Mord.  Und warum ist es kein "Aufruf zum virtuellen Totschlag"?  Weil mich hier eindeutig niedere Beweggründe treiben.  Ich will solches Gesocks nicht hier im Internet.  0 Toleranz.  Aber das ist weder nett noch moralisch einwandfrei.  Scheiß drauf, damit kann ich wunderbar leben!  Punkt!)
