@@ -29,18 +29,34 @@ This is easy and convenient.
 Some LOKI-Factors as of 2018-09-18:
 
 - 0% Valentin Hilbig (that's me)
+- 0% Catweazle (sadly)
 - 6% Lena Meyer-Landrut
+- 10% Lori Loughlin
 - 13% Barbarella
+- 19% Frodo
+- 19% Helen Slater
 - 30% Barbra Streisand
+- 32% Gandalf
 - 33% Jenna Coleman
+- 35% Michelle Pfeiffer
+- 64% Betty Boop
 - 66% Heidi Klum
 - 68% Koran
+- 74% Catwoman
+- 81% Batgirl
 - 93% Jane Fonda
 - 95% Jane Doe
+- 95% Olivia Jade
+- 100% Johnny Depp
 - 100% Loki `GOOGLEHITS(Loki) = 52 900 000`
 - 101% Oktoberfest
+- 105% Supergirl
+- 115% Christian Slater
+- 119% Jack Nicholson
 - 142% Donald Duck
 - 155% Angela Merkel
+- 206% Marilyn Monroe
+- 232% Sharon Stone
 - 257% Barack Obama
 - 275% John Doe
 - 268% Santa Claus
@@ -48,11 +64,15 @@ Some LOKI-Factors as of 2018-09-18:
 - 323% Raspberry Pi
 - 334% Madonna
 - 338% Thor
+- 385% Superman
+- 531% Mickey Mouse
 - 633% Murder
 - 714% Cher
 - 729% Linux
+- 741% Harry Potter
 - 867% Bible
 - 924% Marvel
+- 1181% Batman
 - 1181% Donald Trump
 - 1412% Microsoft Windows
 - 1266% Birth
