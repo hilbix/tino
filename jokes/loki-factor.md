@@ -33,17 +33,22 @@ Some Loki-Factors as of 2018-09-18:
 - 6% Lena Meyer-Landrut
 - 10% Lori Loughlin
 - 13% Barbarella
+- 18% Josh Brolin
 - 19% Frodo
 - 19% Helen Slater
+- 21% Karen Gillan
 - 30% Barbra Streisand
+- 30% MacGyver
 - 32% Gandalf
 - 33% Jenna Coleman
 - 35% Michelle Pfeiffer
+- 40% Stargate
 - 64% Betty Boop
 - 66% Heidi Klum
 - 68% Koran
 - 74% Catwoman
 - 81% Batgirl
+- 86% Richard Dean Anderson
 - 93% Jane Fonda
 - 95% Jane Doe
 - 95% Olivia Jade
@@ -56,8 +61,11 @@ Some Loki-Factors as of 2018-09-18:
 - 119% Jack Nicholson
 - 142% Donald Duck
 - 155% Angela Merkel
+- 159% Scarlett Johansson
+- 165% Robert Downey Jr.
 - 206% Marilyn Monroe
 - 232% Sharon Stone
+- 245% Black Widow
 - 257% Barack Obama
 - 275% John Doe
 - 268% Santa Claus
@@ -65,7 +73,9 @@ Some Loki-Factors as of 2018-09-18:
 - 323% Raspberry Pi
 - 334% Madonna
 - 338% Thor
+- 362% Hulk
 - 385% Superman
+- 457% Star Trek
 - 531% Mickey Mouse
 - 633% Murder
 - 714% Cher
@@ -76,6 +86,7 @@ Some Loki-Factors as of 2018-09-18:
 - 1181% Batman
 - 1181% Donald Trump
 - 1412% Microsoft Windows
+- 1551% Star Wars
 - 1266% Birth
 - 1814% Fiction
 - 1965% John Smith
@@ -83,6 +94,7 @@ Some Loki-Factors as of 2018-09-18:
 - 2136% Doctor Who
 - 2400% Earth
 - 2778% Death
+- 3081% Iron Man
 - 3175% Christmas
 - 3213% Porn
 - 3364% God
