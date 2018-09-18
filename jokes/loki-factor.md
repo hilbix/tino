@@ -56,15 +56,20 @@ Some LOKI-Factors as of 2018-09-18:
 - 1266% Birth
 - 1814% Fiction
 - 1965% John Smith
+- 2117% Doctor
+- 2136% Doctor Who
 - 2400% Earth
 - 2778% Death
 - 3175% Christmas
 - 3213% Porn
 - 3364% God
 - 4158% Science
+- 6162% Apple
 - 6238% Space
 - 9395% Sex
 
 Any questions what's most famous?
 No, sorry, I did not make this up!
 Really!
+
+PS: The anomaly "Doctor Who" vs. "Doctor" has to do something with time travel, I think.  I first asked for "Doctor", then for "Doctor Who".  Go figure ;)
