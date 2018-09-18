@@ -56,4 +56,13 @@ Merke:
     - Aber dann muss das Gerät, das diese VPN-Verbindung aufbaut, bestimmte Voraussetzungen mitbringen, die eben einer Nutzung außerhalb des Intranets verbietet.
     - Ein Duales Gerät, das beides erlaubt, dem kam mal ein Blackberry sehr nahe.  Aber eben auch nur nahe.  Erreicht wurde das Ziel bisher nie.
 
+# Fazit
+
+Wenn Ihnen jemand von den Vorteilen eines Cloudbasierten Intranets etwas vorfaseln will,
+ballen Sie bitte die Faust und schlagen Sie ihm die Nase ein.
+
+Derjenige, der Ihnen von solch einem Quatsch erzählt, ist nämlich nicht nur ein Vollidiot, sondern äußerst gefährlich.
+
+**Wehren Sie sich mit allem, das Sie haben!  Schützen Sie das wichtigste, Ihre Integrität!**
+
 -Tino
