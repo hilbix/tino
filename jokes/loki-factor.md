@@ -26,7 +26,7 @@ The Loki Factor then is just the division of those two:
 
 This is easy and convenient.
 
-Some LOKI-Factors as of 2018-09-18:
+Some Loki-Factors as of 2018-09-18:
 
 - 0% Valentin Hilbig (that's me)
 - 0% Catweazle (sadly)
