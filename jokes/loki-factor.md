@@ -29,7 +29,7 @@ This is easy and convenient.
 Some Loki-Factors as of 2018-09-18:
 
 - 0% Valentin Hilbig (that's me)
-- 0% Catweazle (sadly)
+- 0% Catweazle
 - 6% Lena Meyer-Landrut
 - 10% Lori Loughlin
 - 13% Barbarella
