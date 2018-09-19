@@ -1,3 +1,7 @@
+> Gepostet unter https://www.heise.de/forum/heise-Security/News-Kommentare/l-f-Angela-Merkel-hat-es-auf-Ihre-Dateien-abgesehen/A-Ich-glaub-nix/posting-33104825/show/
+
+# (A) Ich glaub nix! 
+
 Also ich glaub' ja nicht.  Z. B. an diese Merkel.
 
 Hat die irgendwer mal je gesehen?  War schon jemand mal da?  Ich meine so ganz real, so zum anfassen, z. B. beim Einkaufen?  Gibt es irgendwelche schlüssigen Beweise, dass sie wirklich die Bundeskanzlerin ist?  Also irgendetwas, das man fassen kann, so wie Stringtheorie oder die Supersymmetrie, das nicht irgendwelcher meinungsverseuchter subjektiver Politik unterliegt, von irgendwie materialisierten Wahlkampfplakaten stammt oder mit seltsamen Medien zu tun hat, die sich ihre News zurechtbasteln können, wie sie gerade wollen?
