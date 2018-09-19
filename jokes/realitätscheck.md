@@ -40,3 +40,5 @@ Und wenn ihr alles richtig macht, dann hört ihr irgendwann auf, zu glauben.  Un
 
 -Tino
 PS: SCNR, aber das musste einfach mal sein.  Und nein, das hat wirklich absolut nix mit Religion zu tun.  Anarchie und Religion, die passen viel zu schlecht zusammen ;)
+
+Quelle CC0: https://github.com/hilbix/tino/blob/master/jokes/realit%C3%A4tscheck.md
