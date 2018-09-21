@@ -2,6 +2,14 @@
 
 I really do not understand.  Why is it so complex to explain things?  Or is it only me, perhaps?
 
+## VIM modeline
+
+- `# vim: ft=sh` or `# vim: set ft=sh:` changes file type to `sh`
+- `:mks [file]` write current settings to given `file`, default `Session.vim`
+- `:map` see keyboard map which differs from standard map
+- `:help index` complete keyboard map is in the complete help
+- `:set modeline` to enable modeline, see example `.vimrc`
+
 ## `.vimrc`
 
 Here is [my somewhat current `.vimrc`](.vimrc)
