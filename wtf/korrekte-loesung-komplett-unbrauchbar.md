@@ -80,4 +80,9 @@ das war selbst als Beispiel vollkommen unbrauchbar
 - Wow, das ist der Beweis:  Auch wenn wir es nicht wahrhaben wollen, wir haben schon verloren, und zwar auf ganzer Linie!  
   Wird Zeit dass die KIs übernehmen.  Die hätten den (Upps, **Spoileralarm**) Stackoverflow nämlich sofort bemerkt.
 
+> Nichts gegen indische Kollegen!  Die Inder, mit denen ich in Projekten zusammengearbeitet habe,
+> waren nicht nur immer hervorragend ausgebildet und fleißig, sie haben auch stets beste Arbeit abgeliefert.
+> So etwas wie das oben habe ich von einem in Deutschland überlebenden Inder noch nie gesehen!
+> Die Inder in Deutschland sind also überhaupt nicht gefährlich, gefährlich sind nur die Inder in Indien!
+
 Weitere Beispiele sobald ich drüber stolpere und nicht mehr an mich halten kann.
