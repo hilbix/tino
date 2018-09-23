@@ -57,7 +57,9 @@ das war selbst als Beispiel vollkommen unbrauchbar.
 	  return(result); 
 	} 
 
-- Na, bemerkt wo der WTF in dem Algorithmus steckt?  Nicht?  Aber das ist doch so unheimlich offensichtlich!
+- Na, bemerkt wo der WTF in dem Algorithmus steckt?  Nicht?  Aber das ist doch offensichtlich,
+  wenn ich solchen Code auch nur sehe tut mir das weh,
+  und wenn ich so etwas programmieren würde, bekomme ich dabei echte körperliche Beschwerden!
 - Irgendwie hat mich der Code dann an das erinnert, was ich so von gewissen Outsourcings her kenne.  
   Code, der zwar alles richtig, das aber grundsätzlich falschherrum macht, der stammt gar nicht selten aus Indien.  
   Und siehe da, ROTFLMAO, der Typ, der das da verbrochen hat, der ist tatsächlich Inder!
