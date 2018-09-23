@@ -64,7 +64,8 @@ das war selbst als Beispiel vollkommen unbrauchbar
 - Irgendwie hat mich der Code dann an das erinnert, was ich so von gewissen Outsourcings her kenne.  
   Code, der zwar alles richtig, das aber grundsätzlich falschherrum macht, der stammt gar nicht selten aus Indien.  
   Und siehe da, ROTFLMAO, der Typ, der das da verbrochen hat, der ist tatsächlich Inder!
-  Er stammt von einem dieser renommierten staatlichen Technologiezentren, das mit seiner besonders hohen Qualität wirbt.  
+  Er stammt (laut seines Profils) von einem dieser renommierten staatlichen Technologiezentren,
+  das mit seiner besonders hohen Qualität wirbt.  
   Ja, genau, diese fast unübertroffen (*hust* Parkistan *hust*) typische indische "hohe Codequalität",
   die wir in Projekten alle so schätzen und lieben!  
 - Das ist sogar ein WTF³:
