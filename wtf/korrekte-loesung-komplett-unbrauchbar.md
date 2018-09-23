@@ -33,13 +33,37 @@ Reingeguckt und vor Lachen fast den Stuhl ruiniert.
 Was ich da zu sehen bekam war nicht nur naiv,
 das war selbst als Beispiel vollkommen unbrauchbar.
 
+	struct Node* SortedMerge(struct Node* a, struct Node* b)  
+	{ 
+	  struct Node* result = NULL; 
+
+	  /* Base cases */
+	  if (a == NULL)  
+	     return(b); 
+	  else if (b==NULL)  
+	     return(a); 
+
+	  /* Pick either a or b, and recur */
+	  if (a->data <= b->data)  
+	  { 
+	     result = a; 
+	     result->next = SortedMerge(a->next, b); 
+	  } 
+	  else 
+	  { 
+	     result = b; 
+	     result->next = SortedMerge(a, b->next); 
+	  } 
+	  return(result); 
+	} 
+
 - Na, bemerkt wo der WTF in dem Algorithmus steckt?  Nicht?  Aber das ist doch so unheimlich offensichtlich!
-- Irgendwie hat mich der Code dann an das erinnert, was ich so von indischem Outsourcing her kenne.  
-  Leute, die bei Algorithmen grundsätzlich alles falschrum machen die kenne ich vor allem aus Indien.  
+- Irgendwie hat mich der Code dann an das erinnert, was ich so von gewissen Outsourcings her kenne.  
+  Code, der zwar alles richtig, das aber grundsätzlich falschherrum macht, der stammt gar nicht selten aus Indien.  
   Und siehe da, ROTFLMAO, der Typ, der das da verbrochen hat, der ist tatsächlich Inder!
-  Er stammt sogar von einem renommierten staatlichen Technologiezentrum, das mit seiner besonders hohen Qualität wirbt.    
+  Er stammt von einem dieser renommierten staatlichen Technologiezentren, das mit seiner besonders hohen Qualität wirbt.  
   Ja, genau, diese fast unübertroffen (*hust* Parkistan *hust*) typische indische "hohe Codequalität",
-  die wir alle so schätzen und lieben!  
+  die wir in Projekten alle so schätzen und lieben!  
 - Das ist sogar ein WTF³:
   - Erstens, würde ich Typen, die derartiges verbrechen und sich dabei nicht in Grund und Boden schämen,
     nicht einmal mit vorgehaltener Waffe einstellen.
