@@ -1,6 +1,6 @@
 # Das WTF des WTF
 
-> Für jedes große Probleme findet sich mit ausreichend Zeit fast immer eine
+> Für jedes große Problem findet sich, mit ausreichend Zeit, fast immer eine
 > gut verständliche, hervorragend umsetzbare, vollkommen praktikable und einleuchtende Lösung,
 > der Jedermann sofort ohne Vorbehalte zustimmen kann da sie zweifellos vollkommen korrekt ist,
 > die nur leider vollkommen falsch ist.
