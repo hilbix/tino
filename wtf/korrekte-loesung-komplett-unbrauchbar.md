@@ -31,7 +31,7 @@ https://www.geeksforgeeks.org/merge-sort-for-linked-list/
 
 Reingeguckt und vor Lachen fast den Stuhl ruiniert.
 Was ich da zu sehen bekam war nicht nur naiv,
-das war selbst als Beispiel vollkommen unbrauchbar.
+das war selbst als Beispiel vollkommen unbrauchbar:
 
 	struct Node* SortedMerge(struct Node* a, struct Node* b)  
 	{ 
