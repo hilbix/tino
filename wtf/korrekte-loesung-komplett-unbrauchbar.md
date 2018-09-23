@@ -7,7 +7,7 @@
 
 Das ist, hier mal in Form gebracht, einer meiner Lieblingssprüche.
 
-Zwar hätte ich gerne mal Unrecht, aber leider ist der nur allzu wahr.
+Zwar hätte ich gerne hin und wieder Unrecht, aber leider ist der nur allzu wahr.
 
 ## Beispiele
 
