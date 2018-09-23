@@ -19,7 +19,7 @@ verwendet mehrere Komponenten der Komplexität `O(n)` in einer Rekursionskomplex
 (so dass halt insgesamt das `O(n log n)` vom Mergesort rauskommt).
 
 Ich dachte mir, da muss es doch im Internet sicher etwas clevereres geben,
-als das, was ich da schnell mal zusammengebastelt habe.
+als das, was ich da schnell mal zusammengebasteln kann.
 
 Etwas, das vor allem die Anzahl der `O(n)`-Komponenten deutlich drückt,
 indem es beim durchloopen mehrere Fliegen mit einer Klappe schlägt,
