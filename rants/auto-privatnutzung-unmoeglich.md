@@ -122,7 +122,7 @@ In diesem Abschnitt geht es um den Beweis, das es inzwischen vollkommen unmögli
 eine Fahrt zu absolvieren, die vollständig privat ist.
 Irgendwo baut sich ein gewerblicher Datentopf dabei auf, der auch angezapft wird, da er von wirtschaftlichem Interesse ist.
 
-Eine Privatfahrt in diesem Sinne gibt es gar nicht mehr.
+Eine vollständig Privatfahrt in diesem Sinne gibt es gar nicht mehr.
 
 Und wie sieht es mit der Privatnutzung aus?  Ich kann gewerbliche Güter ja durchaus privat nutzen ..
 
