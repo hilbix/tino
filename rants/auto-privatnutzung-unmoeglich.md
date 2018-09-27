@@ -33,7 +33,7 @@ Deshalb drehe ich den Ansatz einfach um.
 Wann ist eine Fahrt gewerblich?  Hier hilft uns die Steuergesetzgebung mit einer klaren Ansage weiter,
 nämlich dass jede Fahrt, die zu 3% gewerblich ist, vollständig als gewerblich angesehen werden muss.
 (Eventuell gilt es auch für unter 3% Anteil, dazu habe ich aber bisher nicht von einem Urteil gehört).
-Natürlich haben das die Gerichte so nicht gesagt wie ich es hier schreibe.  Auf die Logik diktiert,
+Natürlich haben das die Gerichte so nicht gesagt wie ich es hier schreibe.  Nur die Logik diktiert,
 dass es so sein muss.  Wenn ich nämlich mit etwas gewerblichen Verluste einfahre, so gilt da die 3%-Regelung ebenfalls.
 Nun kann eine Autofahrt ja auch Gewinn sein, indem ich z. B. auf den 3% der Fahrt einen Gewinn erziele,
 z. B. indem ich etwas als Kurier transportiere.  Evtl. hätte ich diesen Gewinn gar nicht realisieren können
