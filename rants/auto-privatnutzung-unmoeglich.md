@@ -30,9 +30,49 @@ Es ist viel zu kompliziert, in diesem Bereich etwas zu überlegen.
 
 Deshalb drehe ich den Ansatz einfach um.
 
-Wann ist eine Fahrt gewerblich.  Hier hilft uns die Steuergesetzgebung mit einer klaren Ansage weiter,
+Wann ist eine Fahrt gewerblich?  Hier hilft uns die Steuergesetzgebung mit einer klaren Ansage weiter,
 nämlich dass jede Fahrt, die zu 3% gewerblich ist, vollständig als gewerblich angesehen werden muss.
 (Eventuell gilt es auch für unter 3% Anteil, dazu habe ich aber bisher nicht von einem Urteil gehört).
+Natürlich haben das die Gerichte so nicht gesagt wie ich es hier schreibe.  Auf die Logik diktiert,
+dass es so sein muss.  Wenn ich nämlich mit etwas gewerblichen Verluste einfahre, so gilt da die 3%-Regelung ebenfalls.
+Nun kann eine Autofahrt ja auch Gewinn sein, indem ich z. B. auf den 3% der Fahrt einen Gewinn erziele,
+z. B. indem ich etwas als Kurier transportiere.  Evtl. hätte ich diesen Gewinn gar nicht realisieren können
+ohne die Privatfahrt, weil ich sonst nicht an Ort und Stelle gewesen wäre.  Das lässt sich so aber weder
+ermitteln noch sonstwie beweisbar erklären (nehmen wir den Fall, dass es ein für mich defizitärer Servicetechniktermin ist,
+aufgrund dessen ich später aber einen Riesenauftrag mit super Gewinnen erzielen kann).
+Also kann die Steuer das nicht einfach so ausschließen, muss aber im Zuge der Steuergerechtigkeit erlauben.
+Alles andere wäre nicht nur inpraktikabel, sondern auch noch willkürlich, denn (Stichwort Servicetermin)
+es ist sogar die Regel, dass ich bei der Steuererklärung oft noch gar nicht wissen kann, welche meiner heutigen
+gewerblichen Unternehmungen vielleicht 1-2 Jahre später über längere Zeit meine Existenz sichert.
+Da nicht einmal ich das wissen kann, kann ich auch der Steuer darüber keinerlei Rechenschaft ablegen,
+es wäre aber höchst ungerecht, wenn ich die Kosten, die ich hatte, um glänzende Gewinne einzufahren,
+deshalb nicht absetzen darf.  Langer Rede kurzer Sinn:
+Auch ein geringer gewerblicher Anteil macht eine Gesamtfahrt zu einer gewerblichen Fahrt.
+
+> Ich habe noch weitere Argumente:
+>
+> Es ist leicht, einen Fall zu konstruieren, in dem eine
+> zu 100% gewerbliche Fahrt deutlich länger ist,
+> als eine Fahrt, die einen hohen privaten Anteil hat.
+> Und jetzt?
+> - 100% geschäftliche Fahrt: 15 EUR Kosten.
+> - Fahrt zu 20% geschäftlich und 80% privat: 5 EUR Kosten.
+>
+> Bekomme ich dann 10 EUR vom Staat gutgeschrieben oder
+> ist es nicht eher so, dass die gesamte Fahrt (also die 5 EUR)
+> gewerblich sind?  Ich kann ja schlecht ins Fahrtenbuch schreiben:
+>
+> - Geschäftlich veranlasste Fahrt: 35km
+> - Privat gefahrene Strecke: 8km
+> - Tatsächlich zurückgelegte Strecke: 10km
+>
+> Nein, eben kein Witz.  Aufgrund der StVO ist die Strecke verschieden lang,
+> je nachdem ob ich privat fahre oder geschäftlich.
+>
+> Der umgekehrte Fall ist zwar ebenso denkbar.  Da aber die Fälle in der
+> Regel nicht gleichzeitig auftreten verstärkt das die willkürliche
+> Benachteiligung, wenn es fallweise, statt einer einfachen,
+> immer gleich gültigen klaren Auslegung gibt.
 
 Folgende Schritte sind also zu tun:
 
