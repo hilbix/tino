@@ -21,7 +21,9 @@ See https://docs.microsoft.com/en-us/windows/wsl/install-win10
 > https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 
 - `wslconfig` to configure
-- 
+- `/etc/wsl.conf` (under Linux!) allows to configure startup settings
+- Note that `/etc/fstab` is honored by default  
+  `DEVICE: /mnt/DEVICE drvfs case=dir 0 0`
 
 ## Running WSL
 
