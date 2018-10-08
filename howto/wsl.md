@@ -114,6 +114,9 @@ Disable/Enable/Check interop per-session:
 
 ## Environment `WSLENV`
 
+- https://docs.microsoft.com/en-us/windows/wsl/interop#share-environment-variables-between-windows-and-wsl
+- https://blogs.msdn.microsoft.com/commandline/2017/12/22/share-environment-vars-between-wsl-and-windows/
+
 The environment variable `WSLENV` lists all ENV variables to share between Windows and WSL:
 
 - Colon separated entries
@@ -124,4 +127,3 @@ The environment variable `WSLENV` lists all ENV variables to share between Windo
 - `l` environment variable is a list of PATHs
 - `u` variable is only passed from Win to WSL
 - `w` variable is only passed from WSL to Win
-
