@@ -43,6 +43,8 @@ The first invokement initializes WSL.  The later then reuses this environment.
 
 ## `drvfs`
 
+> Currently only full drives can be mounted, not a sub-path of a drive
+
     mount -o OPTIONS DEVICE: /mnt/DEVICE
 
 or `/etc/fstab`
