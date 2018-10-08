@@ -3,7 +3,7 @@
 WSL is neat.  It obsoltes things like Git-Shell and CygWin.  Now you can run native Linux apps under Windows.
 This here sums things which I was not aware easily.
 
-> This currently is based on Windows 10 from September 2018
+> This currently is based on Windows 10 Build 17713 (from October 2018, you might need to enable insider preview)
 
 See also:
 
@@ -89,24 +89,24 @@ The flag is not inherited.  `DIR` for `fsutil.exe` is the Windows path, not the 
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config#set-wsl-launch-settings
 
 `[automount]`
-- `enabled=true` mount all fixed drives (options may be overridden with `/etc/fstab`)
-- `enabled=false` do not automatically mount fixed drives
-- `mountFsTab=true` use `/etc/fstab`
-- `mountFsTab=false` ignore `/etc/fstab`
-- `root=/mnt` where to automount drives (under the drive's letter)
-- `options=OPTIONS` use the given mount options
+- `enabled = true` mount all fixed drives (options may be overridden with `/etc/fstab`)
+- `enabled = false` do not automatically mount fixed drives
+- `mountFsTab = true` use `/etc/fstab`
+- `mountFsTab = false` ignore `/etc/fstab`
+- `root = "/mnt"` where to automount drives (under the drive's letter)
+- `options = "OPTIONS"` use the given mount options
 
 `[network]`
-- `generateHosts=true` create `/etc/hosts`
-- `generateHosts=false` leave `/etc/hosts` as-is
-- `generateResolvConf=true` create `/etc/resolv.conf`
-- `generateResolvConf=false` leave `/etc/resolv.conf` as-is
+- `generateHosts = true` create `/etc/hosts`
+- `generateHosts = false` leave `/etc/hosts` as-is
+- `generateResolvConf = true` create `/etc/resolv.conf`
+- `generateResolvConf = false` leave `/etc/resolv.conf` as-is
 
 `[interop]`
-- `enabled=true` allow launching windows processes from within WSL
-- `enabled=false` windows processes cannot be launched from WSL
-- `appendWindowsPath=true` add windows paths to `PATH`
-- `appendWindowsPath=false` do not add windows paths to `PATH`
+- `enabled = true` allow launching windows processes from within WSL
+- `enabled = false` windows processes cannot be launched from WSL
+- `appendWindowsPath = true` add windows paths to `PATH`
+- `appendWindowsPath = false` do not add windows paths to `PATH`
 
 Disable/Enable/Check interop per-session:
 
@@ -121,11 +121,11 @@ Disable/Enable/Check interop per-session:
 
 The environment variable `WSLENV` lists all ENV variables to share between Windows and WSL:
 
-- Colon separated entries
+- Colon separated entries.  Example: `WLSENV=PATH/ul:HOME/p:LOGNAME/w`
 - Entry is `VARNAME` or `VARNAME/FLAGS` where VARNAME is the name of the evnvironment variable
 
 `FLAGS` is a combination of following characters:
-- `p` translate path from/to Windows format (WSL: `A:B:C`, Windows: `A;B;C`) 
-- `l` environment variable is a list of PATHs
-- `u` variable is only passed from Win to WSL
-- `w` variable is only passed from WSL to Win
+- `p` translate path from/to Windows format (like: Path)
+- `l` environment variable is a list of PATHs (like: List WSL: `A:B:C`, Windows: `A;B;C`)
+- `u` variable is only passed from Win to WSL (like: To Unix)
+- `w` variable is only passed from WSL to Win (like: To Windows)
