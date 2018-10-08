@@ -129,3 +129,7 @@ The environment variable `WSLENV` lists all ENV variables to share between Windo
 - `l` environment variable is a list of PATHs (like: List WSL: `A:B:C`, Windows: `A;B;C`)
 - `u` variable is only passed from Win to WSL (like: To Unix)
 - `w` variable is only passed from WSL to Win (like: To Windows)
+
+## Misc
+
+- Unix-Sockets under Windows https://blogs.msdn.microsoft.com/commandline/2018/02/07/windowswsl-interop-with-af_unix/
