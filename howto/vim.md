@@ -2,6 +2,12 @@
 
 I really do not understand.  Why is it so complex to explain things?  Or is it only me, perhaps?
 
+## VIM Keyboard shortcuts
+
+(Keyboard-shortcuts which are not found as first hit on Google)
+
+- `K` show `man` of the word under the cursor
+
 ## VIM modeline
 
 - `# vim: ft=sh` or `# vim: set ft=sh:` changes file type to `sh`
