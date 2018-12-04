@@ -215,3 +215,5 @@ Das ist eben der Kritikpunkt bei der Definition der Wikipedia,
 Dummheit hätte mit wenig Intelligenz zu tun ;)
 
 Stimmt nicht so ganz.  Wie so vieles.  Z. B. Oumuamua, aber hey, ich drehe mich im Kreis.  Wie dumm di dumm di dumm.
+
+https://www.youtube.com/watch?v=ei2WxeujUSs
