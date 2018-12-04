@@ -70,3 +70,55 @@ eine durch Menschen konstuierten Technik,
 die schlicht den Menschen mal wieder nicht mit eingeplant.
 
 **Von Menschen für Unmenschen.  Youtube live.**
+
+## Nachtrag
+
+Habe mal nach "Youtube Fehler melden" gegoogelt.  Finde dann das:
+
+https://support.google.com/youtube/answer/4347644
+
+Was für einen Hirnschiss muss ich da lesen?
+
+> Melde dich in youtube.com an.
+
+MÖÖP, Megafail!  Schon wieder ein weiterer Hirnschiss von Youtube.
+
+Merke:  Wenn ich einen Fehler melde, dann muss das anonym gehen.  Punkt aus und Ende.
+
+Aber das ist gar nicht der Hauptpunkt, warum das Hirnschiss ist!
+
+Wenn ich einen Fehler melde, was möchte ich tun?
+
+Na?
+
+Was wohl?
+
+Ja, genau, einen Fehler melden!  Das ist, was ich tun will.
+
+Will ich dann z. B. erst einen Youtube-Account anlegen (wenn ich noch keinen habe)?
+Oder irgendwelche Logindaten an irgendeine Datenkrake senden?
+
+Will ich das?
+
+Nein, natürlich will ich das nicht!  Ich will einen Fehler melden!  Genau das will ich.
+
+Aber kann ich das?  Nein, denn zuerst muss ich ja .. genau. das. ist. der. Hirnschiss!
+
+Ein Fehlermeldeformular ist einfach eine Textbox, in der ich den Fehler reinschreiben kann.
+Ich kann ggf. auch einen Screencast aufzeichnen um den Fehler zu beschreiben.
+Oder einen Screenshot anfügen, um das Problem zu beschreiben.
+Oder eine Audioaufzeichnung.
+
+Egal.  Aber am Anfang steht mal das Fehlermelden.  Sonst nix.
+
+Ob ich mich danach nackt ausziehe und meine Persönlichkeit an Youtube melden muss, das ist ein vollkommen anderer Vorgang.
+
+Es ist ja vollkommen in Ordnung, wenn Youtube einen Fehler, der gemeldet wird, irgendwie einordnen will.
+Dabei kann ein Youtube-Account helfen.  Aber in der Regel eher nicht.
+
+Was hilft Youtube bitte ein Account, der gerade frisch angelegt wurde, nur um den Fehler zu melden?
+Das hilft überhaupt nicht.  Stichwort DSGVO.  Die Hürde, die das bildet ist so hoch, dass man nur eines konstatieren kann:
+
+Youtube ist nicht zu helfen.  Denn sie wollen keine Hilfe.
+
+Na, wenn das kein Statement ist!
