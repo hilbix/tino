@@ -3,9 +3,15 @@
 > Youtube Streaming ist fehlkonstruiert.
 >
 > Denn wenn man es "falsch" macht, bekommt man ein "Diese Livestream-Aufzeichnung ist nicht verfügbar".
-> Die Erklärung, die man in der Youtube-Hilfe dazu bekommt ist außerdem auch noch grundlegend falsch.
+> Die Erklärung, die man in der Youtube-Hilfe von einem Community-Experten dazu bekommt,
+> ist außerdem auch noch grundlegend falsch.
+> Natürlich ist der Thread auch gelockt, damit man die richtige Antwort nicht als Kommentar anfügen kann.
 >
-> Es liegt an einem grundlegenden Konstruktionsfehler von Youtube, nur habe ich keine Ahnung, wie man den melden soll.
+> Das Problem liegt an einem grundlegenden Konstruktionsfehler von Youtube,
+> nur habe ich keine Ahnung, wie man den melden soll.
+> 
+> Noch so ein Ding.  Fehler gefunden, und jetzt?
+> Wollen die überhaupt wissen, was sie falsch machen, oder doch eher nicht?
 
 ## "Diese Livestream-Aufzeichnung ist nicht verfügbar"
 
