@@ -195,3 +195,23 @@ PS: The only question left is, how stupid it is to react to such a Stupidity.
 Well, I leave this excercise to the reader!  
 You are welcome!  
 https://de.wikipedia.org/wiki/Idiotes I am. ;)
+
+# DISCLAIMER
+
+Alles, was ich hier schreibe, ist meine absolut wahre Meinung.
+Ja, wirklich.
+
+Es ist offensichtlich, wie bescheuert diese Idee ist, dass Oumuamua eine Aliensonde sein könnte.
+Schon alleine wegen Occams Rasiermesser fällt diese These durch.
+Und es macht mich verdammt wütend, wenn ein Astronom plötzlich solch einen absoluten Blödsinn verbreitet.
+Auch wenn er es vielleicht tatsächlich mit einer guten Absicht tun wollte, was ich allerdings stark bezweifle.
+
+Vielleicht steckt etwas ganz anderes dahinter.  Dann war ich zu blöd, es zu begreifen.
+
+IMHO hat Dummheit ganz offensichtlich wenig mit Intelligenz zu tun.
+Man kann also gleichzeitig hochintelligent und brunzdumm sein.
+
+Das ist eben der Kritikpunkt bei der Definition der Wikipedia,
+Dummheit hätte mit wenig Intelligenz zu tun ;)
+
+Stimmt nicht so ganz.  Wie so vieles.  Z. B. Oumuamua, aber hey, ich drehe mich im Kreis.
