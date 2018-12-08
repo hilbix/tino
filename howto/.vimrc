@@ -1,10 +1,10 @@
-" Copy+paste the next 2 lines ore do: bash THIS_FILE_HERE
+" Copy+paste the next 2 lines or do: bash THIS_FILE_HERE
 "git" clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
 "ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 "return"; exit
 
-set modeline
-set cul
+set modeline            " enable things like # vim: ft=sh
+set cul                 " Highlight cursor line:
 hi CursorLine term=none cterm=none ctermbg=0
 
 set showcmd             " Show (partial) command in status line.
@@ -14,13 +14,13 @@ set smartcase           " Do smart case matching
 set incsearch           " Incremental search
 set autowrite           " Automatically save before commands like :next and :make
 
-set background=dark
+set background=dark     " better contrast
 
-if has("autocmd")
+if has("autocmd")       " Remember last position
   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
-hi MySHOW ctermbg=black
+hi MySHOW ctermbg=black " Highlight TABs and trailing spaces
 match MySHOW /\(\t\)\|\(\s\s*$\)/
 
 set ts=8 sw=8 noet ai ru fo=cqrt ls=2 shm=at
