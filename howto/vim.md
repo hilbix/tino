@@ -8,6 +8,8 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 
 - `K` show `man` of the word under the cursor
 
+Also read: https://stackoverflow.com/a/1220118/490291
+
 ## VIM modeline
 
 - `# vim: ft=sh` or `# vim: set ft=sh:` changes file type to `sh`
