@@ -1,4 +1,4 @@
-" Copy+paste the next 2 lines or do: bash THIS_FILE_HERE
+":" Copy+paste the next 2 lines or do: bash THIS_FILE_HERE
 "git" clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
 "ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 "return"; exit
