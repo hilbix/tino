@@ -14,7 +14,7 @@
 # Hirnschiss Tesla
 
 Hier führe ich all den Hirnschiss auf, der so rund um Tesla verbreitet wird,
-sowohl von Tesla-Fanboys als auch von Telsa-Gegnern.
+sowohl von Tesla-Fanboys als auch von Telsa-Gegnern oder Tesla selbst.
 
 > Obwohl, wahrscheinlich weniger von Tesla-Gegnern, denn was kann man schon gegen Telsa haben?
 > Falls ich über so etwas stolpere, das kommentiert werden sollte, werde ich das natürlich
