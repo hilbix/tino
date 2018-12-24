@@ -445,7 +445,7 @@ Das haben sie aber schön blöd gemacht, diese Engländer.  Ihr Wohl in die Hän
 
 > Wäre ich Terrorist, ich würde davon Abstand nehmen.  Warum?
 >
-> Ich bin Terrorist.  Das schlimmste, was mir passieren kann ist, wenn ich arbeitslos werde.
+> Ich bin (im Gedankenexperiment!) Terrorist.  Das schlimmste, was mir passieren kann ist, wenn ich arbeitslos werde.
 > Es ist also entscheidend, dass ich kein wehrloses Opfer angreife.  Am Ende siege ich.  Ja und dann?
 >
 > Wenn also jetzt ein Terroranschlag in England die Regierung handlungsunfähig machen würde,
