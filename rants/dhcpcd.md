@@ -46,3 +46,5 @@ Please note:
 This is the norm, not the exception.  Think of IPoAC or tunnels like from The Boring Company:
 
 You cannot be sure.  But you want to stay in control.
+
+IPv4 way works well.  Why change that?
