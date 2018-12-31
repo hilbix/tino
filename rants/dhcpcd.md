@@ -40,5 +40,7 @@ Please note:
 - MachineX is no router.
 - Only IP forwarding is enabled on both sides based on routes.
 - The link between DEVICE and Machine is using some socket like transport (like SPI or `ssh`).
+- For security reasons we do not want to work with insecure things like Broadcasts.
+- And IPsec is no option at all.
 
 This is the norm, not the exception.  Think of IPoAC or tunnels like from The Boring Company.
