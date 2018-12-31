@@ -10,7 +10,11 @@ Example: `ip6_address`.  Grep for it.  It isn't there.
 
 ### Point-to-point
 
+See also:
+
 - https://unix.stackexchange.com/questions/433439/how-to-set-a-static-ipv6-default-route-with-dhcpcd
+
+Setup:
 
     DEVICE <---PTP---> Machine1 <---somenetwork---> Router <---Internet---> Destination
          + <---PTP---> Machine2 <---somenetwork---> +
