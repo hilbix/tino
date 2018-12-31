@@ -43,4 +43,6 @@ Please note:
 - For security reasons we do not want to work with insecure things like Broadcasts.
 - And IPsec is no option at all.
 
-This is the norm, not the exception.  Think of IPoAC or tunnels like from The Boring Company.
+This is the norm, not the exception.  Think of IPoAC or tunnels like from The Boring Company:
+
+You cannot be sure.  But you want to stay in control.
