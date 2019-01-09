@@ -10,7 +10,7 @@ Die Saeco Royale Classic ist ein Kaffeevollautomat.  Plötzlich ging er nimmer.
 >
 > **Alle Angaben sind auf eigene Gefahr!**
 
-Stand:
+## Stand
 
 - Saeco Royal Classic SUP014
 - Beim Einschalten blinkt die rote LED
@@ -24,7 +24,7 @@ Stand:
 > Entweder es flutscht ganz leicht, oder man macht etwas falsch.
 > Wer Gewalt anwendet, macht vermutlich etwas kaputt!
 
-Ursache:
+## Ursache
 
 - Es handelt sich um einen offensichtlichen Konstruktionsfehler in der Steuerung der Maschine:
   - Ist die "Schublade" nicht gesteckt, fährt die "Brüheinheit" nicht in Grundstellung
@@ -36,7 +36,7 @@ Ursache:
 - Verursacher ist ein Microswitch (1) der erst mit eingeschobener Schublade betätigt wird.
   Kann man die Schublade nicht einschieben, wird der Microswitch nicht betätigt, und die Maschine bleibt ewig im "verklemmten" Zustand.
 
-Lösung:
+## Lösung
 
 - Maschine ausschalten
 - Etwas Pappe (2) in die Führung der "Schublade" klemmen, so dass es den Microswitch (1) betätigt.
@@ -50,10 +50,14 @@ Lösung:
 - "Schublade" kann jetzt eingeschoben werden
 - Die "Brüheinheit" kann jetzt übrigens ebenfalls entnommen werden.
 
+![Betätigung des Microswitch mit etwas Pappe](saeco/saeco-hack.png)
+
 Wie immer gibt es zahllose Möglichkeiten, wie man das Problem beseitigt.  Das oben beschriebene ist vermutlich die einfachste Lösung.
 
+## Weitere Infos
+
 Im Internet gibt es zahllose Themen und Forenbeiträge, wie man die "Brüheinheit" im verklemmten Zustand ausbaut.
-Das ist gar nicht notwendig, wenn man die Brüheinheit in die Grundposition fährt.
+**Das ist gar nicht notwendig**, wenn man die Brüheinheit in die Grundposition fährt.
 Wenn das nicht geht (z. B. weil einer der Microswitches ausgefallen oder er Motor kaputt ist) dann sollte man dieser Anleitung folgen.
 
 Hier dazu einige Anhaltspunkte:
@@ -90,13 +94,17 @@ Das geht nur, wenn die Maschine funktioniert und wenn drei(!) Microswitches gesc
 - Wenn der Motor sich in Grundstellung bewegt, hält er kurz an und fährt dann ganz kurz nochmals weiter.
 - Hat man Probleme, die "Brüheinheit" ganz reinzuschieben, einfach einen der zwei Stopps probieren.  Bei mir gingen beide.
 
-Bilder:
+## Bilder
 
 - Der Microswitch befindet sich im Schlitz unter der 1
 ![Der Microswitch befindet sich im Schlitz unter der 1](saeco/saeco-schubladenschlitz.png)
 
 - Die Überbrückung per Pappe
 ![Betätigung des Microswitch mit etwas Pappe](saeco/saeco-hack.png)
+
+### Weitere Informationen
+
+Folgende Bilder sind nur der Vollständigkeit halber, im Fall dass man doch mit dem Schraubenzieher rangehen will:
 
 - Die Schraube, die die "Brüheinheit" festhält wenn die normale Entnahme blockiert ist
 ![Schraube in der "Brüheinheit"](saeco/saeco-schraube.png)
@@ -107,7 +115,7 @@ Bilder:
 - Position des Microswitches von der "Brüheinheit" (4).  Auch zu sehen der Schlitz der "Schublade" mit Microswitch (1)
 ![Innere Seitenwand des Kaffeevollautomaten, Position vom 2. Microswitch](saeco/saeco-seite.png)
 
-Legende:
+## Legende
 
 - (1) Microschalter "Schublade"
 - (2) Pappe im Schlitz zur Betätigung vom Microschalter "Schublade"
