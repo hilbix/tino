@@ -52,7 +52,8 @@ Technisch habe ich derzeit folgende Strecke:
 - 170km pro Ladung, davon ca. 90 auf der Autobahn mit bis zu 200 km/h
 - Die meisten Fahrten sind Nachts bei wenig Verkehr auf der AB
 - Am Startpunkt (Zuhause) gibt es eine AC-Lademöglichkeit mit 19 kW.  Ladezeit: 5h
-- Am Zielpunkt gibt es keine Lademöglichkeit und wird es auch niemals eine geben.
+- Am Zielpunkt gibt es keine Lademöglichkeit und wird es auch niemals eine geben.  
+  (Genauer:  Es gibt sie.  Aber sie ist von der erlaubten Standzeit her nicht nutzbar, belegt oder maßlos überteuert.)
 - Auf der Strecke gibt es keinen Schnelllader und wird es auch lange Zeit keinen geben.
 
 Gründe:
