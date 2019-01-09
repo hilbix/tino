@@ -46,6 +46,7 @@ Lösung:
 - Maschine einschalten
 - Warten bis der Motor steht
 - Maschine abschalten
+- Pappe entfernen
 - "Schublade" kann jetzt eingeschoben werden
 - Die "Brüheinheit" kann jetzt übrigens ebenfalls entnommen werden.
 
