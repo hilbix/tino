@@ -28,7 +28,7 @@ Zwei vollkommen widersprüchliche Messungen, und beide ziehe ich nicht in Zweife
 
 Richtig.
 Ich gehe davon aus, dass sowohl 1997 als auch 2010 die Messung ordentlich durchgeführt wurde.
-Ich bezweifle auch nicht, dass die Messungenauigkeit falsch angegeben wurde.
+Ich bezweifle auch nicht, dass die Messungenauigkeit korrekt angegeben wurde.
 
 Allerdings bezweifle ich, dass beide Messungen dasselbe gemessen haben.  Nämlich Selen-79.
 
