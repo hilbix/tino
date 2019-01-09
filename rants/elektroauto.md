@@ -27,9 +27,9 @@ Allerdings gibt es viele Kritikpunkte:
 
 ## Reinelektrisch ist unbrauchbar
 
-Ich habe folgende Notwendigkeiten:
+Ich habe folgende Notwendigkeiten (für Hybrid):
 
-- Minimale Reichweite reinelektrisch (bei 130 km/h): 100 km
+- Minimale Reichweite elektrisch (bei 130 km/h): 100 km
 - Minimale Reichweite Benzin (200km/h Durchschnitt): 500 km
 - Reserve: 50 km
 
