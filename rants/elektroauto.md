@@ -4,7 +4,7 @@ Was ich brauche, warum ich es brauche und wie ich es brauche.
 
 ## Hybrid ist eine eindeutige Verbesserung
 
-Ich fahre seit einiger Zeit einen VW Hybri.  Damit meine ich ein Auto, das ein E-Kennzeichen hat und das halt auch noch mit Benzin fährt.
+Ich fahre seit einiger Zeit einen VW Hybrid.  Damit meine ich ein Auto, das ein E-Kennzeichen hat und das halt auch noch mit Benzin fährt.
 
 Diese Sorte Autos ist eindeutig eine Verbesserung gegenüber früher.
 
@@ -301,7 +301,7 @@ Aber genau das können wir heute noch nicht, weil die Abstriche von reinen E-Aut
 - E-Autos sind nicht langstreckentauglich, da sie keine 500km bei hoher Geschwindigkeit erreichen können.
 - Verbrenner in der heutigen Form sind aber eindeutig End-of-Life, da sie die Städte verpesten.
 - Die Ladeinfrastruktur ist noch nicht ubiquitär
-- Die Autos sind noch keine Selbstfahrer (was viele erleichtert, siehe oben)
+- Die Autos sind noch keine Selbstfahrer (was viele erleichtern würde, siehe oben)
 - usw.
 
 Autos der heutigen Mittelklassewagen mit Verbrennungsmotor sind rundum-sorglos-Pakete.
