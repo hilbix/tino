@@ -12,22 +12,18 @@ Because of this, here are my rants and catches about `apt`.
 This is what should be the default configuration.  Always.
 (Sorry that this is terribly incomplete, I will append as soon as I have the bits together.)
 
-If I discuss it, this is below.  For now you just get the plain undocumented info.
-
-`/etc/apt/apt.conf`:
+If I discuss it, this is below.  For now you just get the plain undocumented solution.
 
 ```
+rm -f /var/lib/apt/lists/partial/*;
+
+fgrep -vxf /etc/apt/apt.conf.d/99tino >> /etc/apt/apt.conf.d/99tino <<'EOF'
 Acquire::PDiffs "false";
+EOF
 ```
 
-Do not forget:
-
-```
-rm -f /var/lib/apt/lists/partial/*
-```
-
-(As this `rm` is automated at my side due to need, PDiffs actually increase the load on Debian servers.
-Go figure.)
+- As this `rm` is automated at my side due to need, PDiffs actually increase the load on Debian servers.  
+  Go figure.
 
 See also:
 
