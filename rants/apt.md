@@ -27,6 +27,7 @@ EOF
 
 See also:
 
+- https://raw.githubusercontent.com/hilbix/tino/master/howto/.apt (apt helper)
 - https://debian-administration.org/article/439/Avoiding_slow_package_updates_with_package_diffs
   - Actually `PDiffs` is a nice idea.  But it shall be optional, not default.
   - And it is badly documented.  You simply cannot find it in case it hurts.  Because it hurts stealthily.
