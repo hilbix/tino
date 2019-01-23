@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/hilbix/tino/blob/master/howto/.apt
+# https://raw.githubusercontent.com/hilbix/tino/master/howto/.apt
 
 fgrep -vxf /etc/apt/apt.conf.d/99tino >> /etc/apt/apt.conf.d/99tino <<'EOF'
 Acquire::PDiffs "false";
