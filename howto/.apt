@@ -1,0 +1,12 @@
+#!/bin/bash
+# https://github.com/hilbix/tino/blob/master/howto/.apt
+
+fgrep -vxf /etc/apt/apt.conf.d/99tino >> /etc/apt/apt.conf.d/99tino <<'EOF'
+Acquire::PDiffs "false";
+EOF
+
+rm -f /var/lib/apt/lists/partial/*
+
+apt-get autoclean
+apt-get update
+apt-get upgrade
