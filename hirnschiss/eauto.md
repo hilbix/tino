@@ -121,7 +121,8 @@ immer billiger und einfacher herzustellen ist.  Deshalb kam das Ende der Glühbi
 auch so urplötzlich.  Sie hatte sich bei fallenden Margen nur deshalb so lange
 gehalten, weil es keinerlei brauchbare Ersatztechnologie gab.
 Die Energiesparlampe war nur eine Übergangstechnologie, die deutlich schlechter
-(giftiger, komplizierter, teuerer) als die LED-Technik war.  Aber man stürzte sich drauf
+(giftiger, komplizierter, teuerer) als die Glühlampentechnik war (einige ESL haben
+real mehr Strom verbraucht als vergleichbare Glühlampen!).  Aber man stürzte sich drauf
 als gäbe es kein Morgen, weil - ja weil - die Glühlampe einfach nicht mehr weiter
 optimiert werden konnte.
 
