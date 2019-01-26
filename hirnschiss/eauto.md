@@ -275,6 +275,9 @@ Das geht in die die richtige Richtung.
 > Und natürlich fördere ich Elektroautos, weil sie so teuer sind,
 > also die Leute sie sich sonst gar nicht leisten würden.
 > Sozusagen eine indirekte Subvention der Industrie im Autofahrerland Deutschland.
+> Aber da eAutos so teuer sind, ist diese Förderung eine Reichenförderung,
+> die Armen können sich solch ein Auto gar nicht leisten.
+> (Lies: Irgendwer muss ja die gebrauchten Autos mit alter Technik kaufen.)
 >
 > Die KFZ-Steuer usw. ist sowieso in gewisser Form eine Frechheit,
 > da sie eben gerade die schwächsten benachteiligt.
