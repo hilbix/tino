@@ -349,7 +349,7 @@ Nö, funktioniert nicht.  Deutlich unbequem.  Und echter Mist.
 
 Ja, natürlich wird es immer Leute geben, die das trotzdem machen.
 Aber für den Großteil der Menschen, also die, die für die Industrie interessant sind,
-weil sie Autos kaufen, genau der, für den ist das absolut nichts.
+weil sie Autos kaufen, genau der Teil, für den ist das absolut nichts.
 
 **eMobilität und Selbstfahrer bedeuten deutlich mehr Autos!**
 
