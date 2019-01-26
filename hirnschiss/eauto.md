@@ -1,4 +1,8 @@
-> Das eAuto, oder papierloses Büro, reloaded.
+> Dieser Text ist [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+>
+> Das eAuto.  Oder die Mär vom papierloses Büro, reloaded.
+>
+> Dieses Dokument könnte forgtesetzt werden, wenn mir mal wieder die Galle überläuft.
 
 # Elektroauto Hirnschiss
 
@@ -394,4 +398,3 @@ sich zu drehen.  Und wir haben ja nichts anderes, das die Erde antreibt.
 
 Oder?
 
-> Reihe wird forgtesetzt, wenn mir mal wieder die Galle überläuft.
