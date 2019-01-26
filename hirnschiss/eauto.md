@@ -18,7 +18,7 @@ Wovon auch immer.
 
 ## Alles Quatsch
 
-Bevor ich erkläre, was so alles Quatsch ist, hier erst einmal ein paar Prognosen über
+Bevor ich erkläre, was so alles Quatsch ist, hier erst einmal ein paar Prognosen über ..:
 
 ### Die Zukunft
 
