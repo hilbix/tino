@@ -99,8 +99,13 @@ Meine These ist also:
 
 > Eine bestehende beherrschte Technik wird durch eine neue Technik genau dann ersetzt,
 > wenn die neue Technik besser weiterentwickelt werden kann als die etablierte Technik.
-> Das geschieht auch dann, wenn die neue Technik nicht ganz so ausgereift ist,
-> wie die existierende Technik.
+> Der Zeitpunkt, an dem sich die neue Technik durchsetzt, wird in der Regel schon
+> erreicht, bevor die neue Technik die alte Technik vollständig in allen Belangen
+> ersetzen kann.  Er wird in der Regel sogar schon früher erreicht, also wenn die
+> neue Technik die Alte noch nicht einmal wirklich ersetzen kann, denn sobald die
+> Profitmargen im neuen Bereich einen höheren Gewinn erwarten lassen als mit der
+> alten Technik, schwenkt die Industrie frühzeitig auf den neuen Kurs ein und
+> drückt damit die neue Technik in den Markt.  Durch Lobby, Werbung und ähnlichem.
 
 Das ist auch vollkommen logisch.
 
