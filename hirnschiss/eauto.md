@@ -190,7 +190,7 @@ Da gibt es kein Entkommen.
 
 ## Deshalb sind Quatsch
 
-### Forderung: Elektroauto fördern
+### Quatsch: Elektroauto fördern
 
 Ja, die ESL und anschließend die LED wurden gefördert, indem man die Glühbirnen verbot.
 
@@ -225,7 +225,7 @@ Und etwas, das man noch mit vergleichsweise geringem Aufwand über Jahrzehnte we
 > Leute, die fordern, dass man die eMobilität fördert, haben den Komplex schlicht nicht
 > verstanden.  Sie fordern unnötiges.  Die Entwicklung geschieht so oder so.
 
-### Forderung: Zwang zur eMobilität
+### Quatsch: Zwang zur eMobilität
 
 Zwang ist nicht gut.  Wer das fordert wird Schiffbruch erleiden.
 
@@ -274,3 +274,124 @@ Das geht in die die richtige Richtung.
 > Noch besser, wenn ich das unter falscher Flagge tun kann.
 > Win-Win!
 
+### Quatsch: Weniger Autos, weniger km
+
+Also da kommen einige tatsächlich daher, und denken folgendes:
+
+- Durch eMobilität und Selbstfahrer wird die Verkehrsinfrastruktur entlastet
+- Durch eMobilität und Selbstfahrer werden Verkehrsströme optimiert
+- Durch eMobilität und Selbstfahrer wird es weniger Autos geben
+- Durch eMobilität und Selbstfahrer wird der ÖNV verbessert
+- Durch eMobilität und Selbstfahrer wird der Individualverkehr abnehmen
+- Durch eMobilität und Selbstfahrer werden weniger km gefahren.
+
+Totaler Quatsch!  Genau das Gegenteil wird der Fall sein!
+
+Einfache Fragen, einfache Antworten:
+
+- Wird die Mobilität der Menschen in Zukunft abnehmen?  Ganz klares Nein, sie wird zunehmen.
+
+- Wird der Komfort der Mobilität der Menschen in Zukunft abnehmen?  Ganz klares Nein.
+  Die Mobilität wird durch eMobilität und Selbstfahrer teurer!
+  Für mehr Geld erwarten Menschen nun einmal mehr.
+
+Also, Mobilität und Komfort werden ganz sicher zunehmen.  Weil es nicht anders geht.
+
+Mehr Mobilität bedeutet auch mehr Verkehr.  Außer, man kann den irgendwie bündeln.
+Das wiederum widerspricht aber dem höheren Komfort.
+
+Und jetzt einmal etwas simple Mathematik.
+
+In einem normalen Fahrzeug können 1 bis 5 Personen sitzen, maximal 8.
+Alles darüber braucht einen Busführerschein, und das haben die wenigsten.
+
+Das Minimum der Personen je Fahrzeug ist 1, denn es wird ja immer der Fahrer gebraucht.
+
+Auftritt selbstfahrende Autos.  Wieviele Fahrer brauchen die?  Na?
+
+Richtig.  0.  Die fahren auch ganz ohne Mensch!
+
+Also ist klipp und klar:
+**Die durchschnittliche Anzahl der Personen je Fahrzeug wird sinken**
+sobald selbstfahrende Autos auf dem Markt erscheinen.
+
+Es steigt also nicht nur die Mobilität, sondern es sinkt auch noch die je Fahrzeug
+transportierten Personen!  Das geht Hand in Hand mit gesteigerter Bequemlichkeit.
+
+Beispiel:  Ich habe etwas im Auto vergessen.
+
+Statt jetzt 20 Minuten zum Parkhaus zu latschen um sie aus dem Auto zu holen,
+kommt das Auto vorbei, ich entnehme die Aktentasche und das Auto fährt wider
+zurück zum Parken.
+
+Auftritt Car-Sharing.  Also ich habe etwas im Auto vergessen.
+Leider ist das Car-Sharing, also der feuchte Traum von irgendwelchen Volldeppen,
+die denken, der Mensch wäre nicht so gestrickt wie sie selbst,
+nämlich ein Vollhonk und egoistisch wie es schlimmer nicht geht
+(wären sie keine Egoisten, hätten sie bemerkt, welchen Schwachsinn sie da denken).
+
+Äh, ja, wie funktioniert das da mit der vergessenen Aktentasche?
+
+Nö, funktioniert nicht.  Deutlich unbequem.  Und echter Mist.
+
+Ja, natürlich wird es immer Leute geben, die das trotzdem machen.
+Aber für den Großteil der Menschen, also die, die für die Industrie interessant sind,
+weil sie Autos kaufen, genau der, für den ist das absolut nichts.
+
+**eMobilität und Selbstfahrer bedeuten deutlich mehr Autos!**
+
+Natürlich muss es anschließend mehr Autos geben als vorher.
+
+Sagt die einfachste Mathematik.  Sagt die menschliche Natur.
+Aus diesem Grund arbeitet die Industrie auch mit Hochdruck
+an den Selbstfahrern!
+
+Oder glaubt hier auch nur ein einziger, dass sich die Deutsche Automobilindustrie
+jetzt Milliarden in die Forschung versenkt, um hinterher dann weniger Autos
+abzusetzen?  Ehrlich?  Nie im Leben!
+
+Da ist es ja wahrscheinlicher, dass Weihnachsmann, Osterhase und Zahnfee existieren,
+und außerdem identisch sind, also ein-und-dieselbe Entität darstellen.
+
+
+### Quatsch: Umweltschutz
+
+Also was haben wir bis hier:
+
+- Mehr Autos
+- Mehr km
+- Mehr Komfort
+
+Und jetzt kommt das nächste Märchen:  Die Umwelt wird entlastet.
+
+Nun, das stimmt schon irgendwie doch.  Das einzelne Auto wird umweltfreundlicher.
+So weit so richtig.  Aber es ist wie mit den Blaualgen.
+Ohne geht nicht, aber nimmt sie überhand, ist das Gewässer halt dann vergiftet.
+
+Genau das ist die Motivation dahinter.  Der Umweltschutz ist nur zweitrangig.
+
+Aber den Herstellern ist klar:  Wenn sie jetzt nicht etwas tun, wird der Absatz einbrechen.
+Aufgrund der dann nicht mehr tragbaren Umweltbelastung.  Hierzulande.
+
+> Richtig, die Umweltbelastung in Deutschland geht zurück.
+> Aber nicht, weil das alles so Umweltfreundlich ist,
+> sondern weil wir den ganzen Dreck exportieren oder eben nimmer importieren.
+>
+> In der 3ten Welt verrecken die Leute, weil wir Energiemais in unseren Tank kippen.
+> Und im Kongo halt die Kids, die das Litium aus der Erde kratzen.
+> Und das alles im Namen von Dieselgate, angeführt von der Deutschen "Umwelthilfe".
+> Zynischer geht kaum.
+
+Der Umbau zur Elektromobilität ist lediglich das Mittel zum Zweck,
+das die Industrie braucht, damit sie den Absatz weiter ankurbeln kann.
+
+Hat das irgendwer bezweifelt?  Dann träum schön weiter und lass Dich vom Jammern der
+Autoindustrie ablenken.  Dann glaubst Du sicher auch alles, was Du über Tesla liest.
+
+Und das ist auch gut so!  Wir brauchen mehr Fanboykosumentenschlachtvieh.
+Die Mehrheit der Menschheit muss das sein.  Sonst hört unsere Wirtschaft auf,
+sich zu drehen.  Und wir haben ja nichts anderes, das die Erde antreibt.
+
+Oder?
+
+> Reihe wird forgtesetzt, wenn mir mal wieder die Galle überläuft.
