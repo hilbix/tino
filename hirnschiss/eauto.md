@@ -198,7 +198,7 @@ Das war nämlich schon immer so.  Und wird auch immer so bleiben.
 Denn so tickt der menschengemachte Fortschritt nun einmal.
 Da gibt es kein Entkommen.
 
-## Deshalb sind Quatsch
+## Deshalb Quatsch
 
 ### Quatsch: Elektroauto fördern
 
