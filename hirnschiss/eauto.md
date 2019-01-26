@@ -340,7 +340,7 @@ zurück zum Parken.
 Auftritt Car-Sharing.  Also ich habe etwas im Auto vergessen.
 Leider ist das Car-Sharing, also der feuchte Traum von irgendwelchen Volldeppen,
 die denken, der Mensch wäre nicht so gestrickt wie sie selbst,
-nämlich ein Vollhonk und egoistisch wie es schlimmer nicht geht
+seien nämlich kein egoistischer Vollhonk wie es schlimmer nicht geht
 (wären sie keine Egoisten, hätten sie bemerkt, welchen Schwachsinn sie da denken).
 
 Äh, ja, wie funktioniert das da mit der vergessenen Aktentasche?
