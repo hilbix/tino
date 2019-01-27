@@ -249,3 +249,23 @@ dass er sich bitte mit dem Anwalt der Versicherung weiter auseinandersetzt.
 
 Dann hat man alles gemacht, was einem zumutbar ist.
 (Die Ware muss man allerdings weiterhin aufbewahren bis der Anwalt das nicht mehr für notwendig erachtet.)
+
+# Speditionsware
+
+Das alles gilt natürlich nicht für Speditionsware, die man nicht einfach so auf die Post tragen kann.
+
+Wer also z. B. 1,5t Pellets bestellt und dann stattdessen 2t Grubenholz geliefert bekommt,
+sollte das am Besten gleich bei Lieferung abklären und diese zurückgehen lassen.
+
+> Ist mir passiert:
+>
+> Anruf von der Spedition.  "Die Gitter sind da"
+>
+> Da mir aber schon in der Woche zuvor die Gitter von der Firma - aber über eine andere Spedition - geliefert worden waren,
+> habe ich dankend die Doppellieferung abgelehnt, noch bevor die Spedition anfuhr.
+>
+> Die Spedition hat die Sache dann geklärt.  Typische Logistikfehler eben ;)
+
+Nur blöd wenn man nicht zuhause ist und der Nachbar so etwas dummerweise ohne Auftrag annimmt.
+Das kann dann durchaus teuer werden - für den Nachbarn, und letztendlich für einen selbst
+(ist kompliziert, in der Regel wird der Nachbar das nicht bezahlen müssen, sondern man selbst).
