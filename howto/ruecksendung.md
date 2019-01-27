@@ -252,7 +252,7 @@ Dann hat man alles gemacht, was einem zumutbar ist.
 
 # Speditionsware
 
-Das alles gilt natürlich nicht für Speditionsware, die man nicht einfach so auf die Post tragen kann.
+Das Text-Template oben gilt natürlich nicht für Speditionsware, die man nicht einfach so auf die Post tragen kann.
 
 Wer also z. B. 1,5t Pellets bestellt und dann stattdessen 2t Grubenholz geliefert bekommt,
 sollte das am Besten gleich bei Lieferung abklären und diese zurückgehen lassen.
