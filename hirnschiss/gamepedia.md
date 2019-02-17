@@ -80,4 +80,12 @@ für mich ist es nämlich viel einfacher, all den Anderen ihre liebgewonnen Fehl
 > Und stur nicht und niemals auf andere zu hören, da bin ich ganz Mensch, wie jeder andere auch.
 
 Wenigstens verstehe sehr gut, warum es nach über 20 Jahren Gehirnwäsche mit Hochdruckscheiße
-jemand nicht schafft, all den Mist aus dem Hirn ledig zu werden.  Das benötigt übermenschliche Kräfte.
+jemand nicht schafft, all dem Mist im Hirn ledig zu werden.  Das benötigt übermenschliche Kräfte.
+
+In sofern seid ihr in aller illustrester Gesellschaft.  Fühlt euch ruhig wohl da, aber ohne mich!
+Ich kann - und will - euch gar nicht mehr helfen.
+
+> Und das gilt für alle die es ähnlich Gamepedia machen.
+> Don Quixote hat ja auch keine Chance gegen die allseits präsenten Windmühlenflügel.
+> (Im Gegensatz zu Don aber bin ich Mathematiker.  Ich kann beweisen, dass mein Standpunkt korrekt ist.
+> Dass der überwiegende Teil der Menschheit solche Mathematik aber niemals verstehen wird, das ist ja nicht mein Fehler.)
