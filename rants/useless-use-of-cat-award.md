@@ -142,6 +142,32 @@ While you can easily deduce the problem in the latter, you cannot in the first. 
 
 You can see that as a shell-bug or whatever.  But if you use `cat` there is not even a minimal problem.
 
+# Honorable mention
+
+Do you spot a "little" difference of the useless use of `| cat`?  Can you?
+
+```
+$ dpkg -l apt
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                                                                                                               Version                                                                Architecture                                                           Description
++++-==================================================================================================================================-======================================================================-======================================================================-==========================================================================================================================================================================================================================================================================
+ii  apt                                                                                                                                1.6.8                                                                  amd64                                                                  commandline package manager
+```
+
+vs.
+
+```
+$ dpkg -l apt | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name           Version      Architecture Description
++++-==============-============-============-=================================
+ii  apt            1.6.8        amd64        commandline package manager
+```
+
 # Conclusion
 
 All I can say is:
