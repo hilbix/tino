@@ -144,7 +144,7 @@ You can see that as a shell-bug or whatever.  But if you use `cat` there is not 
 
 # Honorable mention
 
-Do you spot a "little" difference of the useless use of `| cat`?  Can you?
+Do you spot a "little" difference of the useless use of `| cat`?  Can you do this?
 
 ```
 $ dpkg -l apt
