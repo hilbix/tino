@@ -168,6 +168,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ii  apt            1.6.8        amd64        commandline package manager
 ```
 
+(If you haven't noticed already: 8K monitors do exist.  Really.)
+
 # Conclusion
 
 All I can say is:
