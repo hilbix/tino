@@ -1,6 +1,3 @@
-> Ah, BTW, the `| cat` is far from being useless in following command: `dpkg -l gcc | cat`
-
-
 # `cat` is good.  `cat` is your friend
 
 There is no such thing as a useless use of cat!
