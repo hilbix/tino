@@ -135,5 +135,7 @@ Technisch überhaupt kein Problem.  Allein die Notwendigkeit dafür war bisher n
 >
 > Warum nur hat die EU gerade - aus schierem Unverständnis heraus - dafür gesorgt, dass genau das entstehen wird?  Das verstehe ich hinten und vorne nicht.
 
--Tino
-PS: Hier steht es.  Schon heute.  Lest es um 2030 nochmals durch.  Und ich hoffe, ich hatte dann NICHT Recht.  Die Chancen dafür stehen jetzt schlecht.  Sehr schlecht.  Äußerst schlecht.  Leider.  Denn wenn wir Pech haben kommt es noch schlimmer.
+-Tino  
+PS: Hier steht es.  Schon heute.  Lest es um 2030 nochmals durch.  Und ich hoffe, ich hatte dann NICHT Recht.  Die Chancen dafür stehen jetzt schlecht.  Sehr schlecht.  Äußerst schlecht.  Leider.  Denn wenn wir Pech haben kommt es noch schlimmer.  
+PPS: Eine Chance haben wir noch.  Der Europarat.  Aber ich habe da wirklich wenig Hoffnung.  Das Parlament wäre die demokratisch sinnvolle Stelle gewesen, dem einen Riegel vorzuschieben.  Dies wurde vergeigt.  Und damit ist es der heutige Tag, der unser aller Zukunft prägen wird.  
+PPPS: Ich bin dafür dass die Wikipedia abschaltet, bis das Gesetz vom Tisch ist.
