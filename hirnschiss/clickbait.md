@@ -1,4 +1,6 @@
-Hier führe ich Clickbait-Müll aus dem Internet auf:
+> Hier führe ich Clickbait-Müll aus dem Internet auf.
+>
+> Also Kopie dessen, was ich gepostet habe, das verschwinden würde, wenn der Clickbait gelöscht wird.
 
 https://www.youtube.com/watch?v=MC-4yVISwPE
 
