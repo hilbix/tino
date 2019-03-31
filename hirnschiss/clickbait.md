@@ -10,7 +10,8 @@ https://www.youtube.com/watch?v=MC-4yVISwPE
 >
 > - Jemand bekommt einen Anruf aus Russland
 > - Er nimmt den Anruf an, es ist nichts dran, er legt wieder auf
-> - Auf der nächsten Telefonrechnung stehen 2 nach Russland ausgehende Verbindungen, die 1h lang standen
+> - Auf der nächsten Telefonrechnung finden sich 2 parallele nach Russland ausgehende Verbindungen
+> - Diese Verbindungen standen 1h lang und kosten über 100 EUR.
 > - Fazit (das ist der Hirnschiss): Nicht an ausländische Anrufe gehen
 >
 > Tatsachen:
@@ -24,13 +25,15 @@ https://www.youtube.com/watch?v=MC-4yVISwPE
 > - Das funktioniert evtl. auch mit Nicht-Smartphones (nur gibt es für diese weniger Trojaner)
 > - Das hat auch nichts mit irgendwelchen speziellen eingehenden Anrufen zu tun.  (Das geht ggf. auch ohne Anruf!)
 > - Das hat ausschließlich etwas mit dem Handy sowie dessen Besitzer zu tun.
+> - Und auf diese Weise derart falsch darüber zu berichten ist schlimmer als FUD, das halte ich sogar für klar gefährlich!
 >
 > Generelle korrekte Empfehlung für alle:
 >
-> - Allen Apps bis auf die Standard-Telefonieapp die Rechte wegnehmen, Telefonate zu führen
+> - Allen Apps (bis auf die Standard-Telefonieapp) die Rechte wegnehmen, Telefonate zu führen
 > - Systemapplikationen und Administratoren beachten!  (Achtung!  Einige sind notwendig!  Bei Bedarf:  Experten fragen!)
 > - Alle Apps löschen, die nicht aus dem offiziellen Appstore stammen.
 > - Bei allen nicht-löschbaren Apps ggf. den Handyhersteller/Brander fragen, was die tun.
+> - Ggf. zu einem seriösen Handyhersteller wechseln.
 >
 > Und im speziellen Fall zusätzlich:
 >
