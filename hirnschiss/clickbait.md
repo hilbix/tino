@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=MC-4yVISwPE
 > - Systemapplikationen und Administratoren beachten!  (Achtung!  Einige sind notwendig!  Bei Bedarf:  Experten fragen!)
 > - Alle Apps löschen, die nicht aus dem offiziellen Appstore stammen.
 > - Bei allen nicht-löschbaren Apps ggf. den Handyhersteller/Brander fragen, was die tun.
-> - Ggf. zu einem seriösen Handyhersteller wechseln.
+> - Ggf. zu einem seriösen Handylieferanten wechseln.
 >
 > Und im speziellen Fall zusätzlich:
 >
