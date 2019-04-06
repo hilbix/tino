@@ -855,7 +855,8 @@ sinnvolles Handeln im Markt und sinnvoller Vorgehensweise in der Politik, ganz o
 > womit er noch eine Chance hat nicht in mich zu rauschen.  Und der Idiot vor mir hat dann auch die
 > Chance, seine Wahnsinnstag zu überdenken.  Ist der Fahrer hinter mir aber zu nah drauf fange ich zur Sicherheit
 > schon vorher an, schwach zu bremsen.  Das ist halt doof, weil dann der Idiot dann ganz sicher rüberkommt.
-> "Oh der bremst und lässt mich rein" -> Nö, ich will nur verhindern dass gleich zwei in Dich reindonnern.
+> "Oh der bremst und lässt mich rein" -> Nö, ich bin Egoist und will nur nicht,
+> dass mein Hintermann mich auch plättet während ich Dich plätte, bevor er dann Dich ein zweites Mal plättet.
 >
 > Bei mir nahe aufzufahren bedeutet deshalb, dass wir beide langsamer vorankommen.  Schön blöd,
 > weil wir beide dann lange hinter dem Deppen hängen, die dann aufgrund der von ihnen ausgelösten
