@@ -618,7 +618,7 @@ bevor ich irgendwo andotze drückt es auf die Bremse.  Genau so muss das!)
 
 Aber zurück zu der Geschwindigkeitsbeschränkung zur Unfallvermeidung.
 
-Unfälle geschehen aus 2 Gründen:
+(Vermeidbare) Unfälle geschehen aus 2 Gründen:
 
 - Unaufmerksamkeit der Menschen.
 - Mutwillige überschreitung der erlaubten Geschwindigkeit.
