@@ -1,3 +1,11 @@
+> This Works is placed under the terms of the Copyright Less License,
+> see file [COPYRIGHT.CLL](COPYRIGHT.CLL).  USE AT OWN RISK, ABSOLUTELY NO WARRANTY.
+>
+> Lies:
+> Dieser Text kann frei verwendet werden, so lange er unter keinem Copyright steht.
+> Mit frei meine ich:  Wie Freibier, Freie Rede oder ein frei geborenes Baby.
+
+
 # Fuzzydemokratie
 
 Was ist Fuzzydemokratie?
