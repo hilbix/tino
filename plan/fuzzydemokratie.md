@@ -148,7 +148,7 @@ Ein wichtiges Detail:  Eine Partei kann niemals mehr als die angegebenen %-Werte
 > die antritt und es über 5% schafft.
 
 
-## Extended Fuzzy
+## Extended Fuzz
 
 Aber dabei würde ich es eben nicht belassen!
 
