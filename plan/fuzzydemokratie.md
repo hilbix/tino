@@ -128,21 +128,19 @@ Ein wichtiges Detail:  Eine Partei kann niemals mehr als die angegebenen %-Werte
 
 > Es erscheint nur so, dass das komplex wird.  Das ist aber nicht der Fall.
 >
-> Fall oben:
->
-> Die Piraten kommen nicht weiter.  Also sind sie raus.
->
-> Gehen wir mal davon aus, da geht chaotisch zu, und 3 Parteien schaffen es in Baydern nicht über die 5%:
-> Die Piraten, die Grünen und die Linke.  Aber eben nur sehr knapp, ihnen fehlt 0,01 Stimme.
+> Gehen wir beim Fall oben mal davon aus, da geht chaotisch zu, und 3 Parteien schaffen es in Bayern nicht über die 5%:
+> Die Piraten, die Grünen und die Linke.  Aber eben nur sehr knapp, ihnen fehlt 0,01 Stimmen.
 >
 > Je nachdem, welche Partei ich zuerst elliminiere, kommen durch die Umverteilung die anderen Parteien über 5%.
 >
 > Der Trick ist nun, dass man die 5%-Hürde instant für alle Parteien bei der ersten Wahlverteilung verwendet.
-> Sprich alle 3 wären raus und fertig.  Die Stimme wird dann automatisch über die anderen verteilt.
+> Sprich alle 3 wären raus und fertig.  Die Stimme wird dann automatisch über die verbliebenen verteilt.
 >
 > Hier also 60% SPD.  Da die SPD bei mir 60% bekommen hat, verfallen 40% meiner Stimme.
+> (Hätte ich der SPD 200% gegeben und 10% der CSU, würde die CSU 1/21 und die SPD 20/21 meiner Stimme bekommen.)
 >
-> Das wusste ich aber schon vorher.  Hätte ich das nicht gewollt wäre meine Steuerung wie folgt gewesen (Punkte, nicht Prozente):
+> Das das mit den 60% passieren kann wusste ich aber schon vorher.
+> Hätte ich das nicht gewollt wäre meine Steuerung wie folgt gewesen (Punkte, nicht Prozente):
 >
 > 99 Piraten, 60 SPD, 50 Linke, 40 CDU, 0 CSU, 10 Grüne
 >
