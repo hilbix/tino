@@ -66,10 +66,13 @@ hauptsächlich in neuen Ideen für Verbote manifestiert) mehr wählen, denn ich 
 > Ein generelles Temoplimit ist z. B. solch ein Verbot, das es nie geben sollte.
 > Besser wäre, man regelt das über die Steuer, denn dafür sind Steuern da!
 >
-> Fordert z. B. für PKW, die bauartbedingt dauerhaft eine Höchstgeschwindigkeit von über 160 halten können,
+> Fordert man z. B. für PKW, die bauartbedingt dauerhaft eine Höchstgeschwindigkeit von über 160 halten können,
 > eine jährliche PKW-Sondersteuer in Höhe von
+>
 >     (Höchstgeschwindigkeit-130)^2/10 EUR
-> ergibt 490€ für 200, 1000€ für 230, 1440€ für 250, 2890€ für 300, 4840€ für 350, 8122€ bei 415 (Bugatti Veyron)
+>
+> ergibt das:  490€ für 200, 1000€ für 230, 1440€ für 250, 2890€ für 300, 4840€ für 350, 8122€ bei 415 (Bugatti Veyron)
+>
 > Pro Jahr, wohlgemerkt.
 >
 > (Führt diese Steuer über 10 Jahre ein, also im ersten Jahr 1/10 davon, im 2. Jahr dann 1/9 usw. und nach 10 Jahren voll.)
