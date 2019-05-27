@@ -220,13 +220,80 @@ Ebenso könnte interessant sein, noch Biokraftstoffe und Gaserzeugung (Methan au
 Außerdem fehlt hier noch die Effizient vom Abbau von Methan und vor allem Methaneis rund um die Kontinente.
 Davon gibt es weit mehr als Erdöl.
 
-> Fun Fact:  Das Schicksal der Menschheit hängt vermutlich stark am Methaneis.
-> Gast das Methaneis nämlich aufgrund irgendeines Vorkommnisses aus (derzeit ist kein solcher Vorgang bekannt!),
-> stirbt der Mensch binnen weniger Tage weil die Luft nicht mehr geatmet werden kann.
+# TL;DR
+
+Die Diskussion um Wasserstoff als Energieträger der Mobilität der Zukunft ist substantieller Schwachsinn.
+
+**Es gibt nichts ineffizienteres im Individualverkehr als einen Wasserstoffantrieb!**
+
+Das bedeutet nicht, dass es nicht gute Gründe für einen Wasserstoffantrieb gibt, wir diesen also auf jeden Fall
+nutzen sollten:
+
+- Baumaschinen werden ideal mit Wasserstoff angetrieben.  Sauerstoff ist in der Luft in ausreichender Menge
+  vorhanden, dessen Verbrauch und Umwandlung in Wasser verbessert sogar die unterirdische Durchlüftung!
+  Unterirdisch sind BEV (zu gefährlich bei Feuer) und Verbrenner (CO2) einfach sehr schlechte Alternativen,
+  und elektrisch per Kabel angetriebene Maschinen sind umständlich.
+  Wenn ich so schon einen kleinen Fuhrpark mit Wasserstoff habe, kann ich gleich überall Wasserstoff einsetzten.
+  Das erhöht die Effizienz, Nutzbarkeit, Arbeitsschutz uvm. enorm.  Die etwas höheren Kosten für den Wasserstoff
+  (aufgrund seiner geringen Effizienz) fallen da auf Dauer nicht mehr ins Gewicht.
+  Das bedeutet aber auch, ich kann wasserstoffbetriebene elektrische Generatoren verwenden u.v.m.
+  was Planung und Aufbau wesentlich vereinfacht.  Und wenn man sich als Hersteller nur noch auf eine Technik
+  konzentrieren muss, die alles (selbst den Einsatz unter Wasser, da braucht man sowieso Sauerstofftanks) abdeckt,
+  kann man die Produktivität steigern und auf Dauer enorme Kosten bei Forschung und Entwicklung einsparen.
+  Think big!
+
+- Wasserstoff kann helfen, einen unkomplizierten Range-Extender aufzubauen, den man einfach in den Kofferraum legen kann.
+  **1l Wasserstoff ergibt ca. 16 kWh Batterieladung** und damit ca. 50 km Reichweite.
+  (Mein Dieselverbrauch liegt bei 8-12l, reinelektrisch liegt der Verbrauch entsprechend bei 30-50 kWh/100km.
+   Lebt damit, das sind die Werte!  Wieso muss ein Fahrverhalten bei BEV anders werden?  Spinnt ihr?)
+  Einen Range-Extender alle 250km an der Tanke auszutauschen geht ratz-fatz (schneller als Tanken!)
+  und wäre damit brauchbar - und in einen größeren Kofferraum dürften durchaus 2 oder 3 Range-Extender passen.
+
+- In Ländern mit Permafrost will man nicht batterieelektrisch unterwegs sein.  Dort kann Wasserstoff beim Heizen helfen.
+  Das geht auch mit entsprechenden kleinen Range-Extendern, die 5l Wasserstoff speichern können.
+  Vermutlich überleben dort zwar auch noch lange Zeit die unkomplizierten Dieselmaschinen
+  (getreu dem Motto in diesen Gebieten mit -40 Grad: Geht der Motor aus bin ich binnen 5 Minuten tiefgefrohren)
+  aber Wasserstoff hat einen höheren(!) nutzbaren Energiegehalt als Diesel, kann also eine Alternative darstellen.
+  Insbesondere weil man wasserstoffangetriebene Fahrzeuge auch ans Stromnetz hängen kann (und umgekehrt:
+  Diese können dauerhaft unkompliziert Strom liefern.  Unkompliziert, weil sie dann "eh da" sind).
+
+Aber die anderen Diskussionen rund um Wasserstoff sind purer Blödsinn.
+
+- Wir können alle Benziner nicht auf Wasserstoff umstellen.  Die dafür notwendige Infrastruktur ist nicht machbar.
+
+- Alle Benziner auf BEV umzustellen ist problemlos möglich.  Mit dem heutigen Stromnetz!
+  Denn diese Umstellung geschieht ja nicht über Nacht sondern über Monate wenn nicht Jahre.
+  Mehr als genug Zeit die Engpässe im Rahmen der normalen Wartung zu beseitigen, ohne dabei Panik zu schieben.
+
+- Natürlich müssen die Trafos in den Orten leistungsfähiger werden, das planen die Energieversorger bereits heute ein!
+  Die großen Schnellladestationen werden sowieso direkt an das Mittelspannungsnetz angeschlossen.
+  Und da BEVs ziemlich vorhersagbar Strom abnehmen ergibt sich da überhaupt keine Gefahr für die Stabilität,
+  die Ladesäulen sind ja intelligent und können den Ladestrom der Bereitstellung anpassen.
+
+- Ihr habt einfach keine Ahnung welche Energiemengen die heutigen Stromnetze übertragen und verkraften.
+  Wer denkt, uns geht der Strom aus, der hat nichts begriffen, genau das Gegenteil wird der Fall sein,
+  das Stromnetz wird aufgrund der zusätzlich angeforderten Leistung sogar stabiler ausgebaut als es heute ist!
+  (Natürlich braucht es dafür neue Trassen.  Aber eben nicht über Nacht!  Und auch ohne diese Trassen würde es gehen,
+  nur eben sinkt dann die Versorgungsqualität weil die Übertragunsgsverluste und Engpässe ansteigen.)
+
+- Und die Kosten für neue Stromnetze sind ein Klacks verglichen mit den Kosten, eine Infrastruktur für Wasserstoff aufzubauen!
+  Im Gegenzug wäre es noch einfacher, die Infrastruktur für Methan aufzubohren.  Gasleitungen mit Methan
+  liegen bereits überall quer durch Deutschland und es wäre nicht schwer, den Hauptenergieträger,
+  nämlich die Heizung, europaweit durch Methan zu ersetzen.  Vermutlich wird das aber doch jetzt Strom sein,
+  einfach weil die Weichen vor zu lange falsch gestellt wurden.  Pelletheizungen zu fördern war Hirnschiss der
+  übelsten Sorte!  Die Poltitik hätte in den 1990ern anfangen müssen, konsequent Gasthermen zu fördern,
+  so dass es poltisch gewollt gewesen wäre, jedes Haus in Städten und größeren Gemeinden an Gas anzuschließen.
+  Dann wären viele Ölheizungen im Rahmen ihrer normalen Erneuerung auf günstigeres Gas umgestellt worden.
+  Aber stattdessen wurde der Gaspreis an den Ölpreis gekoppelt.  Viel dümmer geht's nimmer, ehrlich.
+
+> Fun Fact:  Das Schicksal der Menschheit hängt vermutlich am Methaneis.
+>
+> Wenn das Methaneis nämlich aufgrund irgendeines Vorkommnisses ausgast (derzeit ist kein solcher Vorgang bekannt!),
+> stirbt der Mensch binnen weniger Tage, denn die Luft kann nicht mehr geatmet werden.
 > Und anschließend tritt ein Treibhauseffekt wie auf der Venus ein.
 >
 > Das ist noch katastrophaler als die Supervulkane, die uns lediglich ein paar 100 Jahre Nuklearen Winter beherrschen.
 > Und ob wir mit einem Supervulkan die Auswirkungen vom Methaneis bekämpfen können oder wollen sei mal dahingestellt.
 >
 > **Wir täten also gut, das Methaneis schleunigst abzubauen und alles auf Methanverbrennung (CNG) umzustellen.**
-> Zum Wohle der Menschheit.
+> Zum Wohle der Menschheit.  Aber hört das jemand?  Nö, natürlich nicht.  Wieso auch.
