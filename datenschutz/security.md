@@ -279,6 +279,17 @@ and your dev-tree was fully checked in and clean (`git status --porcelain`-wise)
 
 Any questions why you want to use `git` and `git submodule`s?
 
+> With `git` you do not need to plan ahead.  If you detect, that some mirror is broken,
+> all you need to do is to is to recover from this fault.  This can even be done years later.
+>
+> For example by mirroring (as above) from the developer machine before it gets scrapped.
+> Or by other means to find the SHA again (you can copy it from production if you deploy
+> all git sources there.  Well, this also greatly simplifies deployment strategies,
+> as production mostly follows development setup.  The success to `git`'s way is doing
+> things the most general and easy way).
+>
+> All you need is just writing down a SHA.  This is 40 bytes.  And you are done.
+
 
 ### Secured
 
