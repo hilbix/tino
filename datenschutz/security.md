@@ -1,4 +1,13 @@
-Some words about security
+Some words about security:
+
+- use `git`
+- use `git submodule`
+- and **stop using `gradle`, `maven` and similar, they are pure insanity**!
+- If it comes to Debian, [verify your sources](https://gist.github.com/hilbix/0085d19470d5ac754cf26118c824e057)!
+  (This works with Debian, Ubuntu and Devuan.)
+
+It's easy to create software which can be used in a secure fashion.  As long as you follow this path.
+
 
 # Security
 
