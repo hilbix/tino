@@ -6,7 +6,7 @@ Some words about security:
 - If it comes to Debian, [verify your sources](https://gist.github.com/hilbix/0085d19470d5ac754cf26118c824e057)!
   (This works with Debian, Ubuntu and Devuan.)
 
-It's easy to create software which can be used in a secure fashion.  As long as you follow this path.
+It's easy to create and use software in a secure fashion.  As long as you follow this easy path.
 
 
 # Security
