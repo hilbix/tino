@@ -8,6 +8,20 @@ Some words about security:
 
 It's easy to create and use software in a secure fashion.  As long as you follow this easy path.
 
+> Important:  IANAL, also this is no HowTo.  This is a rant.  This is a warning.
+>
+> If you want to follow this path, you either must know what to do or must know `git` very well
+> and dopt accordingly (AKA use your brain yourself).  Using `git` does not make things
+> magically secure.  It's just a tool and only as good as the one who uses it.
+>
+> All I say is:  Once you have fully understood, you will not regret using `git` with `git submodules`.
+> It is so incredibly powerful, years later you will never understand how you could have done otherwise.
+>
+> (Right now I am working on a `git` based way to Cloud deployment.
+> Something that scales from the first VM to an unlimited number of VMs.
+> Self contained, infrastruture free, fast and easy enough for me to be used.
+> More importantly:  It must be mathematically proven secure with free desaster recovery built in.)
+
 
 # Security
 
