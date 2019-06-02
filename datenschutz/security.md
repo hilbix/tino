@@ -19,7 +19,7 @@ It's easy to create and use software in a secure fashion.  As long as you follow
 >
 > (Right now I am working on a `git` based way to Cloud deployment.
 > Something that scales from the first VM to an unlimited number of VMs.
-> Self contained, infrastruture free, fast and easy enough for me to be used.
+> Self contained, infrastructure free, fast and easy enough for me to be used.
 > More importantly:  It must be mathematically proven secure with free desaster recovery built in.)
 
 
