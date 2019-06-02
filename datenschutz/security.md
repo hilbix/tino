@@ -19,7 +19,7 @@ If you want to have a secure setup, you must respect some cornerstones of securi
 
 - Living:  You need to live Security, to keep it secure.
 
-> Did I forget a cornerstone?  Perhaps.  This text is mainly due to explain the Sage Spot.
+> Did I forget a cornerstone?  Perhaps.  This text is mainly due to explain the Safe Spot.
 
 
 ## Safe Spot
