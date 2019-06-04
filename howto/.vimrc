@@ -25,7 +25,7 @@ match MySHOW /\(\t\)\|\(\s\s*$\)/
 
 set ts=8 sw=8 noet ai ru fo=cqrt ls=2 shm=at
 
-nnoremap M :silent make\|redraw!\|cc<CR>
+nnoremap M :silent make\|silent redraw!\|silent cc<CR>
 nnoremap <F4> :cprevious<CR>
 nnoremap <F5> :cnext<CR>
 
