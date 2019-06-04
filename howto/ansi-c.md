@@ -36,7 +36,7 @@ This means:
   - Hence TAB=8, as any source using another TAB setting instantly becomes completely unreadable garbage.
 - Try indenting continuation line marker (`\`) onto the same column.
   - Use TABs to separate it from the rest of the code
-  - Luckily `vim` exactly does so.
+  - Luckily ~~`vim`~~ `emacs` exactly does so.
 - Try to render table like data as TAB separated tables
 - Format control flow differently, so it is better readable
 
