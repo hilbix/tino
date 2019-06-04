@@ -88,7 +88,10 @@ However [control flow](https://stackoverflow.com/a/47574378/490291) should look 
 	  block;
 	} END
 
-But [guards are a better construct](https://github.com/CppCon/CppCon2015/blob/master/Presentations/Declarative%20Control%20Flow/Declarative%20Control%20Flow%20-%20Andrei%20Alexandrescu%20-%20CppCon%202015.pdf)
+Notes:
+
+- Above is pseudo code.  I never found a usable implementation of this for pure ANSI-C.
+- [Guards are a far better way to do it](https://github.com/CppCon/CppCon2015/blob/master/Presentations/Declarative%20Control%20Flow/Declarative%20Control%20Flow%20-%20Andrei%20Alexandrescu%20-%20CppCon%202015.pdf)
 
 Formatting of functions:
 
