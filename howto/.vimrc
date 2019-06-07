@@ -3,7 +3,7 @@
 "ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
 "return"; exit
 
-set nomodelineexpr      " prevent CVE-2019-06-04 with modeline
+set nomodelineexpr      " prevent CVE-2019-12735 with modeline
 set modeline            " enable things like # vim: ft=sh
 set cul                 " Highlight cursor line:
 hi CursorLine term=none cterm=none ctermbg=0
