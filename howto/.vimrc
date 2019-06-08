@@ -15,7 +15,7 @@ let g:secure_modelines_verbose=1
 set cul				" Highlight cursor line:
 hi CursorLine term=none cterm=none ctermbg=0
 
-# For more things perhaps see https://apfelboymchen.net/gnu/configstuff/scripts/usr/local/etc/vim/vimrc.html
+" For more things perhaps see https://apfelboymchen.net/gnu/configstuff/scripts/usr/local/etc/vim/vimrc.html
 set showcmd			" Show (partial) command in status line.
 set showmatch			" Show matching brackets.
 set ignorecase			" Do case insensitive matching
