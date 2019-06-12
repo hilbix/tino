@@ -44,7 +44,8 @@ set efm+=#%t#%f#%l#%c#%m#
 
 syntax on
 
-:command P %s/^\t\+/\=repeat('        ',len(submatch(0)))	" :P is just easy to type
+" :P is just easy to type
+:command P %s/^\(\(        \)*\)\(\t\+\)/\=(submatch(1).repeat('        ',len(submatch(3))))
 
 " see https://github.com/ConradIrwin/vim-bracketed-paste/blob/master/plugin/bracketed-paste.vim
 let g:loaded_bracketed_paste = 1
