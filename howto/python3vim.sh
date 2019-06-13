@@ -79,6 +79,6 @@ else
 	python3 "$@" 2> >(catcherrors) | cat	# cat waits for (catcherrors) to return
 	ret=${PIPESTATUS[0]}
 	[ 0 = $ret ] || warn "$1" 0 0 failed: $ret
-	sed 's/^/### /' "$OUT"
+	cat "$OUT"
 fi
 
