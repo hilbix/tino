@@ -17,11 +17,9 @@ OUT="/tmp/$LOGNAME-python3lasterrors.out"
 
 send()
 {
-{
-printf -v v ' %q' "$@"
+printf -v v ' %q' "${@:5}"
 printf '#%q' "${@:1:4}"
 printf '#%s#\n' "${v:1}"
-} >&2
 }
 
 note()	{ send I "$@"; }
@@ -35,6 +33,7 @@ awk '
 function ok()
 {
 if (!armed) return;
+have=1;
 
 sub(/^[^"]*"/,"",err);
 
@@ -44,25 +43,25 @@ gsub(/",.*$/, "", file);
 sub(/.*",[[:space:]]*line[[:space:]]*/, "", err);
 gsub(/, in.*$/,"", err);
 
-print "#E#" file "#" err "#" length(d[2]) "#" $0 "#"
+print "#E#" file "#" err "#" length(d[2]) "#" $0 "#";
 }
 
 /^[^[:space:]]/				{ ok(); armed=0; }
 /^Traceback \(most recent call last\):/	{ next }
 
-/^  File/ && $2!~/\/usr\//	{ err=$0; delete have; armed=1; next }
+/^  File/ && $2!~/\/usr\//	{ err=$0; armed=1; next }
 armed		{ d[armed++]=$0; next }
 
-END			{ ok() }
-'
+END			{ ok(); exit(have) }
+' || have=true;
 $have && note "$OUT" 0 0 location of original error log
-$have && note "$0" 14 14 Running python3 "$@" >&2
+$have && note "$0" 79 2 Running python3 "$@"
 }
 
 catcherrors()
 {
 trap 'mv -f "$OUT.$$" "$OUT"' 0
-tee "$OUT.$$" >(parseerrors)
+tee "$OUT.$$" | parseerrors
 mv -f "$OUT.$$" "$OUT"
 trap '' 0
 }
@@ -77,7 +76,9 @@ then
 	echo
 	cat "$OUT"
 else
-	( python3 "$@" 2> >(catcherrors) || warn "$1" 0 0 failed ) | cat	# cat synchronizes
+	python3 "$@" 2> >(catcherrors) | cat	# cat waits for (catcherrors) to return
+	ret=${PIPESTATUS[0]}
+	[ 0 = $ret ] || warn "$1" 0 0 failed: $ret
 	sed 's/^/### /' "$OUT"
 fi
 
