@@ -14,6 +14,8 @@
 
 - 2018-09-13 "beA.  Digital.  Einfach.  Sicher" hätte man es besser "beA. Finger weg!  Unhandhabbar!  Sicherheitskatastrophe!" nennen müssen ..  (Spoiler: "digital" = "mithilfe des Fingers erfolgend")
 
+- 2018-11 Drogen die am Laptop kleben braucht der Hacker um zu leben.
+
 - 2019-01-12 Da sage mal jemand, Männer seien nicht multitaskingfähig.  Wir können in jeder Situation nebenher an Sex denken.   Und zwar immer, auch dann, wenn wir gerade hauptsächlich an Sex denken.
 
 - 2019-01-12 Chuck Norris erschuf seine erste Frau aus seiner eigenen Rippe, und er nannte sie: Gott.  Als ihm das mit seiner ersten Frau dann auf Dauer doch zu langweilig wurde, erschuf er sich auf gleiche Weise eine zweite, und diesmal gelang sie ihm verteufelt gut.
