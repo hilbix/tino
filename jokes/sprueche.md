@@ -25,3 +25,5 @@
 - 2019-05-17 **Pro Windows und Contra Intel Management Engine**? Das ist doch in etwa so sinnvoll wie ein **zölibatärer Swingerclub** .. ([Quelle](https://www.heise.de/forum/heise-Security/News-Kommentare/Intel-fixt-teils-kritische-Luecken-in-UEFI-BIOS-ME-und-Linux-Grafiktreiber/Sorry-das-verstehe-ich-jetzt-nicht/posting-34512139/show/))
 
 - 2019-06-21 Manchmal wünschte ich mir, ich wäre unfähig.  Damit könnte ich leben.  Aber leider geht es den anderen genauso wie mir.  Und das ist unerträglich!
+
+- 2019-07-03 Political Correctness killed `/bin/cat` ([Quelle](https://www.heise.de/forum/Make/News-Kommentare/Farmbot-treibt-die-Automatisierung-im-Gemuesebeet-voran/Eure-armselige-Political-Correctness-kotzt-mich-an/posting-34803296/show/))
