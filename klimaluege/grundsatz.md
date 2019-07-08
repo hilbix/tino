@@ -4,7 +4,7 @@ Ich glaube nicht an den menchengemachten Klimawandel.
 Und ich glaube fest daran, dass die Darstellung des Klimawandels in der Presse fast komplett Fake News darstellt.
 
 Wer aber meine Aussage auf diese 2 Sätze verkürzt, der lügt nicht minder.
-Denn ohne den korrekten Kontext kann man meine Aussagen nicht richtig verstehe.
+Denn ohne den korrekten Kontext kann man meine Aussagen nicht richtig verstehen.
 
 ## Kontext
 
