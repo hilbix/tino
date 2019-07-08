@@ -24,6 +24,13 @@ Somit kühle Kondensstreifen die Erde ab.
 
 Das sagt sogar die DLR.
 
+Akutell gibt es eine entsprechende Aussage vom Weltklimarat, die im Prinzip ins selbe Horn tutet.
+Ich habe zu der damaligen DLR-Aussage keinen wesentlichen Unterschied gefunden.
+
+Allerdings geht der Weltklimarat nicht auf die Änderungen ein, die zu dieser Studie gefunden wurden.
+Sie scheinen nur die Effekte neu berechnet zu haben, mit einem ihnen genehmen Weltklimamodell.
+
+
 ## Der Einfluss der Cirruswolken ist umstritten
 
 Die DLR behauptet weiterhin in dem zitierten Bericht, dass nicht die Kondensstreifen den Effekt auslösen,
@@ -89,3 +96,35 @@ Aus diesem Grund kann ich das nicht nachvollziehen.
 Aber es gibt gute Gründe, diese Aussage in Zweifel zu ziehen, da es unlogisch erscheint,
 dass Cirruswolken die normale Wolkenbildung so stark negativ beeinflusst,
 dass die Albedo der Erde abnimmt.
+
+# Warum es mir nicht einleuchtet
+
+Selbst wenn die Studie so korrekt wäre, ist es unlogish.
+
+Die Studie gibt Vorhersagen bis 2050.  Als in 30 Jahren.  Vor 30 Jahren waren Flugzeuge anders aufgebaut als heute.
+Die Antriebe waren anders.  Und wurden anhand von ganz anderen Datengrundlagen weiterentwickelt.
+
+Zwar versucht die Studie die Verbesserungen im Antrieb mit 15% vorwegzunehmen,
+aber die Flugzeughersteller arbeiten an deutlich anderen Motoren als früher.
+Selbst Wasserstoff wird als Antriebsmöglichkeit diskutiert.
+
+Technisch ist wichtig, dass wir also nicht wissen, wohin die Reise geht.
+Außerdem haben wir eine einfache Art und Weise, wie wir die Sache positiv beeinflussen können:
+
+Wenn die Kondensstreifen die Luftfeuchtigkeit derart negativ beeinflussen,
+können wir das kompensieren!  Der Wasserstoffantrieb würde Wasser produzieren.
+Und wir können das Kerosin so verändern, dass es ebenfalls mehr Wasser auswirft.
+
+Aber das ist IMHO sogar kontraproduktiv.  Eines der aktivsten Klimagase ist Wasser.
+Mehr Wasserdampf in der Atmosphähre heizt das Klima an.
+Wenn ich es richtig verstanden habe.
+
+Laut dieser Studie soll aber auch weniger Wasserdampf die Atmosphäre anheizen.
+
+Wenn beide Aussagen korrekt sind, dann heizt sich die Atmosphäre also auf,
+egal ob die Luftfeuchtigkeit steigt oder sinkt.
+
+Irgendetwas kann da nicht stimmen.  Entweder stimmt die eine Aussage nicht,
+oder die andere, oder beide.
+
+Evtl. gelten auch beide!  **Aber dann muss das Dringend erklärt werden.**
