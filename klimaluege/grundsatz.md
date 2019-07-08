@@ -107,3 +107,29 @@ Das bedeutet, in dem bekannten Grenzen funktionieren die Modelle sehr gut.
 
 Aber genau das ist das Problem.  Beim Klimawandel verlassen wir den Bereich,
 für den die Modelle definiert wurden.  Das bedeutet aber, dass 
+die Modelle außerhalb des Bereichs zunehmend Fehler entwickeln.
+
+Letztendlich können wir zwar qualitative Aussagen treffen,
+aber keine quantitativen Aussagen.  Wir wissen also, es wird nicht gut,
+aber wir wissen nicht, wie schlecht.
+
+Es kann durchaus sein, dass der Klimawandel nicht nur schlechtes mitbringt,
+sondern auch einige gute Aspekte mitbringt.
+
+# Aber
+
+Genau um all diese Aspekte geht es überhaupt nicht.  Das ist alles nicht wichtig!
+
+Wichtig ist nicht, was können wir gegen den Klimawandel tun oder können wir ihn aufhalten?
+
+- Den Klimawandel aufzuhalten ist der Versuch, mit blanken Händen einen Fluss am fließen zu hindern.
+- Und gegen den Klimawandel zu tun ist der Versuch, mit einem Löffel das Weltmeer trockenzulegen.
+
+Wichtig ist einzig die Frage, wie können wir uns auf den Klimawandel einstellen,
+und was ist die beste Strategie für die Zukunft.
+
+Interessanterweise ist die derzeit wohl beste Strategie, die Lüge zu glauben.
+
+Oder anders gesagt:
+
+*Die Klimalüge ist nicht böse!*
