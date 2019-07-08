@@ -134,4 +134,4 @@ Oder anders gesagt:
 
 **Die Klimalüge ist nicht böse!**
 
-Wer aus diesem Grund an den menschengemachten Klimawandel zu glauben ist äußerst sinnvoll.
+Wer aus diesem Grund an den menschengemachten Klimawandel glaubt, der handelt äußerst sinnvoll und bedacht.
