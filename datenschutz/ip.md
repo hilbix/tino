@@ -1,6 +1,6 @@
 > Achtung!  Ich bin Techniker und kein Jurist!
 
-Das Fazit vorweg:
+Mein Fazit (das falsch sein kann) vorweg:
 
 Ob die IP ein pseudonymes Datum oder ein personenbezogenes Datum ist,
 das ist gem. DSGVO prinzipiell dieselbe Frage,
