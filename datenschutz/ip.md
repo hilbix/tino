@@ -45,6 +45,9 @@ Aber dann wird es hoffentlich zu 101% klar, wie es zu verstehen ist.
 
 # Zuerst einmal, wie es im alten Gesetz war
 
+> Gem. des alten Datenschutzgesetzes war die IP ein personenbezogenes Datum.
+> Das hat der EuGH so auch vollkommen korrekt festgestellt.  Denn anders konnte es nicht sein.
+
 Im alten Datenschutzrecht waren (so hatte ich es jedenfalls verstanden) personenbezogene Daten all diejenigen Daten,
 die dazu geeignet waren, dass man sie auf Personen bezieht.  Das Denkmodell war also:
 
