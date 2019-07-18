@@ -185,49 +185,49 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
     
     Anders gesagt:
 
-        - Behörden werden die Daten weiter an Privatfirmen weitergeben.
-        - Die Privatfirmen werden ihren vertraglichen Auflagen nicht nachkommen und die Daten verschachern (z. B.
-          indem sie den Besitzer wechseln)
-        - Dann muss gegen diese Praxis geklagt und gewonnen werden, was bis zum EuGH gehen muss.
-        - Dann wird sich absolut nichts tun.
-        - Man muss also nochmals klagen, auf Einhaltung der Gerichtsentscheidung, das geht wieder bis zum EuGH.
-        - Dieser muss nun die Länder verdonnern.
-        - Dann wird sich absolut nichts tun.
-        - Nun muss wiederum geklagt werden.  Das wird vermutlich nur bis zum BVerfG gehen.
-        - Das BVerfG wird entsprechend entscheiden müssen, und die Sache mit Dringlichkeit an die Politik abgeben.
-        - Dann wird sich absolut nichts tun.
-        - Nun muss der Betroffene handeln, indem er verweigert, bestimmte Daten zu geben, z. B. den Fingerabdruck oder das biometrische Passbild.
-        - Dann muss der Betroffene rechtsgültig verurteilt werden, da er sich offensichtlich nicht ans Gesetz hält.
-        - Dagegen muss der Betroffene Verfassungsbeschwerde einlegen.
-        - Das BVerfG muss dann entscheiden, ob die Handlungsweise des Bürgers rechtens war, was aber so nicht gegeben ist.
-        - Das erste Urteil in dieser Sache wird also klar gegen den Betroffenen gefällt werden müssen,
-          da nicht ersichtlich ist, dass der Staat die Regelung nicht erbringen will.
-          Das BVerfG wird dem Staat eine entsprechende Frist einräumen, die Fehler zu beseitigen, die zu diesem Vorfall geführt haben.
-        - Dann wird sich absolut nichts tun.
-        - Ist die (nicht deutlich gesetzte) Frist mit ausreichend Nachfrist ganz sicher verstrichen,
-          müssen weitere Bürger genau das machen, was der erste Bürger damals gemacht hat.
-        - Sie müssen wiederum den gesamten Rechtsweg ausschöpfen und anschließend Verfassungsklage einrichten.
-        - Nun kann das BVerfG nicht mehr ausweichen, da klar dokumentiert ist, dass die Regierung ihrer Pflicht nicht nachkommt.
-        - Das BVerfG wird nun der Legislative klare Auflagen machen, was zu tun ist.
-        - Ansonsten wird die Klage aber wiederum abgewiesen, die Bürger werden ihre Daten also weiterhin an den Staat abgeben müssen.
-        - Dann wird sich exakt nichts tun.
-        - Nach ausreichend Wartezeit (1-2 Legislaturperioden) muss wieder Verfassungsbeschwerde eingelegt werden.
-        - Das BVerfG wird nun regelnd eingreifen und wird die Praxis von Behörden verbieten,
-          die Daten an Firmen weiterzugeben.  Werden die Daten dennoch weitergegeben,
-          muss die Behörde überwachen, dass die Privatspähre des Bürgers eingehalten wird.
-        - Danach wird sich wiederum exakt nichts ändern.
-        - Wir müssen dann auf den nächsten Datenschutzskandal warten, bei dem klar ersichtlich ist,
-          dass die Behörden mit ihrer Praxis der Überwachung der Bürgerdaten bei Firmen klar überfordert sind.
-        - Evtl. sind mehrere solche Fälle notwendig, damit klar dokumentiert ist, das ist kein Einzelfall, sondern gängige Praxis.
-        - Dann erst kann man dagegen eine weitere Verfassungsbeschwerde auf den Weg bringen.
-        - Nach 2-3 weiteren Iterationen wird sich daraus eine Verordnung ergeben,
-          dass die Datenverarbeitung bei den Behörden nicht in Dritte Hände geraten darf.
-        - Ich habe keine Hoffnung dass vor dem Jahr 2222 (denn so lange wird das mindestens dauern) erkannt wurde,
-          was hier bereits geschrieben steht, nämlich dass die Verarbeitung behördlicher Bürgerdaten durch Firmen
-          zu einer Katastrophe führt (da die Datenschutzregelung der Firmen von denen der Behörden abweicht).
-        - Da die DSVGO vermutlich schon lange vor dieser Zeit geändert wird, wird das hier geschrieben also auf ewig
-          eine Utopie bleiben.  Oder anders gesagt:
-          Wir leben in einer Dystopie, in der Utopien systematisch unmöglich gemacht werden.
+      - Behörden werden die Daten weiter an Privatfirmen weitergeben.
+      - Die Privatfirmen werden ihren vertraglichen Auflagen nicht nachkommen und die Daten verschachern (z. B.
+        indem sie den Besitzer wechseln)
+      - Dann muss gegen diese Praxis geklagt und gewonnen werden, was bis zum EuGH gehen muss.
+      - Dann wird sich absolut nichts tun.
+      - Man muss also nochmals klagen, auf Einhaltung der Gerichtsentscheidung, das geht wieder bis zum EuGH.
+      - Dieser muss nun die Länder verdonnern.
+      - Dann wird sich absolut nichts tun.
+      - Nun muss wiederum geklagt werden.  Das wird vermutlich nur bis zum BVerfG gehen.
+      - Das BVerfG wird entsprechend entscheiden müssen, und die Sache mit Dringlichkeit an die Politik abgeben.
+      - Dann wird sich absolut nichts tun.
+      - Nun muss der Betroffene handeln, indem er verweigert, bestimmte Daten zu geben, z. B. den Fingerabdruck oder das biometrische Passbild.
+      - Dann muss der Betroffene rechtsgültig verurteilt werden, da er sich offensichtlich nicht ans Gesetz hält.
+      - Dagegen muss der Betroffene Verfassungsbeschwerde einlegen.
+      - Das BVerfG muss dann entscheiden, ob die Handlungsweise des Bürgers rechtens war, was aber so nicht gegeben ist.
+      - Das erste Urteil in dieser Sache wird also klar gegen den Betroffenen gefällt werden müssen,
+        da nicht ersichtlich ist, dass der Staat die Regelung nicht erbringen will.
+        Das BVerfG wird dem Staat eine entsprechende Frist einräumen, die Fehler zu beseitigen, die zu diesem Vorfall geführt haben.
+      - Dann wird sich absolut nichts tun.
+      - Ist die (nicht deutlich gesetzte) Frist mit ausreichend Nachfrist ganz sicher verstrichen,
+        müssen weitere Bürger genau das machen, was der erste Bürger damals gemacht hat.
+      - Sie müssen wiederum den gesamten Rechtsweg ausschöpfen und anschließend Verfassungsklage einrichten.
+      - Nun kann das BVerfG nicht mehr ausweichen, da klar dokumentiert ist, dass die Regierung ihrer Pflicht nicht nachkommt.
+      - Das BVerfG wird nun der Legislative klare Auflagen machen, was zu tun ist.
+      - Ansonsten wird die Klage aber wiederum abgewiesen, die Bürger werden ihre Daten also weiterhin an den Staat abgeben müssen.
+      - Dann wird sich exakt nichts tun.
+      - Nach ausreichend Wartezeit (1-2 Legislaturperioden) muss wieder Verfassungsbeschwerde eingelegt werden.
+      - Das BVerfG wird nun regelnd eingreifen und wird die Praxis von Behörden verbieten,
+        die Daten an Firmen weiterzugeben.  Werden die Daten dennoch weitergegeben,
+        muss die Behörde überwachen, dass die Privatspähre des Bürgers eingehalten wird.
+      - Danach wird sich wiederum exakt nichts ändern.
+      - Wir müssen dann auf den nächsten Datenschutzskandal warten, bei dem klar ersichtlich ist,
+        dass die Behörden mit ihrer Praxis der Überwachung der Bürgerdaten bei Firmen klar überfordert sind.
+      - Evtl. sind mehrere solche Fälle notwendig, damit klar dokumentiert ist, das ist kein Einzelfall, sondern gängige Praxis.
+      - Dann erst kann man dagegen eine weitere Verfassungsbeschwerde auf den Weg bringen.
+      - Nach 2-3 weiteren Iterationen wird sich daraus eine Verordnung ergeben,
+        dass die Datenverarbeitung bei den Behörden nicht in Dritte Hände geraten darf.
+      - Ich habe keine Hoffnung dass vor dem Jahr 2222 (denn so lange wird das mindestens dauern) erkannt wurde,
+        was hier bereits geschrieben steht, nämlich dass die Verarbeitung behördlicher Bürgerdaten durch Firmen
+        zu einer Katastrophe führt (da die Datenschutzregelung der Firmen von denen der Behörden abweicht).
+      - Da die DSVGO vermutlich schon lange vor dieser Zeit geändert wird, wird das hier geschrieben also auf ewig
+        eine Utopie bleiben.  Oder anders gesagt:
+        Wir leben in einer Dystopie, in der Utopien systematisch unmöglich gemacht werden.
 
 - UVM., das ich hier sicher noch vergessen habe.
 
@@ -343,12 +343,12 @@ Nichts!  Beim Setup meiner Dienste achte ich auf folgendes:
   - Die einzigen verdeckten Daten, die ich übrigens aus Datenschutzgründen eben nicht widergebe,
     sind Verkehrsdaten, wie das Webserver-Protokoll.
     
-      - Die neue DSGVO erlaubt mir diese zu erfassen (was automatisch und notwendig erfolgt).
-      - Die neue DSGVO erlaubt es mir, diese zu speichern (was automatisch erfolgt).
-      - Die neue DSGVO erlaubt es mir, darauf zu verzichten, diese Daten zu verarbeiten.
-      - Da ich diese Daten nicht verarbeite, kann ich sie auch (Logik!) nicht im elektronischen Datenchutzauszug erwähnen
-        (denn dazu müsste ich sie verarbeiten).
-      - Das einzige, was ich vielleicht noch implementieren muss, sind die Speicherzeiten.
+    - Die neue DSGVO erlaubt mir diese zu erfassen (was automatisch und notwendig erfolgt).
+    - Die neue DSGVO erlaubt es mir, diese zu speichern (was automatisch erfolgt).
+    - Die neue DSGVO erlaubt es mir, darauf zu verzichten, diese Daten zu verarbeiten.
+    - Da ich diese Daten nicht verarbeite, kann ich sie auch (Logik!) nicht im elektronischen Datenchutzauszug erwähnen
+      (denn dazu müsste ich sie verarbeiten).
+    - Das einzige, was ich vielleicht noch implementieren muss, sind die Speicherzeiten.
 
   - Das alte Datenschutzgesetz war diesbezüglich mir gegenüber zahnlos.
     Die neue DSGVO zeigt mir zwar die Zähne, aber lächelt dabei.
@@ -426,133 +426,133 @@ Für wen das ein Problem ist, der hat mehrere Möglichkeiten:
 
   - Also nicht rumdisktuieren oder ruminterpretieren.
   
-        - "Aber diese Daten brauchen wir, sonst funktioniert es nicht" ist kein Argument.
-      
-          Ist es irgendwem auf dem Planeten möglich, es ohne diese Daten zu machen, dann sind die Daten nicht notwendig.
-          Das hat auch die Bahn lernen müssen.  Eine Fahrkartenbestellung funktionierte dort nur nach Login.
-          Genau ein solcher aber enthält personenbezogene Daten (Username und Passwort), die nicht notwendig sind.
-          Eine Bestellung ohne Login musste also möglich sein.
+      - "Aber diese Daten brauchen wir, sonst funktioniert es nicht" ist kein Argument.
+    
+        Ist es irgendwem auf dem Planeten möglich, es ohne diese Daten zu machen, dann sind die Daten nicht notwendig.
+        Das hat auch die Bahn lernen müssen.  Eine Fahrkartenbestellung funktionierte dort nur nach Login.
+        Genau ein solcher aber enthält personenbezogene Daten (Username und Passwort), die nicht notwendig sind.
+        Eine Bestellung ohne Login musste also möglich sein.
 
-        - "Wir können es unmöglich ohne diese Daten machen" interessiert nicht.
+      - "Wir können es unmöglich ohne diese Daten machen" interessiert nicht.
 
-          Entscheidend ist hier das "Wir".  Gleiche Argumentation oben.
-          Wenn es anderen ohne diese Daten machbar ist, sind die Daten nicht notwendig.
-          Wer es also nicht anders kann, muss sein Business abschalten.
-          Weil man ein Business nur aufrechterhalten kann, wenn man sich an das Gesetz hält.
+        Entscheidend ist hier das "Wir".  Gleiche Argumentation oben.
+        Wenn es anderen ohne diese Daten machbar ist, sind die Daten nicht notwendig.
+        Wer es also nicht anders kann, muss sein Business abschalten.
+        Weil man ein Business nur aufrechterhalten kann, wenn man sich an das Gesetz hält.
         
-          Das ist genauso wie der Raubmörder, der kleine Omas unter Waffengewalt zwingt, ihnen die Rente abzutreten.
-          Er kann vor Gericht auch nicht sagen, dass er sich nicht an das Gesetz halten konnte,
-          weil sein Business sonst nicht funktioniert.
+        Das ist genauso wie der Raubmörder, der kleine Omas unter Waffengewalt zwingt, ihnen die Rente abzutreten.
+        Er kann vor Gericht auch nicht sagen, dass er sich nicht an das Gesetz halten konnte,
+        weil sein Business sonst nicht funktioniert.
         
-        - "Es ist doch freiwillig.  Niemand ist gezwungen, bei uns etwas zu bestellen." ist vollkommener Unsinn.
+      - "Es ist doch freiwillig.  Niemand ist gezwungen, bei uns etwas zu bestellen." ist vollkommener Unsinn.
       
-          Freiwillig bedeutet, ich werde zu nichts gezwungen.  Wenn ich also etwas kaufen will,
-          aber dafür einer Datenverarbeitung zustimmen muss, weil ich sonst nicht kaufen kann,
-          dann ist das keine freiwillige Zustimmung, sondern eine erzwungene Zustimmung.
-          Und diese ist nichtig, da der Kunde nur freiwillig zustimmen kann, dass mehr Daten als notwendig verarbeitet werden.
+        Freiwillig bedeutet, ich werde zu nichts gezwungen.  Wenn ich also etwas kaufen will,
+        aber dafür einer Datenverarbeitung zustimmen muss, weil ich sonst nicht kaufen kann,
+        dann ist das keine freiwillige Zustimmung, sondern eine erzwungene Zustimmung.
+        Und diese ist nichtig, da der Kunde nur freiwillig zustimmen kann, dass mehr Daten als notwendig verarbeitet werden.
 
-          Das ist ähnlich wie bei Schutzgelderpressung:
-          Entweder die Leute zahlen freiwillig, oder man kann nicht verhindern,
-          dass die Leute mit Betonschuhen auf dem Grund der Themse landen.
+        Das ist ähnlich wie bei Schutzgelderpressung:
+        Entweder die Leute zahlen freiwillig, oder man kann nicht verhindern,
+        dass die Leute mit Betonschuhen auf dem Grund der Themse landen.
 
-        - Wer also irgendwie denkt, er hat ein Argument gefunden, wird feststellen, dass es sich sehr schnell und
-          sehr einfach in Luft auflöst.  Das BDSG ist schlicht und einfach:
+      - Wer also irgendwie denkt, er hat ein Argument gefunden, wird feststellen, dass es sich sehr schnell und
+        sehr einfach in Luft auflöst.  Das BDSG ist schlicht und einfach:
           
-          Muss man die Daten haben, weil es sonst jedem auf dem Planeten vollkommen unmöglich wäre,
-          die Leistung zu erbringen, und zwar egal wie, also auch auf eine vollkommen andere Weise,
-          dann, und nur dann, darf ich die Daten erheben, speichern und verarbeiten.
+        Muss man die Daten haben, weil es sonst jedem auf dem Planeten vollkommen unmöglich wäre,
+        die Leistung zu erbringen, und zwar egal wie, also auch auf eine vollkommen andere Weise,
+        dann, und nur dann, darf ich die Daten erheben, speichern und verarbeiten.
           
-          Ist aber irgendwer auf der Welt, auch nur rein theoretisch, in der Lage, die Sache generell abzuwickeln,
-          wenn er diese Daten nicht hat, dann darf man sie nicht erfassen.  So einfach ist das.
+        Ist aber irgendwer auf der Welt, auch nur rein theoretisch, in der Lage, die Sache generell abzuwickeln,
+        wenn er diese Daten nicht hat, dann darf man sie nicht erfassen.  So einfach ist das.
           
   - Die Zustimmung, darüber hinausgehende Daten zu verarbeiten, erfordert eine freiwillige Zustimmung desjenigen.
 
-        - Eine freiwillige Zustimmung muss explizit sein.
+      - Eine freiwillige Zustimmung muss explizit sein.
         
-          Sie kann also nicht aus-Versehen erfolgen.  Ich kann also nicht sagen "die Angabe des Geburtsdatums
-          in meinem Formular war doch vollkommen freiwillig, er hätte es nicht eingeben müssen.  Da steht doch
-          klipp und klar ein Stern bei den Feldern, die man angeben muss, alle anderen, so wie das Geburtsdatum,
-          tragen keinen Stern".  Das kann man desahlb nicht sagen, weil man den Willen desjenigen, der das
-          Formular ausfüllt, nicht wissen kann.  Deshalb kann man auch nicht von einer Einwilligung ausgehen,
-          nur weil er das Feld befüllte.  Es ist sogar anzunehmen, dass er das Feld aus Versehen befüllt hat,
-          einfach weil er das mit den Sternen nicht verstanden hat.
+        Sie kann also nicht aus-Versehen erfolgen.  Ich kann also nicht sagen "die Angabe des Geburtsdatums
+        in meinem Formular war doch vollkommen freiwillig, er hätte es nicht eingeben müssen.  Da steht doch
+        klipp und klar ein Stern bei den Feldern, die man angeben muss, alle anderen, so wie das Geburtsdatum,
+        tragen keinen Stern".  Das kann man desahlb nicht sagen, weil man den Willen desjenigen, der das
+        Formular ausfüllt, nicht wissen kann.  Deshalb kann man auch nicht von einer Einwilligung ausgehen,
+        nur weil er das Feld befüllte.  Es ist sogar anzunehmen, dass er das Feld aus Versehen befüllt hat,
+        einfach weil er das mit den Sternen nicht verstanden hat.
           
-          Sie kann auch nicht implizit erfolgen.  Ich kann also nicht sagen "da wurde ganz klar ein Haken bei
-          der Zustimmung einer über das Minimum hinausgehende Datenverarbeitung gesetzt, also habe ich die Erlaubnis".
-          Man muss dann auch nachweisen, dass der Haken nicht in der Hektik des Gefechts gesetzt wurde.
-          Wenn man mehrere Haken setzen muss, und einer davon muss gesetzt sein, dann ist anzunehmen, dass derjenige
-          einfach alle Haken gesetzt hat, weil er dachte, sonst geht es nicht weiter.
-          Aber auch dann, wenn die Haken nicht gesetzt sein müssen, kann es sein, dass derjenige, der es ausfüllt,
-          einfach so nur alle Haken gesetzt hat.  Evtl. hat das der Browser sogar automatisch für ihn gemacht!
-          Ein Wille zur Erlaubnis der erweiterten Datenverarbeitung ist dadurch also überhaupt nicht herauszulesen.
+        Sie kann auch nicht implizit erfolgen.  Ich kann also nicht sagen "da wurde ganz klar ein Haken bei
+        der Zustimmung einer über das Minimum hinausgehende Datenverarbeitung gesetzt, also habe ich die Erlaubnis".
+        Man muss dann auch nachweisen, dass der Haken nicht in der Hektik des Gefechts gesetzt wurde.
+        Wenn man mehrere Haken setzen muss, und einer davon muss gesetzt sein, dann ist anzunehmen, dass derjenige
+        einfach alle Haken gesetzt hat, weil er dachte, sonst geht es nicht weiter.
+        Aber auch dann, wenn die Haken nicht gesetzt sein müssen, kann es sein, dass derjenige, der es ausfüllt,
+        einfach so nur alle Haken gesetzt hat.  Evtl. hat das der Browser sogar automatisch für ihn gemacht!
+        Ein Wille zur Erlaubnis der erweiterten Datenverarbeitung ist dadurch also überhaupt nicht herauszulesen.
           
-          Die Zustimmung muss also explizit sein.  Sie sollte schriftlich erfolgen, ggf. mit (digitaler) Unterschrift,
-          und zwar auf einer gesonderten zweiten Seite, in der klipp und klar geschrieben steht, dass man
-          auf ihr keinerlei Zustimmung geben muss.  Diese zweite Seite sollte getrennt vom eigentlichen Vorgang sein,
-          d. h. man bestellt etwas, dort werden nur die minimalen Informationen erfasst, und anschließend bekommt
-          man eine Möglichkeit, also nachdem alles in Dach und Fach ist, noch einige zusätzliche Daten zu erfassen,
-          wenn man das will.
+        Die Zustimmung muss also explizit sein.  Sie sollte schriftlich erfolgen, ggf. mit (digitaler) Unterschrift,
+        und zwar auf einer gesonderten zweiten Seite, in der klipp und klar geschrieben steht, dass man
+        auf ihr keinerlei Zustimmung geben muss.  Diese zweite Seite sollte getrennt vom eigentlichen Vorgang sein,
+        d. h. man bestellt etwas, dort werden nur die minimalen Informationen erfasst, und anschließend bekommt
+        man eine Möglichkeit, also nachdem alles in Dach und Fach ist, noch einige zusätzliche Daten zu erfassen,
+        wenn man das will.
 
-        - Der Nachweis, dass man diese Erlaubnis hat, muss derjenige erbringen, der die Daten verarbeitet.
+      - Der Nachweis, dass man diese Erlaubnis hat, muss derjenige erbringen, der die Daten verarbeitet.
         
-          Ich muss also sicher sein, dass derjenige, der mir die Erlaubnis gegeben hat, diese mir auch wirklich
-          gegeben hat.  Einfach nur behaupten "ich habs" ist nicht.  Ich muss das auch nachweisen können!
-          (Siehe dazu auch der nächste sehr wichtige Punkt.)
+        Ich muss also sicher sein, dass derjenige, der mir die Erlaubnis gegeben hat, diese mir auch wirklich
+        gegeben hat.  Einfach nur behaupten "ich habs" ist nicht.  Ich muss das auch nachweisen können!
+        (Siehe dazu auch der nächste sehr wichtige Punkt.)
           
-          Da diese Erlaubnis ja freiwillig sein muss, muss ich auch dokumentieren, dass diese Erlaubnis freiwillig war.
-          Wenn ich das nicht kann, komme ich ggf. in Teufels Küche.  Ein Datenbankeintrag "da war ein Haken" ist also
-          alles andere als ein Nachweis.  Diese Daten können falsch sein.  Besser wäre, wenn ich z. B. ein PDF
-          vorweisen könnte, mit dem ich denjenigen über die Natur der Datenverarbeitung aufgeklärt habe, und das
-          derjenige dann aktiv bestätigt hat.  Der Vorgang kann so sein, dass ich das PDF zuschicke und der Kunde
-          dann explizit auf das "Ja, ich stimme zu"-Link klickt, der den kryptographischen Hash des PDF enthält,
-          welcher dann entsprechend in die Datenbank eingetragen wird.  Da PDF und Hash in verschiedenen Systemen
-          sind und ich keinen Vorgang programmiert habe, der diese Prüfsumme in die Datenbank ablegt, außer eben,
-          der Kunde klickt auf den Bestätigungslink, kann ich ziemlich sicher sein, dass eine Zustimmung existiert.
-          Vorausgesetz ich habe nichts anderes falsch gemacht und der Kunde hat auch wirklich gewusst, was er da tut.
-          Idioten, die einfach planlos rumklickern, auf die muss ich da keine Rücksicht nehmen, wenn ich es klar
-          und deutlich genug formuliert habe.
+        Da diese Erlaubnis ja freiwillig sein muss, muss ich auch dokumentieren, dass diese Erlaubnis freiwillig war.
+        Wenn ich das nicht kann, komme ich ggf. in Teufels Küche.  Ein Datenbankeintrag "da war ein Haken" ist also
+        alles andere als ein Nachweis.  Diese Daten können falsch sein.  Besser wäre, wenn ich z. B. ein PDF
+        vorweisen könnte, mit dem ich denjenigen über die Natur der Datenverarbeitung aufgeklärt habe, und das
+        derjenige dann aktiv bestätigt hat.  Der Vorgang kann so sein, dass ich das PDF zuschicke und der Kunde
+        dann explizit auf das "Ja, ich stimme zu"-Link klickt, der den kryptographischen Hash des PDF enthält,
+        welcher dann entsprechend in die Datenbank eingetragen wird.  Da PDF und Hash in verschiedenen Systemen
+        sind und ich keinen Vorgang programmiert habe, der diese Prüfsumme in die Datenbank ablegt, außer eben,
+        der Kunde klickt auf den Bestätigungslink, kann ich ziemlich sicher sein, dass eine Zustimmung existiert.
+        Vorausgesetz ich habe nichts anderes falsch gemacht und der Kunde hat auch wirklich gewusst, was er da tut.
+        Idioten, die einfach planlos rumklickern, auf die muss ich da keine Rücksicht nehmen, wenn ich es klar
+        und deutlich genug formuliert habe.
 
-        - Es muss für den Kunden mindestens so einfach notwendig sein, die Bestätigung zurückzuziehen,
-          wie er sie erteilt hat.
+      - Es muss für den Kunden mindestens so einfach notwendig sein, die Bestätigung zurückzuziehen,
+        wie er sie erteilt hat.
           
-          Ich kann also die Erteilung der freiwilligen Datenverarbeitung nicht supereinfach machen,
-          dann aber superkompliziert, diese wieder zurückzuziehen.  Beispielsweise indem ich eine Mailadresse
-          angebe, die dann nicht funktioniert.
+        Ich kann also die Erteilung der freiwilligen Datenverarbeitung nicht supereinfach machen,
+        dann aber superkompliziert, diese wieder zurückzuziehen.  Beispielsweise indem ich eine Mailadresse
+        angebe, die dann nicht funktioniert.
           
-          Am Besten hat man die nicht absolut notwendigen Daten auf einer einzigen Webseite,
-          oben einen Haken "Freiwillige Erlaubnis zur Datenverarbeitung personenbezogener Daten über das Minimum hinaus",
-          darunter die Eingabefelder.
+        Am Besten hat man die nicht absolut notwendigen Daten auf einer einzigen Webseite,
+        oben einen Haken "Freiwillige Erlaubnis zur Datenverarbeitung personenbezogener Daten über das Minimum hinaus",
+        darunter die Eingabefelder.
           
-          Erst wenn ich auf den Haken klicke, dann werden die Eingabefelder ausgegraut, ich kann also die Daten eingeben.
+        Erst wenn ich auf den Haken klicke, dann werden die Eingabefelder ausgegraut, ich kann also die Daten eingeben.
           
-          Wenn ich den Haken wegnehme, werden die Felder wieder grau.  Die bestehenden Daten, also die Daten,
-          die bereits verarbeitet wurden, bleiben dann bestehen, so wie sie sind!  Aber eben nur grau, nicht veränderbar.
+        Wenn ich den Haken wegnehme, werden die Felder wieder grau.  Die bestehenden Daten, also die Daten,
+        die bereits verarbeitet wurden, bleiben dann bestehen, so wie sie sind!  Aber eben nur grau, nicht veränderbar.
           
-          Wenn ich die Daten zurückziehen will, muss ich den Haken setzen, die Felder einzeln löschen,
-          und dann den Haken wieder wegnehmen, und dann das Formular speichern.
+        Wenn ich die Daten zurückziehen will, muss ich den Haken setzen, die Felder einzeln löschen,
+        und dann den Haken wieder wegnehmen, und dann das Formular speichern.
+      
+        Ich würde es dabei so machen, dass die Datenfelder bei Eingabe sofort gespeichert werden,
+        die Zustimmung zur Verarbeitung des Hakens aber nochmals per Mail zugeschickt wird.
           
-          Ich würde es dabei so machen, dass die Datenfelder bei Eingabe sofort gespeichert werden,
-          die Zustimmung zur Verarbeitung des Hakens aber nochmals per Mail zugeschickt wird.
-          
-          D. h. setzt man den Haken und gibt man etwas ein, erteilt man die Zustimmung zur Erfassung und Speicherung,
-          die Zustimmung zur Verarbeitung aber erteilt man nochmals explizit.
+        D. h. setzt man den Haken und gibt man etwas ein, erteilt man die Zustimmung zur Erfassung und Speicherung,
+        die Zustimmung zur Verarbeitung aber erteilt man nochmals explizit.
 
-          Hat man verschiedene Kreise von personenbezogenen Daten (Beispiel: Ein Kodewort, das man in das Subject
-          jeder Mail einträgt, um den Spamfilter zu umgehen), dann kann man auch verschiedene Kreise verschieden lösen.
-          Einige brauchen dann eine explizite Zustimmung, andere brauchen nur eine Information, andere gar nicht,
-          die tun einfach so.
+        Hat man verschiedene Kreise von personenbezogenen Daten (Beispiel: Ein Kodewort, das man in das Subject
+        jeder Mail einträgt, um den Spamfilter zu umgehen), dann kann man auch verschiedene Kreise verschieden lösen.
+        Einige brauchen dann eine explizite Zustimmung, andere brauchen nur eine Information, andere gar nicht,
+        die tun einfach so.
           
-          Beispiel:
+        Beispiel:
           
-            - Das Kodewort für Mail wird einfach so verarbeitet.  Hinweis, dass es freiwillig ist.
-            - Name und Anschrift, über die man den Account sichern und rücksetzen kann,
-              für den Fall, dass man die Mailadresse verliert,
-              werden informationstechnisch an den Mailadresse geschickt.
-              "Ihre personenbezogenen Daten zur Rücksetzung des Accounts wurden geändert.
-               Die Änderungen finden sie im Menü unter dem Punkt Zugangsschutz."
-            - Geburtsdatum usw. wird per zusätzlichem Opt-In erledigt.
-            - Rechnungs- und Kontoinformationen werden außerdem im Web nur gekürzt angezeigt,
-              und sind nur per erweiterter Datenschutzauskunft erreichbar.
+          - Das Kodewort für Mail wird einfach so verarbeitet.  Hinweis, dass es freiwillig ist.
+          - Name und Anschrift, über die man den Account sichern und rücksetzen kann,
+            für den Fall, dass man die Mailadresse verliert,
+            werden informationstechnisch an den Mailadresse geschickt.
+            "Ihre personenbezogenen Daten zur Rücksetzung des Accounts wurden geändert.
+             Die Änderungen finden sie im Menü unter dem Punkt Zugangsschutz."
+          - Geburtsdatum usw. wird per zusätzlichem Opt-In erledigt.
+          - Rechnungs- und Kontoinformationen werden außerdem im Web nur gekürzt angezeigt,
+            und sind nur per erweiterter Datenschutzauskunft erreichbar.
 
 > Das soll's für heute sein.
 > Ich gehe davon aus, ich könnte noch Terabyteweise mehr dazu schreiben, habe nur nicht die Zeit.
