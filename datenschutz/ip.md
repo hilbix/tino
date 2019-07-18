@@ -105,9 +105,11 @@ anhand des Aspekts auf die Person schließen kann.
 > Wenn ich also die Daten an eine Auskunftei geben kann und diese ermittelt mir dann die Person,
 > dann sind die Daten personenbezogen.  (Das ist aber nur ein Kriterium unter vielen.)
 
-Das ändert vieles.  Die Augenfarbe eines Menschen ist zwar in der Regel personenbezogen, kann ich diese Angabe aber
-- ganz konkret - nicht auf eine bestimmte Person beziehen, ist die Angabe für mich nicht mehr personenbezogen,
-und ich unterliege nimmer den strengen Bedingungen in der DSGVO.
+Das ändert vieles.  Die Augenfarbe eines Menschen ist zwar in der Regel personenbezogen,
+kann ich diese Angabe aber - ganz konkret - nicht auf eine bestimmte Person beziehen,
+ist die Angabe für *mich* nicht mehr personenbezogen,
+und *ich* unterliege nimmer den strengen Bedingungen in der DSGVO.
+(Das gilt aber nur für mich und mich allein.)
 
 Die DSGVO hat für solche Daten eine neue Kategorie, die es früher nicht gab:  Pseudonyme Daten.
 
