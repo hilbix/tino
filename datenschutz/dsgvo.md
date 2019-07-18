@@ -184,6 +184,7 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
     da dadurch der behördliche Datenschutz gemäß DSVGO aufgeweicht wird.
     
     Anders gesagt:
+
         - Behörden werden die Daten weiter an Privatfirmen weitergeben.
         - Die Privatfirmen werden ihren vertraglichen Auflagen nicht nachkommen und die Daten verschachern (z. B.
           indem sie den Besitzer wechseln)
