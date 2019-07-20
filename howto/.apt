@@ -13,8 +13,8 @@ apt-get upgrade
 
 for a in /proc/[0-9]*
 do
-        grep -v /dev/zero "$a/maps" | grep -q deleted &&
-        echo "${a#/proc/} $(basename "$(readlink -m "$a/exe")")"
+	grep -v /dev/zero "$a/maps" | grep -q deleted &&
+	echo "${a#/proc/} $(basename "$(readlink -m "$a/exe")")"
 done | sort -k2
 
 find /etc -name '*.*-dist'
