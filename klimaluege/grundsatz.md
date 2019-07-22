@@ -73,7 +73,7 @@ Hier kann man zwar Teilhypothesen aufstellen, und diese beweisen oder widerlegen
 aber das gesamte Klima ist noch keine exakte Wissenschaft,
 weshalb keine Gesamtaussage getroffen werden kann.
 
-Die Aussage "es gibt ihn" oder "es gibt ihn nicht" ist genauso esoterisch, wie die Frage nach Gott.
+**Die Aussage zum menschengemachten Klimawandel "es gibt ihn" oder "es gibt ihn nicht" ist genauso esoterisch, wie die Frage nach Gott.**
 
 Viele sehen in bestimmten Erscheinungen das Wirken eines Gottes, andere tun das aber nicht,
 und andere lehnen es strikt ab.
