@@ -216,7 +216,7 @@ Den Schuss, den es schon vor 50 Jahren oder mehr tat.
 
 Der Drang zum Handeln lenkt nur von der Wahrheit ab:
 
-Das es vermutlich schon viel zu spät ist.
+Dass es vermutlich schon viel zu spät ist.
 
 Es ist recht zwecklos, das Ruder noch herumreißen zu wollen, wenn das Wrack der Titanic bereits auf dem Grund des Meeres liegt und anfängt zu vermodern.
 
