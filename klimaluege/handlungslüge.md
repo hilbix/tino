@@ -145,12 +145,13 @@ dann ist das nichts, was wir verdammen dürfen, sondern müssten eigentlich dar�
 dass es Menschen gibt, die uns diese Schweinerei (sorry for that pun) abnehmen können ohne daran zu zerbrechen.
 
 Wenn wir nun mit den Fingern auf den Holocaust zeigen und sagen, das ist eine Ungeheuerlichkeit,
-aber nicht mit den Fingern auf die Ungeheuerlichkeiten zeigen, die wir z. B. unseren Hartz-IV-Empfängern antun,
-die demselben Prinzip folgen, dann tut das dem Holocaust unrecht!  Denn es verkennt die wahre Ursache,
-aus denen derartige unbegreifbar schlimme Dinge ständig wieder und wieder in der Geschichte des Menschen auftauchen:
+aber nicht mit den Fingern auf die Ungeheuerlichkeiten zeigen, die wir z. B. einem Hartz-IV-Empfänger antun und
+die demselben Prinzip des Holocaust folgen, dann tut das dem Holocaust Unrecht!  Denn es verkennt die wahre Ursache,
+aus denen derartige unbegreifbar schlimme Dinge ständig wieder und wieder in der Geschichte des Menschen auftauchen.
+Und das darf einfach gerade bei so Dingen wie dem Holocaust nicht unter den Tisch gekehrt werden:
 
 Der Mensch belügt sich selbst nach Stich und Faden.  Und zwar nicht nur selten.  Sondern dauernd,
-in jeder einzelnen Mikrosekunde seines Seins!
+in jeder einzelnen Mikrosekunde seines Daseins!
 
 Und sich dieser Tatsache nicht ständig bewusst zu sein, das ist die Lüge, die es zu bekämpfen gilt!
 
