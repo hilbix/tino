@@ -157,6 +157,7 @@ Und sich dieser Tatsache nicht ständig bewusst zu sein, das ist die Lüge, die 
 
 Erst wenn jeder Mensch akzeptiert, dass alles, aber auch wirklich alles was er glaubt,
 eine einzige große Lüge darstellt, erst dann haben wir, die Menschheit, eine Chance auf Besserung.
+(Hoffe ich jedenfalls!)
 
 Deshalb glaube ich auch nicht.  Ich vertraue nur auf das, was ich weiß.
 
