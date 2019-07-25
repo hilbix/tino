@@ -339,3 +339,5 @@ die ihnen dann auf diesem neuen Gebiet instant einen Innovationsschub geben wird
 >
 > Ganz besonders beeindruckt mich, wenn ein spektakulärer Fehlschlag auf einem anderen Gebiet dann ein spektakulärer Durchbruch wird.
 > So wie z. B. Einsteins Versuch, die Quantentheorie zu widerlegen.
+>
+> Oder so etwas wie die [Entdeckung der Wachswolle](https://de.wikipedia.org/wiki/Wachswolle) (Danke an [Sensei-Ninja](https://github.com/hilbix/tino/issues/2) für den Hinweis)
