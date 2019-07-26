@@ -3,7 +3,7 @@
 Also, da kommen sie gekrochen, aus allen Löchern, und verbreiten die Mähr vom ÖNV, der nur ausgebaut werden muss,
 dann könnten Pendler umsteigen.
 
-Um zu erklärn, warum das Hirnschiss ist, hier mal ein Beispiel.  Ich halte das für typisch.
+Um zu klären, warum das Hirnschiss ist, hier mal ein Beispiel.  Ich halte das für typisch.
 
 ## Bus und Bahn
 
@@ -243,3 +243,56 @@ Und Landtaxi?  Das ist auch nicht wirklich die Lösung.  Eher Car-Sharing.  Aber
 >
 > Entweder das, oder das Fahrzeug wird sich keinen Mikrometer von der Stelle bewegen.
 > (Weil es nur so alle Fehler vom Menschen vermeiden kann.)
+
+## Fazit
+
+Der ÖNV muss ich wandeln.
+
+Erst wenn der ÖNV die häufigsten Fälle des privaten PKW auf dem Land ebenfalls abdeckt,
+und da sind Einkaufsfahrten zu IKEA eben mit drinnen, kann sich etwas verändern.
+
+Freiwillige Angebote wie günstig gemietete Transporter oder freiwillige Lieferservices von Händlern sind da keine Lösung.
+Im Gegenteil, die sind eher das Problem, denn das bringt uns ja mehr Individualfahrten!
+
+Ziel ist die Bündelung.  Wie Sammeltaxis.
+
+- Ich bestelle ein Taxi, mit Zeitfenster, und das kommt dann in diesem Zeitfenster.
+Und holt mich an der Haustür ab oder bringt mich hin.
+
+- Und ich kann Gepäck transportieren.  Von der Handtasche bis zum Klavier!
+
+Zwar muss ich evtl. auf einer Router zweimal das Fahrzeug wechseln - das ist gerade noch zumutbar -
+aber das geschieht dann zeitnah.
+
+**Also kein längeres Warten auf den Zug in Eiseskälte oder extremer Hitze.**
+In der Regel bedeutet das, ich kann direkt und sofort umsteigen.  Ohne Wartezeit.
+Wartezeit ist die Ausnahme.  Sprich, der Zug in den ich einsteigen muss, der steht schon bereit.
+Es kann etwas dauern, bis der losfährt, aber Taxis müssen ja auch an Ampeln und im Stau warten.
+
+Dann braucht der ÖNV immer noch etwas länger als das Auto.  Aber nur geringfügig.
+Der riesige Vorteil ist dann seine Redundanz!
+
+Steht die Autobahn, werde ich automatisch auf die Bahn umgeroutet.  Oder evtl. genau umgekehrt.
+
+Und genau das ist dann ein Vorteil, den ich nicht mit meinem PKW habe.  **Ein entscheidender Vorteil!**
+
+Wenn das Ganze dann noch klar billiger ist als der eigene PKW, dann steigen die Leute auch wirklich um.
+
+Dann, aber erst dann.
+
+Umgestiegen wird also nur, wenn es flexibler und billiger ist.
+Erst diese Kombination nehmen die Leute wahr.
+
+Komfort?  Ja und nein, der Komfort ist anders.
+
+- Ich werde gefahren, aber evtl. zusammen mit anderen, die ich nicht selbst bestimmen kann.
+- Ich werde Tür zu Tür gebrahcht, mit Umsteigen und meist etwas langsamer, dafür aber auch günstiger.
+
+Das eigene Auto ist nämlich immer noch unheimlich bequem.  Es steht vor der Tür und ich kann all mein Geraffel drinnenlassen.
+
+Das wird wahrgenommen.  Reparaturen, Parkplatz, Verschleiß?  Das wird hingenommen, damit argumentieren nur Nerds.
+
+So ist der Mensch nun einmal.  Und um eine echte Alternative zu werden, muss der ÖNV eine Alternative werden.
+Nicht eine gleichwertige Alternative, aber eine andere Alternative.
+
+Zur Zeit ist er das nicht.  Und höhere Taktzahlen können und werden daran nichts ändern.
