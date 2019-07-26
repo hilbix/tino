@@ -168,7 +168,7 @@ Aber sicher!  Das ist dann die Weiterentwicklung.
 >
 > Wer Onlinebanking nur mit dem Handy betreibt, der hat den Schuss nicht gehört.  Das Handy ist der 2FA,
 > meinetwegen auch der TANgenerator (obwohl mir das bereits die Zehennägel aufstellt.  So ein TAN-Generator
-> gehört in ein TPM oder SIM, und nicht in eine App!), aber keinesfalls mehr!
+> gehört in ein TPM oder SIM oder EC-Karte, und nicht in eine App!), aber keinesfalls mehr!
 >
 > Apropos TAN-Generator:  Ich hätte den gerne per NFC.  Also NFC-Token am Schlüsselbund (kostet ca. 30 Cent),
 > dann App im Handy, und wenn ich eine Transaktion autorisieren will muss das NFC-Token an das Handy gehalten werden,
@@ -176,7 +176,7 @@ Aber sicher!  Das ist dann die Weiterentwicklung.
 >
 > So sieht eine Transaktionssicherung in diesem Jahrtausend aus.  Minimal.  Haben wir die?  Nö, die Banken
 > verarschen uns mit teils 30 EUR teuren Blinkenlights-Smartcard-Readern oder anderem Bullshit.
-> Statt NFC zur Autorisierung zu verwenden, bauen die allen ernstes NFC für Bezahlterminals ein!
+> Statt NFC zur Autorisierung in die EC-Karte einzubauen, baut ihr allen ernstes NFC für Bezahlterminals ein!
 >
 > Leute, ihr habt sie nimmer alle.  Wirklich.  Anders kann man sich diesen Hyperschrott den ihr alle überall baut
 > nimmer erklären.  Mannomann.  Alles Hirnschiss der richtig üblen Sorte!
