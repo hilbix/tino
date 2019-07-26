@@ -94,8 +94,8 @@ Die Lösung muss so aussehen:
 - Browser öffnen
 
 Ab da muss der PI ansagen, was man als nächstes tun muss.
-Und diese Instruktionen müssen so abgefasst werden, dass das jede Oma das machen kann,
-die heute zum ersten Mal in ihrem Leben einen Internetanschluss sowie ein Smartphone bekommen hat!
+Und diese Instruktionen müssen so abgefasst werden, dass jede Oma das dann machen kann,
+die heute zum ersten Mal in ihrem Leben einen Internetanschluss samt Smartphone bekommen hat!
 
 Nach dieser erstmaligen Inbetriebnahme darf das Ding überhaupt keinerlei Verwaltung mehr brauchen.
 Dashboard?  Nice!  Aber überflüssiger als ein Blinddarm!
@@ -134,28 +134,61 @@ Das ist viel zu unsicher!  Wenn ich rein kann, kann da vielleicht jeder rein.
 Deshalb müssen die Teile "dicht" sein, in dem Sinne, dass ich reingelassen werden kann, aber nur mit Wissen des Besitzers.
 
 Das ist überhaupt kein Thema.  Derjenige, der das VPN verwendet, der kann mich reinlassen.
-On Demand.  Aber ohne den geht nix.
+On Demand.  Aber ohne den Besitzer geht nix.
 
 Da er mich sowieso anruft, kann der dabei die Freigabe ebenfalls durchführen.
-Bei vielen Geräten werde ich den VPN-Zugang zwar ebenfalls haben.  Aber eben nicht bei allen!
+Bei vielen Geräten werde ich den VPN-Zugang zwar ebenfalls haben, bin also auch Besitzer.
+Aber eben nicht bei allen!
 
-Und natürlich ist das OpenSource.  Wäre auch Blödsinn wenn nicht.
+Und natürlich ist das OpenSource.  Wäre auch Blödsinn wenn die Korrektheit nicht jeder überprüfen könnte.
 
-Das Hauptproblem ist, der reproducible Build.  Das ist der Hauptgrund, warum ich derzeit noch nicht einmal angefangen habe.
+Das Hauptproblem ist, der reproducible Build für's Binary.  Das ist der Hauptgrund, warum ich derzeit noch nicht einmal angefangen habe.  Aber sobald ich das mal gelöst habe, dann geht's sicher los.
 
 
 ## Ach ja, nochwas
 
 Bluecoat.  Sag euch das was?
 
-Klar doch, genau das ist die Lösung aller Probleme.
+Klar doch, genau das ist die Lösung aller eurer Probleme.  Und meiner auch ;)
 
-Der PI-Hole ist erst der Anfang.  Bluecoat für jeden.  Aber sicher!  Das ist dann die Weiterentwicklung.
+Der PI-Hole ist nämlich erst der Anfang.  Ziel ist dann Bluecoat für jeden.
+Aber sicher!  Das ist dann die Weiterentwicklung.
 
-Nö, mit einem einzigen PI geht das noch nicht, dazu braucht man 3 oder 4.  Aber auch daran werde ich dann arbeiten.
+> Wieso sicher?
+>
+> Nun, man sperrt im Handy alle anderen Root-Zertifikate und fügt nur noch das Root-Cert vom PI dazu.
+> Dann ist BlueCoat usw. außen vor, denn ohne zusätzliches Root-Cert geht kein MitM-Angriff bei SSL!
+> Und jede Middelbox wird zuverlässig enttarnt!  Ganz sicher!
+>
+> Wie soll das gehen?  Na mit Certificate Transparency natürlich!  Ganz ohne DANE oder anderen Scheiß!
+> Und das prüft auch nicht der Client.  Sondern der PiHole!
+>
+> Und bei Onlinebanking?  Äh, erm.. bitte was?  Onlinebanking auf dem Handy?  Was soll das bitte sein?
+> Galloppierender vollverblödeter hirnverbrannter Massenwahnsinn?  Oder wie darf ich sowas verstehen?
+>
+> Wer Onlinebanking nur mit dem Handy betreibt, der hat den Schuss nicht gehört.  Das Handy ist der 2FA,
+> meinetwegen auch der TANgenerator (obwohl mir das bereits die Zehennägel aufstellt.  So ein TAN-Generator
+> gehört in ein TPM oder SIM, und nicht in eine App!), aber keinesfalls mehr!
+>
+> Apropos TAN-Generator:  Ich hätte den gerne per NFC.  Also NFC-Token am Schlüsselbund (kostet ca. 30 Cent),
+> dann App im Handy, und wenn ich eine Transaktion autorisieren will muss das NFC-Token an das Handy gehalten werden,
+> denn der Kryptoschlüssel ist nur im NFC-Token, und sonst nirgendwo.
+>
+> So sieht eine Transaktionssicherung in diesem Jahrtausend aus.  Minimal.  Haben wir die?  Nö, die Banken
+> verarschen uns mit teils 30 EUR teuren Blinkenlights-Smartcard-Readern oder anderem Bullshit.
+> Statt NFC zur Autorisierung zu verwenden, bauen die allen ernstes NFC für Bezahlterminals ein!
+>
+> Leute, ihr habt sie nimmer alle.  Wirklich.  Anders kann man sich diesen Hyperschrott den ihr alle überall baut
+> nimmer erklären.  Mannomann.  Alles Hirnschiss der richtig üblen Sorte!
 
-Also, verstecken hinter HTTPS ist nicht.  Die Lösung wird mit der Zeit allumfassend werden.
+Nö, mit einem einzigen PI geht das leider nicht (außer der kriegt ne ordentliche harte Virtualisierung mit
+Speicherverschlüsselung), dazu braucht man vermutlich 3 oder 4, damit das brauchbar sicher ist.
+Aber Sicherheit darf ruhig mal etwas kosten.  Kann auch gut sein, dass man viel billigere Teile als den PI
+dafür nutzen kann.  Daran werde ich dann arbeiten, sobald ich mal den ersten Schritt habe.
 
-**Je mehr Scheiß ihr baut, je mehr Leidensdruck ihr verbreitet, desto schneller kommt sie.**
+Also, auch verstecken hinter HTTPS ist nicht.  Und ausliefern von Werbung per HTTPS vom eigenen Server wird
+dann ebenfalls nimmer gehen.  Die Lösung wird mit der Zeit ganz sicher ganz sicher und allumfassend werden!
+
+**Und je mehr Scheiß ihr baut, je höher der Leidensdruck wird den ihr verbreitet, desto schneller kommt die Gegenmaßnahme.**
 
 Versprochen!
