@@ -50,3 +50,55 @@ Dieses Video ist eindeutiger Clickbait sowie Fake, denn wenn das ein "Sicherheit
 >
 > Viele weitere falsche Kommentare (eigentlich die meisten), teils sogar mit unverantwortlichen Hasstiraden gegen Unschuldige,
 > sind dort weiterhin zu finden!  Ein ziemlich eindeutiger Beweis, dass es sich hier nur um emotionalen Clickbait handelt.
+>
+> Mir fällt gerade noch etwas auf, eine Kleinigkeit (die nichts ändert) ist in der Darstellung falsch:
+>
+> - Der Handybesiter legt auf.
+> - Tatsächlich hält die App die Verbindung weiter
+> - Wir haben also immer noch eine 3er-Konferenz
+> - Der eingehende Anruf geht aus der Leitung
+> - Wir haben nun einen ausgehenden Anruf nach Russland
+> - Die App baut eine 2. Verbindung nach Russland auf
+> - Nun haben wir wieder eine 3er-Konferenz
+> - und dann hält die App im Hintergrund die Verbindung
+>
+> Grund:
+>
+> Allgemein sind Konferenzen zur Sicherheit so konstruiert,
+> dass die Konferenz aufgelöst wird, sobald der Initiator,
+> und das ist hier das Handy, selber auflegt.
+>
+> Ob nun aber das Handy (die App) weiterhin die Verbindung halten muss oder nicht ist für den Fall egal.
+> Entscheidend ist, dass es sich um eine Standardfunktionalität des Telefonnetzes handelt.
+>
+> Allerdings wird es durch diese neue Erkenntnis jetzt noch esoterischer als vorher.
+>
+> Das Handy (Android!) wird nämlich jetzt während der gesamten Zeit anzeigen, dass eine Telefonverbindung besteht!
+> Das kann die App nicht verhindern.
+>
+> Hätte der Handynutzer also in die Leiste vom Handy gesehen, hätte er das zwingend mitbekommen müssen!
+>
+> Der Fehler liegt also eindeutig nicht bei Debitel, und gewissermaßen sogar nicht bei der App,
+> denn es ist Android, das diesen "Fehler" derart unsichtbar ermöglicht.
+>
+> Würde das Display durch ein Telefoniebanner ständig überlagert und die Telefoniefunktion nicht nur mit einem
+> winzigen Icon in der Statusbar angezeigt, man hätte eine wesentlich höhere Chance, solche "Fehler" zu bemerken.
+>
+> Anders gesagt:
+>
+> - Debitel stellt die Rechnung, da sie nichts falsch gemacht haben
+> - Der Handybesitzer muss den Schaden also begleichen
+> - Er kann dann an die Apphersteller herantreten und den Schaden von diesen verlangen
+> - Und wenn er die App nicht selbst installiert hat, dann sind entweder Handylieferant oder Google Schuld
+>
+> Das ist der richtige Weg.  Denn auf keinen Fall ist Debitel für den Schaden verantwortlich,
+> diese haben sogar den Schaden minimiert so gut es technisch möglich war!
+>
+> Verantwortung tragen einzig und alleine:
+>
+> - Der Handybesiter, weil er die App auf dem Handy hatte
+> - Evtl. der Handylieferant, weil er die App vorinstalliert hatte
+> - Der Betriebssystemlieferant (Google?), weil Android diese Funktion derart versteckt anzeigt
+>
+> Wenn ein Handy ein kostenpflichtiges Telefonat hält, muss das Handy dies unübersehbar melden.
+> Alles andere ist ein technischer Fehler.
