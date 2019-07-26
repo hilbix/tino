@@ -51,7 +51,7 @@ Dieses Video ist eindeutiger Clickbait sowie Fake, denn wenn das ein "Sicherheit
 > Viele weitere falsche Kommentare (eigentlich die meisten), teils sogar mit unverantwortlichen Hasstiraden gegen Unschuldige,
 > sind dort weiterhin zu finden!  Ein ziemlich eindeutiger Beweis, dass es sich hier nur um emotionalen Clickbait handelt.
 >
-> Mir fällt gerade noch etwas auf, eine Kleinigkeit (die nichts ändert) ist in der Darstellung falsch:
+> Mir fällt gerade noch etwas auf, eine Kleinigkeit (die nichts ändert) ist in der Darstellung doch falsch (wodurch mein Kommentar aber nicht unrichtig wird):
 >
 > - Der Handybesiter legt auf.
 > - Tatsächlich hält die App die Verbindung weiter
@@ -89,7 +89,8 @@ Dieses Video ist eindeutiger Clickbait sowie Fake, denn wenn das ein "Sicherheit
 > - Debitel stellt die Rechnung, da sie nichts falsch gemacht haben
 > - Der Handybesitzer muss den Schaden also begleichen
 > - Er kann dann an die Apphersteller herantreten und den Schaden von diesen verlangen
-> - Und wenn er die App nicht selbst installiert hat, dann sind entweder Handylieferant oder Google Schuld
+> - Und wenn er die App nicht selbst installiert hat, dann ist der Handylieferant der Böse
+> - Und auf jeden Fall hat der Betriebssystemhersteller eine Mitschuld!
 >
 > Das ist der richtige Weg.  Denn auf keinen Fall ist Debitel für den Schaden verantwortlich,
 > diese haben sogar den Schaden minimiert so gut es technisch möglich war!
@@ -97,6 +98,7 @@ Dieses Video ist eindeutiger Clickbait sowie Fake, denn wenn das ein "Sicherheit
 > Verantwortung tragen einzig und alleine:
 >
 > - Der Handybesiter, weil er die App auf dem Handy hatte
+> - Die Apphersteller, weil sie die App so konstruiert haben dass Nutzer abgezockt werden
 > - Evtl. der Handylieferant, weil er die App vorinstalliert hatte
 > - Der Betriebssystemlieferant (Google?), weil Android diese Funktion derart versteckt anzeigt
 >
