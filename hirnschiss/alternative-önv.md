@@ -334,3 +334,18 @@ usw.
 Die Leute denken nicht mit dem Verstand.  Sie denken mit dem Bauch.
 
 Und so kommt das Geld dann doch wieder rein.
+
+> Das ist nur ein Beispiel.  Eine Möglichkeit.
+>
+> Ein Patentrezept habe ich nicht.  Ich weiß nur eines:
+>
+> Das, was da gerade vermurkst wird, wird so nicht funktionieren.
+> Mich erreicht es nämlich nicht.  Und ich kenne keinen, den das erreicht.
+>
+> Die Leute kaufen sich lieber Roller als da mitzumachen.
+>
+> Wundert der akute E-Roller-Boom jemanden?
+> Die Leute steigen gerade von Bahn und Tram auf Auto + E-Roller um!
+> Koste es was es wolle (und wenn es das eigene Leben ist).
+>
+> Warum tun sie das?  Weil sie bei eurem ÖNV-Scheiß einfach nicht mitmachen.  Stellt euch schonmal darauf ein.
