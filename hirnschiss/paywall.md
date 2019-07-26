@@ -188,6 +188,7 @@ dafür nutzen kann.  Daran werde ich dann arbeiten, sobald ich mal den ersten Sc
 
 Also, auch verstecken hinter HTTPS ist nicht.  Und ausliefern von Werbung per HTTPS vom eigenen Server wird
 dann ebenfalls nimmer gehen.  Die Lösung wird mit der Zeit ganz sicher ganz sicher und allumfassend werden!
+(Das doppelte "ganz sicher" war kein Stottererer.)
 
 **Und je mehr Scheiß ihr baut, je höher der Leidensdruck wird den ihr verbreitet, desto schneller kommt die Gegenmaßnahme.**
 
