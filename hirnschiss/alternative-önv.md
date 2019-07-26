@@ -261,8 +261,8 @@ Und holt mich an der Haustür ab oder bringt mich hin.
 
 - Und ich kann Gepäck transportieren.  Von der Handtasche bis zum Klavier!
 
-Zwar muss ich evtl. auf einer Router zweimal das Fahrzeug wechseln - das ist gerade noch zumutbar -
-aber das geschieht dann zeitnah.
+Zwar muss ich evtl. auf einer Route zweimal (selten 3 Mal und nur in Ausnahen öfters) das Fahrzeug wechseln
+- das ist gerade noch zumutbar - aber das geschieht dann zeitnah.
 
 **Also kein längeres Warten auf den Zug in Eiseskälte oder extremer Hitze.**
 In der Regel bedeutet das, ich kann direkt und sofort umsteigen.  Ohne Wartezeit.
@@ -283,16 +283,54 @@ Dann, aber erst dann.
 Umgestiegen wird also nur, wenn es flexibler und billiger ist.
 Erst diese Kombination nehmen die Leute wahr.
 
-Komfort?  Ja und nein, der Komfort ist anders.
+> Billiger bedeutet, es kostet weniger, und zwar ohne dass man sich einschränkt
+> und auch dann, wenn man falsch rechnet.
+>
+> Das steht also in Konkurrzenz zum BEV, das man mit seiner eigenen Photovoltaik kostenlos betankt!
+> Die Fahrt in den Nachbarort und zurück kostet also exakt 0 EUR.  Der Verschleiß wird da nicht mitgezählt!
+>
+> Die Photovoltaik ist eh da, also ist der reine BEV-Preis (ohne Rearaturen!) der Kostenfaktor mit dem verglichen wird.
+>
+> Egal ob das real so ist, so nehmen es die Leute wahr und so wird ihr Bauch vergleichen!
+> Es ist müßig dagegen anzuargumentieren.  Der Bauch entscheidet, nicht der Verstand!
+>
+> Und nur über den Bauch erreicht man die Nutzer.  Alles andere wären sinnlose Hirngespinste!
+
+Komfort?  Ja, ist wichtig, der ist hier aber vollkommen anders, spielt also weniger die Rolle:
 
 - Ich werde gefahren, aber evtl. zusammen mit anderen, die ich nicht selbst bestimmen kann.
-- Ich werde Tür zu Tür gebrahcht, mit Umsteigen und meist etwas langsamer, dafür aber auch günstiger.
+- Ich werde Tür zu Tür gebracht, mit Umsteigen und meist etwas langsamer, dafür aber auch günstiger.
 
-Das eigene Auto ist nämlich immer noch unheimlich bequem.  Es steht vor der Tür und ich kann all mein Geraffel drinnenlassen.
+So muss das ankommen.  Das zieht und entschärft die Sache.  Und das "günstiger" ist dann das Kaufargument.
 
-Das wird wahrgenommen.  Reparaturen, Parkplatz, Verschleiß?  Das wird hingenommen, damit argumentieren nur Nerds.
+Das eigene Auto ist nämlich immer noch unheimlich bequem.
+Dafür zahlen die Leute mehr, und zwar so, dass es für sie kein Rolle spielt.
+
+Das eigene Auto steht vor der Tür und ich kann all mein Geraffel drinnenlassen.
+Das wird wahrgenommen.
+
+Reparaturen, Parkplatz, Verschleiß?  Das ist irrelevant, wird einfach so hingenommen, damit argumentieren nur Nerds!
 
 So ist der Mensch nun einmal.  Und um eine echte Alternative zu werden, muss der ÖNV eine Alternative werden.
 Nicht eine gleichwertige Alternative, aber eine andere Alternative.
 
-Zur Zeit ist er das nicht.  Und höhere Taktzahlen können und werden daran nichts ändern.
+**Zur Zeit ist er das nicht.  Und höhere Taktzahlen können und werden daran nichts ändern.**
+
+Aber genau so wird der Schuh draus:
+
+- Der ÖNV muss das Auto schlagen.  Im Mix Preis, Zeit, Flexibilität und Bequemlichkeit. (Ohne große Ausreißer!)
+- Und dann könnt ihr den Leuten darauf aufbauend zusätzlich Geld aus der Tasche ziehen.
+
+Beispiel:
+
+- Route mit is zu 5 Mal umsteigen ist der Grundpreis.  Und billiger als das Auto.
+- 5% teuer für Route mit max. 3 Mal umsteigen
+- 25% teurer für Route mit max. 2 Mal umsteigen und max. 2 anderen Fahrgästen in jedem Abteil
+- 50% Aufpreis für Fahrzeuge der nächsthöheren Kategorie (sprich: 1. Klasse)
+- 100% Aufpreis für beste Route (oft direkt, also evtl. mit 0 Mal umsteigen)
+
+usw.
+
+Die Leute denken nicht mit dem Verstand.  Sie denken mit dem Bauch.
+
+Und so kommt das Geld dann doch wieder rein.
