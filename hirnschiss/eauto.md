@@ -93,7 +93,7 @@ Unsinnig verbratene Hitze, die man nur in wenigen Fällen (Winter) nutzen kann.
 Dazu kommen beim Verbrenner Abgase, die man aufwendig reinigen muss.
 
 Wenn man Abgase reinigt, dann bitte besser großtechnisch stationär, unter optimalen
-Betriebsbedingungen, also mobil und meistens in einer ungünstigen Kennkurve.
+Betriebsbedingungen, anstatts mobil und meistens in einer ungünstigen Kennkurve.
 
 Meine These ist also:
 
