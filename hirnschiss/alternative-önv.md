@@ -339,13 +339,13 @@ Und so kommt das Geld dann doch wieder rein.
 >
 > Ein Patentrezept habe ich nicht.  Ich weiß nur eines:
 >
-> Das, was da gerade vermurkst wird, wird so nicht funktionieren.
+> Das, was da gerade im ÖNV vermurkst wird, wird so nicht funktionieren.
 > Mich erreicht es nämlich nicht.  Und ich kenne keinen, den das erreicht.
 >
 > Die Leute kaufen sich lieber Roller als da mitzumachen.
 >
 > Wundert der akute E-Roller-Boom jemanden?
-> Die Leute steigen gerade von Bahn und Tram auf Auto + E-Roller um!
+> Die Leute steigen gerade von Bahn + Tram auf Auto + E-Roller um!
 > Koste es was es wolle (und wenn es das eigene Leben ist).
 >
 > Warum tun sie das?  Weil sie bei eurem ÖNV-Scheiß einfach nicht mitmachen.  Stellt euch schonmal darauf ein.
