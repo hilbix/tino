@@ -13,6 +13,6 @@ all:	install
 .PHONY:	install
 install:
 	[ -d "$$HOME/bin" ] || mkdir "$$HOME/bin"
-	for a in $(BINS); do cmp -s "$$a" "$$HOME/bin/$$a" || ln --backup=t -s --relative "$$a" "$$HOME/bin/$$a"; done
-	MORE=; [ 0 = "`id -u`" ] && MORE="$(ROOTS)"; for a in $(HOMES) $$MORE; do cmp -s "$$a" "$$HOME/$$a" || ln --backup=t -s --relative "$$a" "$$HOME/$$a"; done
+	for a in $(BINS); do cmp -s "$$a" "$$HOME/bin/$$a" || ln --backup=t -vs --relative "$$a" "$$HOME/bin/$$a"; done
+	MORE=; [ 0 = "`id -u`" ] && MORE="$(ROOTS)"; for a in $(HOMES) $$MORE; do cmp -s "$$a" "$$HOME/$$a" || ln --backup=t -vs --relative "$$a" "$$HOME/$$a"; done
 
