@@ -51,7 +51,7 @@ And no Open Source License addresses that.  All this still is envforced by Copyr
 Using Copyright to keep things free is like Fucking for Virginity.  Wrong way, sorry!
 
 
-## Is the CLL OSI certified.
+## Is the CLL OSI certified?
 
 No.  I really have no idea how to do this.  No money, no time, no idea, no interest, no nothing.
 
@@ -196,4 +196,10 @@ But as there are, the CLL must be compatible.
 
 ## Is the CLL GPLv* compatible?
 
-T.B.D.
+This means, can you mix CLL code with GPL code?
+
+Of course you can!  It works similar to the OSI discussion above.
+
+If you think you perhaps found something which contradicts this, please open an Issue.
+
+Thanks.
