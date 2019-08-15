@@ -27,3 +27,5 @@
 - 2019-06-21 Manchmal wünschte ich mir, ich wäre unfähig.  Damit könnte ich leben.  Aber leider geht es den anderen genauso wie mir.  Und das ist unerträglich!
 
 - 2019-07-03 Political Correctness killed `/bin/cat` ([Quelle](https://www.heise.de/forum/Make/News-Kommentare/Farmbot-treibt-die-Automatisierung-im-Gemuesebeet-voran/Eure-armselige-Political-Correctness-kotzt-mich-an/posting-34803296/show/))
+
+- 2019-08-15 No Markdown, no recommendation.  (GitHub-Community does no Markdown)
