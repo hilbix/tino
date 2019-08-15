@@ -143,6 +143,27 @@ And the rest of this command?
 Basically some overly complex rewording of `git checkout -b feature/FEATURE`,
 wrapped into some neither overly complex command `git create-branch`.
 
+> The right workflow (takes less time to think about than to write down here)
+> on feature branches is:
+>
+> - I am on some branch which I want to fork for a feature
+> - I enter `git feature`.  No name.  Optionally I can give a name like `git feature bug/problem`
+>   - This creates a branch named after the pattern `feature-N` by default
+>   - The pattern can be configured by `git feature.set [--local] PATTERN`
+>   - `PATTERN` is something like `feature/tino/{branch}-{N}` or `feature/tino/{branch}-{YYYYMMDD}-{N}`
+>   - `{YYYYMMDD}` is the current date, `{N}` is a counter which is counted up if the branch to create happens to exist
+>   - `{branch}` and similar things are some automagic variables.
+> - This refuses to run if I have uncommitted changes.  To take them into the new feature branch use `git feature -f`
+> - Now I am on a new branch `feature/tino1` (`PATTERN` was `feature/tino{N}`)
+> - Now I do the work on the feature branch.
+> - When I am happy with this I do (in the feature branch!): `git finish` or `git finish BRANCH` (or maybe `git feature --finish [BRANCH]`, but I'd vote for `git finish`)
+>   - This refuses to run when there are uncommitted changes
+>   - `git finish` automatically determines the `BRANCH` from where `git feature` was started.
+>   - Now the branch is switched, fast forwarded and then merged according to the workflow setting.
+>   - The proper workflow setting can be set by `git finish.set [--local] MERGE-STRATEGY`, by default `--no-ff`.
+>   - And no, nope, never is the merged branch deleted on this step!
+>   - If this needs a rebase, the rebase has to be done first!  Never do such dangerous things implicitely!
+
 ## `git create-branch`
 
 > (Sorry, not in alphabetical sequence due to demand)
