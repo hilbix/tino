@@ -208,4 +208,4 @@ WTF how bad can such a little bit of code be created?!?
 
 # I STOP HERE, OUT OF TIME
 
-> Continued if I get [the big Kotzen](https://de.wikipedia.org/wiki/Kotzen) again.
+> Continued if I get [the big Kotzen](https://en.wikipedia.org/wiki/Vomiting) again.
