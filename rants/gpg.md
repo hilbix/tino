@@ -1,4 +1,46 @@
+> If you wonder where I got the knowledge from: https://wiki.debian.org/Subkeys
+
+
 # `gpg` is unusable cryptography
+
+> Do not use this shit here below.  Why?  **BECAUSE GPG IS INSECURE** if used this way.
+>
+> WTF, really?!?
+>
+> Sure.
+>
+> As always in cryptography tools the default of GPG is to do it
+> the moste insane, most insecure, most braindead, most incompatible and most unsupported way.
+> `gpg` is a purely nonproductive, difficult and dangerrous to use tool, which only does no harm if used properly.
+> But it leaves you completely in the dark, on how to use it properly!
+>
+> Also it will create incompatibilities in the future.  Be prepared that,
+> **in only 20 years from now, you will neiter be able to repeat nor decode nor verify things you have done today**.
+> You have been warned!
+>
+> Instead of offering just what you need for the most common case in a secure and easy to use and ultimately future proof way,
+> they leave you alown, offering you the bare minimum unusable thing and leave you alone in a few years from now,
+> even if you did everyhting perfectly today
+> (which is less likely than winning a lottery by not participating in the lottery).
+>
+> **And then they will blame you for failing to properly use their cryptography!**
+>
+> Also they cry out loud due to the cruel world where nobody uses cryptography and all people beeing far too stupid
+> not following their advice for decades.
+>
+> Which advice?  What you give us is ridiculous, bad designed unusable crappy nazi shit!
+>
+> All you crate is trouble ahead, and you are not willing to cope with this trouble you are responsible for.
+> That's destructive!  Plan ahead.  Plan 50 years ahead.  Plan 1000 years ahead.  And if you can make sure,
+> that nothing bad can be forseen for the next historical aera by what you created,
+> THEN please come back and present it.
+>
+> Then you can claim that it is usable and future proof.
+> Then you can recommend everybody shall use it.
+> Then you can expect, people to adopt what you have created.
+> Then you are helpful!
+>
+> If not, stay out of the way of the future, please.  It will work without you, too.
 
 Well, there is `gpg`.  But it must be initialized.  I really have no idea why.  So I try it with Google.
 
@@ -112,3 +154,62 @@ Now it works:
     Successfully signed dsc file
 
 Who is responsible for this shit and who should be beaten (badly!) due to his major fail?
+
+
+# How to safely use `gpg`
+
+Short answer: You can't.
+
+Long answer:
+
+There are major design flaws in how `gpg` and the web of trust works.
+One is even catastrophic:
+
+- To sign someone else's key, you need the master key.
+
+The master key is what you shall keep protected.  Someething which is only taken out as the ultimate weapon,
+only if more than just a major worldwide catastrophe has happend.  This must be an universal dead end catastrope,
+like some big bang again or something worse.
+
+Understood?
+
+The master key must be protected at all costs.  Even with your life.
+
+Hence this key best must not be used, ever, after creating this key.
+
+However with `gpg` you have no choice.  You have to use the master key now and then.
+
+But the most worse thing you have to do is, to use your master key on signing partys.  So when you are in the Cloud,
+when there are millions of others infiltrated by the probably worst you can think of, where you have to keep your
+belongings protected all time, which means, best is to never even bring them with you.
+
+Following this simplest of all security measures at all means, that you cannot form a web of trust this way.
+Simply because you cannot sign anything, because the master key is not available.  Must not be available.
+Else all the purpose of a master key is voided.
+
+Did I say "design flaws"?  This is an ultimate design catastrophe!
+
+So besides these major flaws, `gpg` could have a use.
+
+If you manage to use it properly.  Please read https://wiki.debian.org/Subkeys
+
+- Try to understand that
+- Try to understand, why you must not use the master key, ever.
+- Try to understand how to manage subkeys
+- Try to understand their limitation (you cannot create a master key like subkey)
+- Try to understand how to apply this properly to your problems
+- Try to solve your problems using subkeys
+
+If you fail just in a bit of a step of above, better abstain and ask somebody who does not
+suffer the [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) on crytography.
+
+> **Warning!** At least 99% of the people out there, including me, suffer of the Dunning Kruger Effect in the field of crypto.
+>
+> The only difference is, that I am aware of this, so I can warn you NOT TO FOLLOW ANY OF MY ADVICES.
+>
+> Even that I think I am better than 99% of the rest of the Internet, this is not enough.
+> For Cryptography you need a confidence level of at least 99,9999999999999% to be able to do it right,
+> else the probability to get into trouble is 1.  Yes, 1, which means:  For sure.
+>
+> I am only 99,9% confident I got it right.  That's not enough.  **So please, do not trust me.**
+
