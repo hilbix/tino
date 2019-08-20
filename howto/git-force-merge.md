@@ -1,4 +1,4 @@
-See implementation: https://github.com/hilbix/gitstart/blob/master/aliases.sh#L142-L157
+See implementation: https://github.com/hilbix/gitstart/blob/bb8eb0e567673259cb3897a96a947799defce51c/aliases.sh#L470-L502
 
 # Why is there no forced merge in `git`?
 
@@ -73,3 +73,5 @@ git-fake-merge()
 # T.B.D. as I have no idea what to do
 }
 ```
+
+Implemented here: https://github.com/hilbix/gitstart/blob/bb8eb0e567673259cb3897a96a947799defce51c/aliases.sh#L470-L502
