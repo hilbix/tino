@@ -157,3 +157,18 @@ Netter ist das einfach nimmer auszudrücken.  Denn das war schon die netteste Va
 > der ist dann offensichtlich gegen die Weiße Rasse rassistisch eingestellt!
 >
 > (Denn wie ich schrieb:  Zu viel Weiß ist mit sicherheit fatal.  Sage ja nicht ich.  Das sagt unser Universum!)
+
+Also:
+
+Natürlich dürft ihr die Blacklist gerne Blocklist nennen.  Ich bleibe bei Blacklist, weil mir "Blocklist" zu nahe an "Blockchain" ist.  Ich bleibe also bei "Blacklist", "Blacklisting" usw., einfach weil dann jeder sofort versteht, was ich meine!
+
+Natürlich dürft ihr die Whitelist gerne Allowlist nennen.  Ihc bleibe bei Whitelist, weil mir "Allowlist" auf zu wenige Fälle beschränkt ist.  Dann müsste ich ja für Whitelists je nach Kontext ein anderes Wort verwenden.  Das macht das Verständnis schwerer, alleine schon deshalb, weil ich dann viele Suchbegriffe parallel verwenden müsste, um alles, das dasselbe ausdrückt, zu finden.
+
+Jeder darf, wie er möchte.  Finde ich jedenfalls.  So lange er dadurch anderen nicht schadet.
+
+Aber wenn ich dann aber deshalb mal nicht richtig verstehe oder den Kopf schüttlke, weil es mich am ganzen Körper schüttelt, dann ist das einfach nur eine unwillkürliche Reaktion meinerseits.  Und ich erwarte dann genausoviel Verständnis von Euch wie ich für Euch aufbringen kann.
+
+> Und wenn es mich zu stark schüttelt so dass meine Arme unwillkürlich Backpfeifen austeilen,
+> dann seid ihr mir einfach zu nache auf den Pelz gerückt.  Haltet Abstand.
+>
+> Vielen Dank für die Beachtung aller Sicherheitsmaßnahmen!
