@@ -169,6 +169,6 @@ Jeder darf, wie er möchte.  Finde ich jedenfalls.  So lange er dadurch anderen 
 Aber wenn ich dann aber deshalb mal nicht richtig verstehe oder den Kopf schüttlke, weil es mich am ganzen Körper schüttelt, dann ist das einfach nur eine unwillkürliche Reaktion meinerseits.  Und ich erwarte dann genausoviel Verständnis von Euch wie ich für Euch aufbringen kann.
 
 > Und wenn es mich zu stark schüttelt so dass meine Arme unwillkürlich Backpfeifen austeilen,
-> dann seid ihr mir einfach zu nache auf den Pelz gerückt.  Haltet Abstand.
+> dann seid ihr mir einfach zu nahe auf den Pelz gerückt.  Haltet Abstand.
 >
 > [Vielen Dank für die Beachtung aller Sicherheitsmaßnahmen!](https://de.wikipedia.org/wiki/Dark_Star_(Film))
