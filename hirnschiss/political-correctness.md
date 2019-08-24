@@ -1,6 +1,6 @@
-# Hirnschiss Political Correcness
+# Hirnschiss Political Correctness
 
-Hier führe ich alles rund um die Political Correcness auf, das versucht, mir ins Hirn zu scheißen.
+Hier führe ich alles rund um die Political Correctness auf, das versucht, mir ins Hirn zu scheißen.
 
 > Ich habe die Political Correctness inzwischen gefressen wie sonst fast gar nichts anderes.
 >
