@@ -170,5 +170,6 @@ Aber wenn ich dann aber deshalb mal nicht richtig verstehe oder den Kopf schütt
 
 > Und wenn es mich zu stark schüttelt so dass meine Arme unwillkürlich Backpfeifen austeilen,
 > dann seid ihr mir einfach zu nahe auf den Pelz gerückt.  Haltet Abstand.
+> Für die aus eurer Political Correctness entstehenden Unfälle seid alleine ihr, und nur ihr selbst verantwortlich!
 >
 > [Vielen Dank für die Beachtung aller Sicherheitsmaßnahmen!](https://de.wikipedia.org/wiki/Dark_Star_(Film))
