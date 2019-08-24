@@ -58,7 +58,7 @@ nur so kann solch ein Hirnschiss wie hier entstehen!
 Schwarz und Weiß hat in diesem Zusammenhang nämlich nichts, aber auch rein gar nichts, mit der Hautfarbe zu tun.
 
 Genausowenig wie "Blackhats" und "Whitehats" irgendetwas mit der Hautfarbe zu tun hat.
-Oder hatte.  Oder haben kann.  Oder jemals haben wird.
+Oder hatte.  Oder haben kann.  Oder jemals haben wird.  Aber genau da kommt das her, von der Hutfarbe!
 
 Das Ganze hat einen total banalen Hintergrund:
 
