@@ -21,7 +21,7 @@ Hier führe ich alles rund um die Political Correcness auf, das versucht, mir in
 
 # Blacklist/Whitelist
 
-[Allowlist/Blacklist statt Whitelist/Blacklist](https://github.com/w3c/webappsec-feature-policy/issues/103)
+[Allowlist/Blocklist statt Whitelist/Blacklist](https://github.com/w3c/webappsec-feature-policy/issues/103)
 
 WTF ernsthaft?  Wem haben sie denn da wieder ins Hirn geschissen?
 
