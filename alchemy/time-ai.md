@@ -1,5 +1,9 @@
 > Ich zitiere vorerst nur meinen [Heise-Post](https://www.heise.de/forum/heise-Security/News-Kommentare/Time-AI-Erfinder-verklagt-Black-Hat-Nach-115-000-Dollar-Vortrag-verspottet/Nein-das-war-eindeutig-unfair-und-kaltherzig-von-Black-Hat/posting-35125595/show/)
 
+Hier stehen Dinge, die mich an Alchemie erinnern, also an die Versprechung, aus Blei Gold zu produzieren.
+
+Dis ist mein dritter Eintrag in dieser Reihe: 2019-08-27 (ich denke, ich höre jetzt auf mit dem Zählen)
+
 # Nein, das war eindeutig unfair und kaltherzig von Black Hat!
 
 Ich sage nur Streisand Effekt.  Black Hat muss da ziemlich unfair gewesen sein.  Zu den Rezipienten, die den Scheiß ertragen mussten.  Die hatten ja für einen Black-Hat-Vortrag bezahlt, und bekamen dann DAS vorgesetzt .. wer wird da nicht zum Hulk?
