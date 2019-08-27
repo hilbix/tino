@@ -1,6 +1,6 @@
 > In future not necessarily limited to https://de.wikipedia.org/wiki/Hexspeak
 
-# Constants found, noted, etc.
+# Constants: Found, noted, helpful, etc.
 
 ## How to parse:
 
