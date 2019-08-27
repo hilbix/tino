@@ -1,4 +1,4 @@
-# HEX constants found, noted, etc.
+# Constants found, noted, etc.
 
 ## Microsoft
 
