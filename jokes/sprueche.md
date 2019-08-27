@@ -29,3 +29,5 @@
 - 2019-07-03 Political Correctness killed `/bin/cat` ([Quelle](https://www.heise.de/forum/Make/News-Kommentare/Farmbot-treibt-die-Automatisierung-im-Gemuesebeet-voran/Eure-armselige-Political-Correctness-kotzt-mich-an/posting-34803296/show/))
 
 - 2019-08-15 No Markdown, no recommendation.  (GitHub-Community does no Markdown)
+
+- 2019-08-27  "Papa, Papa, ich habe eine einzigartige geometrische Anordnung der Primzahlen entdeckt" 'Ja, mein Kleiner, ich bin sehr stolz auf Dich! Zur Belohnung darfst Du ab sofort das Sieb des Erathostenes aus dem Schrank holen und auch damit im mathematischen Sandkasten spielen! Aber vorher wechsle ich Dir erst noch die Windel. Ist mal wieder nötig ..' ([Quelle](https://www.heise.de/forum/heise-Security/News-Kommentare/Time-AI-Erfinder-verklagt-Black-Hat-Nach-115-000-Dollar-Vortrag-verspottet/Nein-das-war-eindeutig-unfair-und-kaltherzig-von-Black-Hat/posting-35125595/show/))
