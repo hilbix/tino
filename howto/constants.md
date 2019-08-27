@@ -6,6 +6,8 @@
 - `TAG constant COMMENT` line starts with a letter if short explaining tag is used
 - Ignore all lines which neither start with `0` or an ASCII letter (lowercase/uppercase)
 
+----
+
 - `0x` hex
 - `0o` octal
 - `0b` binary
