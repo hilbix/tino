@@ -1,3 +1,5 @@
+> In future not necessarily limited to https://de.wikipedia.org/wiki/Hexspeak
+
 # Constants found, noted, etc.
 
 ## How to parse:
@@ -26,9 +28,11 @@
 0xDEADC0DE      after "no man's land" guard bytes
 0xFEEDFACE      uninitialized memory
 0xDEADBEEF      deleted memory
-0x0FF1CE        = Office
+0x0FF1CE        =Office
 0xEFF0FF
-0xBADC0FFEE0DDF00D = Bad Coffee Odd Food
+0xBADC0FFEE0DDF00D =BadCoffeeOddFood
+0xB16B00B5      =BigBoobs (old?) ID of HV Linux guest
+0x0B00B135      (old?) ID of HV XEN-Linux guest
 ```
 
 ## empties
@@ -46,8 +50,14 @@ SHA512          0xcf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9
 ## valentin.hilbig.de
 
 ```
-0xACD6          Augusta Computer Dienstleistungsgesellschaft mbH (6 stands for G which stands for Gesellschaft)
-0xadc9          Augusta Computer Dienstleistungsgesellschaft mbH (9 stands for g which stands for Gesellschaft)
-0x60061E        GOOGLE -- note: If Google ever wants this, they can have it
-0x90091e        google -- note: If Google ever wants this, they can have it
+0xACD6          ="Augusta Computer Dienstleistungsgesellschaft mbH" (6 stands for G which stands for Gesellschaft)
+0xadc9          ="Augusta Computer Dienstleistungsgesellschaft mbH" (9 stands for g which stands for Gesellschaft)
+0x60061E        =GOOGLE -- note: If Google ever wants this, they can have it
+0x90091e        =google -- note: If Google ever wants this, they can have it
+```
+
+## Others
+
+```
+0x0DEFACED      https://lkml.org/lkml/2012/7/13/261
 ```
