@@ -20,7 +20,7 @@ Ich zitiere mal:
 
 **"secure data, currently the world’s most valuable asset"** .. soso .. und was ist mit sauberer Luft oder sauberem Wasser?  Vermutlich beides unverständliche Konzepte wenn man selbst im absoluten gedanklichen Vakuum rudert.
 
-**"privacy and identity theft"** .. und Verschlüsselung kann dagegen in wiefern helfen wenn ein Trojaner im OS die vom OS entschlüsselten Daten in die Cloud klaut?  Ja, es gibt Kontrollverfahren die es ermöglichen, die Identität geheimzuhalten und gleichzeitig mit ihr zu rechnen, aber nein, um einen neuartigen Zugang zu so etwas wie folgendem geht es eben gerade nicht bei Time AI:
+**"privacy and identity theft"** .. und Verschlüsselung kann dagegen in wiefern helfen wenn ein Trojaner im OS die vom OS entschlüsselten Daten in die Cloud klaut?  Ja, es gibt Kontrollverfahren die es ermöglichen, die Identität geheimzuhalten und gleichzeitig mit ihr zu rechnen, aber nein, um einen neuartigen Zugang zu so etwas wie folgendem geht es eben gerade nicht bei Time AI:  
 https://github.com/microsoft/SEAL
 
 Aber **der absolute Abschuss** ist dann das zitierte Papier.  Schon bezeichnend, dass die Website zwar den Namen des Papiers angibt, aber nicht auf es verlinkt.  Was da drinnen steht ist nämlich einfach nur peinlich:
@@ -33,7 +33,7 @@ Was eine "Infinite Prime Number" sein soll bleibt das Papier übrigens zu defini
 
 Aber wer bin ich schon so etwas zu behaupten .. 
 
--Tino
+-Tino  
 Spoiler:
 
 Ich habe das Papier zwar nur überflogen, aber technisch-mathematisch erscheint mir das Beschriebene lediglich eine mehrdimensionale Variante des Sieb des Erathostenes darzustellen.  Aufgehübscht mit ein paar netten flachen bunten Grafiken, vollkommen belanglosen "Entdeckungen" und meistens weniger als halb fertiggedachten Erkenntnissen.
