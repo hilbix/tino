@@ -423,3 +423,10 @@ also Alltagstauglichkeit, Verbrauch, Nutzen, Geldsparen beim Tanken und Zufriede
 Eine Win-Win-Win-Situation.
 
 Und dann noch den Selbstfahrer oben drauf und wir haben eine Win-Win-Win-Win-Situation.
+
+> Und dann, wenn Du es nimmer schaffst ein E-Auto leerzufahren,
+> weil es sich z. B. während der Fahrt auf der AB aufladen kann,
+> dann, aber erst dann, kann der "Range-Extender" Verbrennermotor weg.
+>
+> Aber so etwas liegt noch so weit in der Ferne, das werden wohl erst die erleben,
+> die heute noch nicht geboren sind.
