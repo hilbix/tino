@@ -31,7 +31,7 @@ Sehen wir uns die beiden Methoden an.
 
 54%?  Na, das ist gegenüber den 43% doch eine Ansage!  Der Wasserstoffantrieb ist also viel effizienter als Benzin!
 
-Nein, dennwer so rechnet zeigt, dass er überhaupt nichts verstanden hat oder - schlimmer - nichts verstehen will.
+Nein, denn wer so rechnet zeigt, dass er überhaupt nichts verstanden hat oder - schlimmer - nichts verstehen will.
 Diese Aussage ist nämlich schlicht falsch, und zwar gleich aus mehreren Gründen:
 
 - Sie unterschlägt die Energieerstehungkosten
@@ -82,7 +82,7 @@ Die Quelle der Kraftstoffe hingegen ist deutlich verschieden:
 
 - Öl müssen wir fördern.  Es entsteht nicht einfach so an der Oberfläche.  Und es setzt dann das in ihm gebundene CO2 frei.
   Das CO2 wird als Klimakiller bezeichnet, wesehalb der Mainstream die fehlende CO2-Neutralität als Nachteil bezeichnet.
-- LPG ist wie Öl ein Abfallprodukt der Wirtschaft, das man so verwerten kann.  Abfälle zu verwerten anstatt sie sinnlos
+- LPG ist wie Erdgas ein Abfallprodukt der Wirtschaft, das man so verwerten kann.  Abfälle zu verwerten anstatt sie sinnlos
   in die Umwelt abzufackeln, ist sinnvoll.  In sofern ist LPG klimaneutral (es würde sonst verblasen)!
   Allerdings ist es ein Abfallprodukt der Ölindustrie (die übrigens niemals ganz verschwinden wird,
   wer das glaubt der glaubt nicht nur daran, dass Christkind und Osterhase existieren,
