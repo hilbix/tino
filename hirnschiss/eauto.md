@@ -182,7 +182,7 @@ nun halbwegs konkurrenzfähig zum Ottomotor geworden!
 > was der Ottomotor leistet.
 >
 > Die Rechnung hinkt allerdings wiederum, denn von den 100 kW beim Ottomotor
-> kommen ja nur 12% der nutzbaren Energie auf der Straße an, während es beim Elektroantrieb über 80% sind.
+> kommen ja nur 12% der verbrauchten Energie auf der Straße an, während es beim Elektroantrieb über 80% sind.
 
 Aber wir sind jetzt genau da, wo wir bei der Glühbirne waren als sie durch die ESL ersetzt wurde.
 Wir wussten nicht genau, wie die Zukunft aussieht.  Aber die Zeit war reif für eine Änderung.
