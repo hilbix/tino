@@ -130,11 +130,12 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
 
 - Eine Datenweitergabe ist jetzt vollkommen uneingeschränkt möglich.
   - Da Konzerne für Töchter explizit ausgenommen sind kann man wie folgt vorgehen:
-        - Man gründet ein Unternehmen zum Zwecke des Datentransfers.
-        - Man transferiert die Daten an das Unternehmen.
-        - Das Unternehmen transferiert die Daten weiter an das Ziel.
-        - Der Unternehmenszweck ist damit erfüllt, die Firma geht wieder out-of-business.
-        - Der Anspruch der Datenschutzauskunft richtet sich jetzt gegen ein nicht mehr existierendes Unternehmen
+      - Man gründet ein Unternehmen zum Zwecke des Datentransfers.
+      - Man transferiert die Daten an das Unternehmen.
+      - Das Unternehmen transferiert die Daten weiter an das Ziel.
+      - Der Unternehmenszweck ist damit erfüllt, die Firma geht wieder out-of-business.
+      - Der Anspruch der Datenschutzauskunft richtet sich jetzt gegen ein nicht mehr existierendes Unternehmen
+
   - Im Gesetz fehlt also eine klare Pflicht zur Wahrung der Interessen derjenigen,
     die später eine Datenschutzauskunft verlangen,
     und zwar durch denjenigen, der die Daten weitergibt.
@@ -167,7 +168,7 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
         z. B. zu einem Bankrott kommt.  Damit ist das formale System entweder plötzlich unbeschränkt.
         Man wird zwar versuchen, eine solche Beschränkung einzubauen, dies wird sich aus trivialen offensichtlichen
         Gründen als vollkommen unmöglich erweisen.
-      - Das Gesetz hat hier zwar - rein Juristisch - keine Regelungslücke,
+      - Das Gesetz hat hier zwar - rein juristisch - keine Regelungslücke,
         die Vorschrift wird sich aber in der Praxis als nicht durchführbar, ja sogar höchst fatal erweisen.
 
   - Der Trick (oder Fehler) ist, dass man die Daten gleich durch eine Firma verarbeiten lässt.
