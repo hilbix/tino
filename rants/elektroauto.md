@@ -430,3 +430,67 @@ Und dann noch den Selbstfahrer oben drauf und wir haben eine Win-Win-Win-Win-Sit
 >
 > Aber so etwas liegt noch so weit in der Ferne, das werden wohl erst die erleben,
 > die heute noch nicht geboren sind.
+>
+> Und wer mein "oh, was das kostet", QUARK!  Das muss wie mit dem Wasser sein!
+>
+> In Amerika ist es Gesetz, dass es in jedem Restaurant kostenlos Wasser geben muss!
+> Das fehlt uns in Europa, genau das muss hierzulande ebenso her.
+>
+> Und dann müssen wir das auf den Strom ausweiten.  Strom als Grundrecht.
+> Und in etwa genauso günstig wie der Wasseranschluss.
+> Nur mit einem kleinen Unterschied:
+>
+> Strom kann jeder auch dezentral selbst produzieren und einspeisen!
+> Das Stromnetz ist dann lediglich das Netz, das die Unterschiede in der Gemeinschaft ausgleicht.
+>
+> Deshalb:
+>
+> - Bei nicht-netzdienlicher Photovoltaik runter mit den Preisen beim Einspeisen!
+> - Und bei diesen im gleichen Zuge weg mit der EEG-Umlage beim selbstverbrauchten Strom.
+> - Netzdienliche Photovoltaik bekommt hingegen die EEG-Umlage.
+> - Folglich zahle ich bei denen auch die EEG-Umlage wenn ich den Strom selbst entnehme.
+>
+> So wird ein Schuh draus.  Nicht-netzdienliche Photovoltaik steuere ich selbst.
+> Da hat die EEG-Umlage nichts verloren, egal ob ich einspeise oder nicht.
+> Das bedeutet auch, ich bekomme keinen garantierten Preis beim einspeisen, sondern den auf dem Spotmarkt.
+> Dafür kann ich den Strom aber selbst entnehmen - und genau da spare ich dann, genau dafür ist die Anlage gut.
+>
+> Netzdienlicher Photovoltaik hingegen ist ein Kraftwerk.  Die bekommt eben alles wie es alle
+> erneuerbare Energieanlagen bekommen.  Da kann ich also auch nichts entnehmen.
+> Auch dann nicht, wenn die nicht einspeist, denn dann bekommt die Anlage ja trotzdem EEG-Umlage!
+> Ich entnehme dann den Strom wie ich ihn brauche aus dem Netz, als ganz normaler Kunde der die EEG-Umlage zahlt.
+>
+> Warum?  Ist logisch!  Bei zu viel Strom im Netz muss eine stromproduzierende Anlage abgeschaltet werden.
+> Entnehme ich nun den Strom den die Anlage sinnlos produziert, nehme ich den Strom nicht aus dem Netz ab.
+> Sprich, ich verschlechtere die Stabilität vom Netz weil ich das Stromüberangebot im Netz belasse statt es zu verbrauchen.
+> Das ist nicht netzdienlich.  Also darf ich bei netzdienlichen Photovoltaikanlagen den Strom nicht selbst entnehmen.
+>
+> Sinnvoll sind also Zwitteranlagen.  Also 1/3 ist nicht-netzdienlich, 2/3 sind netzdienlich.
+> Dann kann ich 1/3 Strom entnehmen bis ich etwas zahlen muss.
+> Aber ich bekomme auch 2/3 aus der EEG-Umlage, auch dann wenn meine Anlage nicht gebraucht wird.
+>
+> Und nein, ich kann das nicht mal schnell verändern.  Netzdienlich = mindestens 5 Jahre festgelegt.
+> Später kann man das evtl. mal auf 1 Jahr verkürzen.  Sprich, ich kann jedes Jahr neu meinen Mix anpassen.
+>
+> So wird ein Schuh draus.
+>
+> Wer seine Stromrechnung senken will baut sich eine nicht-netzdienliche Photovoltaik mit kleinem Zwischenspeicher.
+> Vom gesparten Strom rechnet sich die Anlage dann.  Den Überschussstrom speist man ein.
+> Bekommt dafür aber eher nur einen Anerkennungspreis - außer er macht das schlau dann, wenn zu wenig Strom da ist,
+> also der Strompreis gerade hoch ist (was aber genau dann nicht der Fall ist wenn gerade viel Sonne da ist).
+>
+> Mit der Einspeisevergügung darf man also nicht rechnen!  Die kommt einfach on-top drauf!
+>
+> Wer aber so nicht genug sparen kann, der baut eine Photovoltaik, die netzdienlich ist.
+> ann hat er nichts von der Anlage, aber dafür hat er die EEG-Umlage sicher.
+> Die Anlage rechnet sich also immer noch, gerade so eben.
+>
+> Trotzdem senkt das indirekt die Kosten.
+>
+> Nur netzdienliche Anlagen sorgen für die Netzstabilität, und je mehr es davon gibt,
+> desto weniger teuer wird die Herstellung von Strom.
+>
+> Außerdem kann eine netzdienliche Photovoltaik einen Vorteil haben,
+> wie z. B. wenn der Dachstuhl eh erneuert werden muss kann man sich diese Kosten quasi sparen.
+>
+> Und wie ich schrieb, genau so wird ein Schuh draus.
