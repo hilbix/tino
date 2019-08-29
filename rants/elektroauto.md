@@ -25,7 +25,7 @@ Allerdings gibt es viele Kritikpunkte:
    Eine Spurhaltung muss in 200% aller Fälle zufriedenstellend funktionieren.
    Das sind 100% aller Fälle, in denen sie möglich ist.  Und 100% aller Fälle, in denen sie unmöglich ist.)
 
-## Reinelektrisch ist unbrauchbar
+## Reinelektrisch ist (momentan) unbrauchbar
 
 Ich habe folgende Notwendigkeiten (für Hybrid):
 
@@ -47,7 +47,7 @@ Unter Reserve hat man Einschränkungen, z. B. fährt das Auto dann max. 80 km/h 
 
 Bei Benzinern ist diese Reserve vorhanden.  Ich erwarte, dass es bei E-Autos ebenso ist.
 
-Technisch habe ich derzeit folgende Strecke:
+Technisch habe ich derzeit folgende Anforderung:
 
 - 170km pro Ladung, davon ca. 90 auf der Autobahn mit bis zu 200 km/h
 - Die meisten Fahrten sind Nachts bei wenig Verkehr auf der AB
@@ -65,34 +65,46 @@ Ja, das ist so.  Und nein, das wird sich nicht ändern.
 Ich erwarte, dass das Auto nach den 5h wieder voll einsatzfähig ist.
 "Voll einsatzfähig" bedeutet nicht unbedingt vollgeladen,
 sondern dass ich die 170km ohne Reichweitenangst bei 200km/h schaffe.
-(Ein einziger 5 Minuten-Abstecher wie zur Tankstelle alle 500km ist ok.
-Für Elektroautos VERDOPPLE ich die Zeit sogar auf 10 Minuten.)
+(Ein Abstecher wie zur Tankstelle alle 500km ist ok.)
 
 Mein Benziner ist ja auch nicht plötzlich voll, nur weil ich zuhause losfahre.
-Aber den Benziner kann ich binnen 10 Minuten an der Tankstelle volltanken.
-Genau das macht ihn "voll einsatzfähig".
+Aber den Benziner kann ich im Notfall binnen 10 Minuten an jeder Tankstelle volltanken.
+Und Tankstellen sind überall.  Genau das macht ihn "voll einsatzfähig".
+(Der normale geplante Tankaufhenthalt dauert selten länger als 5 Minuten,
+da ist der Abstecher zur Tankstelle bereits eingerechnet,
+weil überall eine direkt am Weg liegt.  Das ist bei Schnelladern bisher eher selten,
+wird sich aber sicher in Zukunft noch überdeutlich ändern.)
 
 Wenn ich vergessen habe rechtzeitig zu tanken, und das passiert recht häufig,
 muss ich nur 10 Minuten vorher losfahren um den Termin rechtzeitig zu erreichen,
 weil ich erwarten kann, dass ich eine offene Tankstelle finde.
 24h offene Tankstellen gibt es direkt auf dem Weg oder mit ca. 1 Minute Umweg.
 
-Diese 10 Minunten muss das E-Auto nicht erreichen.  Ich erhöhe diese Zeit für E-Autos gerne um 50%, also auf 15 Minunten.
+Diese 10 Minunten muss das E-Auto nicht erreichen.  Ich erhöhe diese Zeit für E-Autos um 50%, also auf 15 Minunten.
 50% ist aber das Maximum dessen, das ich als Einschränkung gewillt bin zu geben.
-Erst, wenn reinelektrische Fahrzeuge dies erreichen, bin ich gewillt umzusteigen.
+
+**Erst, wenn reinelektrische Fahrzeuge dies erreichen, bin ich gewillt umzusteigen.**
 
 Für den kurzen Umweg, umständlichen Handling an der Ladesäule usw. gehen ca. 5 Minuten drauf.
 Damit hängt das Auto dann volle 10 Minuten an der Ladesäule.
 
 Das muss reichen, damit ich genug Reichweite ins Auto hineinbekomme, um den Termin rechtzeitig zu halten.
-Sprich, ich muss in 10 Minunten von "Akku leer" auf sichere 170 km kommen.
+Sprich, ich muss in 10 Minuten von "Akku leer" auf sichere 170 km kommen.
 
 Reichweitenextender wären eine Alternative.  Das Problem bei den Teilen ist, dass man dann langsam fahren muss.
 Auf meiner Strecke macht der Unterschied zwischen 100 und 200 in etwa 25 Minuten aus.
 Die 200 kann man nicht immer fahren, aber 150 geht fast immer.
-Das bedeutet, wenn der Range-Extender die Geschwindigkeit auf 100 drosselt, dann ist der für den Normalfall nicht ausreichend.
+Das bedeutet, wenn der Range-Extender die Geschwindigkeit auf 100 drosselt,
+dann ist der für den Normalfall nicht ausreichend.
 
 Übrigens ändert sich die Rechnung, wenn das Auto ein weitgehender Selbstfahrer ist.
+
+> Selbstfahrer sind Autos, die ich beim Fahren nicht überwachen muss.
+> Ich kann also News lesen, Mailen, Spielen oder schlafen während die fahren.
+>
+> Im Gegensatz zu autonomen Fahrzeugen können Selbstfahrer das letzte Stück nicht
+> selbst bewältigen, man muss also übernehmen, dafür hat man aber alle Zeit der Welt.
+> Sprich, bei Bedarf hält das Auto selbständig an ohne dabei eine Sondersituation zu verursachen.
 
 Wenn ich das Auto nur aus dem Wohngebiet steuern muss und es dann übernimmt, selbständig zur Autbahn fährt,
 selbständig in die Stadt hinein fährt und ich erst im Zielgebiet das Steuer wieder übernehmen muss,
@@ -101,23 +113,40 @@ Weil ich dann die Zeit gewinnbringend für mich nutzen kann.
 
 Wenn das Auto allerdings nur auf der Autobahn selbst steuert, dann muss die Geschwindigkeit schon 150km/h erreichen.
 
-Wenn das Auto nichts selbst macht, muss es auf minimal 200km/h ausgelegt sein.
+> Das bedeutet, ich könnte zwar Zeitung lesen, aber nicht schlafen, weil ich rechtzeitig selbst übernehmen muss,
+> sonst würde das Auto auf dem Seitenstreifen mit Warnblinker anhalten müssen, was möglichst nie vorkommen soll.
 
-Also, um die Geschwindigkeit die ich fahre zu senken, macht endlich autonome Fahrzeuge.
+Wenn das Auto nichts vollständig selbst macht, muss es auf minimal 200km/h ausgelegt sein.
+
+> Letzteres gilt für alle Autos, die man überwachen muss während sie selbst fahren,
+> oder die so unsicher selbst fahren, dass man hin und wieder eingreifen müsste
+> (Beispiel sind Teslas, die schaffen aber auch die 200 km/h).
+
+Also, **um die Geschwindigkeit die ich fahre zu senken, macht endlich autonome Fahrzeuge**.
 Die Zeit ist nicht nur reif, die Technik ist auch schon gemeistert.
 
 Ich hätte kein Problem damit, wenn man aufgrund von Selbstfahern im Stadtverkehr die Geschwindigkeit auf 30km/h innerorts senkt.
-Aber nur, wenn mehr als 50% der Verkehrsteilnehmer selbstfahrende Autos sind.
+Aber nur, wenn mehr als 50% der Verkehrsteilnehmer dann **autonom fahrende Autos** sind.
+
+> Autonom meint:  Ohne Fahrer oder sonstige Personen.
 
 Dasselbe gilt für die Autobahnen.  Ich bin gegen ein allgemeines Tempolimit von 100 auf den Autobahnen.
-Der Grund ist:
-Bei dem Tempo schlafe ich ein.  Selbst im hellwachen ausgeschlafenen Zustand penne ich nach einigen km weg.
-Aus genau demselben Grund bin ich gegen ein generelles 30 km/h innerorts.
 
-Das ändert sich mit Selbstfahern!  Das Pendeln ist äzend.  Aus diesem Grund ist die Zeit zu minimieren.
-Grund ist, Zeit lässt sich nicht kaufen, speichern, vermehren.  Je mehr Zeit man hinter dem Lenkrad verbringt,
-desto mehr Zeit ist nutzlos verschwendet.  Bei Selbstfahrern aber kann man die Zeit nutzen.
+Gründe:
+
+- Zeit lässt sich nicht kaufen, speichern oder vermehren.  Je mehr Zeit man hinter dem Lenkrad verbringt,
+desto mehr Zeit ist nutzlos verschwendet.
+
+- Das Pendeln ist äzend.  Aus diesem Grund ist die Zeit zu minimieren.
+
+- Bei geringen Tempo schlafe ich ein und baue aufgrund von Aufmerksamkeitsaussetzern Unfälle!
+Selbst im hellwachen ausgeschlafenen Zustand penne ich evtl. nach einigen km weg.
+
+- Aus genau demselben Grund bin ich gegen ein generelles 30 km/h innerorts, da passiert dasselbe.
+
+Das ändert sich mit Selbstfahern!  Bei Selbstfahrern aber kann man die Zeit nutzen.
 Also sieht das Zeitmanagement plötzlich vollkommen anders aus!
+
 **Wer also von der E-Mobilität spricht, sollte auch von Selbstfahrern sprechen.**
 
 So lange man aber die Selbstfahrer ausklammert, wird das mit der reinelektrischen E-Mobilität eher nix.
@@ -146,52 +175,83 @@ Einmal Tanken mit einer Reichweite um 500 km dauert ca. 10 Minuten.
 Meistens geht es schneller, also die Ankunft wird wegen Tankens unter 10 Minuten später sein.
 Das ist absolut zu verkraften.
 
-Ja, es gibt Notfälle.  1-2 Mal im Jahr dauert es länger.  Weil ich eine Tankstelle suchen muss.
+Ja, es gibt Sonderfälle.  1-2 Mal im Jahr dauert es länger.  Weil ich eine Tankstelle suchen muss.
 Oder was auch immer.  Diese 1-2 Mal im Jahr zähle ich nicht.  Das geht auch beim E-Auto in Ordnung.
-Aber das sind Sonderfälle und nicht der Normalfall.
-Ich sprech hier vom absoluten Normalfall, also über 95% der Nutzung.
-Die restlichen 5% der Sonderfälle ignoriere ich.
 
-Dazu muss man wissen, die Autos zeigen nach dem Tanken gerne utopische Reichweiten von 1600km an (Mercedes war da besonders extrem),
-real aber sind es halt ca. 500km.  Es geht mir nicht um irgendwelche theoretischen Werte, sondern das, was ICH real erreiche.
+Aber das sind Sonderfälle und nicht der Normalfall.
+
+Ich sprech hier vom absoluten Normalfall, also über 95% der Nutzung.
+Die restlichen 5% der Sonderfälle ignoriere ich.  Bei jeder Autoklasse.
+
+Dazu muss man wissen, die Autos zeigen nach dem Tanken gerne utopische Reichweiten von 1600km an
+(Mercedes war da besonders extrem), real aber sind es halt ca. 500km.
+Es geht mir nicht um irgendwelche theoretischen Werte, sondern das, was ICH real erreiche.
 
 Ich bin bereit, für ein Elektroauto diese durchschnittliche Zeit um 50%(!) zu erhöhen.  Also 15 Minuten alle 500km.
 
 Das ist bereits das absolut maximale Entgegenkommen, das ich bringen machen kann.
-Wenn ein E-Auto das nicht erreicht, dann sorry, ist es nicht praxistauglich.
+**Wenn ein E-Auto das nicht erreicht, dann sorry, ist es nicht praxistauglich.**
+
+> Es gibt E-Autos (also mit einem E-Kennzeichen) die das schon heute vollkommen problemlos erreichen.
+> Sie sind Hybrid.  So etwas fahre ich derzeit.  Aber nicht wegen des E-Kennzeichens alleine.
+> Sondern vor allem weil Hybride einfach in jeder Hinsicht sowohl rein-Bezinern wie auch BEVs weit überlegen sind!
+>
+> Sie sind den Mehrpreis eindeutig wert.  Die E-Hybriden (Plug-In) sind die bessere Alternative zum rein-Benziner!
+> (Die mild-Hybriden sind nicht besser als rein-Benziner.  Der Verbrauch interessiert mich nicht.
+> Wer mit dem Verbrauch oder der umweltfreundlichkeit argumentiert, hat nichts kapiert und will es vermutlich auch nicht!)
+>
+> Dieses "besser" bemerkt man aber nicht sofort, sondern wenn man länger Zeit Hybrid gefahren ist und wechselt.
+> Hybrid vereint die Vorteile von BEV und Benziner, übernimmt aber einige deren Nachteile nicht!
+> Nachteile, die man gar nicht bemerkt, außer man fährt mal länger Hybrid.
+>
+> Indes fällt mir der Umstieg von Hybrid auf BEV schwerer als der Umstieg von Hybrid auf rein-Benziner.
+> Den rein-Benziner kann ich nur nicht zuhause laden, er ist etwas unkomfortabler als der Hybrid,
+> und ich muss fast nichts anderes machen als sonst.  Ich kann also vergesslich bleiben wie immer,
+> und mal vergessen zu tanken.  Den Hybriden an den Strom anzuschließen vergesse ich ja auch dauernd.
+>
+> Beim BEV ist das anders.  Reichweitenangst und einmal vergessen ihn anzunabeln und ich habe ein Problem.
+
 
 ## Ubiquitäres Laden
 
-Etwas anderes wäre, wenn Schnellader ubiquitär wären.  Also man sein Auto z. B. auf dem Parklplatz vom Supermarkt laden kann.
-Das darf aber nicht umständlich sein.  Das gefummel mit dem AC-Kabel ist absoluter Mist.  Also müsste das Kabel angeschlagen sein.
-AC und DC.  Sonst ist das schwer brauchbar.
+Etwas anderes wäre, wenn Schnellader ubiquitär wären.  Also man sein Auto z. B. auf dem Parkplatz vom Supermarkt laden kann.
+Das darf aber nicht umständlich sein.  Das gefummel mit dem AC-Kabel ist absoluter Mist.  Also müsste das Kabel angeschlagen sein.  AC und DC.  Sonst ist das schwer brauchbar.
 
-Auch das Abrechnungskonzept muss einfacher werden.  Das Auto kann mit der Säule kommunizieren.
-Also warum zum Geier brauche ich noch eine Karte?  Die muss weg.
+Auch das heutige Abrechnungskonzept muss weg!
+Das Auto kann mit der Säule kommunizieren.  Also warum zum Geier brauche ich noch eine Karte?  Die muss weg.
 
 Dann kommen noch die intransparenten Abrechnungsmethoden dazu.  Warum kostet das bei verschiedenen Säulen verschieden Geld?
 Auch das muss weg.  Schon beim Tanken an der Tankstelle ist das absoluter Mist mit den Preisen.
 Aber da geht es halt schlecht anders.  Außerdem tankt man vergleichsweise selten.
+Und die Preise sind unübersehbar groß angegeben.
 
 Anders wird es mit dem E-Auto.  Da wird sich eine automatische Ladestruktur entwickeln.
 Z. B. induktiv auf dem normalen Parkplatz.  Das Auto zieht sich Strom wenn es ihn braucht.
 Und da darf es dann keine Intransparenz geben oder ein kompliziertes Abrechnungssystem oder irgendwelche Willkür.
 **Da muss ein einheitlicher geregelter Preis her**.
 
-Der Preis kann sich regional gerne unterscheiden.  Sprich, wenn gerade viel Wind an der Nordsee ist, ist das Laden im Norden billiger.
-Usw.  Aber das gilt dann, egal wo ich auflade.  Überall in der Region, alles derselbe Preis.
+Der Preis kann sich regional gerne unterscheiden.  Sprich, wenn gerade viel Wind an der Nordsee ist,
+ist das Laden im Norden billiger.  Usw.  Aber das gilt dann, egal wo ich auflade.
+Überall in der Region, alles derselbe Preis.  Und nicht von Säule zu Säule, von Anbieter zu Anbieter verschieden!
 
 Natürlich dürfen Anbieter den Preis unterschreiten wenn sie wollen.  Rabatte sind in Ordnung.
 Z. B. "kaufen sie für 200 EUR ein, dann laden Sie kostenlos".  Absolut in Ordnung.
-Aber es darf eben keine Preistreiber oder Sonderkosten entstehen.
+Aber es darf eben keine Preistreiber oder unerwartete Sonderkosten entstehen.
 
-Und ach ja, bevor da jemand etwas meint:  Nein, das muss europaweit gelten.
+Und ach ja, bevor da jemand etwas meint:  **Das muss selbstverständlich europaweit gelten.**
 Der Schwede, der in Deutschland herumfährt, hat also dieselben Konditionen wie jeder in Deutschland,
-so wie der Deutsche, der in Schweden herumfährt, dieselben Konditionen wie in Schweden hat.
+so wie der Deutsche, der in Schweden herumfährt, dieselben Konditionen wie in Schweden in Schweden hat.
+**Ein Europa, eine Regelung.**  (Der Schwede zahlt in Deutschland evtl. einen anderen Preis als in Schweden.
+Aber er zahlt halt das, was alle in Deutschland zahlen, egal ob er die Säule links oder rechts nimmt,
+oder eine Straße weiter oder halt sonstwo in der Region.)
 
 Wichtig ist, dass diese transparenten Ladekosten dann auch zuhause gelten müssen!
 Sprich, jeder, der lädt, egal was er für einen Stromtarif hat, lädt auf keinen Fall teurer als das normale Ladenetz!
 Und jeder Mieter etc. hat dieselben Ansprüche auf Laden wie die Hausbesitzer.
+
+> Überhaupt brauchen wir eine Verpflichtung von der Nutzbarkeit von Lademöglichkeiten auf allen privat genutzten Parkplätzen.
+> Dort darf nicht jeder parken.  Aber jeder, der dort parken darf, darf dort eine Lademöglichkeit verlangen können.
+> Und wenn es nur eine Schuko-Steckdose mit max. 13A Dauerleistung ist (16A Peak).
 
 Verdammt noch einmal, das nennt sich Gleichberechtigung!  Nur, weil sich jemand keine Garage in der Stadt leisten kann,
 weil die mehr kostet als seine Wohnung, darf er nicht benachteiligt werden!
@@ -217,12 +277,13 @@ weil die mehr kostet als seine Wohnung, darf er nicht benachteiligt werden!
 > Online-Bezahlung in Online-Shops ist auch in Ordnung, da man ja dort nicht einkaufen muss.
 >
 > Aber Nahrungsmittel des Grundbedarfs braucht man.  Genauso wie man das Auto irgendwo hinstellen muss.
+>
 > Diese beiden Bereiche bedürfen deshalb einer anonymen Bezahlmöglichkeit, weil sonst eine Vollüberwachung gegeben wäre.
 > Natürlich ist Online-Bezahlung erlaubt.  Sie ist ja bequem.  Aber sie darf nicht erzwungen werden.
 > Und das gilt für alle Bezahlmodelle.  Es muss eine Alternative geben, die eben nicht getrackt werden kann.
 >
-> Das gilt für alles, was ubuquitär ist.  So lange es aber nicht ubuquitär ist, sondern eher der Sonderfall,
-> ist das vollkommen anders.
+> Das gilt für alles, was ubiquitär ist.  So lange es aber nicht ubiquitär ist, sondern eher der Sonderfall,
+> ist das vollkommen anders.  Heute haben wir also noch kein Problem.  Aber morgen ändert sich das gravierend!
 
 
 ## Umdrehen: Elektroauto mit Benzinmotor
@@ -254,14 +315,15 @@ Dabei kann das so konstruiert sein wie beim Volvo, d. h. der Verbrenner hängt a
 
 Es gibt kein Getriebe mehr, sondern eine Synchronübertragung, d. h. der Verbrenner kann immer im optimalen Bereich laufen.  Im Stand muss die Energie vom Verbrenner aber vollständig(!) in den Akku gehen können.  (Das ist beim Volvo z. B. leider nicht so.)
 
-Der Verbrenner wird auch als Heizung genutzt.  Es ist vollkommen banane, ein Auto reinelektrisch zu heizen, selbst mit Wärmepumpe.  Diese kann man viel besser mit Verbrenner antreiben, insbesondere wenn der immer gleichmäßig dreht.  Außerdem muss man Akkus ja auch ggf. heizen oder kühlen.
-Also dürfte ein integriertes Wärme/Kühlkonzept das den Verbrenner einschließt das Optimum bedeuten.
+Der Verbrenner wird auch als Heizung genutzt.  Es ist vollkommen banane, ein Auto reinelektrisch zu heizen, selbst mit Wärmepumpe.  Diese kann man viel besser mit Verbrenner antreiben, insbesondere wenn der immer gleichmäßig dreht.
+Außerdem muss man Akkus ja auch ggf. heizen oder kühlen.
+Also dürfte ein integriertes Wärme/Kühlkonzept, welches auch den Verbrenner einschließt, das Optimum bedeuten.
 
 Da der Verbrenner optimal betrieben wird, kann die Abgasreinigung entsprechend genau von diesem Fall ausgehen und darauf optimiert werden.  Das vereinfacht nicht nur die Steuerung erheblich, sondern macht die Reinigung besonders effizient.
 
-Aus diesem Grund können für den Verbrenner Diesel und (Erd)Gas verwendet werden, die Alternative wäre ein Stirlingmotor.
+Aus diesem Grund können für den verbrenner Diesel und (Erd)Gas verwendet werden, die Alternative wäre ein Stirlingmotor.
 
-Da Stirlingmotoren im Gegensatz zu modernen Verbrennern nicht besonders gut untersucht und entwickelt sind, dürften die aktuellen Motoren die bessere Wahl sein, bis sich entsprechende Alternativen entwickeln können.
+Da Stirlingmotoren im Gegensatz zu modernen Verbrennern nicht besonders gut untersucht und entwickelt sind, dürften die aktuellen Motoren die bessere Wahl darstellen, bis sich entsprechende Alternativen entwickeln können.
 
 > Was ich hier schreibe ist kein Wolkenkuckucksheim.
 >
@@ -274,9 +336,9 @@ Da Stirlingmotoren im Gegensatz zu modernen Verbrennern nicht besonders gut unte
 > - wir sie sauber bekommen
 > - wir elektrische Antriebe herstellen
 > - man Akkus herstellt
-> - man sie lädt.
+> - man sie lädt
 > - man Lineargetriebe bzw. Drehmomentwandler baut
-> - man das effizient tut.
+> - man das effizient tut
 > - man eine Reichweite von 100km bei 130km/h reinelektrisch bekommt.
 > - man eine Reichweite von 500km bei 200km/h mit Verbrenner bekommt.
 > - man Autos mit dem Formfaktor Verbrennungsmotor baut.
@@ -288,10 +350,11 @@ Da Stirlingmotoren im Gegensatz zu modernen Verbrennern nicht besonders gut unte
 > Jedenfalls im Vergleich zu den heutigen Hybriden.
 >
 > Ein Auto
+>
 > - ohne Reichweitenangst
 > - absolut praxistauglich
 > - absolut alltagstauglich
-> - Langstckentauglich
+> - Langstreckentauglich
 > - Kurzstreckentauglich
 > - das einfach nur besser ist als alles sonst auf dem Markt
 > - das nicht teuer sein muss, weil die Eckwerte von oben sind nichts besonderes
@@ -303,7 +366,7 @@ Aber genau das können wir heute noch nicht, weil die Abstriche von reinen E-Aut
 
 - E-Autos sind nicht langstreckentauglich, da sie keine 500km bei hoher Geschwindigkeit erreichen können.
 - Verbrenner in der heutigen Form sind aber eindeutig End-of-Life, da sie die Städte verpesten.
-- Die Ladeinfrastruktur ist noch nicht ubiquitär
+- Die Ladeinfrastruktur ist noch nicht ubiquitär.  Und nein, viele Schnelllader machen noch keine ubiquitäre Ladeinfrastruktur.
 - Die Autos sind noch keine Selbstfahrer (was viele erleichtern würde, siehe oben)
 - usw.
 
@@ -323,21 +386,24 @@ Richtig ist, für die Kleinwagen sind E-Autos inzwischen eine hervoragende Alter
 Wer sich maximal 50km im Umkreis um sein Haus bewegt, das meistens unter 100km/h weil wenig Landstraße,
 der kann sich ein reinelektrisches kaufen.  Sofern er kein Laternenparker ist
 (und schwupps ist die Menge der Leute, die das nutzen können, winzig klein).
+
 Mit so einem Auto will man nicht auf die Langstrecke.  Glaubt mir.
 Ja, man kann das.  Aber mit so vielen Einschränkungen, da ist die Reichweitenangst bei E-Autos
 oder die notwendige Streckenplanung entlang den Ladesäulen eher sekundär.
 
 Worum es geht sind die all-in-one praxistauglischen Allroundfahrzeuge.
-Eben "das Auto", das ich verwende.
+Eben was man unter "Auto" versteht.
 
-Mit leichten Ausprägungen eher im Nahbereich oder zum Pendeln oder auch mal langstreckentauglicher.
+Mit leichten Ausprägungen eher im Nahbereich oder zum Pendeln oder auch langstreckentauglicher.
 Die Variation ist hier gering, weil alle mehr oder weniger dasselbe bieten, der Rest sind Nuancen.
 
-Das ist die größte Masse.  Das ist das, was man sich zulegt, wenn man nicht genau weiß, was man in 5 Jahren vielleicht braucht.  Das ist für Leute, die ein Auto lange bis sehr lange (20 Jahre) fahren.
-Wo sich die Leute reinsetzen, ohne nachzudenken, und losfahren.
-Die einfach verfügbar sind, jederzeit.
+Das ist die größte Masse.  Das ist das, was man sich zulegt, wenn man nicht genau weiß, was man in 5 Jahren vielleicht braucht.  Das ist für Leute, die ein und dasselbe Auto lange bis sehr lange (15 Jahre und mehr) fahren.
+Wo sich die Leute reinsetzen, ohne nachzudenken, und losfahren.  Autos, die einfach verfügbar sind, jederzeit.
 
-Genau da braucht es weiterhin Autos.  Und genau das können die reinelektrischen von heute eben nicht.  Alle, wie sie da sind.  Ohne jede Ausnahme.
+Genau diese Autos braucht es weiterhin (außer wir verändern das ganze Verkehrskonzept.
+Aber das bedeutet nicht, wir schränken irgendwen ein, denn dann geht das schief,
+sondern wir verbessern jedes Detail, sowohl die Nutzbarkeit, also auch die Verfügbarkeit als auch den Preis!).
+Und genau das können die reinelektrischen von heute eben nicht.  Alle, wie sie da sind.  Ohne jede Ausnahme.
 
 Aber wie geschrieben:
 
@@ -350,9 +416,9 @@ Genau da, wo es wichtig ist.
 
 Aber es ginge besser.  Indem man den Hybrid eben umdreht.  Aus ihm ein reinelektrisches Auto mit Zusatzverbrenner macht.
 
-Genau deshalb schreibe ich das.  Es wäre das, was ich heute brauche.
+Genau deshalb schreibe ich das.  Es wäre das, was ich mir heute wünschte.
 Eine nochmalige wesentliche Verbesserung zum bestehenden Hybrid, in jeder Weise,
-also Alltagstauglichkeit, Verbrauch, Nutzen, Geldsparen beim Tanken und Zufriedenheit usw.
+also Alltagstauglichkeit, Verbrauch, Nutzen, Geldsparen beim Tanken und Zufriedenheit usw. etc. pp.
 
 Eine Win-Win-Win-Situation.
 
