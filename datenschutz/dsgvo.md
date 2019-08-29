@@ -165,9 +165,9 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
         gravierender Eingriff in die ökonomische Autonomie eines jeden Unternehmers ist.
         
         Jeder Unternehmer darf sein Unternehmen verkaufen.  Das ist sogar vom Gesetz so vorgeschrieben, wenn es
-        z. B. zu einem Bankrott kommt.  Damit ist das formale System entweder plötzlich unbeschränkt.
-        Man wird zwar versuchen, eine solche Beschränkung einzubauen, dies wird sich aus trivialen offensichtlichen
-        Gründen als vollkommen unmöglich erweisen.
+        z. B. zu einem Bankrott kommt.  Damit ist das formale System entweder plötzlich unbeschränkt
+        oder fehlerhaft.  Wenn man also versucht es zu beschränken wird sich dies aus trivialen offensichtlichen
+        Gründen als falsch erweisen, egal wie man es versucht, das ist eine unumgängliche mathematische Tatsache.
       - Das Gesetz hat hier zwar - rein juristisch - keine Regelungslücke,
         die Vorschrift wird sich aber in der Praxis als nicht durchführbar, ja sogar höchst fatal erweisen.
 
