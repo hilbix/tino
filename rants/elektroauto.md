@@ -63,7 +63,8 @@ Bei einem elektrischen Auto wird es außerdem gar nicht selten der Fall sein, da
 Ja, das ist so.  Und nein, das wird sich nicht ändern.
 
 Ich erwarte, dass das Auto nach den 5h wieder voll einsatzfähig ist.
-"Voll einsatzfähig" bedeutet nicht unbedingt vollgeladen, sondern dass ich die 170km schaffe.
+"Voll einsatzfähig" bedeutet nicht unbedingt vollgeladen,
+sondern dass ich die 170km ohne Reichweitenangst bei 200km/h schaffe.
 
 Mein Benziner ist ja auch nicht plötzlich voll, nur weil ich zuhause losfahre.
 Aber den Benziner kann ich binnen 10 Minuten an der Tankstelle volltanken.
