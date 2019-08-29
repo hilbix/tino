@@ -170,6 +170,7 @@ Tatsächlich wurden dadurch die Probleme auf lange Sicht wesentlich größer.  D
         Gründen als falsch erweisen, egal wie man es versucht, das ist eine unumgängliche mathematische Tatsache.
       - Das Gesetz hat hier zwar - rein juristisch - keine Regelungslücke,
         die Vorschrift wird sich aber in der Praxis als nicht durchführbar, ja sogar höchst fatal erweisen.
+        (Siehe "Masse der Anwälte")
 
   - Der Trick (oder Fehler) ist, dass man die Daten gleich durch eine Firma verarbeiten lässt.
     Diese ist dann an die Auflagen einer Behörde nicht mehr gebunden und kann ihren Eigeninteressen folgen,
