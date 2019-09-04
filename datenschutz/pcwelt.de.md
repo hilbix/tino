@@ -15,8 +15,8 @@ Text den ich unter https://www.lda.bayern.de/de/beschwerde.html hinterlassen hab
 Der Webauftritt von pcwelt.de verstößt IMHO gegen die DSGVO in folgenden Punkten:
 
 1) In der Datenschutzerklärung fehlt der Hinweis auf die zuständige Datenschutzaufsichtsbehörde.
-Ich werde also NICHT darüber aufgeklärt, dass ich mich direkt an Sie wenden darf.
-Stattdessen soll man sich an den Datenschutzbeauftragten bei denen wenden, also denjenigen,
+Ich werde auch NICHT darüber aufgeklärt, dass ich mich in jedem Fall direkt an Sie wenden darf.
+Stattdessen soll man sich zuerst an den Datenschutzbeauftragten dort wenden, also denjenigen,
 der genau für den Murx auf deren Webseiten verantwortlich zu sein scheint.
 
 Bitte sorgen Sie stattdessen für die offensichtlich notwendige Nachhilfe bei diesem Datenschutzbeauftragten.
