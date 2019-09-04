@@ -12,7 +12,7 @@
 Text den ich unter https://www.lda.bayern.de/de/beschwerde.html hinterlassen habe:
 
 ```
-Der Webauftritt verstößt gegen die DSGVO in folgenden Punkten:
+Der Webauftritt von pcwelt.de verstößt IMHO gegen die DSGVO in folgenden Punkten:
 
 1) In der Datenschutzerklärung fehlt der Hinweis auf die zuständige Datenschutzaufsichtsbehörde.
 Ich werde also NICHT darüber aufgeklärt, dass ich mich direkt an Sie wenden darf.
