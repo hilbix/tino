@@ -34,4 +34,4 @@
 
 - 2019-08-29 Klar gibt es dunkle Materie!  Z. B. Anwälte ..
 
-- 2019-09-05 Verrückt zu sein hat auch deutliche Vorteile.  Das einzige Problem:  Ich bin's nicht ..
+- 2019-09-05 Verrückt zu sein hat auch deutlich Vorteile.  Das einzige Problem:  Ich bin's nicht ..
