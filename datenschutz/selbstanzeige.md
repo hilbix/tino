@@ -4,7 +4,7 @@
 
 # Selbstanzeige
 
-Weil ich von meiner Krankenkasse dazu gewzungen wurde, personenbezogene Daten meines Sohnes weiterzugegeben,
+Weil ich von meiner Krankenkasse dazu gezwungen wurde, personenbezogene Daten meines Sohnes weiterzugegeben,
 habe ich mich gerade beim Datenschutzbeauftragten selbst angezeigt.
 
 ```
