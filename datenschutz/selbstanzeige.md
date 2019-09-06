@@ -7,6 +7,8 @@
 Weil ich von meiner Krankenkasse dazu gezwungen wurde, personenbezogene Daten meines Sohnes weiterzugegeben,
 habe ich mich gerade beim Datenschutzbeauftragten selbst angezeigt.
 
+Was ist genau passiert?
+
 ```
 Ich habe, ohne dass mein Sohn darüber aufgeklärt wurde,
 personenbezogene Daten meines Sohnes auf der Webseite tk.de eingegeben,
@@ -206,4 +208,16 @@ und unter der Voraussetzung, dass es hier zu keiner Veröffentlichung meiner Han
 Mit einer Kontaktaufnahme per Telefon oder Mail bin ich jederzeit einverstanden.
 
 Diese Angaben sind unwiderruflich.
+```
+
+Welche Abhilfemaßnahmen wurden bereits ergriffen?
+
+```
+Ohne eingehende kostenpflichtige rechtliche Beratung erschließt sich mir die Folgenabschätzung etc. nicht, auch verstehe ich die rein rechtlichen Konsequenzen eines Verstoßes gegen die DSGVO als Privatperson bisher nicht hinreichend genau, weshalb die Kontaktaufnahme zu Ihnen mein Versuch einer Abhilfemaßnahme darstellt.
+
+Da ich gesetzlich gezwungen bin, den Schaden für die jeweilige Person (hier meinen Sohn) zu minimieren, also diese Angaben trotz Verstoßes gegen die DSGVO zu machen, werde ich diesen Verstoß voraussichtlich in 3 Jahren wiederholen müssen wenn sich nichts ändert.
+
+Da es mir vollkommen unmöglich ist, meinen Sohn darüber aufzuklären, was die Krankenkasse mit den Daten macht oder wie sie sie verarbeitet, da ich darüber keinerlei Kontrolle ausübe, ist es mir auch nicht möglich, den Vorgaben der DSGVO hinsichtlich der Aufklärung nachzukommen, und ich kann mir auch keinerlei nachhaltige überprüfbare Maßnahmen vorstellen, die verhindern können, dass es zu einem weiteren Datenschutzverstoß durch mich kommt.
+
+Der einzige Ausweg der mir dazu eingefallen ist, sieht so aus:  Sie untersagen mir diese Praxis, sinnvollerweise unter Androhung eines Zwangsgeldes.  Dann kann die Abgabe der Daten gegenüber den jeweiligen Stellen verweigern, entsprechend unter Verweis auf das "Verbot" bzw. entstehende Zwangsgeld.
 ```
