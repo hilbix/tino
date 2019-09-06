@@ -1,6 +1,14 @@
 > Worum geht es?  Vom Gesetz wird von Dritten (mir) verlangt, dass sie personenbezogene Daten von Betroffenen
 > (hier: meinem Sohn) an eine anfordernde Stelle (hier: Krankenkasse) übermitteln,
 > und das ohne dass diese das Recht dazu haben bzw. die Betroffenen darüber aufgeklärt werden.
+>
+> Die erste Meldung unter
+> https://www.lda.bayern.de/de/datenpanne.html
+> hat mit einem recht sicher eingestellten Firefox irgendwie nicht funktioniert.
+> Das Formular brauchte endlos beim Abschicken der Daten und es kam kein Fehler, es drehte sich nur der Warte-Spinner.
+>
+> Deshalb habe ich es dann noch ein 2. Mal mit einem Chrome verschickt, der auf den Defaulteinstellungen stand.
+> Das hat dann auch sofort geklappt.
 
 # Selbstanzeige
 
