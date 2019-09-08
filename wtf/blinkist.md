@@ -39,45 +39,47 @@ Hier eine genauere Analyse von mir, also negative und positive Sterne:
   - Und die Zusammenfassung ist voll von SPAM für die eigene Plattform.
   - Eine dauernde repetitive Wiederholung desselben Gesülzes mag ja werbetechnisch sinnvoll erscheinen,
     ist aber ermüdend, abtörnend und insgesamt vollständig abzulehnen.  (Abwertung siehe unten.)
-- -1 zu lang.  Bisher waren die Blinks zwischen Einführung und Zusammenfassung reine trivialitäten und sollten weggelassen werden.
-- -1 zu teuer.  Ich finde den Preis von über 7 EUR pro Monat für wahnsinnig teuer.
-- -1 mafiöss "Probeabo".  Das Probeabo wird automatisch in ein Vollabo über Google Play umgewandelt.  Maximale Fehleranfälligkeit also.  Das ist extrem Kundenunfreundlich!
-- -1 SPAM.  Ich bekam agressive Mails, die auf das Probeabo hinweisen.  Ohne dass ich wüsste, wo ich dieser Maßnahme zustegstimmt hätte.
-- -2 DSGVO.  Ich kann mich nicht daran erinnern, einer Kontaktaufnahme gem. DSGVO zugestimmt zu haben.  IMHO ein klarer Verstoß.
+- -1 zu lang.  Bisher waren die Blinks zwischen Einführung und Zusammenfassung reine Trivialitäten und sollten weggelassen werden.
+- -1 zu teuer.  Ich emfinde den Preis von über 6 EUR pro Monat as maßlos zu teuer.
+- -1 mafiöses "Probeabo".  Das Probeabo wird automatisch in ein Vollabo über Google Play umgewandelt.  Maximale Fehleranfälligkeit also.  Das ist extrem kundenunfreundlich!  Für mich ist das ein ganz klares mafiöses Vorgehen.
+- -1 SPAM.  Ich bekam agressive Mails, die auf das Probeabo hinweisen.  Ohne dass ich wüsste, wo ich dieser Maßnahme zusgestimmt hätte.  Und nein, in den AGB kann das nicht stehen, das wäre überraschend.
+- -2 DSGVO.  Ich kann mich nicht daran erinnern, einer Kontaktaufnahme gem. DSGVO zugestimmt zu haben.  IMHO ein klarer Verstoß, denn die DSGVO schreibt hier eine explizite Aufklärung vor.  Aber ich will mal nicht so sein und das melden, Blinkist ist da leider in mehr als nur illustrer Gesellschaft, und es gibt da lohnenswertere und wichtigere Ziele, über die man sich wegen Nichtheinhaltung der DSGVO beschweren muss.  Falls die jemals alle zusammengefaltet sind, kommt Blinkist an die Reihe, versprochen!
 - -1 Trivial.  Blinkist will antreten, die Bücher zusammenzufassen, damit man daraus möglichst viel mitnehmen kann.
-  - Das geschieht zwar wohl - behaupten sie jedenfalls - nach wissenschaftlichen Erkenntnissen, nur vergessen sie dabei die Wissenschaft.
-  - Bisher waren die Beispielslinks einzig und alleine vollkommen triviale Zeitverschwendungen.
-    Jedenfalls für mich.  Mag sein, dass dümmere Menschen diese Blinks als hilfreich oder gar nützlich ansehen.  Ich nicht.
-  - **Ich schreibe das hier hin, um dies anderen zu ersparen.**
+  - Das geschieht zwar wohl - behaupten sie jedenfalls - nach wissenschaftlichen Erkenntnissen, nur vergessen sie dabei selber die Wissenschaft.
+  - Bisher waren die Beispielslinks einzig und alleine vollkommen triviale oder wissenschaftlich unhaltbare Zeitverschwendungen.  
+    Jedenfalls für mich.  Mag sein, dass dümmere Menschen derartige Blinks als hilfreich oder gar nützlich ansehen.  Ich kann daraus leider nichts lernen, außer dass Blinkist bisher nur Mist enthielt.
+  - Meine Motivation für diesen Blogeintrag ist, **diese Enttäuschung anderen zu ersparen**.  Das ist IMHO sogar eine soziale Verantwortung.
   - Hey, ich erwarte ja nicht gerade Blinks **auf dem Niveau von Spektrum der Wissenschaft, Bruce Schneiers "Applied Cryptography", oder Aussagen von D.J.Bernstein**.
     Obwohl .. nein, falsch, sorry!  Genau das erwarte ich!  Weil ich leider nicht jeden Tag die Zeit habe, hunderte hochwissenschaftliche Papiere zu lesen!
     Genau diese Erwartung hatte ich, als ich Blink aufgrund einer mir nicht mehr nachvollziehbaren Empfehlung installierte!
     (Irgendein Artikel, der diese App in höchsten Tönen lobte.)
-- -1 Du.  Warum Du?  Was soll bitte immer diese bescheuerte 2 Person Singular.  Kenne ich die Leute bei Blink etwa?  Kennen die mich?  Sind wir Freunde?  Was für ein Scheiß ist das bitte?
-  - Gut, mag sein, dass ich zu alt bin.  Aber ich gehöre zu der alten Generation im Internet, für die das "Sie" die erste Beleodigungsform im Internet darstellt.
-  - Sprich:  Im Forum bin ich per-Du.  Warum?  Weil jeder da Internet ist.  Das ist absolut notwendig, denn ich habe sonst ja keine Möglichkeit, "elektronisch auf Distanz zu gehen".  Das macht man mit dem "Sie".
-  - Anders im Geschäftsleben im Internet.  Als Kunde - und ein solcher wäre ich - erwarte ich König zu sein.  Also auf jeden Fall mal "Sie".
-    Aber das ist es gar nicht.  Kommerz im Internet halte ich immer noch für verwerflich.  **Damit verbrüdere ich mich niemals!**
-    Wer das nicht versteht, der kann mich gelinde gesagt permanent am Arsch lecken und reinkriechen, soviel er will, er hat bereits verloren bevor er überhaupt loslegt.
+- -1 Du.  Warum Du?  Was soll bitte immer mit dieser 2 Person Singular?  Kenne ich die Leute bei Blink etwa?  Kennen die mich?  Sind wir Freunde?  Oder haben wir ein gemeinsames Anliegen?  Was für ein Scheiß ist das bitte?
+  - Gut, mag sein, dass ich zu alt bin.  Aber ich gehöre halt zu der alten Generation der 1980er im Internet, für die das "Sie" die erste Beleodigungsform im Internet darstellt.
+  - Sprich:  Im Forum bin ich per-Du.  Warum?  Weil jeder da Internet ist und im selben Forum dieselben Interessen teilt.  Das ist absolut notwendig, denn ich habe ja sonst keine Möglichkeit, ggf. "elektronisch auf Distanz zu gehen".  Das macht man sprachlich hierzulande mit dem "Sie".
+  - Anders im Geschäftsleben im Internet.  Als Kunde - und ein solcher wäre ich - erwarte ich König zu sein.  Also auf jeden Fall mal "Sie".  
+    Aber das ist es gar nicht.  Kommerz im Internet halte ich immer noch für verwerflich.  **Damit verbrüdere ich mich niemals!**  Also ist das "Du" moralisch vollkommen inakzeptabl!  
+    Und auf gut Bayerisch erklärt:  Wer das nicht versteht, der kann mich gelinde gesagt permanent am Arsch lecken und reinkriechen, soviel er will, er hat trotzdem bereits verloren, bevor er überhaupt loslegt.
 - -0 Einführung.
   - Es gibt eine nicht-gesprochene Einführung, die z. B. erklärt, an wen sich die Blinks wenden.
-  - Ich habe da keine Wahl, ich habe nur einen Blink pro Tag, also höre ich mir auch den Quatsch (bisher 100% davon) an, um mir ein Urteil zu bilden.
+  - Ich habe da keine Wahl, ich habe nur einen Blink pro Tag, also höre ich mir auch den Quatsch (bisher 100% davon) an, um mir ein Urteil zu bilden und zu hoffen, es wird irgendwann mal besser.  (Ist das Irrsinn?)
   - Dieser Teil der Zusammenfassung wird NICHT gesprochen, so dass man das eben doch wieder lesen muss.
   - Stilbruch!  Die Existenz der Einstufung hebt diesen systematischen Fehler wieder auf.  Tendenz ist aber eindeutig negativ.
 - -1 Zusammenfassungsspam.
-  - Die Zusammenfassung der Blinks (die eine Zusammenfassung darstellen) stellt wiederum einen Blink dar.  (Ich mag Mathematik!)
+  - Die Zusammenfassung der Blinks (die selbst eine Zusammenfassung darstellen) stellt wiederum einen Blink dar.  (Ich mag Mathematik!)
   - Eigentlich ist diese Zusammenfassung der Zusammenfassung etwas Gutes.
   - Aber aufgrund des in ihr enthaltenen unerträglichen SPAMs (Eigenwerbung von Blinkist etc.) wird ihr Nutzen leider zerstört.
   - Die Aufwertung der Zusamenfassung steht weiter oben, dies ist wieder ihre Abwertung.
 - +0 Kernaussagen
-  - Die Kernaussagen sind auf Twitter-Niveau verkürzt.
-  - Außerdem erscheint es mir, das es irgendwie immer dieselbe Anzahl ist.
-  - Nichtsdestotrotz ist eine solche Zusammenfassende Zusammenfassung der Zusammenfassung besser.
-  - **Allerding kann man diese nur für gekaufte Blinks anzeigen lassen!**  Deshalb nur +0.
+  - Die Kernaussagen sind auf Twitter-Niveau verkürzt.  (Das ist weder negativ noch per-se positiv.)
+  - Außerdem erscheint es mir, das es irgendwie immer dieselbe Anzahl ist.  (Das ist deutlich negativ zu verstehen!)
+  - Nichtsdestotrotz ist eine solche Zusammenfassende Zusammenfassung der Zusammenfassung besser als nichts.
+  - **Allerding kann man diese nur für gekaufte Blinks anzeigen lassen!**  Deshalb auch nur +0.
 - -1 Rückrufnummer
-  - Die APP nagt ständig, dass sie von Google Play die Rückrufnummer haben will.
-  - Was zum Geier geht da bitte vor und wozu will sie die haben.
-  - Zur Wiederherstellung der Einkäufe kann es ja wohl nicht sein, das hängt am Konto von Google Play.  
+  - Die APP nagt ständig, dass sie von Google Play die Rückrufnummer haben will.  ("nagt" kommt von nag-Screens, englisch "to nag"=nerven)
+  - Was zum Geier geht da bitte vor und wozu will sie die haben?  Ist doch vollkommen überflüssig für den Betrieb!
+  - Zur Wiederherstellung der Einkäufe kann es ja wohl nicht sein, das hängt am Konto von Google Play.
+    (Und wenn nicht:  WTF, why?  Warum umständlich wenn es nicht einfach geht?  Google weiß sowieso schon alles,
+    datenschutztechnisch ist das also einfach nur schlechter, wenn man so etwas selbst macht.  Beweis:  Rückrufnummer!)
 
 
 ## Einführung und Zusammenfassung?  WTF?
@@ -88,38 +90,51 @@ Danach fassen sie die Blinks nochmals in eine Zusammenfassung zusammen.
 Wie jetzt?  Echt?  Ich habe da den Eindruck, dass die Zusammenfassung durch die Blinks eher auf 15 Minute aufgeblasen werden.
 Um ein Produkt zu haben, das man verkaufen kann.  (Oh, "Bad Blood", war das Selbstironie?)
 
-Eigentlich reicht es wohl meistens, die Zusammenfassung zu höhren.
-Und ich gehe davon aus, auch diese Zusammenfassung kann man nochmals zusammenfassen.
+Eigentlich reicht es wohl meistens, die Zusammenfassung zu hören.
+Und ich gehe davon aus, auch diese Zusammenfassung kann man sicher nochmals zusammenfassen oder kürzen
+(insbesondere um den SPAM).
 
 Und die Einführung, die man übrigens auch ohne Abo lesen kann, ist eher ein Werbetext, der Lust darauf machen soll,
-sich die Blinks anzuhören.  Schwierig!
+sich die Blinks anzuhören.  Schwierig, schwierig, schwierig!  Das hat ein Geschmäckle, und zwar sehr sehr deutlich.
+
+Deshalb ist das ein WTF!
 
 
 ## Probeabo
 
-Ich würde ja mal lieber einen Blink aus der Kategorie "Wissenschaft" reinziehen.
-Denn ich denke, das würde mir deutlich mehr bringen und vielleicht kann ich mir dann besser ein Urteil bilden.
-Aber bisher leider Pustekuchen!
+Ich würde ja mal lieber einen Blink aus der Kategorie "Wissenschaft" reinziehen.  So Stephen Hawking oder so.
 
-Da ist aber Blinkist selbst dran schuld.  Blink wählt die Blinks aus, die ich mir anhören kann.
-Und offensichtlich ausschließlich den trivialsten Mist aus der unteresten Kategorie ihrer Ablage P.
+Denn ich denke, das würde mir deutlich mehr bringen und vielleicht kann ich mir dann besser ein Urteil über
+die Qualität von Blinkist bilden.  Aber bisher leider Pustekuchen!
 
-Das ist dumm.  Äußerst dumm!  Klug wäre, die Leute selbst auswählen zu lassen.  Einmal am Tag.
+Dass daraus nur ein Verriss werden kann, daran ist Blinkist selbst schuld.
+Blinkist wählt nun einmal die Blinks aus, die ich mir anhören ~kann~ darf.
+Und offensichtlich ist das ausschließlich der trivialste Mist, aus der unteresten Kategorie ihrer Schublade P.
+
+**Das ist dumm.  Äußerst dumm!**  Klug wäre, die Leute selbst auswählen zu lassen.  Einmal am Tag.
 Dann könnten sie unter Umständen ja feststellen, dass die Blinks tatsächlich einen Wert haben.
 
-So aber kommt bei mir halt nur eines an:  **Der letzte Scheißdreck, vollkommen nutzloser Müll!**.  Leute, echt gut gemacht.
+So aber kommt bei mir halt nur eines an:  **Der letzte Scheißendreck und vollkommen nutzloser Müll!**.
+Bravo, Leute, echt gefickt eingeschädelt!
 
-Ach, wie jetzt, das Probeabo?  Damit kannst Du doch .. **nein, kann man nicht!**
+Ach, wie jetzt, das Probeabo?  Damit kannst Du d.. (unterbrech) **Nö, kann man nicht!**
 
-- Erstens könnte ich schon, aber ganz siche nicht, so lange ich geduzt werde.
+- Erstens könnte ich schon, aber ganz sicher nicht, so lange ich geduzt werde.  
+  (Für den Dienst ist übrigens weder ein Du noch ein Sie vonnöten.  Das geht ganz und gar ohne direkte Ansprache!
+  DAS wäre professionell.  Gerade deutsche Firmen sollten .. ach lassen wir das.)
 - Zweitens könnte ich schon, aber ich unterstütze mafiöse Verfahren nicht.
-  Ein Probeabo, das sich automatisch in ein Vollabo umwandelt, das nehme ich niemals an.
+  Ein Probeabo, das sich automatisch in ein Vollabo umwandelt, nee nicht niemals!
 - Drittens könnte ich schon, werde ich aber nicht.  Ihr seid schlicht zu teuer.
-  Ich unterstütze nur Verfahren, die sozial und gerecht sind.
+  Ich unterstütze nur Verfahren, die sozial und gerecht sind.  Informiert euch bitte mal über Hartz-IV!
   Arme Menschen haben dafür keine 5 EUR im Monat übrig!  Insgesamt, also für alles zusammen, nicht nur für 1 App.
-  Bei 1 EUR pro Monat liegt die absolute obere Schmerzgrenze!
-  Und selbst dafür würde ich es nicht machen.
-  
+  Bei 1 EUR pro Monat liegt die absolute obere Schmerzgrenze!  Und selbst dafür würde ich es nicht machen.
+
+> Und ja, deutsche Unternehmen haben verdammt noch einmal die Verpflichtung zu sozialem Handeln.
+> Sage nicht ich.  [Sagt unser Grundgesetz](https://www.gesetze-im-internet.de/gg/art_14.html)!
+>
+> Erklärt mir bitte nicht, dass die Blinks nicht Eigentum von Blinkist ist.
+> Wie kann etwas der Allgemeinheit dienen, wenn es arme Menschen ausschließt?
+
 8 EUR pro Jahr.  Das wäre ich der höchste Preis, den ich wahrscheinlich bereit wäre zu bezahlen,
 wenn Blinkist wirklich hielte, was es verspricht.  Weil das im bezahlbaren Bereich der Inklusion durch das Jobcenter liegt.
 
@@ -127,30 +142,34 @@ Lieber würde ich 5 EUR pro Jahr sehen.  Oder ein limitiertes Angebot per Blinks
 
 Und nein, das ist keine unfaire Forderung von mir.  Das ist sozial!
 **Das ist eine Bedingung, die jede Firma in dieser sozialen Marktwirtschaft erfüllen muss.**
-Nämlich sozial verträgliche Produkte anzubieten.
+Nämlich sozialverträgliche Produkte anzubieten.
 
 Blinkist ist angetreten, den Leuten Zeit zu sparen.  Behaupte nicht ich, sondern sie selbst.
 Sie nehmen also für sich in Anspruch, ein Teil der Bildungsgemeinschaft in Deutschland zu sein.
 **Aber sie grenzen die schwächsten und Hartz IV-Bezieher in diesem Land von ihrem Angebot aus!**
 
-Sorry, aber ich emfinde das als eine der größten Schweinereien der letzten Jahre.
-Das ist vielleicht einem Seehofer würdig, aber verdammt noch einmal einer Firma im Internet lasse ich das nicht durchgehen!
+> Das nenne ich roh, unverschämt und asozial!
 
-Sich auf dem Rücken der schwächsten eine goldene Nase zu verdienen, indem sie ausschließlich die Elite bedienen
-und somit die soziale Kluft auch noch vergrößern und das Bildungsgefälle noch verstärken!
+Sorry, aber ich empfinde das als eine der größten Schweinereien, die mir in den letzten Jahren untergekommen ist.
+Das ist vielleicht eines Seehofers würdig, aber verdammt noch einmal keiner Firma im Internet!
+**Das lasse ich nicht durchgehen!**
 
-**Schande über euch und schämt euch bitte!**  Das ist nicht mehr wieder gutzumachen!
+Sich auf dem Rücken der Schwächsten eine goldene Nase zu verdienen, indem man ausschließlich die Elite bedient
+und somit die soziale Kluft auch noch vergrößert und das Bildungsgefälle noch verstärkt!  Schweinerei!
+
+**Schande über euch und schämt euch alle!**  Das ist nicht mehr wiedergutzumachen!
 
 > Und ja, ich bin in der Lage, diese Kritik zu üben.  Denn ich betreibe einen Service auf meine Kosten,
 > der unserer Gemeinschaft ständig Geld erspart.
 >
 > Für den Einsatz von gerade einmal 50 EUR erspare ich jedem EU-Bürger überschlagsweise um die 1 EUR.
-> **So sieht für mich ein sozialverträgliches Verhalten aus!**  Daran messe ich, ob jemand sozial oder asozial handelt!
+> **So sieht für mich ein sozialverträgliches Verhalten aus!**
+> Aus meiner Warte heraus kann ich deshalb sehr gut vergleichen, ob und wie sozial jemand handelt!
 >
-> Ach ja, derzeit schnorre ich mir diese 50 EUR von meinem Arbeitgeber.  Bedankt euch bitte bei dem!
+> (Ach ja, derzeit schnorre ich mir diese 50 EUR von meinem Arbeitgeber.  Bedankt euch bitte bei dem!
 >
 > Und das sind keine leeren Sprüche.  Ich kann diese Aussagen von mir belegen!
-> (Nur werde ich das nicht öffentlich tun, weil es das, was ich mache, gefährden würde.)
+> Nur werde ich das nicht öffentlich tun, weil es das, was ich mache, evtl. gefährden würde.)
 
 
 ## Blinks
@@ -166,8 +185,8 @@ und somit die soziale Kluft auch noch vergrößern und das Bildungsgefälle noch
   - Das war der trivialste Müll den ich jemals gehört habe.
   - Der einzige für mich neue Hinweis war der am Ende auf "Achtsamkeit".
   - Wobei das aber wiederum der allerletzte Schlonz ist, den man sich vorstellen kann.
-    - Nichts gegen den Buddhismus, aus dem das stammt.  Da ist es gut aufgehoben.  Meditation ist gut!  Jedenfalls für die meisten.  Nehme ich an.
-    - Aber die Hype, die aus Mindefullness entstand, sorry, die ist vollkommen daneben, kontraproduktiv, destruktiv und abzulehnen!
-    - Wer also in dem Zusammenhang wie hier im Hörbuch (sorry! Bink!) so etwas aufgreift, betreibt populärwissenschaftlichen teils sogar schädlichen Nonsense.
-    - Auf keinen Fall ist er besser als Erich v. Däniken, nur ist der zumindest höchst unterhaltsam ..
-    - Aber hier wurde das ernstgemeint!  OMFG!  Thema verfehlt!
+  - Nichts gegen den Buddhismus, aus dem das stammt.  Da ist es gut aufgehoben.  Meditation ist gut!  Jedenfalls für die meisten.  Nehme ich an.
+  - Aber die Hype, die aus Mindefullness entstand, sorry, die ist vollkommen daneben, kontraproduktiv, destruktiv und abzulehnen!
+  - Wer also in dem Zusammenhang wie hier im Hörbuch (sorry! Bink!) so etwas aufgreift, betreibt populärwissenschaftlichen teils sogar schädlichen Nonsense.
+  - Auf keinen Fall ist er besser als Erich v. Däniken, nur ist der zumindest höchst unterhaltsam ..
+  - Aber hier wurde das ernstgemeint!  OMFG!  Thema verfehlt!
