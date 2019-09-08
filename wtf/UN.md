@@ -138,17 +138,29 @@ ganz klar als die Unwahrheit erkannt würde.
 > so lange nicht einmal Gerichtsverfahren in diesen Sachen haltbare Ergebnisse liefern,
 > ist nichts bewiesen, steht nichts fest, ist nichts auch nur ansatzweise wissenschaftlich belastbar.
 >
-> Es ist halt ein akuter Mainstream, der sich jederzeit ändern kann.  Sogar ändern muss, sofern sich
-> andere Erkenntnisse ergeben.  Und genau das ist hier jetzt deutlich in Gefahr!
+> Auch wenn die Prognosen zutreffen, dann ist das kein Beweis dafür, dass die Prognosen richti waren.
+> Vielleicht war die Prognose auch nur gut geraten!  Oder eine richtige Interpolation des Geschehens,
+> dessen Ursache wir aber gar nicht verstehen oder richtig zuordnen können.  Oder oder oder.
+> (Tatsächlich trafen die Prognosen nicht zu.  Sie haben das Geschehen total unterschätzt.
+> Es ist weit schlimmer als angenommen.  Zu stark unterschätzt ist immer noch weit daneben.
+> Wieso glauben wir einer Ursachenforschung, die mit ihren Prognosen derart daneben lag?
+> Weil es noch schlimmer kam?  WTF?!?  "Und aus dem Chaos sprach eine Stimme zu mir:
+> Freue Dich des Lebens, denn es könnte schlimmer kommen!  Und ich freute mich, und es kam schlimmer.")
+>
+> Es ist halt ein akuter Mainstream, der sich aber jederzeit ändern kann.  Sogar ändern muss, sofern sich
+> gegeteilige Erkenntnisse ergeben.  Und genau das ist hier jetzt deutlich in Gefahr!
 >
 > Der Mainstream des menschengemachten Klimawandels hat sich derart fest in unsere Köpfe gefressen,
-> dass wir davon nicht einmal mehr loskommen dürften, wenn sich das absolute Gegenteil als gesichert herausstellen dürfte.
-> Und das ist schädlich.  Das wäre ähnlich wie ein zweiter Fall von Galileo.
+> dass wir davon nicht einmal mehr loskommen dürften, wenn sich das absolute Gegenteil als gesichert herausstellen würde.
+> Und das ist schädlich.  Höchst schädlich.  Das wäre ähnlich wie ein zweiter Fall von Galileo.
 > Nur mit dem Unterschied, dass kein Wissenschaftler von außen gezwungen wurde.
 > Das wäre das kollektive Versagen des Großteils der gesamten Wissenschaft an sich.
 >
-> Wollen wir so etwas?  Nein, wollen wir nicht!  Wieso gehen wir dann diese Gefahr ein, obwol das vollkommen unnötig ist?
+> Sprich: Dann verlieren die Leute nicht nur das Vertrauen in die Presse, sondern auch in die Wissenschaft.
+>
+> Wollen wir so etwas?  Nein, das wollen wir nicht!
+> Wieso gehen wir dann diese Gefahr ein, obwol das vollkommen unnötig ist?
 >
 > Ich kann mir nur eine Kombination folgender Gründe vorstellen:  Gier, Geiz, Neid und unendliche Dummheit der Menschen.
 >
-> Irgendwelche Fragen?
+> Gibt es noch irgendwelche Fragen?
