@@ -25,6 +25,8 @@ Hier eine genauere Analyse von mir, also negative und positive Sterne:
 > Wichtig!  Was ich hier schreibe ist in sofern wahr, wie bei mir der jeweilige Eindruck vermittelt wird oder wurde.
 > Falls ich etwas falsch verstanden habe, ist das nicht mein Fehler, sondern ein Darstellungsfehler.  Von Blink oder was-weiß-ich.
 > Was hier steht ist MEINUNG, und zwar die WAHRE MEINUNG von mir dazu, unverfälscht und in hoffentlich klar verständlich.
+>
+> Die Liste ist sicher nicht vollständig
 
 - +1 innovativ.  Die Idee, echte Sprecher Texte vortragen zu lassen, ist gut.  Insbesondere für Sehbehinderte.
   - Allerdings ergibt sich mir nicht, in wiefern das nicht durch automatische Sprachwidergabe nicht auch erreicht werden könnte.
