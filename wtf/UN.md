@@ -122,3 +122,33 @@ ganz klar als die Unwahrheit erkannt würde.
 >
 > (Vgl. AFD: Lügenpresse.  Damit haben die einen wunden Punkt getroffen.
 > Nichts für die AFD.  Aber ein blindes Korn findet auch mal ein Huhn.)
+>
+> Effektiv gewonnen ist damit nichts.  Weder eine Aussage pro menschengemachten Klimawandel, noch dagegen.
+> Aber es steigert die natürliche Skepsis.  Den Prozess, der wichtig ist in der Wissenschaft,
+> nämlich nichts und niemanden als gegegen anzusehen oder in Schutz zu nehmen.
+>
+> Es gibt Aussagen auf beiden Seiten.  Und jede Seite zieht die Aussagen der anderen in Zweifel.
+> Beide Seiten machen das zu Recht.  Und beide Seiten haben Argumente.  Gute Argumente und schlechte Argumente.
+>
+> Letzlich setzt sich zwar eine Theorie als Mainstream durch, aber das ist nicht notwendigerweise die richtige!
+> Und genau darum geht es:  Zweifel.
+>
+> So lange diese Zweifel nicht auf einfache Weise ausgeräumt werden können,
+> so lange man all die hübschen Diagramme nicht aufgrund der Rohdaten selbst nachvollziehen kann,
+> so lange nicht einmal Gerichtsverfahren in diesen Sachen haltbare Ergebnisse liefern,
+> ist nichts bewiesen, steht nichts fest, ist nichts auch nur ansatzweise wissenschaftlich belastbar.
+>
+> Es ist halt ein akuter Mainstream, der sich jederzeit ändern kann.  Sogar ändern muss, sofern sich
+> andere Erkenntnisse ergeben.  Und genau das ist hier jetzt deutlich in Gefahr!
+>
+> Der Mainstream des menschengemachten Klimawandels hat sich derart fest in unsere Köpfe gefressen,
+> dass wir davon nicht einmal mehr loskommen dürften, wenn sich das absolute Gegenteil als gesichert herausstellen dürfte.
+> Und das ist schädlich.  Das wäre ähnlich wie ein zweiter Fall von Galileo.
+> Nur mit dem Unterschied, dass kein Wissenschaftler von außen gezwungen wurde.
+> Das wäre das kollektive Versagen des Großteils der gesamten Wissenschaft an sich.
+>
+> Wollen wir so etwas?  Nein, wollen wir nicht!  Wieso gehen wir dann diese Gefahr ein, obwol das vollkommen unnötig ist?
+>
+> Ich kann mir nur eine Kombination folgender Gründe vorstellen:  Gier, Geiz, Neid und unendliche Dummheit der Menschen.
+>
+> Irgendwelche Fragen?
