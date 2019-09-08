@@ -93,7 +93,32 @@ ganz klar als die Unwahrheit erkannt würde.
 >
 > Wer also den Klimawandel letztendlich "macht", das wissen wir nicht!
 >
-> Ja, kann natürlich der Mensch sein.  Aber da wir gar nicht wissen,
-> was wir da tun, und wie wir das machen, können wir es auch nicht
+> Ja, kann natürlich der Mensch sein.  Aber [da wir gar nicht wissen,
+> was wir da tun](https://blog.gwup.net/2019/09/06/die-hockeyschlaeger-kurve-vor-gericht-ist-der-klimawandel-in-einem-prozess-widerlegt-worden/), und wie wir das machen, können wir es auch nicht
 > bewusst ändern.  Da kann uns eigentlich nur noch der Zufall helfen!
-
+>
+> Hinweis zu dem Link:  Die Leute da sagen ernsthaft, die Hockeyschlägerkurve sei nicht widerlegt.
+> Richtig.  Ist sie nicht.  In einem über 5 Jahre hinziehenden Verfahren aber wurde sie aber auch nicht bestätigt,
+> obwohl dafür mehr als Zeit war!
+>
+> Komisch schon, wenn das Gericht sagt, dass die Aussagen vom Angeklagten unglaubwürdig sind,
+> wieso tritt der Kläger (der mit der Hockeyschlägerkurve) dann nicht entsprechend nach?
+> Zeit genug dafür hatte er!  Mehrfach!
+>
+> Leute, so funktioniert Wissenschaft einfach nicht!  Wissenschaft ist etwas, das nachvollziehbar und nachprüfbar ist.
+> Wenn der Ersteller einer wissenschaftlichen Arbeit deren Basis nicht einmal vor Gericht vorlegen kann,
+> dann ist, sorry, das Kartenhaus in diesem Moment in sich zusammengestürzt!  Dafür gibt es keine mögliche Erklärung
+> (auch die der Geheimhaltung ist nicht.  Wissenschaft im Geheimen ist nicht besser als Alchemie).
+>
+> Und das **WIDERLEGT dann die ursprüngliche Aussage** genauso gut wie ein wissenschaftlicher Beweis des Gegenteils!
+>
+> In der Wissenschaft darf ich nur behaupten, was ich klar beweisen kann oder wofür ich eine klare Evidenz habe.
+> Das nennt sich Occams Rasiermesser.
+>
+> Wenn ich die Evidenzen dann nicht einmal vor Gericht vorlegen kann sondern so lange warte,
+> bis ich so alt bin, dass ich um Abbrechen des von mir gewünschten Verfahrens ersuchen kann,
+> dann hat das nicht nur ein Geschmäckle.  Dann schrillen bei mir alle Alarmglocken,
+> die da rufen: Schlangenöl!
+>
+> (Vgl. AFD: Lügenpresse.  Damit haben die einen wunden Punkt getroffen.
+> Nichts für die AFD.  Aber ein blindes Korn findet auch mal ein Huhn.)
