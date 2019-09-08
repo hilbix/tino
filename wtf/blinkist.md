@@ -190,3 +190,14 @@ und somit die soziale Kluft auch noch vergrößert und das Bildungsgefälle noch
   - Wer also in dem Zusammenhang wie hier im Hörbuch (sorry! Bink!) so etwas aufgreift, betreibt populärwissenschaftlichen teils sogar schädlichen Nonsense.
   - Auf keinen Fall ist er besser als Erich v. Däniken, nur ist der zumindest höchst unterhaltsam ..
   - Aber hier wurde das ernstgemeint!  OMFG!  Thema verfehlt!
+
+## Fazit
+
+Ich bin nur ehrlich.
+
+Aber ein Ding an Blinkist ist gut:  Ich kann meinem besten aller deutschen Pinzipien fröhnen:
+
+Meckern!
+
+In diesem Sinne, alles ist für etwas gut, auch Blinkist!  Obwohl .. nun ja, siehe oben.
+
