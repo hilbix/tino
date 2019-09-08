@@ -125,7 +125,7 @@ ganz klar als die Unwahrheit erkannt würde.
 >
 > Effektiv gewonnen ist damit nichts.  Weder eine Aussage pro menschengemachten Klimawandel, noch dagegen.
 > Aber es steigert die natürliche Skepsis.  Den Prozess, der wichtig ist in der Wissenschaft,
-> nämlich nichts und niemanden als gegegen anzusehen oder in Schutz zu nehmen.
+> nämlich nichts und niemanden als gegeben anzusehen oder in Schutz zu nehmen.
 >
 > Es gibt Aussagen auf beiden Seiten.  Und jede Seite zieht die Aussagen der anderen in Zweifel.
 > Beide Seiten machen das zu Recht.  Und beide Seiten haben Argumente.  Gute Argumente und schlechte Argumente.
