@@ -280,7 +280,7 @@ Und nur damit keine rechtsradikalen Ideen aufkommen:  Der Jude, von dem er da sp
 das ist z. B. Horst Seehofer.  Aber nicht nur er.  Jeder.  Wir.  Ohne Ausnahme!
 Alle, die wir das deutsche Regim stützen.  Also mich (meines Zeichens Agnostiker) eingeschlossen!
 
-(Ob Marx das damals "Jude" auch nur als Symbol unserer heutigen Gesellschaft gesehen hat?  Ich will es meinen!)
+(Ob Marx das damalige "Jude" auch nur als Symbol unserer heutigen Gesellschaft gesehen hat?  Ich will es meinen!)
 
 > In diesem Sinn erklärt es Thomas Münzer für unerträglich,
 >
