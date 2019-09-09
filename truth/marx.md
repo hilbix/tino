@@ -81,7 +81,7 @@ Allerdings dürfte das dann ziemlich eklig ausgehen, stichwort Dschihad und so.
 
 Am vernünftigsten wäre, wenn wir alle kollektiv die Religionen ächten
 und durch Ethik, Erkenntnis und Wissenschaft ersetzen.
-So etwas zu fordern ist außerdem andere als politisch korrekt ..
+So etwas zu fordern ist nur leider alles andere als politisch korrekt ..
 
 > Jedes religiöse Privilegium überhaupt, also auch das Monopol einer bevorrechteten Kirche,
 > müßte aufgehoben, und wenn einige oder mehrere oder auch die überwiegende Mehrzahl noch religiöse Pflichten
