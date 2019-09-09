@@ -15,9 +15,15 @@ Nein, dürfen wir nicht!  Weil das nicht mehr opportun ist.  Es ist nicht mehr P
 
 Aber nichtdestotrotz:  Es ist weiterhin wahr.  Und wird auch wahr bleiben, so lange die Gedankenkontrolle funktioniert.
 
-Glücklicherweise scheiße ich darauf, und noch darf man hierzulande darauf scheißen.  Und ich hoffe, das bleibt so!
+Glücklicherweise scheiße ich auf Politische Korrektheit, und noch darf man hierzulande darauf scheißen.
+Und ich hoffe, das bleibt so!
 
 Deshalb, zur **Erinnerung an die Wahrheit**, hier einige Dinge, die Karl Marx gesagt hat.
+
+Wichtiger Hinweis:
+
+Diese Ausführungen von mir sind durch [Art 5 GG](https://www.gesetze-im-internet.de/gg/art_5.html) geschützt.
+Ich gebe hier lediglich ungefiltert meine wahre, aufrichtige und empörte Meinung wider.
 
 
 ## Judenfrage
