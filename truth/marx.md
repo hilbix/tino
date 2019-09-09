@@ -129,7 +129,7 @@ Dem ist nichts weiter hinzuzufügen.
 Sprich:  In dieser Hinsicht versagen wir seither kläglich.  Und zwar auf ganzer Linie.
 
 [Zwar ist die Trennung von Kirche und Staat in Deutschland Gesetz](https://www.gesetze-im-internet.de/gg/art_140.html),
-nur ist das halt immer noch nicht vollzogen, weder in unseren Köpfen noch in [steuerrechtlich](https://de.wikipedia.org/wiki/Kirchensteuer).
+nur ist das halt immer noch nicht vollzogen, weder in unseren Köpfen noch in [steuerrechtlicher Hinsicht](https://de.wikipedia.org/wiki/Kirchensteuer).
 
 Hinweis:
 
