@@ -229,7 +229,7 @@ ob ein Moslem einen Dönerstand betreibt, oder ein Jude in der Synagoge betet,
 was verdammt noch einmal unterscheidet diese Menschen von oben gesagtem?
 
 Nichts!  Das ist die universelle Natur eines jeden Menschen.  Festgeschrieben durch die Menschenrechte.
-Ist es da denn nicht gut, wenn eine Religion sich nich gegen diese Urtum des Menschen wendet?
+Ist es da denn nicht gut, wenn eine Religion sich nicht gegen dieses Urtum des Menschen wendet?
 
 > Wir erkennen also im Judentun ein allgemeines gegenwärtiges antisoziales Element,
 > welches durch die geschichtliche Entwicklung, an welcher die |373| Juden in dieser schlechten
