@@ -277,8 +277,9 @@ selbst bei uns selbst für unsere eigenen destruktiven Tendenzen.  Wie deprimier
 Marx wiederholt sich.  Kann man aber gar nicht oft genug wiederholen.
 
 Und nur damit keine rechtsradikalen Ideen aufkommen:  Der Jude, von dem er da spricht,
-das ist z. B. Horst Seehofer.  Aber nicht nur er.  Jeder.  Wir.  Ohne Ausnahme!
-Alle, die wir das deutsche Regim stützen.  Also mich (meines Zeichens Agnostiker) eingeschlossen!
+das ist z. B. Horst Seehofer oder [Bernd Höcke](https://de.wikipedia.org/wiki/Bj%C3%B6rn_H%C3%B6cke#Satire_und_Kunst).
+Aber nicht nur die.  Jeder.  Wir.  Ohne Ausnahme!  Alle, die wir das deutsche Regim stützen.
+Also mich (meines Zeichens Agnostiker) eingeschlossen!
 
 (Ob Marx das damalige "Jude" auch nur als Symbol unserer heutigen Gesellschaft gesehen hat?  Ich will es meinen!)
 
