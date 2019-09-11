@@ -60,19 +60,30 @@ dann unterliegt diese Datenweitergabe logischerweise der DSGVO.
 
 Das wiederum bedeutet, dass ich, derjenige der die Daten weitergibt, die DSGVO einhalten muss.
 
-Ich muss also allen Bedingungen in dieser Verordnung entsprechen, mich an sie halten,
-Vorsorge treffen und entsprechende Maßnahmen treffen, die geeignet sind, die weitergegebenen Daten zu schützen.
+> Es ist vollkommen unerheblich ob ich die Daten gem. DSGVO korrekt erhalten habe,
+> oder ob die Daten dann in der anfordernden Stelle korrekt gem. DSGVO verarbeitet werden.
+> Aus beidem resultiert nicht automatisch das Recht, dass ich die Daten, die ich gem. DSGVO besitzen darf,
+> an einen anderen weitergebe, auch wenn dieser anschließend die DSGVO einhält.
+> Den für die Datenweitergabe ist weder der Andere verantwortlich noch der Dritte,
+> sondern ausschließlich ich selbst.  Und dabei muss also ich mich an die DSGVO halten,
+> unabhängig davon was andere tun oder aus welchem Grund ich die Daten weitergebe oder weitergeben muss.
 
-Und genau das kann ich nicht.  Das kann niemand.  Jedenfalls nicht im privaten Umfeld.
+Ich muss also allen Bedingungen der DSGVO entsprechen, mich außerdem in Zukunft weiter an die Vorschrift halten,
+und Vorsorge inklusive entsprechender Maßnahmen treffen, die geeignet sind, die weitergegebenen Daten auch
+dann noch zu schützen, nachdem ich sie weitergegeben habe.
+
+Und genau das kann ich nicht.  Das kann niemand.  Jedenfalls nicht im rein privaten Umfeld.
 
 
 ## Was wäre notwendig?
 
 Eigentlich lässt sich das Problem leicht lösen.  Und das sieht wie folgt aus:
 
-Statt mich zu fragen wird einfach der Dritte selbst gefragt.
+Statt mich zu fragen befragt die zuständige Stelle einfach direkt diesen Dritten!
 
-Dann kann dieser seine personenbezogenen Daten an die jeweilige Stelle weitergeben.
+Dann kann dieser seine personenbezogenen Daten an die jeweilige Stelle weitergeben,
+und zwar gänzlich unabhängig von mir.
+
 Damit ist das eine Sache zwischen dem Dritten und der Stelle, und nicht mir und dem Dritten.
 
 Damit bin ich aus dem Loop und habe auch kein Problem.
@@ -311,4 +322,98 @@ Diesen Punkt hätten wir also ultimativ erfolgreich ausgeschlossen.
 
 Hier sind die meisten ungeklärten Punkte, da sich mir die Erfordernisse der DSGVO bisher nicht ganz erschlossen haben.
 
+> T.B.D.
 
+> T.B.D.
+
+> T.B.D.
+
+> T.B.D.
+
+> T.B.D.
+
+> T.B.D.
+
+> T.B.D.
+
+
+# Hinweise
+
+## Was sind personenbezogene Daten?
+
+Personenbezogene Daten sind alle Daten, die sich direkt auf eine Person beziehen.
+
+Hört sich einfach an?  Ist es nicht.
+
+Früher zur Zeit des BDSG war die Sache einfach.  Da waren personenbezogene Daten all diejenigen Daten,
+die man auf eine Person beziehen konnte.  Unabhängig davon, ob man das tat oder tun konnte.
+
+Das war wichtig, denn so änderten personenbezogene Daten niemals ihren Zustand.
+"Augenfarbe blau" war also auch dann noch personenbezogen, wenn derjenige, der diesen Hinweis bekam,
+dies gar nicht mehr auf die Person beziehen konnte.  (Das war notwendig, da das BDSG sonst nicht funktioniert hätte.)
+
+Das hat sich mit der DSGVO jetzt geändert.  Personenbezogene Daten können nun pseudonymisiert werden.
+Wenn ich diese deshalb nicht mehr auf die Person beziehen kann, sind sie keine personenbezogenen Daten mehr.
+Jedenfalls für mich.  Ein Anderer kann sie vielleicht depseudonymisieren, aber sofern ich das nicht kann,
+also den Anderen nicht zur Kooperation überreden kann (z. B. weil ich ihn überhaupt nicht weiß),
+darf die die so pseudonymisierten Daten ohne Einschränkungen durch die DSGVO verarbeiten
+(aber aufpassen:  Wenn ich 2 pseudonymisierte Datenbestände zusammefüge und daraus dadurch wieder
+personenbezogene Daten werden, habe ich die Daten falsch pseudonymisiert, durfte sie also niemals
+einfach so verarbeiten!).
+
+Die abartige Situation:
+
+Auf meiner Mülltonne prangt seit neuestem meine vollständige Anschrift samt meines Namens.
+ABer dabei handelt es sich nicht um personenbezogene Daten gem. DSGVO
+(denn die Daten stammen aus 2 Datenbanken, die sich klipp und klar nicht auf mich beziehen,
+sondern auf den Hausbensitzer und dem Bezahler der Müllgebühren.  Beides bin nicht ich,
+auch wenn das eine meine Adresse und das andere meine Namen trägt).
+Zu den Zeiten des BDSG wäre das so unmöglich gewesen!
+
+In sofern gibt es jetzt personenbezogene Daten, die man inzwischen gem. DSGVO gefahrlos weitergeben kann.
+Das ist neu.  (Vorher war die Weitergabe gem. BDSG ebenfalls möglich, da demjenigen dadurch ja kein
+Schaden entstand.  Denn Schaden war beim BDSG eine Voraussetzung dafür, dass man die Weitergabe
+überhaupt ächten konnte.)
+
+Beispielsweise die Namen von Kindern und deren Geburtstage sind so weitergebbar.
+
+Dies sind zwar personenbezogene Daten, aber diese beziehen sich genauso auf die Eltern wie auf die Kinder!
+Eltern dürfen also Geburtsdatum und die Namen der Kinder weitergeben, da es sich ja auch um ihre eigenen
+personenbezogenen Daten handelt, und gem. DSGVO darf man solche Daten freiwillig weitergeben.
+Die Kinder haben da kein Mitspracherecht.
+
+In vielen Situationen gibt es also überhaupt keine Notwendigkeit vom aktuellen Prozedere abzuweichen.
+Auf der Lohnsteuerkarte oder irgendwelchen Anträgen kann man also die Daten der Kinder eintragen.
+(Aber Achtung:  Die Anschrift des Kindes ist nur dann zulässig, wenn es sich auch um die eigene Anschrift handelt!)
+
+Eltern, die die elterliche Sorge ausüben, können außerdem die entsprechenden Daten weitergeben.
+Sie sind ja die Autorität dieser Daten.
+
+Schwierig wird es aber, sobald die Kinder erwachsen sind.  In diesem Fall haben die Eltern eben
+kein Recht mehr, z. B. Angaben über den aktuellen Aufenthaltsort, die aktuelle Ausbildung das das Kindes
+oder den Familienstand an ein Amt weiterzugeben.  Ebensowenig wie sie z. B. feststellen dürfen,
+ob das Kind über ein eigenes Einkommen verfügt oder nicht.
+
+Was die Eltern feststellen können ist, ob sie das Kind unterhalten und wenn ja, wie hoch dieser Unterhalt ist.
+Also alles, was die Eltern selbständig leisten.  Schwierig wird es aber schon dann, wenn die Eltern das
+nicht mehr selbständig leisten, sondern dazu z. B. vom Kind oder dem geschiedenen Partner gezwungen werden.
+Sie können zwar die Gesamtausgaben sicherlich noch anführen, aber bereits diese auf die einzelnen
+Kinder aufzuschlüsseln halte ich bereis für einen klaren Verstoß gegen die DSGVO.
+
+Auch z. B. an welcher Uni ein Kind studiert und welches Fach, das geht schon eindeutig zu weit und
+die Weitergabe einer sochen Angabe ist auf keinen Fall von der DSGVO gedeckt!
+
+Und ganz besonders wenn es sich um sensiblere Daten wie z. B. Gesundheitsdaten usw. handelt.
+Hier halte ich klipp und klar auf keinen Fall mehr eine Weitergabe gem. DSGVO für zulässig!
+Auch selbst dann nicht, wenn die medizinische Versorgung z. B. durch die Krankenkasse der Eltern bezahlt wird.
+Hierbei handelt es sich um klipp und klare hochvertrauliche und besonders gem. DSGVO geschützte Daten.
+Und ein solcher erhöhter Schutz ist in einem privaten Umfeld vollkommen unmöglich zu leisten.
+
+Aus diesem Grund muss es als unzulässig angesehen werden, überhaupt von den Eltern (oder dem Pflegenden) zu verlangen,
+dass sie über solche Daten verfügen dürfen!
+
+> Da kommt noch sicherlich einiges Interessantes hinsichtlich Pflegeversicherung usw. auf uns zu.
+>
+> Nämlich entweder der Verlust dieser oder ein massenhafter deutschlandweit ausufernder Verstoß gegen die DSGVO.
+
+So jedenfalls meine Lesart.
