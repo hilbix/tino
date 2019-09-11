@@ -322,23 +322,26 @@ Das ist der entscheidende Punkt, denn dieser ist auf keinen Fall behebbar.
 Diesen Punkt hätten wir also ultimativ erfolgreich ausgeschlossen.
 
 
-## Erlaubnis zur Datenweitergabe
+## Erlaubnis zur Datenweitergabe kann ich nicht beibringen
 
 Hier sind die meisten ungeklärten Punkte, da sich mir die Erfordernisse der DSGVO bisher nicht ganz erschlossen haben.
 
-> T.B.D.
+> T.B.D. bla bla zu kompliziert bla bla
 
-> T.B.D.
+> T.B.D. bla bla undokumentierbar bla bla
 
-> T.B.D.
+> T.B.D. bla bla unkontrollierbar bla bla
 
-> T.B.D.
 
-> T.B.D.
+## Erforderlichen Aufklärungspflichten kann ich nicht nachkommen
 
-> T.B.D.
+> T.B.D. bla bla zu kompliziert bla bla
 
-> T.B.D.
+> T.B.D. bla bla unentscheidbar bla bla
+
+> T.B.D. bla bla undokumentierbar bla bla
+
+> T.B.D. bla bla rechtlich nicht haltbar bla bla
 
 
 # Hinweise
