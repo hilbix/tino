@@ -372,30 +372,42 @@ darf die die so pseudonymisierten Daten ohne Einschränkungen durch die DSGVO ve
 personenbezogene Daten werden, habe ich die Daten falsch pseudonymisiert, durfte sie also niemals
 einfach so verarbeiten!).
 
+> Soviel auch zur IP.  Weiterhin als personenbezogen verschrien - was schon zu Zeiten des BDSG
+> nicht unbedingt immer korrekt war - ist sie inzwischen ganz klar pseudonym, da ich sie eben keiner
+> Person zuordnen kann.  Lediglich der ISP kann das.  Dass man eine Depseudnymisierung über den
+> Umweg über die Polizei erreichen kann ist nun eben kein Grund, ihr den pseudonymen Status
+> hinsichtlich DSGVO zu verwehren, da es sich dabei um die Warhung einer hoheitlichen Aufgabe
+> handelt, was eben gerade nicht im Regelungsbereich einer DSGVO anzusiedeln ist.
+>
+> Sonst werden Terroristen demnächst noch die DSGVO verwenden, damit ihre Anschläge nicht mehr
+> vereitelt werden dürfen, da sie der dafür notwendigen Datenverarbeitung (Depseudonymisierung)
+> nicht zugestimmt haben.  Quark!  Sobald ein Richter mit im Boot ist, oder eine gerichtliche
+> Anordnung, sind wir selbstverständlich außerhalb des Geltungsbereichs einer Verordnung!
+
 Die abartige Situation:
 
 Auf meiner Mülltonne prangt seit neuestem meine vollständige Anschrift samt meines Namens.
-ABer dabei handelt es sich nicht um personenbezogene Daten gem. DSGVO
+Aber dabei handelt es sich nicht um personenbezogene Daten gem. DSGVO
 (denn die Daten stammen aus 2 Datenbanken, die sich klipp und klar nicht auf mich beziehen,
 sondern auf den Hausbensitzer und dem Bezahler der Müllgebühren.  Beides bin nicht ich,
 auch wenn das eine meine Adresse und das andere meine Namen trägt).
-Zu den Zeiten des BDSG wäre das so unmöglich gewesen!
+Zu den Zeiten des BDSG hätte es das niemals geben können!
 
 In sofern gibt es jetzt personenbezogene Daten, die man inzwischen gem. DSGVO gefahrlos weitergeben kann.
 Das ist neu.  (Vorher war die Weitergabe gem. BDSG ebenfalls möglich, da demjenigen dadurch ja kein
 Schaden entstand.  Denn Schaden war beim BDSG eine Voraussetzung dafür, dass man die Weitergabe
 überhaupt ächten konnte.)
 
-Beispielsweise die Namen von Kindern und deren Geburtstage sind so weitergebbar.
+Beispielsweise die Namen von Kindern und deren Geburtstage sind gem. DSGVO weitergebbar.
 
 Dies sind zwar personenbezogene Daten, aber diese beziehen sich genauso auf die Eltern wie auf die Kinder!
 Eltern dürfen also Geburtsdatum und die Namen der Kinder weitergeben, da es sich ja auch um ihre eigenen
-personenbezogenen Daten handelt, und gem. DSGVO darf man solche Daten freiwillig weitergeben.
-Die Kinder haben da kein Mitspracherecht.
+personenbezogenen Daten handelt, und gem. DSGVO darf man eigene Daten freiwillig weitergeben.
+Die Kinder haben da kein Mitspracherecht und können dem also auch nicht widersprechen.
 
-In vielen Situationen gibt es also überhaupt keine Notwendigkeit vom aktuellen Prozedere abzuweichen.
+In vielen Situationen gibt es deshalb überhaupt keine Notwendigkeit vom aktuellen Prozedere abzuweichen.
 Auf der Lohnsteuerkarte oder irgendwelchen Anträgen kann man also die Daten der Kinder eintragen.
-(Aber Achtung:  Die Anschrift des Kindes ist nur dann zulässig, wenn es sich auch um die eigene Anschrift handelt!)
+(Aber Achtung:  Die Anschrift des Kindes ist nur dann zulässig, wenn es sich auch um eine eigene Anschrift handelt!)
 
 Eltern, die die elterliche Sorge ausüben, können außerdem die entsprechenden Daten weitergeben.
 Sie sind ja die Autorität dieser Daten.
