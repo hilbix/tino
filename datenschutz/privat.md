@@ -3,8 +3,8 @@
 Ich habe mir hier Gedanken gemacht zu einem Problem.
 
 Denn immer wieder will irgendeine Stelle von mir personenbezogene Daten.
-Nicht personenbezogene Daten von mir, sondern von meinem Umfeld.
-Diese Daten weiterzugeben stellt IMHO einen Verstoß gegen die DSGVO dar.
+Nicht meine personenbezogenen Daten, sondern die von meinem Umfeld.
+**Derartige daten Dritter weiterzugeben stellt IMHO einen Verstoß gegen die DSGVO dar.**
 
 Ich werde die Bitten jetzt ablehnen, mit dem Verweis auf diesen Text hier.
 
