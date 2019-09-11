@@ -1,4 +1,4 @@
-# DSGVO und die Datenweitergabe privater Daten
+# DSGVO und die Datenweitergabe privater Daten Dritter
 
 Ich habe mir hier Gedanken gemacht zu einem Problem.
 
