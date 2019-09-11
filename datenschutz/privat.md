@@ -1,3 +1,7 @@
+> WARNUNG!  IANAL (I am not a lawyer), d. h. ich bin ein rechlicher Laie!
+>
+> Ich sehe die DSGVO rein technisch, als Admin, der dafür sorgen muss, dass seine EDV rechtskonform funktioniert.
+
 # DSGVO und die Datenweitergabe privater Daten Dritter
 
 Ich habe mir hier Gedanken gemacht zu einem Problem.
@@ -346,7 +350,7 @@ Personenbezogene Daten sind alle Daten, die sich direkt auf eine Person beziehen
 Hört sich einfach an?  Ist es nicht.
 
 Früher zur Zeit des BDSG war die Sache einfach.  Da waren personenbezogene Daten all diejenigen Daten,
-die man auf eine Person beziehen konnte.  Unabhängig davon, ob man das tat oder tun konnte.
+die man auf eine Person beziehen konnte.  Unabhängig davon, ob man das tat oder selber tun konnte.
 
 Das war wichtig, denn so änderten personenbezogene Daten niemals ihren Zustand.
 "Augenfarbe blau" war also auch dann noch personenbezogen, wenn derjenige, der diesen Hinweis bekam,
