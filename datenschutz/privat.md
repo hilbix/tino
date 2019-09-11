@@ -343,6 +343,10 @@ Hier sind die meisten ungeklärten Punkte, da sich mir die Erfordernisse der DSG
 
 > T.B.D. bla bla rechtlich nicht haltbar bla bla
 
+# Fazit
+
+> T.B.D. bla bla Dr. Seltsam: "unmöglicher" bla bla
+
 
 # Hinweise
 
