@@ -181,8 +181,8 @@ Joachim Bauer "Wie wir werden, wer wir sind"
 - Aber wenigstens war es keine totale Zeitverschwendung, ich habe nämlich etwas gelernt:
   - Blinks kann man auch mit 2.0x-Speed abspielen.  Wie werden dadurch zwar erträglicher, aber nicht unbedingt besser.
   - Die Hirnforschung hat kürzlich wohl 3 Hirnareale mit Rückkopplungsschleifen identifiziert.  
-    Das wird aber weder wissenschaftlich belegt, noch in der Zusammenfassung erwähnt.
-    In der finden sich nur offensichtlichste Banalitäten wieder.
+    Obwohl dieser Fund ziemlich logisch ist, wird das weder wissenschaftlich belegt, noch in der Zusammenfassung erwähnt.
+    In der finden sich dann nur offensichtlichste Banalitäten wieder.
 - Das "Wie wir werden" wird soweit tatsächlich am Rande etwas gestreift, aber das "wer wir sind" fehlt irgendwie.  
   Genauer:  "wer wir sind" wird auf dem Niveau eines 3-Jährigen erklärt, der versucht, Erwachsenen Sex zu erläutern.
 - Und nein, ich habe das "Wie wir zu der Person werden, die wir sind" nicht etwa falsch verstanden.
