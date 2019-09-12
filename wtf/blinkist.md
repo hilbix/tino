@@ -190,22 +190,24 @@ Joachim Bauer "Wie wir werden, wer wir sind"
   - Ein besserer Titel wäre:
     "Warum wir denken, zu der Person geworden zu sein, die wir sind, und weitere Trivialitäten, die wir dagegen tun können!"
  
-- John Carreyrou "Bad Blood, die wahre Geschichte des größten Betrugs im Silicon Valley"
-  - Der Blink war eine totale Zeitverschwendung
-  - Im Blink befindet sich kein einziger Beweis für die Aussage "größter Betrug im Silicon Valley" oder "wahr".
-  - Es ist offensichtlich eine nette Fantasie, die hier jemand zusammengekritzelt hat, aber ohne jede Nachvollziehbarkeit.
-  - In wiefern spielt das mit der Aussage von Blink zusammen "damit Du viel daraus mitnehmen kannst"
-  - Nepp, weil offensichtlich falsche Aussage.  Oder um es mit Worten der AFD zu sagen:  Lügenpresse!
+John Carreyrou "Bad Blood, die wahre Geschichte des größten Betrugs im Silicon Valley"
 
-- Pillip Meissner "Entscheiden ist einfach"
-  - Das war der trivialste Müll den ich jemals gehört habe.
-  - Der einzige für mich neue Hinweis war der am Ende auf "Achtsamkeit".
-  - Wobei das aber wiederum der allerletzte Schlonz ist, den man sich vorstellen kann.
-  - Nichts gegen den Buddhismus, aus dem das stammt.  Da ist es gut aufgehoben.  Meditation ist gut!  Jedenfalls für die meisten.  Nehme ich an.
-  - Aber die Hype, die aus Mindefullness entstand, sorry, die ist vollkommen daneben, kontraproduktiv, destruktiv und abzulehnen!
-  - Wer also in dem Zusammenhang wie hier im Hörbuch (sorry! Bink!) so etwas aufgreift, betreibt populärwissenschaftlichen teils sogar schädlichen Nonsense.
-  - Auf keinen Fall ist er besser als Erich v. Däniken, nur ist der zumindest höchst unterhaltsam ..
-  - Aber hier wurde das ernstgemeint!  OMFG!  Thema verfehlt!
+- Der Blink war eine totale Zeitverschwendung
+- Im Blink befindet sich kein einziger Beweis für die Aussage "größter Betrug im Silicon Valley" oder "wahr".
+- Es ist offensichtlich eine nette Fantasie, die hier jemand zusammengekritzelt hat, aber ohne jede Nachvollziehbarkeit.
+- In wiefern spielt das mit der Aussage von Blink zusammen "damit Du viel daraus mitnehmen kannst"
+- Nepp, weil offensichtlich falsche Aussage.  Oder um es mit Worten der AFD zu sagen:  Lügenpresse!
+
+Pillip Meissner "Entscheiden ist einfach"
+
+- Das war der trivialste Müll den ich jemals gehört habe.
+- Der einzige für mich neue Hinweis war der am Ende auf "Achtsamkeit".
+- Wobei das aber wiederum der allerletzte Schlonz ist, den man sich vorstellen kann.
+- Nichts gegen den Buddhismus, aus dem das stammt.  Da ist es gut aufgehoben.  Meditation ist gut!  Jedenfalls für die meisten.  Nehme ich an.
+- Aber die Hype, die aus Mindefullness entstand, sorry, die ist vollkommen daneben, kontraproduktiv, destruktiv und abzulehnen!
+- Wer also in dem Zusammenhang wie hier im Hörbuch (sorry! Bink!) so etwas aufgreift, betreibt populärwissenschaftlichen teils sogar schädlichen Nonsense.
+- Auf keinen Fall ist er besser als Erich v. Däniken, nur ist der zumindest höchst unterhaltsam ..
+- Aber hier wurde das ernstgemeint!  OMFG!  Thema verfehlt!
 
 ## Fazit
 
