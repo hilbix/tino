@@ -169,18 +169,6 @@ und somit die soziale Kluft auch noch vergrößert und das Bildungsgefälle noch
 
 **Schande über euch und schämt euch alle!**  Das ist nicht mehr wiedergutzumachen!
 
-> Und ja, ich bin in der Lage, diese Kritik zu üben.  Denn ich betreibe einen Service auf meine Kosten,
-> der unserer Gemeinschaft ständig Geld erspart.
->
-> Für den Einsatz von gerade einmal 50 EUR erspare ich jedem EU-Bürger überschlagsweise um die 1 EUR.
-> **So sieht für mich ein sozialverträgliches Verhalten aus!**
-> Aus meiner Warte heraus kann ich deshalb sehr gut vergleichen, ob und wie sozial jemand handelt!
->
-> (Ach ja, derzeit schnorre ich mir diese 50 EUR von meinem Arbeitgeber.  Bedankt euch bitte bei dem!
->
-> Und das sind keine leeren Sprüche.  Ich kann diese Aussagen von mir belegen!
-> Nur werde ich das nicht öffentlich tun, weil es das, was ich mache, evtl. gefährden würde.)
-
 
 ## Blinks
 
