@@ -2,7 +2,7 @@
 
 WTF ist Blinkist?
 
-Es scheint mir ein Weg zu sein, wie man aus Trivialitäten viel Geld macht.
+Es scheint mir ein Weg zu sein, wie man aus Trivialitäten viel Geld ~macht~abgreift.
 
 Folgendes habe ich in Play Store geschrieben:
 
