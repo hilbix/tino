@@ -39,7 +39,7 @@ Hier eine genauere Analyse von mir, also negative und positive Sterne:
   - Und die Zusammenfassung ist voll von SPAM für die eigene Plattform.
   - Eine dauernde repetitive Wiederholung desselben Gesülzes mag ja werbetechnisch sinnvoll erscheinen,
     ist aber ermüdend, abtörnend und insgesamt vollständig abzulehnen.  (Abwertung siehe unten.)
-- +0 Die Abspielgeschwindigkeit kann bis auf Faktor 2 eröht werden.  Das spart Zeit.
+- +1 Die Abspielgeschwindigkeit kann bis auf Faktor 2 eröht werden.  Die Sprachausgabe bleibt verständlich.
 - -1 zu lang.  Bisher waren die Blinks zwischen Einführung und Zusammenfassung reine Trivialitäten und sollten weggelassen werden.
 - -1 zu teuer.  Ich emfinde den Preis von über 6 EUR pro Monat as maßlos zu teuer.
 - -1 mafiöses "Probeabo".  Das Probeabo wird automatisch in ein Vollabo über Google Play umgewandelt.  Maximale Fehleranfälligkeit also.  Das ist extrem kundenunfreundlich!  Für mich ist das ein ganz klares mafiöses Vorgehen.
@@ -81,6 +81,15 @@ Hier eine genauere Analyse von mir, also negative und positive Sterne:
   - Zur Wiederherstellung der Einkäufe kann es ja wohl nicht sein, das hängt am Konto von Google Play.
     (Und wenn nicht:  WTF, why?  Warum umständlich wenn es nicht einfach geht?  Google weiß sowieso schon alles,
     datenschutztechnisch ist das also einfach nur schlechter, wenn man so etwas selbst macht.  Beweis:  Rückrufnummer!)
+- -1 Geiz und Gier
+  - Man kann die freien Blinks später nicht wieder anhören, obwohl sie in der Liste von "meine Titel" erscheinen
+  - FTR:  Es ist überhaupt kein Problem, die Audio-Ausgabe eines Android-Devices vollautomatisch aufzuzeichnen.
+    (Wohl nicht direkt mit Android-Bordmitteln, aber hat eine Gängelung wie diese schon jemals etwas verhindern können?)
+- -1 Beim Abspielen kommt es zu unerwünschten Pausen
+  - Bei mir blockierte der Blink während ich im Funkloch war.  Anscheinend werden nicht alle Teile sofort heruntergeladen,
+    sondern jeder Teil nur kurz vor dem Abspielen.  Das ist Mist!
+  - Ich teste ohne Abo.
+  - -2 wenn das eine Einschränkung nur der abolosen Variante ist (da mutwillig derart umgesetzt)
 
 
 ## Einführung und Zusammenfassung?  WTF?
