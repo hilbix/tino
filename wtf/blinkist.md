@@ -39,6 +39,7 @@ Hier eine genauere Analyse von mir, also negative und positive Sterne:
   - Und die Zusammenfassung ist voll von SPAM für die eigene Plattform.
   - Eine dauernde repetitive Wiederholung desselben Gesülzes mag ja werbetechnisch sinnvoll erscheinen,
     ist aber ermüdend, abtörnend und insgesamt vollständig abzulehnen.  (Abwertung siehe unten.)
+- +0 Die Abspielgeschwindigkeit kann bis auf Faktor 2 eröht werden.  Das spart Zeit.
 - -1 zu lang.  Bisher waren die Blinks zwischen Einführung und Zusammenfassung reine Trivialitäten und sollten weggelassen werden.
 - -1 zu teuer.  Ich emfinde den Preis von über 6 EUR pro Monat as maßlos zu teuer.
 - -1 mafiöses "Probeabo".  Das Probeabo wird automatisch in ein Vollabo über Google Play umgewandelt.  Maximale Fehleranfälligkeit also.  Das ist extrem kundenunfreundlich!  Für mich ist das ein ganz klares mafiöses Vorgehen.
@@ -174,6 +175,21 @@ und somit die soziale Kluft auch noch vergrößert und das Bildungsgefälle noch
 
 ## Blinks
 
+Joachim Bauer "Wie wir werden, wer wir sind"
+
+- Ja, äh, und?  Nix Neues im Wesen?
+- Aber wenigstens war es keine totale Zeitverschwendung, ich habe nämlich etwas gelernt:
+  - Blinks kann man auch mit 2.0x-Speed abspielen.  Wie werden dadurch zwar erträglicher, aber nicht unbedingt besser.
+  - Die Hirnforschung hat kürzlich wohl 3 Hirnareale mit Rückkopplungsschleifen identifiziert.  
+    Das wird aber weder wissenschaftlich belegt, noch in der Zusammenfassung erwähnt.
+    In der finden sich nur offensichtlichste Banalitäten wieder.
+- Das "Wie wir werden" wird soweit tatsächlich am Rande etwas gestreift, aber das "wer wir sind" fehlt irgendwie.  
+  Genauer:  "wer wir sind" wird auf dem Niveau eines 3-Jährigen erklärt, der versucht, Erwachsenen Sex zu erläutern.
+- Und nein, ich habe das "Wie wir zu der Person werden, die wir sind" nicht etwa falsch verstanden.
+  - Das hat die zweite Hälfte der Zusammenfassung für mich erledigt ;)
+  - Ein besserer Titel wäre:
+    "Warum wir denken, zu der Person geworden zu sein, die wir sind, und weitere Trivialitäten, die wir dagegen tun können!"
+ 
 - John Carreyrou "Bad Blood, die wahre Geschichte des größten Betrugs im Silicon Valley"
   - Der Blink war eine totale Zeitverschwendung
   - Im Blink befindet sich kein einziger Beweis für die Aussage "größter Betrug im Silicon Valley" oder "wahr".
