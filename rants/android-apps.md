@@ -83,11 +83,29 @@ die nicht als "Must have" eingestuft werden, bekommen keine Abwertung, wenn sie 
 
 ## Bewertungen im Detail
 
+Hinweis:  Viele -0 können dann doch zur Abwertung führen.  Ein +0 kompensiert das dann.
+
 ### App2SD
 
 - -0 wenn App2SD fehlt
 - -1 bei 10 MB bis 100 MB
 - -2 bei 100 MB oder mehr
+
+
+### Brüllapplikation
+
+- +0 wenn sie alles richtig macht, also still hochkommt, vollständige Soundmanagement enthält usw.
+- -0 wenn sie lärmend hochkommt, man das aber auf dem nächsten Screen abstellen kann
+- -1 wenn sie lärmend hochkommt und man das nur sehr umständlich oder spät abstellen kann
+- -2 wenn sie lärmend hochkommt, und man das schier gar nicht abstellen kann
+  oder wenn der Lärm immer wiederkehrt
+- **Mangelhaft** wenn man den Ton gar nicht beeinflussen kann, also die Lautstärke vom Handy verändern muss.
+
+Wenn man den Ton nur zwischen an/aus wählen kann, also die Lautstärke der Töne nicht beeinflussen kann,
+ist das in der Regel keine direkte Abwertung, außer das wäre angebracht.
+
+Da ich aber meistens vollständig ohne Ton spiele/teste, kriege ich eine nötige Abwertung oft nicht mit.
+
 
 ### DSGVO
 
