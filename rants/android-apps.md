@@ -14,7 +14,7 @@ Und die meisten Apps werden eben nicht mit der richtigen Haltung entwickelt.
 
 ## Grundlegende Eigenschaften die ich erwarte
 
-Viele als "positiv" empfundenen Eigenschaften halte ich für absolut Normal.
+Viele als "positiv" empfundenen Eigenschaften halte ich für absolut normal.
 
 ## Eigenschaften, die normalerweise keinerlei Einfluss auf die Bewertung nehmen
 
