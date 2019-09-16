@@ -19,7 +19,7 @@
 > You have been warned!
 >
 > Instead of offering just what you need for the most common case in a secure and easy to use and ultimately future proof way,
-> they leave you alown, offering you the bare minimum unusable thing and leave you alone in a few years from now,
+> they leave you alone in the dark, offering you the bare minimum unusable thing and leave you alone in a few years from now,
 > even if you did everyhting perfectly today
 > (which is less likely than winning a lottery by not participating in the lottery).
 >
@@ -35,12 +35,12 @@
 > that nothing bad can be forseen for the next historical aera by what you created,
 > THEN please come back and present it.
 >
-> Then you can claim that it is usable and future proof.
-> Then you can recommend everybody shall use it.
-> Then you can expect, people to adopt what you have created.
-> Then you are helpful!
+> - Then you can claim that it is usable and future proof.
+> - Then you can recommend everybody shall use it.
+> - Then you can expect, people to adopt what you have created.
+> - Then you are helpful!
 >
-> If not, stay out of the way of the future, please.  It will work without you, too.
+> If not, stay out of the way of the future, please.  It will work without you, too.  Probably even better!
 
 Well, there is `gpg`.  But it must be initialized.  I really have no idea why.  So I try it with Google.
 
@@ -99,6 +99,13 @@ outputs
     sec   2048R/A62751DD 2018-05-20
     uid                  Valentin Hilbig (Temporary signing key) <webmaster@scylla-charybdis.com>
     ssb   2048R/4976C9BA 2018-05-20
+
+> **WARNING!**  This is not how you should use GPG, ever.  Never use the master key as shown here.
+>
+> Never ever.  Do not do that.  You have been warned.  If you ignore that, you will in future hit the end of the road, badly.
+>
+> Please do not ask me how to do it properly.  As I do not know yet for sure.  It is a well known secret.
+> Not well known.  It is well known that it is a secret.  A very well hidden secret.
 
 But this
 
