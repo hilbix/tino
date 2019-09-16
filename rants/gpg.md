@@ -105,7 +105,8 @@ outputs
 > Never ever.  Do not do that.  You have been warned.  If you ignore that, you will in future hit the end of the road, badly.
 >
 > Please do not ask me how to do it properly.  As I do not know yet for sure.  It is a well known secret.
-> Not well known.  It is well known that it is a secret.  A very well hidden secret.
+> Not well known.  It is well known that it is a secret.  A very well hidden secret.  Hidden in plain sight.
+> (Hiding things in plain sight is the high art of hiding things.  So please do not tell me that was by accident.)
 
 But this
 
