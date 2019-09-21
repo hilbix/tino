@@ -39,9 +39,11 @@ Der Fehler ist, ihr fordert teilweise die falschen Dinge.  Anders als die Bundes
 
 Aber eindeutig falsche Dinge zu tun oder zu fordern, das kann niemals die Lösung sein!
 
-Vernunft, Leute, Vernunft!  Aber ich kann ja nicht das von anderen Fordern, was ich selbst nicht demonstriere .. mit diesem Text!
+Vernunft, Leute, Vernunft!  Aber wie kann ich schon Vernunft von anderen fordern, wenn ich es selbst nicht zeige .. mit diesem Text!
 
 Aber es muss einfach raus.  Deshalb.  Irrsinn vollständig rauslassen.  Nur so komme ich ein wenig zur Ruhe.
+
+(Dieser Text ist nicht vernünftig formuliert.  Der Inhalt, also die Essenz aber, ist aber trotzdem vollständig wahr und richtig!  Weil alles auf rein wissenschaftlichen Prinzipien und den wirklichen Fakten basiert.)
 
 
 > Appell-Empfänger\*innen
