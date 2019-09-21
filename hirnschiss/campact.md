@@ -31,6 +31,20 @@ Dem stimme ich unumwunden bei.  Und ich oute mich mal:
 
 Würde ich sehr gerne!  Nur habt ihr leider mit dem mal wieder vollkommenen Mist gebaut!
 
+Tatsache ist:  Mit dem, was die Bundesregierung gerade tut, so unzureichend und wenig zielführend ich das finde,
+kann ich deutlich besser leben als mit dem Scheiß, den ihr da fordert, obwohl der in weiten Teilen sogar viel zu
+milde erscheint.
+
+Der Fehler ist, ihr fordert teilweise die falschen Dinge.  Anders als die Bundesregierung.
+Das geht alles in die richtige Richtung, bleibt nur leider weit hinter dem zurück, was tatsächlich etwas bringen könnte.
+
+Aber eindeutig falsche Dinge zu tun oder zu fordern, das kann niemals die Lösung sein!
+
+Vernunft, Leute, Vernunft!  Aber ich kann ja nicht das von anderen Fordern, was ich selbst nicht demonstriere .. mit diesem Text!
+
+Aber es muss einfach raus.  Deshalb.  Irrsinn vollständig rauslassen.  Nur so komme ich ein wenig zur Ruhe.
+
+
 > Appell-Empfänger\*innen
 >
 > Bundeskanzlerin Angela Merkel
