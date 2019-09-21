@@ -44,13 +44,13 @@ Wie spreche ich das?  "Appell-Empfänger Stern Innen"?  Solch ein Quark!
 **Das war mal wieder absoluter Hirnschiss!**  Ihr könnt das gerne im stillen Kämmerlein verwenden,
 **aber bitte verschont die breite Öffentlichkeit mit diesem Scheiß!**
 
-Und warum nicht neutral:  "Der Appell richtet sich an:" oder "Empfangende(*) des Appells:" oder "Apell-Empfangende(*)" mit Fußnote die erklärt, was das Wort "Empfangende" bedeutet, denn das dürfte nicht jedem aufgehen.
+Und warum nicht neutral:  "Der Appell richtet sich an:" oder "Empfangende(\*) des Appells:" oder "Apell-Empfangende(\*)" mit Fußnote die erklärt, was das Wort "Empfangende" bedeutet, denn das dürfte nicht jedem aufgehen.
 
 > Die Bundesregierung hat beim Klimaschutz versagt. Ihr Klimapaket enthält ein Sammelsurium mutloser Ankündigungen und Luftbuchungen, wodurch die Regierung erneut sogar ihre eigenen Klimaziele verfehlt. Schon gar nicht leistet Deutschland damit seinen nötigen Beitrag, um die Erderhitzung auf 1,5 Grad zu begrenzen und eine Klimakatastrophe zu verhindern.
 
 Da bin ich voll bei euch.
 
-> Aber: Der öffentliche Druck wächst. Wir Bürger*innen
+> Aber: Der öffentliche Druck wächst. Wir Bürger\*innen
 
 Schon wieder dieser bescheuerte `*`.  Aber OK, das hindert mich nicht am unterzeichnen, finde ich halt nur unterstes Kindergartenniveau.
 
@@ -134,9 +134,9 @@ Mit Buzzwords aber werden wir nichts retten!  Damit reiten wir uns nur weiter in
 
 Da bin ich mehr als nur voll bei euch.  Wir müssen nicht nur die Hürden beseitigen, wir müssen stark anschieben!
 
-> - Zum Klimaschutz gehört die Verkehrs- und Agrarwende: Es braucht mehr Raum für öffentlichen Verkehr, Radfahrer*innen und Fußgänger*innen und ein Moratorium für den Aus- und Neubau von Straßen und Flughäfen. Eine bäuerliche, klimafreundliche und ökologischere Landwirtschaft muss die industrielle Tierhaltung ersetzen.
+> - Zum Klimaschutz gehört die Verkehrs- und Agrarwende: Es braucht mehr Raum für öffentlichen Verkehr, Radfahrer\*innen und Fußgänger\*innen und ein Moratorium für den Aus- und Neubau von Straßen und Flughäfen. Eine bäuerliche, klimafreundliche und ökologischere Landwirtschaft muss die industrielle Tierhaltung ersetzen.
 
-Ähm .. der `*`.  Kotz!
+Ähm .. der `*`.  Kotz!  Denn den muss ich in Markdown (darin ist dieser Text verfasst) immer manuell mit einem `\` versehen.  Und das ist kein Fehler von Markdown, ganz sicher nicht!
 
 **Und FALSCH!**  Wir brauchen kein Moratorium für den Straßenausbau!  Genau das Gegenteil brauchen wir!
 Ihr widersprecht euch:
