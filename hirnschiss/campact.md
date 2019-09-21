@@ -43,7 +43,7 @@ Vernunft, Leute, Vernunft!  Aber wie kann ich schon Vernunft von anderen fordern
 
 Aber es muss einfach raus.  Deshalb.  Irrsinn vollständig rauslassen.  Nur so komme ich ein wenig zur Ruhe.
 
-(Dieser Text ist nicht vernünftig formuliert.  Der Inhalt, also die Essenz aber, ist aber trotzdem vollständig wahr und richtig!  Weil alles auf rein wissenschaftlichen Prinzipien und den wirklichen Fakten basiert.)
+(Dieser Text ist nicht vernünftig formuliert.  Der Inhalt, also die Essenz aber, ist aber trotzdem vollständig wahr und richtig!  Weil alles auf rein wissenschaftlichen Prinzipien und den Fakten basiert, ohne sie sich schönzureden.)
 
 
 > Appell-Empfänger\*innen
