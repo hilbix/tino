@@ -64,7 +64,9 @@ Und warum nicht neutral:  "Der Appell richtet sich an:" oder "Empfangende(\*) de
 
 > Die Bundesregierung hat beim Klimaschutz versagt. Ihr Klimapaket enthält ein Sammelsurium mutloser Ankündigungen und Luftbuchungen, wodurch die Regierung erneut sogar ihre eigenen Klimaziele verfehlt. Schon gar nicht leistet Deutschland damit seinen nötigen Beitrag, um die Erderhitzung auf 1,5 Grad zu begrenzen und eine Klimakatastrophe zu verhindern.
 
-Da bin ich voll bei euch.
+Da bin ich voll bei euch.  (Auch trotz der Buzzwords.  Denn beim Klimaschutz gibt es nur eine Option:  Versagen.
+Ein Erfolg des Menschen ist hier vollkommen unmöglich, dazu müsste man die Natur des Universums verändern.)
+
 
 > Aber: Der öffentliche Druck wächst. Wir Bürger\*innen
 
