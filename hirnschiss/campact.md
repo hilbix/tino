@@ -29,7 +29,7 @@ Dem stimme ich unumwunden bei.  Und ich oute mich mal:
 
 > **Unterzeichnen Sie jetzt unseren Eil-Appell!**
 
-Würde ich sehr gerne!
+Würde ich sehr gerne!  Nur habt ihr leider mit dem mal wieder vollkommenen Mist gebaut!
 
 > Appell-Empfänger\*innen
 >
