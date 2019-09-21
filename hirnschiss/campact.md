@@ -4,7 +4,7 @@ Eigentlich seid ihr ja gut.  Aber manchmal hat man euch wirklich ins Hirn geschi
 
 Und das steht dann hier.
 
-## Eilappell Klima vom 20.9.2018
+## Eilappell Klima vom 20.9.2019
 
 Den kann ich leider nicht unterzeichnen.  Grund:  Ganz klarer Hirnschiss.  Eigentlich bin ich voll bei euch.
 Aber ihr habt mal wieder eure Forderungen dermaßen überzogen, dass ich das eben niemals mittragen kann.
