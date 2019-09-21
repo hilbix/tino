@@ -102,27 +102,33 @@ Meine Forderung geht (bis auf das Gas) deutlich darüber hinaus:
 **FALSCH!**  Der Diesel ist zwar in aller Munde, aber nicht der böse.  Kohle, Benzin und Kerosin muss es heißen!
 
 Die Begünstigung des Diesel können wir beibehalten.  Es ist die eindeutig beste derzeitigige Kraft-Arbeits-Maschine,
-die wir überall und flexibel einsetzen können, weshalb eine Förderung (durch geringere Dieselsteuern) vollkommen berechtigt ist.
-Die ordentlich gemachte CO2-Steuer regelt den Rest.  Eine weitere Pönalisierung ist deshalb eindeutig kontraproduktiv.
+die wir überall und flexibel einsetzen können, weshalb eine Förderung (durch geringere Dieselsteuern) vollkommen berechtigt ist.  (Wenn ihr das nicht glaubt, fragt z. B. den THW, welche Motoren er bei Gasaustritt in exposionsgefährdeten Gebieten einsetzt, und warum.  Oder zündet mal eine Diesellache, eine Benzinlache, einen lecken Gastank oder einen lithiumbasierten Akku an, und vergleicht das Resultat.  Oh, huch!  Bei Technik müssen wir bei der Havarie mit der Planung anfangen!  Apropos Unfall:  Zündet mal einen beschädigten Wasserstofftank in einem Wasserstoffauto an!  Oh, der verhält sich ja **in allen Fällen einfach nur besser** als alles, was wir derzeit auf dem Markt haben!  Alledings können wir die Wasserstofftankstellen nicht gegen Explosion schützen.  Würden wir Wasserstoff universal nutzen, haben wir am Ende **Wasserstofffankstellen, die bei einer z. B. terroristisch verursachten Havarie hochgehen wie kleine taktische Atombomben**.  Undenkbar!)
+
+Eine ordentlich gemachte CO2-Steuer regelt beim Diesel alles!
+Eine weitere Pönalisierung ist deshalb eindeutig kontraproduktiv und eine Mehrfachbestrafung einer besseren Technologie,
+jedenfalls im Vergleich zum Ottomotor!
 
 Es ist nicht sinnvoll, alles und jeden mit Strafe zu besetzen, wenn man dann gar keinen Ausweg hat.
 Besonders sinnfrei wird das Ganze, wenn man dadurch auch noch die schlechtere technische Lösung (Ottomotor) fördert,
 indem sie konkurrenzfähiger wird!
 
 - Bei einer Bestrafung von Kerosin bin ich voll dabei.
-- Bei der Kohle erst recht.  Aus der sollten wir quasi sofort aussteigen (sprich:  Sie so schnell und hart zurückfahren wie technisch nur möglich).
+- Bei der Kohle erst recht.  Aus der sollten wir quasi sofort aussteigen (sprich:  Sie so schnell und hart zurückfahren wie technisch nur möglich).  Oder falsch, damit hätten vor schon vor 10 Jahren oder mehr beginnen müssen!
 - Ich vermisse die Ächtung von Benzin, das insbesondere durch E10 ja die in der Dritten Welt maßlose Schäden anrichtet!
+  - Eine leichte Untertreibung.  Es verursacht Mangelernährung und stärkere Untedrückung bei der Bevölkerung dieser Länder.
 - Bei Änderungen bei Diesel bin ich dagagen.
   - Im Gegenteil, man sollte den herkömmlichen Ottomotor zugunsten des Diesels verbieten!
   - Den Diesel zu beeinträchtigen trifft vor allem die Schwächsten.  Direkt und vor allem indirekt.
   - Hochmodernen Dieselmotoren zu fördern (sprich: indem nur noch diese verkauft werden dürfen) ist eindeutig die bessere Alternative!
   - Der Dieselmotor ist eindeutig besser sauber zu bekommen als der Ottomotor!
     Aus diesem Grund muss man vor allem den Ottomotor verhindern!  Der Diesel kann hingegen bleiben!
-    Wer das nicht verstanden hat offenbart, dass er überhaupt nichts verstanden hat und offensichltich dem Dunning-Kruger-Effekt leidet!
+    Wer das nicht verstanden hat offenbart, dass er überhaupt nichts verstanden hat und offensichtlich am Dunning-Kruger-Effekt leidet!
 
-Überhaupt:  Geht es nicht um CO2?  Wieso verdammt noch einmal basht ihr dann den Diesel?
+Überhaupt:  Geht es nicht ums CO2?  Wieso verdammt noch einmal basht ihr dann den Diesel?
 Da muss die volle Ladung doch eindeutig gegen den Ottomotor verschossen werden!
 Und den Diesel muss man hegen und pflegen, weil er doch so viel weniger CO2 ausstößt als der Ottomotor!
+Jedenfalls bis wir eine flächendeckende wirkliche Alternative haben (Wir sind auf einem Guten Weg,
+aber die braucht noch etwas um wirklich universal zu werden).
 
 Warum also diese verdammte Verbissenheit in den Diesel?  Das erscheint mir geradezu pathologisch zu sein.
 Oder halt reiner Opportunismus, wir haben uns auf den Diesel eingeschossen, also macht er sich gut als Buzzword!
@@ -132,21 +138,30 @@ Mit Buzzwords aber werden wir nichts retten!  Damit reiten wir uns nur weiter in
 
 > - 100 Prozent auf Erneuerbare setzen: Die Hürden, die den naturverträglichen Ausbau der Erneuerbaren Energien derzeit ausbremsen, müssen fallen.
 
-Da bin ich mehr als nur voll bei euch.  Wir müssen nicht nur die Hürden beseitigen, wir müssen stark anschieben!
+Da bin ich mehr als nur voll bei euch.  Und wir müssen nicht nur die Hürden beseitigen, wir müssen stark anschieben!
+
 
 > - Zum Klimaschutz gehört die Verkehrs- und Agrarwende: Es braucht mehr Raum für öffentlichen Verkehr, Radfahrer\*innen und Fußgänger\*innen und ein Moratorium für den Aus- und Neubau von Straßen und Flughäfen. Eine bäuerliche, klimafreundliche und ökologischere Landwirtschaft muss die industrielle Tierhaltung ersetzen.
 
 Ähm .. der `*`.  Kotz!  Denn den muss ich in Markdown (darin ist dieser Text verfasst) immer manuell mit einem `\` versehen.  Und das ist kein Fehler von Markdown, ganz sicher nicht!
 
-**Und FALSCH!**  Wir brauchen kein Moratorium für den Straßenausbau!  Genau das Gegenteil brauchen wir!
-Ihr widersprecht euch:
+Dem meisten kann ich hier zustimmen, aber **FALSCH**, beim Straßenaufbau darf es auf keinen Fall ein Moratorium geben!
+Genau das Gegenteil brauchen wir!  Denn ihr widersprecht euch, offensichtlich, dabei ja gerade selbst:
 
-Öffentlicher Verkehr fördern und Moratorium für Straßenausbau.  Das ist ein Widerspruch!
+**Öffentlicher Verkehr fördern und Moratorium für Straßenausbau?**  WTF!  Das ist ein klarer Widerspruch in sich!
+
 Denn auch der öffentliche Verkehr braucht mehr und bessere Straßen, und dazu gehört deren Aus- und Neubau!
-Man kann das eine nicht ohne das andere haben!  Das zu fordern ist vollkommen widersinnig!
+Man kann das eine nicht ohne das andere haben!  Das zu fordern ist doch vollkommen widersinnig!
 
-Wir müssen den Straßenbau auch noch aus einem anderen entscheidenden udn wichtigen Grund weiter fördern und anschieben!
-Den wohl größten CO2-Ausstoß hat ein Auto im Stau!  Aus diesem Grunde brauchen wir einen so gut fließenden Verkehr wie denn auch nur möglich!
+Bemerkt ihr tatsächlich selbst nicht, was für einen widersprüchlichen Scheiß ihr da fordert!
+**Wasch mich aber lass mich dreckig, rühr mich nicht an und mach mich nicht nass!**
+Das ist, was ihr da schreibt!
+
+Wir müssen den Straßenbau auch noch aus einem anderen entscheidenden udn wichtigen Grund weiter fördern und anschieben:
+
+Den größten CO2-Ausstoß pro km hat ein Auto im Stau!  Selbst das Elektroauto, denn der Fahrer atmet CO2 aus.
+Nein, das ist kein Witz, das ist Mathematik (die ist für die meisten Leute ein Witz, aber trotzdem die
+korrekte Betrachtungsweise).  Aus diesem Grunde brauchen wir einen so gut fließenden Verkehr wie denn auch nur möglich!
 
 Überhaupt:  Der Straßenbau ist die Ursache für unseren heutigen Wohlstand!
 Und den brauchen wir ebenfalls, um all die Aufgaben zu meistern, die wir in Zukunft haben.
@@ -171,8 +186,8 @@ dann hat man Verschissen, und zwar auf das Übelste.  Und klar, dann wieder die 
 irgendwelchen Ausnahmen usw. etc. pp., wenn wir nicht inzwischen wissen wie sinnlos und schädlich genau
 das ist (siehe Mindesstlohn), dann sorry, hat man einfach den Schuss ignoriert den jeder inzwischen gehört haben muss!
 
-(Übrigens ist DAS der Grund, warum ich das nicht unterschreiben kann.  **Stopp des Aus- und Neubaus von Straßen.
-Ununterschreibbar!**)
+(Übrigens ist DAS der der Hirschniss in Reinkultur, also warum ich das niemals unterschreiben kann.
+**Stopp des Aus- und Neubaus von Straßen.  Ununterschreibbarer Hirnschiss!**)
 
 
 > - Ein CO2-Preis muss jetzt wirken und darf nicht durch einen Emissionshandel auf Jahre verzögert werden: Es braucht deshalb bei Wärme und Verkehr ab 2020 einen CO2-Preis von mindestens 50 Euro die Tonne, der bis 2030 auf 180 Euro steigt.
