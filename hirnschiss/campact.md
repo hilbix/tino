@@ -35,8 +35,7 @@ Tatsache ist:  Mit dem, was die Bundesregierung gerade tut, so unzureichend und 
 kann ich deutlich besser leben als mit dem Scheiß, den ihr da fordert, obwohl der in weiten Teilen sogar viel zu
 milde erscheint.
 
-Der Fehler ist, ihr fordert teilweise die falschen Dinge.  Anders als die Bundesregierung.
-Das geht alles in die richtige Richtung, bleibt nur leider weit hinter dem zurück, was tatsächlich etwas bringen könnte.
+Der Fehler ist, ihr fordert teilweise die falschen Dinge.  Anders als die Bundesregierung, bei denen geht alles schon igrendwie in die richtige Richtung, bleibt nur leider weit hinter dem zurück, was tatsächlich etwas bringen könnte.
 
 Aber eindeutig falsche Dinge zu tun oder zu fordern, das kann niemals die Lösung sein!
 
