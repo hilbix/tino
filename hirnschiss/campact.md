@@ -368,7 +368,10 @@ Jemand darf zeitlich nicht gegängelt werden.  **Wenn Superreiche permanent eine
 Aber eben nur dann, wenn der Düsenheli nachhaltig hergestellt und unterwegs ist,
 also nicht die Gesundheit oder Lebensqualität von anderen beeinträchtigt!
 
-Der Düsenheli, die SUVs usw. sind also nicht bösen.  **Wer das nicht einsieht, der ist ein Vollidiot!**
+Der Düsenheli, die SUVs usw. sind also nicht bösen per se.
+Wir können sie Umweltverträglich machen.  Wir können sie sogar viel leichter umweltverträglicher machen als Kleinwagen!
+
+**Wer das nicht einsieht, der ist ein Vollidiot!**
 (Es gibt keine andere Aussage dazu.  Die einzigen, die es diffamiert, sind echte Vollidioten.
 Denn echte Vollidioten handeln deutlich intelligenter als SUV-Basher!)
 
