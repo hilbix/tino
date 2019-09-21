@@ -21,6 +21,7 @@ Dem stimme ich unumwunden bei.  Und ich oute mich mal:
 - Durch das Rumgeeiere der SPD der letzte Jahre bin ich inzwischen **Ex-SPD-Wähler**.
   - Und nein, die Grünen sind sogar noch unwählbarer als die SPD!
   - Und dass ich beim Wählen nicht nach rechts abgedriftet bin, kann man sich vermutlich denken.
+  - Und garnicht zu wählen ist schlechter als irgendetwas zu wählen.
   - Mehr sage ich nicht dazu.
 - Wenn die SPD damit aufhören würde, sinnlose und falsche Politik zu betreiben, komme ich gerne wieder zurück.
 - Aber das, was sie derzeitige politische Riege in der SPD konstant abliefern, dazu kann man eigentlich nur sagen:  **Sterbt endlich aus, ihr seid überholt!**
