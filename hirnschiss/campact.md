@@ -155,7 +155,7 @@ Zum Verständnis:
     Dies ist ein wichtiger, realer und nicht unüblicher Einsatzzweck des Dieselmotors.
   - Es gibt also gute Gründe, ganze Flotten ausschließlich mit Diesel auszurüsten.
 - Ein Ottomotor kann aber in allen normalen Fällen *immer* durch einen Dieselmotor ersetzt werden.
-  - Natürlich nicht im Rennsport oder Supersportwägen.  Aber um diesen Einsatzzweck kann ja beibehalten werden!
+  - Natürlich nicht im Rennsport oder Supersportwägen.  Aber dieser Einsatzzweck kann ja beibehalten werden!
   - Es interessiert vor allem, was die Masse macht.  Und die könnten alle Diesel fahren ohne auf Komfort oder Nutzen zu verzichten.
   - Genau das umgekehrte, also alle fahren Benzin, bringt hingegen deutliche Einschränkungen, ein Verzicht auf den Diesel ist also nicht sinnvoll.
   - Von einer Abschaffung vom Ottomotor ist hingegen keine Rede.
