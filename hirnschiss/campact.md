@@ -124,7 +124,7 @@ die wir überall und flexibel einsetzen können, weshalb eine Förderung (durch 
 
 Eine ordentlich gemachte CO2-Steuer regelt beim Diesel alles!
 Eine weitere Pönalisierung ist deshalb eindeutig kontraproduktiv und eine Mehrfachbestrafung einer besseren Technologie,
-jedenfalls im Vergleich zum Ottomotor!
+jedenfalls im Vergleich zum Ottomotor (wenn dieser nicht mit Erdgas betrieben wird).
 
 Es ist nicht sinnvoll, alles und jeden mit Strafe zu besetzen, wenn man dann gar keinen Ausweg hat.
 Besonders sinnfrei wird das Ganze, wenn man dadurch auch noch die schlechtere technische Lösung (Ottomotor) fördert,
@@ -142,7 +142,60 @@ indem sie konkurrenzfähiger wird!
     Aus diesem Grund muss man vor allem den Ottomotor verhindern!  Der Diesel kann hingegen bleiben!
     Wer das nicht verstanden hat offenbart, dass er überhaupt nichts verstanden hat und offensichtlich am Dunning-Kruger-Effekt leidet!
 
-Überhaupt:  Geht es nicht ums CO2?  Wieso verdammt noch einmal basht ihr dann den Diesel?
+Zum Verständnis:
+
+- Ich beziehe mich immer nur auf den Ottomotor, der rein mit ölbasiertem Treibstoff betrieben wird.
+- Ich beziehe mich auch darauf, was heute sofort möglich ist.  Weil die Technik vorhanden, gemeistert und verstanden ist.
+  - Ob sie im großen Rahmen produziert wird, ist unerheblich.
+  - Erheblich ist, dass sie sofort verfügbar ist und es Firmen gibt, bei denen man diese Technik kaufen kann.  Heute.
+  - Es ist damit lediglich die Herausforderung, das alles massentauglich zu machen.
+  - Wenn der Preis eines Dieselautos dann zu teuer wird, ist das OK, wir haben ja funktionierende Alternativen (Elektro, Gas, etc.).  Genau das ist ja der Sinn der Sache:  Die Kosten in einen realen Bereich zu bringen, so dass ein sauberer Diesel und ein sauberes Elektroauto in Konkurrenz stehen, und nicht irgendein Auto einen Vorteil erhält, weil es eine Dreckschleuder sein darf.
+- Ein Dieselmotor kann nicht in allen normalen typischen Einsatzfällen durch einen Ottomotor ersetzt werden.
+  - Siehe THW und Dieseleinsatz in explosionsgefährdeten Bereichen.
+    Dies ist ein wichtiger, realer und nicht unüblicher Einsatzzweck des Dieselmotors.
+  - Es gibt also gute Gründe, ganze Flotten ausschließlich mit Diesel auszurüsten.
+- Ein Ottomotor kann aber in allen normalen Fällen *immer* durch einen Dieselmotor ersetzt werden.
+  - Natürlich nicht im Rennsport oder Supersportwägen.  Aber um diesen Einsatzzweck kann ja beibehalten werden!
+  - Es interessiert vor allem, was die Masse macht.  Und die könnten alle Diesel fahren ohne auf Komfort oder Nutzen zu verzichten.
+  - Genau das umgekehrte, also alle fahren Benzin, bringt hingegen deutliche Einschränkungen, ein Verzicht auf den Diesel ist also nicht sinnvoll.
+  - Von einer Abschaffung vom Ottomotor ist hingegen keine Rede.
+    Wir sollten vor allem dafür sorgen, dass dieser seltener wird (das meine ich mit "Verhindern")!
+- Aus diesem Grund ist derzeit eindeutig ein vollständiger Ersatz des Dieselmotors illusorisch.
+  Diesel-Bashing ist deshalb Unsinn.
+- Den Ottomotor könnten wir so gut wie ohne Probleme vollständig loswerden.  Aber auch das halte ich für Unsinn.
+  - Es gibt durchaus Einsatzzwecke (Rennsport, Supersportwägen, alles mit extremen Drehzahlen)
+    in denen ein Ottomotor besser ist als ein Diesel.
+  - Diese Einsatzzwecke sind aber rar und immer ganz besonders, eher in dem Bereich "ich will" als "ich muss".
+  - Und mit den entsprechenden Auflagen ist das in Ordnung.
+    Man kann keine 3t schwere Abgasreinigung in einen Supersportwagen einbauen!
+  - Aber wir erlauben ja auch Raketenstarts in den Orbit, die Unmengen an Schadstoffen ausstoßen.
+  - Es spricht also nichts dagegen, den Ottomotor weiter einzusetzen, entsprechend auf seinen Schaden real eingepreist.
+  - Effektiv aber "verhindert" das den Ottomotor, weil dessen Betrieb gegenüber dem Diesel dann sehr teuer wird.
+  - Und das wäre auch vollkommen richtig.
+- Für Ottomotoren, die auf Erdgasbetrieb optimiert sind, ist es anders!
+  - Auf Erdgas optimierte Motoren benötigen derzeit wohl noch einen Zusatzkraftstoff, zwar nur wenig, aber man braucht ihn.
+  - Der Dieselmotor scheint hier und heute noch deutliche technische Nachteile im Gasbetrieb zu haben
+  - Der Ottomotor im Gasbetrieb ist also dem Diesel hier eindeutig vorzuziehen
+  - Ob es umweltgerechter ist, in der Masse Gas zu fahren oder in der Masse einen sauberen Diesel zu fahren,
+    das lasse ich offen.  Hierzu gibt es wohl zu viele widersprüchliche Aussagen, also würde ich sagen:
+  - Vorerst ist beides OK.  Also rein Diesel oder gasoptimierter Ottomotor.
+  - Ziel muss aber sein, alle konventionellen Verbrenner so schnell und weit einzudämmen, wie möglich.
+- Ein besseres Ziel wäre deshalb ein Motor, der rein mit Erdgas betrieben werden kann und sauber ist.
+  - Der kann dann wirklich weitgehend den Diesel im Massenindividualverkehr ersetzen.
+  - Aber trotzdem wird auch dieser Antrieb nicht alle heutigen normalen Einsatzzwecke des Diesel ersetzen.
+  - Aber die Kombination reiner Gasmotor und Diesel sollten alle konventionellen Ottomotoren ersetzen können.
+  - Sogar im Rennsport und in Supersportwägen.  Aber dies müssen wir nicht zwingen, die Anwendung ist dafür zu selten.
+- In wieweit es Alternativen gibt, um den Diesel vollständing in allen Belangen zu ersetzen, entzieht sich meiner Kenntnis.
+  Es gibt viele Anwendungsfälle, in denen ein Erdgas eben nicht genutzt werden kann (siehe THW, Notstrom
+  in explosionsgefährdeten Gebieten), genausowenig wie Elektromotoren usw.  
+  Der Diesel ist halt ein Selbstzünder, der im Bedarfsfall ganz ohne Elektronik oder Elektrik betrieben werden kann.
+  Diese Technik willkürlich zu verbannen und zu ächten ist deshalb falsch.
+  Sie weiterzuentwickeln und umwelttechnisch ultimativ sauber zu bekommen ist der richtige Weg.
+  Und das geht nur über den Massenmarkt.
+
+Überhaupt:
+
+Geht es nicht ums CO2?  Wieso verdammt noch einmal basht ihr dann den Diesel?
 Da muss die volle Ladung doch eindeutig gegen den Ottomotor verschossen werden!
 Und den Diesel muss man hegen und pflegen, weil er doch so viel weniger CO2 ausstößt als der Ottomotor!
 Jedenfalls bis wir eine flächendeckende wirkliche Alternative haben (Wir sind auf einem Guten Weg,
