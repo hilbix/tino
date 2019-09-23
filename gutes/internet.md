@@ -17,7 +17,7 @@ Es enablet den Menschen, unabhängig von Alter, Hautfarbe oder Bildungsniveau.
 
 - Es gibt zwar Bestrebungen, das Internet zu reglementieren, aber so lange es das Internt gibt werden diese immer scheitern.
 - Mit dem Internet ist es wie mit dem Wasser.  Ohne ist schlecht.  Zuviel davon aber auch.
-- Die Frage ist, wieviel ist gesund?  Und beim Internet lautet die Antwort klar:  Deutlich mehr also heute.
+- Die Frage ist, wieviel ist gesund?  Und beim Internet lautet die Antwort klar:  Wir brauchen noch deutlich mehr davon als heute.
 
 Nicht alles im Internet ist gut.
 
