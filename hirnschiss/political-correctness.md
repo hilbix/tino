@@ -192,9 +192,9 @@ Nachtrag:
   - Nicht immer ist "Licht" gut, die strahlende Zukunft ist böse, wenn man hier an Radioaktivität denkt.
   - Trotzdem wird, ohne konkreten Kontext, "Licht" immer eher als Gut und "Dunkelheit" immer eher als böse angesehen.
   - Deshalb haben die meisten Kinder unwillkürlich Angst bei Dunkelheit, und deshalb gibt es Nachtlichter
-  - **Dagegen etwas zu unternehmen bedeutet unsere Kinder mit Gewalt zu verbiegen!**  Auch wenn wir das nur sprachlich tun ist das ganz sicher **nicht politisch korrekt**!**
+  - **Dagegen etwas zu unternehmen bedeutet unsere Kinder mit Gewalt zu verbiegen!**  Auch wenn wir das nur sprachlich tun ist das ganz sicher **nicht politisch korrekt**!
 
-Sprich:  Wir verstoßen im Namen der Politischen Korrektheit gegen die Politische Korrektheit!
-Bravo, Applaus, echt gut gemacht ihr Spacken!
+Sprich:  Im Namen der Politischen Korrektheit verstoßen wir gegen die Politische Korrektheit!
+Wow, bravo, Applaus Applaus Applaus, echt gut gemacht ihr **Spackos**!  Und ja, dabei bleibe ich, bis zum bitteren Ende!
 
 (Die Politische Korrektheit gegen sich selbst einzusetzen ist eine Art der Gödelisierung.  Ich liebe diesen Ansatz!)
