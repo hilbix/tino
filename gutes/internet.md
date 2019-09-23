@@ -40,10 +40,12 @@ Menschen.  Massen an Menschen die sich organsieren.
 
 Und genau das tun sie gerade.  Fridays for Future.
 
-Über das, was sie da rund um Great Thunberg fordern (nein, das war gerade kein Vertippser),
+Was sie da rund um Great Thunberg fordern (nein, das war gerade kein Vertippser),
 sei mal dahingestellt (meineserachtens gibt es weder den menschengemachten Klimawandel
-noch wird der Mensch am Klimawandel etwas signifikant ändern, wir müssen uns also anpassen).
-Aber darum geht es gar nicht.
+noch wird der Mensch am Klimawandel etwas signifikant ändern können.
+Aber wir müssen uns dringend an den Klimawandel anpassen und uns vor dem erwarteten Klima schützen,
+was auch dann richtig bleibt, wenn ich mit meiner Meinung falsch liege und wir tatsächlich
+etwas bewirken könnten).  Aber darum geht es gar nicht!
 
 Wir haben es mit einem Phänomen des Internets zu tun, nämlich dass jetzt Kinder, sobald sie am Internet teilnehmen können,
 in der Lage sind, sich weltweit zu vernetzen und gemeinsam ihre Stimme zu erheben.  Und immer mehr machen mit,
