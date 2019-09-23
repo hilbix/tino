@@ -28,7 +28,7 @@ Nicht alles im Internet ist gut.
 
 > Nein, hier fehlt nicht Hacking.  Hacking per se ist weder gut noch schlecht.
 > Es gibt gutes Hacking wie es schlechtes Hacking gibt.
-> Entscheidend ist immer, was man daraus macht!
+> Entscheidend ist immer, was man daraus macht, aber noch entscheidender ist, auf welchem Standpunkt man gerade selbst steht!
 
 Das Internet fördert so die Autonomie.  Schafft Abhängigkeiten ab.  Und ermöglichst Interessengruppen sich besser zu organisieren.
 
