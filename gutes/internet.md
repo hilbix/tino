@@ -94,4 +94,7 @@ Und die "Schuld" daran, die trägt einzig und alleine das Internet.  Und Great T
 
 Übrigens ist das Internet nicht die Ursache.  Das alles wäre irgendwann so oder so passiert.
 
-Aber das Internet ist ein dermaßen mächtiges Tool für derartige Entwicklung, weshalb ich das Internet liebe.
+Aber das Internet ist ein dermaßen mächtiges Tool für derartige Entwicklung,
+dass diese eben jetzt hier und heute stattfindet.
+
+Weshalb ich das Internet liebe.
