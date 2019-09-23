@@ -186,6 +186,7 @@ Nachtrag:
   - Das sind die Vorurteile, die viel wichtiger zu bekämpfen wären als Blacklist/Whitelist.  Allerdings sind auch diese Vorurteile so unendlich unwichtig, dass man das nicht einmal in Betracht ziehen sollte!
   - Soviel übrigens auch zu Schach und warum "Weiß" den Vorzug hat.
     Schach kommt halt aus Asien, da hatte halt die herschende Klasse den Vorzug, und die war nun einmal fahl.
+    (Darf man noch "fahl" schreiben, oder ist das inzwischen auch schon ein Verstoß gegen die Political Correctness?)
 - Dark vs. Light: Dunkel ist böse.  Weil wir es nicht sehen können.  Stichwort Autofahren, s.o., ist da nur ein Teil.
   - Da unterscheidet sich der Mensch vom Tierreich, im Tierreich ist "Licht" oft böse (Anglerfisch, Motte)
   - Die nachtaktiven Tiere sind in der Nacht aktiv, weil dann ihre Feinde sie meistens nicht so leicht orten können
