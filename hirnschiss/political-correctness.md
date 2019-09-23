@@ -184,6 +184,8 @@ Nachtrag:
   - Das mit der hellen Haut hat aber nichts mit "Weiß = gut" zu tun, sondern mit "fahler Haut", weil man dann zur "Elite" gehört, die nicht "draußen auf dem Feld arbeiten" muss!
   - Genauso ist das hierzulande mit der Bräune.  Wer braun ist der hat Zeit in der Sonne rumzuliegen oder pflegt sich im Sonnenstudio.  Wer fahl ist ist ist hingegen ein Stubenhocker, halt nur so irgendein uninteressanter austauschbarer Bürohengst.
   - Das sind die Vorurteile, die viel wichtiger zu bekämpfen wären als Blacklist/Whitelist.  Allerdings sind auch diese Vorurteile so unendlich unwichtig, dass man das nicht einmal in Betracht ziehen sollte!
+  - Soviel übrigens auch zu Schach und warum "Weiß" den Vorzug hat.
+    Schach kommt halt aus Asien, da hatte halt die herschende Klasse den Vorzug, und die war nun einmal fahl.
 - Dark vs. Light: Dunkel ist böse.  Weil wir es nicht sehen können.  Stichwort Autofahren, s.o., ist da nur ein Teil.
   - Da unterscheidet sich der Mensch vom Tierreich, im Tierreich ist "Licht" oft böse (Anglerfisch, Motte)
   - Die nachtaktiven Tiere sind in der Nacht aktiv, weil dann ihre Feinde sie meistens nicht so leicht orten können
