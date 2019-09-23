@@ -10,7 +10,7 @@ Das Internet ist gut.
 - Nicht, weil es Anarchie ist.  Die kann man auch so haben
 - Nicht, weil es funktioniert.  Das tut das Kinderkriegen ebenfalls (jedenfalls meistens)
 - Nicht, weil es technologisch führend ist.  Im Gegenteil, das Internet ist eigentlich der geringstmögliche technologische Abklatsch
-- Nicht wegen des World Wide Web.  Das Web ist nicht das Internet
+- Nicht wegen des World Wide Web.  Das Web ist nur ein Aspekt des Internets
 
 Das Internet ist gut, weil es die Fähigkeiten des Menschen erweitert und nicht einschränkt.
 Es enablet den Menschen, unabhängig von Alter, Hautfarbe oder Bildungsniveau.
