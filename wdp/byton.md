@@ -3,6 +3,18 @@
 > Gedanken, Spekulationen und sonstiger Braindump zu Weltallmachtsphantasien,
 > oder Dingen, die solche werden könnten
 
+Hinweis/Update:
+
+Evtl. ist Byton doch nur eine Blase?  Der [CEO ist abgesprungen und zu einem derzeit insignifikaten Unternehmen gewechselt](https://www.auto-motor-und-sport.de/tech-zukunft/startups/carsten-breitfeld-byton-faraday-future-2019/).
+
+Warum?  Darüber will ich nicht spekulieren.  Aber das dämpft meine Erwartung in Byton dann doch stark.
+
+Denn wäre es so, wie es sich mir (anhand derer Presseberichte usw., nach Enfernen des Buzzmülls) dargestellt hat,
+wäre der BMW-CEO sicher nicht gegangen.
+
+Zur Historie lasse ich alles Weiter aber stehen:
+
+
 # Byton
 
 GAFA steht für Google, Apple, Facebook und Amazon.
