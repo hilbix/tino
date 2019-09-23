@@ -26,6 +26,10 @@ Nicht alles im Internet ist gut.
 - Des alles ist also kein Hinderungsgrund sondern lediglich Herausforderung.
 - Und zwar nicht Herausforderung an eine zentrale Zensurbehörde, sondern an jeden einzelnen Teilnehmer.
 
+> Nein, hier fehlt nicht Hacking.  Hacking per se ist weder gut noch schlecht.
+> Es gibt gutes Hacking wie es schlechtes Hacking gibt.
+> Entscheidend ist immer, was man daraus macht!
+
 Das Internet fördert so die Autonomie.  Schafft Abhängigkeiten ab.  Und ermöglichst Interessengruppen sich besser zu organisieren.
 
 Und genau letzteres war überfällig.  Angesichts einer übermächtigen weltweiten Lobby mit vergleichbar unendlichen Geldmitteln
