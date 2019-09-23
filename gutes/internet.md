@@ -1,6 +1,6 @@
 > Ich rumore sonst nur rum.  Aber es gibt auch Gute Dinge!  Ja, wirklich.
 >
-> Den Auftakt hier macht eine meiner großen Lieben:  Das Internt
+> Den Auftakt hier macht eine meiner großen Lieben:  Das Internet
 
 # Internet
 
