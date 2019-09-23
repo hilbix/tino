@@ -173,3 +173,28 @@ Aber wenn ich dann aber deshalb mal nicht richtig verstehe oder den Kopf schütt
 > Für die aus eurer Political Correctness entstehenden Unfälle seid alleine ihr, und nur ihr selbst verantwortlich!
 >
 > [Vielen Dank für die Beachtung aller Sicherheitsmaßnahmen!](https://de.wikipedia.org/wiki/Dark_Star_(Film))
+
+Nachtrag:
+
+- Black Magic vs. White Magic:  Das hat absolut nichts mit der Hautfarbe des Magiers zu tun.
+  - Ein Schwarzer (darf man "Schwarzer" überhaupt noch sagen?) kann genauso weiße Magie praktizieren wie Weiße.
+  - Oder Gelbe oder Rote oder Grüne oder Blaue oder Graue oder Farblose oder Durchsichtige!
+  - Die meiste richtig üble Schwarze Magie wird meist von Weißen praktiziert.  Nix Vodoo, sondern FinTech und vor allem Banker!
+- Dunkle Haut vs. Helle Haut:  Während hierzulande normalerweise eine "gute Bräune" erwünscht ist, wollen die Asiatinnen meist helle Haut haben und meiden die Sonne wie die Pest.
+  - Das mit der hellen Haut hat aber nichts mit "Weiß = gut" zu tun, sondern mit "fahler Haut", weil man dann zur "Elite" gehört, die nicht "draußen auf dem Feld arbeiten" muss!
+  - Genauso ist das hierzulande mit der Bräune.  Wer braun ist der hat Zeit in der Sonne rumzuliegen oder pflegt sich im Sonnenstudio.  Wer fahl ist ist ist hingegen ein Stubenhocker, halt nur so irgendein uninteressanter austauschbarer Bürohengst.
+  - Das sind die Vorurteile, die viel wichtiger zu bekämpfen wären als Blacklist/Whitelist.  Allerdings sind auch diese Vorurteile so unendlich unwichtig, dass man das nicht einmal in Betracht ziehen sollte!
+- Dark vs. Light: Dunkel ist böse.  Weil wir es nicht sehen können.  Stichwort Autofahren, s.o., ist da nur ein Teil.
+  - Da unterscheidet sich der Mensch vom Tierreich, im Tierreich ist "Licht" oft böse (Anglerfisch, Motte)
+  - Die nachtaktiven Tiere sind in der Nacht aktiv, weil dann ihre Feinde sie meistens nicht so leicht orten können
+  - Tagaktive Tiere tarnen sich, sprich, sie unterscheiden sich optisch so schlecht wie möglich von ihrer Umgebung,
+    strahlen also möglichst kein eigenes besonderes Licht aus.
+  - Nicht immer ist "Licht" gut, die strahlende Zukunft ist böse, wenn man hier an Radioaktivität denkt.
+  - Trotzdem wird, ohne konkreten Kontext, "Licht" immer eher als Gut und "Dunkelheit" immer eher als böse angesehen.
+  - Deshalb haben die meisten Kinder unwillkürlich Angst bei Dunkelheit, und deshalb gibt es Nachtlichter
+  - **Dagegen etwas zu unternehmen bedeutet unsere Kinder mit Gewalt zu verbiegen!**  Auch wenn wir das nur sprachlich tun ist das ganz sicher **nicht politisch korrekt**!**
+
+Sprich:  Wir verstoßen im Namen der Politischen Korrektheit gegen die Politische Korrektheit!
+Bravo, Applaus, echt gut gemacht ihr Spacken!
+
+(Die Politische Korrektheit gegen sich selbst einzusetzen ist eine Art der Gödelisierung.  Ich liebe diesen Ansatz!)
