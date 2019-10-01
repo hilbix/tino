@@ -18,10 +18,15 @@ So jedenfalls der Schluss, zu dem ich gekommen bin.
 Wer also sagt, die IP hätte in der DSGVO einen personenbezug, und zwar nicht nur in besonderen Fällen,
 der macht sich die Sache nicht nur viel zu einfach, sondern erzählt schlicht Stuss.
 
+> Wenn jemand [das BGH-Urteil VI ZR 135/13 vom 16.05.2017](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=vi%20zr%20135/13) als Beweis seiner Behauptung heranzieht,
+> die IP sei personenbezogen, ist er schlicht ein Troll, ein Idiot oder verfolgt sogar eine böse Absicht.
+
 
 # Ist die IP ein personenbezogenes Datum?
 
 Im Internet vertreten einige Juristen oft die Auffassung, eine IP wäre ganz klar ein personenbezogenes Datum.
+
+> Vermutlich aufgrund eines vollkommenen Unverständnisses vom [BGH-Urteil VI ZR 135/13 vom 16.05.2017](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=vi%20zr%20135/13)
 
 Aber ich habe von der IP als Techniker ein vollkommen anderes Verständnis wie alles funktioniert,
 und bin der festen Überzeugung, dass es nicht so sein kann, weil es sonst das Internet nicht gibt.
@@ -29,10 +34,40 @@ und bin der festen Überzeugung, dass es nicht so sein kann, weil es sonst das I
 > Und als Mathematiker fällt mir auf, dass es weniger IPv4 als Menschen gibt.  Wie kann die IP da Surjektiv sein?
 
 Natürlich kann die IP ein personenbezogenes Datum darstellen (insbesondere im Zusammenhang mit einem Timestamp).
-Aber das kann nicht die Regel darstellen!
+Aber das kann (und darf) nicht die Regel darstellen!
+
+> Ich gehe einfach davon aus, dass die Gerichte keinen Mist bauen, sondern die Leute die Urteile schlicht fehlinterpretieren.
+> Ganz besonders dann, wenn sie nicht vom Fach sind, also z. B. Juristen und keine Techniker sind.
+>
+> Gehen wir einfach mal von einem Urteil aus, das verlangt etwas zu tun, das physikalisch unmöglich ist.
+> Also von etwas, das es in diesem Universum niemals geben wird, aber das nicht zu tun unter eine empfindliche Strafe fällt.
+>
+> In diesem Fall kann dieses Urteil in dem Einzelfall weiterhin korrekt sein, weil es unter den dortigen Umständen
+> zufällig doch umsetzbar war.  So funktioniert Quantenphyik nämlich.  Aber so etwas kann man dann eben nicht generalisieren,
+> wenn es dafür keine Generalisierung gibt.  Denn so funktioniert die Quantenphysik ebenfalls.
+>
+> Also, ob es soetwas überhaupt in genereller Form gibt oder geben kann, das wissen schlicht nur die Physiker,
+> und mit absoluter Sicherheit eben keine Juristen!
+>
+> Genauso verhält es sich mit dem IP-Urteil.  Hier muss man den Techniker und nicht den Juristen fragen,
+> ob das Urteil so überhaupt technisch generell umgesetzt werden kann.  Juristen haben sich da rauszuhalten,
+> denn sie können gar nicht beurteilen, wie die Technik funktioniert.  Fragt der Jurist also bei der Beurteilung
+> den Techniker nicht, kann am Ende nur absoluter Müll herauskommen.
+>
+> Im [BGH-Urteil VI ZR 135/13 vom 16.05.2017](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=vi%20zr%20135/13)
+> geht es um die IP hinsichtlich der Datenverarbeitung von staatlichen Behörden.
+> Dort ist IP ganz klar personenbezogen.  Warum?  Der ISP hat ein Verzeichnis, das die IP der Person zuordnen kann.
+> Der Staat hat wiederum einen direkten Zugriff auf den ISP, und zwar weil er der Gesetzgeber ist (siehe VDS).
+> Somit kann der Staat die IP auf den Nutzer beziehen.  Und somit ist es ein personenbezogenes Datum gem. DSGVO.
+>
+> Deshalb kann in dem Urteil die DSGVO zwar verwendet werden, aber das Urteil kann nicht generalisiert werden a la
+> "Die IP ist personenbezogen.  Punkt." sondern nur begriffen werden "In diesem Zusammenhang ist die IP personenbezogen.
+> Über alles andere können wir keine Aussage treffen, da das Urteil dazu keine Aussage tätigt.  Punkt."
+>
+> Und wer etwas anderes behauptet, der ist schlicht ein Idiot im klassischen Sinne.
 
 Denn wenn die IP immer ein personenbezogenes Datum wäre, dann haben wir nicht nur ein kleines Problem, sondern ein extremes.
-Und nicht nur im Internet, sondern Europaweit auf jeder Ebene der Existenz.
+Und nicht nur im Internet, sondern europaweit auf jeder Ebene der Existenz.
 Denn dann wäre alles in einer derartigen Schieflage, dass gar nichts mehr funktioniert.
 (Aber diese Richtung führt uns auf Abwege, deshalb gehe ich hier nicht näher darauf ein.
 Ein Anklang wird hoffentlich aus den Beispielen erkennbar.)
@@ -41,7 +76,7 @@ Ein Anklang wird hoffentlich aus den Beispielen erkennbar.)
 > Aber Vorsicht, juristischem Gebiet [bin ich ein Idiot](https://de.wikipedia.org/wiki/Idiotes).
 
 Um nun herauszufinden, was die IP denn nun ist, personenbezogen oder nicht, muss ich leider etwas weiter ausholen.
-Aber dann wird es hoffentlich zu 101% klar, wie es zu verstehen ist.
+Aber dann wird es hoffentlich zu 101% klar, wie zu verstehen ist, was ich hier sagen will.
 
 
 # Zuerst einmal, wie es im alten Gesetz war
@@ -70,18 +105,18 @@ Wichtig beim alten Gesetz war, dass die Regelung davon unerheblich war, ob ich d
 Es reichte aus, dass irgendwer das kann, selbst wenn es nur die Person selbst ist!
 
 Das war ein wesentlicher Eckpfeiler des alten Datenschutzgesetzes, nämlich dass man hier nicht argumentieren konnte.
-(Anders gesagt galt als Eselsbrücke:  Wer dachte zu argumentieren, der hatte das Datenschutzgesetz gebrochen.)
+(Anders gesagt galt als Eselsbrücke:  "Wer im BDSG denkt, er kann argumentieren, der bricht damit das Datenschutzgesetz.")
 
 Ich konnte nicht sagen "also 'blau' kann nicht personenbezogen sein, das ist nur eine Farbe".  Wenn das im Feld
 Augenfarbe stand, dann war das ein klare personenbezogenes Datum, egal wie ich mich drehte oder wendete.
 
-Denn die alte Welt des Datenschutzgesetzes war rein binär.
+Denn die alte Welt des Datenschutzgesetzes war rein binär.  
 Entweder etwas war personenbezogen oder nicht.  Da gab es nix fallweises, über das man hätte diskutieren können.
 Wenn ich also anfing, darüber zu schwadronieren, warum etwas keinen Personenbezug hatte, dann war es klar personenbezogen.
 
 So einfach war die Welt damals.  (Und das Datenschutzgesetz war entsprechend ein zahnloser Papiertiger.
 Denn Strafen beim Verstoß gab es nicht, der Datenschutzbeauftragte konnte nur den Finger heben und mahnen.
-Strafen gab es nur im Fall der Fälle, wenn jemand konkret dadurch geschädigt wurde.
+Strafen gab es nur im Fall der Fälle, wenn jemand konkret dadurch geschädigt wurde und das nachweisen konnte.
 Und das war in den meisten Fällen mehr als nur unmöglich nachzuweisen.)
 
 Beispiel:
@@ -92,6 +127,8 @@ Beispiel:
 - Aber der Fahrer des Autos muss nicht notgedrungen die gesuchte Person sein!
 - Damit ist das Autokennzeichen kein personenbezogenes Datum.
 
+> Dazu gab es ein entsprechendes Urteil, und das war auch vollkommen korrekt.
+
 Das hat sich in der DSGVO radikal geändert.  Und das ist sowohl gut als auch schlecht.
 
 
@@ -100,7 +137,7 @@ Das hat sich in der DSGVO radikal geändert.  Und das ist sowohl gut als auch sc
 In der DSGVO geht es nicht mehr darum, ob irgendwer auf diesem Planeten in der Lage sein könnte,
 von dem Aspekt auf die Person zu schließen.
 
-In der DSGVO geht es darum, ob ich, konkret, evtl. mit der Hilfe eines Dritten,
+In der DSGVO geht es darum, ob ich, konkret, evtl. unter Zurhilfenahme eines Dritten,
 anhand des Aspekts auf die Person schließen kann.
 
 > Wenn ich also die Daten an eine Auskunftei geben kann und diese ermittelt mir dann die Person,
@@ -109,10 +146,10 @@ anhand des Aspekts auf die Person schließen kann.
 Das ändert vieles.  Die Augenfarbe eines Menschen ist zwar in der Regel personenbezogen,
 kann ich diese Angabe aber - ganz konkret - nicht auf eine bestimmte Person beziehen,
 ist die Angabe für *mich* nicht mehr personenbezogen,
-und *ich* unterliege nimmer den strengen Bedingungen in der DSGVO.
-(Das gilt aber nur für mich und mich allein.)
+und *ich* unterliege nimmer den strengen Bedingungen in der DSGVO.  
+(Das gilt aber nur für mich und mich allein.  Wer das generalisiert, der spinnt mal wieder!)
 
-Die DSGVO hat für solche Daten eine neue Kategorie, die es früher nicht gab:  Pseudonyme Daten.
+Die DSGVO hat für solche Daten eine neue Kategorie, die es früher nicht gab:  **Pseudonyme Daten.**
 
 Das sind alle Daten, die sich auf eine Person beziehen, aber die so angelegt sind, dass ich aus diesen Daten
 nicht (mehr) auf die Person schließen kann.
@@ -123,15 +160,28 @@ also z. B. in der Form einer Tabelle in der auch Name und Anschrift stehen, werd
 
 Der Vorteil ist, trenne ich die Informationen voneinander auf eine Weise, dass ich sie nicht mehr zusammenführen kann,
 dann wird alleine die Zusammenführung zum Personenbezug, und alles andere kann ich laxer handhaben.
+(Ich muss also nur die Zusammenführung schützen, nicht den Rest.)
 
 Logisch erscheint so eine Trennung schwierig.  Technisch ist das sogar recht einfach zu lösen!
 Deshalb ist das auch mehr als nur sehr relevant für die Praxis!
+
+> Der DSGVO ist hier - technisch gesehen - ein ziemlich großer Wurf gelungen.  Nur bedeutet "technisch recht einfach"
+> lösbar nicht unbedingt, dass die Prozesse dies auch unterstützen.  Anders gesagt, man muss die Prozesse
+> um die Lösung herum aufbauen, man kann sie in der Regel eben nicht an die technische Lösung anpassen,
+> außer diese war zufällig vorher schon gegeben, was so gut wie unmöglich ist.  
+> Und dieser Prozessumbau, das ist das eigentlich schwierige Unterfangen.  Denn das ist alles andere als einfach.
 
 Die DSGVO stellt hier also eine Verbesserung gegenüber früher bereit, denn früher konnte ich nicht auskommen
 und musste den Prozess den Daten anpassen.  Heute kann ich die Daten dem Prozess anpassen.
 (Ich setze voraus, dass der Prozess die jeweiligen Gesetze erfüllt.)
 
-> Nein, diese Anpassung funktioniert überhaupt nicht so, wie ihr gerade denkt.
+> Und diese Anpassung funktioniert überhaupt nicht so, wie ihr gerade denkt.
+>
+> Und das ist auch kein Widerspruch zu vorher.  Denn die existierenden Prozesse sind einfach nur eins:
+>
+> Eine riesige datentechnische Katastrophe.  Solche Prozesse kann man nicht reparieren sondern muss sie ersetzen.
+> Durch einen anderen, geeigneten, Prozess.  Und diesem kann man dann die Daten anpassen.
+> Weil es dieser neue Prozess entsprechend erlaubt!  Und das macht es dann deutlich einfacher!
 >
 > Es reicht also nicht, eine Datenbank zu partitionieren, oder einfach die Daten umzudeklarieren.
 >
@@ -139,6 +189,8 @@ und musste den Prozess den Daten anpassen.  Heute kann ich die Daten dem Prozess
 > um ihn komplett gem. DSGVO neu zu schreiben.  Aber hat man erst einmal begriffen, wie das aussehen muss,
 > dann ist das eben keine Raketenwissenschaft mehr, sondern ergibt sich aus dem Geradeausweg quasi von selbst.
 > Einfach aus der Notwendigkeit heraus, sich an die DSGVO zu halten.
+>
+> Das Problem ist dabei eben nur, die alten überholten Prozesse loszuwerden.  Und das ist oftmals vollkommen illusorisch!
 >
 > Übrigens hat sich da aus den Zeiten des Datenschutzgesetzes eher nichts verändert.
 > Hätte man es schon damals vollständig richtig gemacht, dann hat man es heute mit der DSGVO eindeutig leichter!
@@ -148,11 +200,16 @@ und musste den Prozess den Daten anpassen.  Heute kann ich die Daten dem Prozess
 >
 > Allerdings ist dieser Fehler verständlich.  Erst aus der DSGVO ergeben sich klare Implementierungsweisen,
 > vorher hat man sozusagen im Vakuum gerudert ohne klaren Weg vor Augen.
+> Und wer damals dann den Datenschutz ignoriert, auf die Leichte Schulter genommen oder schlicht nicht verstanden hatte,
+> der hat halt jetzt das Nachsehen.
 
 Aber eine Sache ist hier wichtig:  Früher war alles binär.  Entweder es war ein personenbezogenes Datum, oder nicht.
 
 In der DSGVO kommt es jetzt entscheidend auf den Kontext an.  Und zwar nicht nur den Kontext, in dem die Daten
 gespeichert sind, sondern auch den Kontext davor (also der Erhebung) und danach (also Verarbeitung).
+
+> Wer die Daten im jetzt ananlysiert und die Vergangenheit oder Zukunft dabei vergisst,
+> der hat die DSGVO nicht verstanden und wird irgendwann zwangsläufig Schiffbruch erleiden.
 
 Ist ein Datum im Kontext personenbezogen, dann muss ich die strengeren Regeln der DSGVO ansetzen.
 Wenn nicht, dann reichen die laxeren.
@@ -160,7 +217,8 @@ Wenn nicht, dann reichen die laxeren.
 > Und wenn ich es falsch mache, dann kann ich das nicht irgendwie hinterher reparieren oder von der Person
 > nachträglich abgesegnen lassen.  Nö, dann habe ich mich nicht an die DSGVO gehalten und handelte klar illegal.
 >
-> Das ist ein anzeigepflichtiger Datenschutzverstoß!
+> Handelte.  Also in der Vergangenheit.  Das kann ich nimmer reparieren.
+> Denn das ist ein anzeigepflichtiger Datenschutzverstoß!
 >
 > So einfach ist das jetzt.  Also entweder mache ich es gleich richtig, oder lasse es besser ganz bleiben!
 > (Das ist so wie mit der Weltherrschaft.  Entweder ich mache es gleich von Anfang an richtig und kann die an mich reißen,
@@ -182,6 +240,10 @@ Dann muss ich mich auch nimmer darum kümmern, was passiert, wenn diese Daten Be
 
 Den die pseudonymisierten Daten kann ja keiner mehr zusammenfügen, so dass ein Personenbezug entsteht.
 
+> Und wenn doch?  Dann habe ich bei der Pseudonymisierung einen Fehler gemacht, bin also schuldig gem. DSGVO!
+>
+> Es ist jetzt tatsächlich so einfach.
+
 
 # Konkretes Beispiel
 
@@ -198,7 +260,7 @@ Und auch auf mein Nachfragen hin hat er sich geweigert, eine entsprechende DSGVO
 Verstößt der Landkreis also gegen die DSGVO?
 
 Mitnichten!  Denn diese Daten sind nur gemäß des alten Datenschutzrechts personenbezogen,
-gemäß der neuen DSGVO sind sie es nimmer.
+gemäß der neuen DSGVO sind sie es nimmer!
 
 Nochmals zum Mitdenken:
 
@@ -209,7 +271,8 @@ Und *trotzdem* gibt es dort keinerlei personenbezug zu mir gem. DSGVO!
 
 **Behaupte nicht ich.  Behauptet der Landkreis Augsburg.**
 
-Aber nach reiflicher Überlegung denke ich, er hat damit Recht!
+Aber nach reiflicher Überlegung denke ich, er hat damit absolut Recht!
+
 Dieses Vorkommnis hat bei mir jedenfalls zu einem wesentlichen Verständnis der DSGVO beigetragen.
 Ich habe sie nämlich deswegen genauer studiert.  Und bin dabei zu diesem Schluss gekommen:
 
@@ -238,7 +301,7 @@ Derjenige bin nicht ich, sondern ist der Hausbesitzer.  Das kann in Personalunio
 
 Dieser Hausbesitzer trägt in meinem Fall - sozusagen zufällig - denselben Namen wie ich.
 Aber diese Angabe ist nicht mit meiner Person identisch, sondern eben nur mit demjenigen,
-der die Müllrechnung begleicht.  Und es ist nun enmal so, dass nicht überall dieser Jemand
+der die Müllrechnung begleicht.  Und es ist nun einmal so, dass nicht überall dieser Jemand
 dort wohnt, wo die Mülltonne beheimatet ist!  Und aus einem Namen ohne weitere Angaben
 kann niemand einen Personenbezug herstellen.  Naja, in meinem Fall zwar schon,
 denn mein Name ist weltweit ziemlich selten, aber bei Müller ist das halt anders.
@@ -249,6 +312,19 @@ um einen Personenbezug herzustellen, sondern es sind zwei voneinander unabhängi
 PSEUDONYME Datensätze, die zusammen auf der Tonne kleben um zu ihr einen Bezug herstellen.
 
 Und dieser eindeutige Bezug auf die Tonne funktioniert logischerweise nicht, wenn nur eine Adresse oder nur ein Name angegeben wäre.
+
+> Und ob ein so zufällig entstehender scheinbarer Personenbezug etwas ist das gem. DSGVO
+> geregelt gehört, halte ich für eher unwahrscheinlich.
+>
+> Ich kann einen Zufallsgenerator bauen, der zufällig aus einer Zahl einen Namen mit Adresse ausspuckt.
+> Dadurch werden Zahlen ja per se nicht plötzlich personenbezogen, nur weil jemand zu seiner Adresse
+> dann die Zahl bestimmen kann und umgekehrt!  Sie werden es erst dann, wenn ich sie dazu verwende!
+>
+> Wenn dem anders wäre, dann baue ich einen Algorithmus, der genau zu der von mir unerwünschten Zahl
+> meine Adresse ausspuckt, und dann kann ich jeden, der diese unerwünschte Zahl verwendet anzeigen,
+> weil er meine personenbezogenen Daten ohne meine Erlaubnis verwendet?
+>
+> Quark!  Kann gar nicht sein!
 
 Dass bei mir dadurch rein prozesstechnisch ein Personenbezug entsteht, das ist so nicht intendiert.
 Es dürfte zwar häufig sein, aber bleibt trotzdem nicht beabsichtigt, da der Prozess,
@@ -277,7 +353,7 @@ nicht um personenbezogene Daten".  Das konnte man früher machen.  Heute nimmer!
 Heute kommt es immer auf den Kontext an, in dem die Daten stehen.
 
 Was für den einen personenbezogene Daten sind, kann für jemand anderen nur eine
-Ansammlung zusammengewürfelter Daten darstellen.  Und Umgekehrt!
+Ansammlung zusammengewürfelter Daten darstellen.  Und umgekehrt!
 
 Durch die Weitergabe können aus pseudonymisierten Daten plötzlich personenbezogene Daten werden,
 genauso wie umgekehrt:  Ich kann meine personenbezogenen Daten so weitergeben, dass diese pseudonymisiert sind
@@ -286,6 +362,9 @@ genauso wie umgekehrt:  Ich kann meine personenbezogenen Daten so weitergeben, d
 Sprich:  Nicht die Daten entscheiden was sie sind, und auch nicht die Vergangenheit.
 Sondern mit jedem Schritt, den ich tue, mit jeder Verarbeitung, muss ich mich jedes Mal neu entscheiden,
 worum es sich bei den Daten handelt.
+
+Mache ich dabei etwas falsch, kann ich das nimmer kitten.  Die Vergangenheit entscheidet also hier,
+ob ich falsch gehandelt habe oder nicht.  Und das tut sie ultimativ.
 
 Das ist aber wesentlich besser als früher.  Früher waren mir die Hände gebunden.  Ich konnte keinen Einfluss nehmen.
 Heute habe ich alle Freiheiten, aber halt auch alle Risiken.
@@ -298,7 +377,7 @@ Die IP ist erst einmal ein rein technisches Datum.  Eine Adresse einer Gegenstel
 Das Internet ist P2P.  Damit ist die Erhebung, Speicherung und Verarbeitung von IPs unabdingbar.
 Es ist ein grundlegender Eckpfeiler, wie das Internet funktioniert.  Und niemand erwartet, dass wir das ändern.
 
-**Die IP ist unmöglich personenbezogen.**
+**Die IP per-se ist damit unmöglich personenbezogen.**
 
 Wäre die IP personenbezogen, darf ich sie nur mit Einwilligung bzw. Aufklärung der Person verwenden.
 Ohne dies kann ich sie also weder erheben, speichern noch verarbeiten.
@@ -306,10 +385,12 @@ Da ich aber nicht weiß, welche Person gerade mit mir über die IP in Kontakt tr
 kann ich nicht herausfinden, ob ich eine solche Einwilligung hätte!
 Das kann ich niemals herausfinden, ohne die IP zu verarbeiten!
 
-Wie soll ich nun einen Web-Request verarbeiten, wenn ich nicht antworten darf?  TCP benötigt nunmal Antwortpakete.
+Wie soll ich nun einen Web-Request verarbeiten, wenn ich weder nachschlagen kann ob ich antworten darf
+noch wissen kann, ob ich antworten darf?  TCP benötigt nunmal Antwortpakete, und diese enthalten die IP,
+womit ich sie verarbeiten muss.
 
-Damit ich also die Daten überhaupt empfangen darf, muss es mir erlaubt sein, beliebige IPs zu verarbeiten!
-Somit kann die IP gar nicht personenbezogen sein, denn sonst greift die DSGVO.
+Damit ich also die Daten überhaupt empfangen darf, muss es mir erlaubt sein, beliebige IPs zu verarbeiten.
+Somit kann die IP gar nicht personenbezogen sein, denn sonst greift die DSGVO und verbietet das.
 
 Und selbstverständlich darf ich die IP auch ohne Einschränkung an Dritte weitergeben.
 Das geht auch gar nicht anders.  Wenn ich das nicht dürfte, funktioniert das Routing im Internet nicht mehr,
@@ -325,31 +406,35 @@ Wie der Aufdruck auf der Mülltonne ist die IP also genausowenig ein personenbez
 
 **Aber**
 
-Selbstverständlich kann ich aus der IP ein personenbezogenes Datum machen, indem ich es mit weiteren Daten verknüpfe.
+Selbstverständlich **kann man aus der IP ein personenbezogenes Datum machen**, indem man sie mit weiteren Daten verknüpft.
 
 Es kommt also alleine auf die Nutzung der IP bei mir an, ob sie einen Personenbezug darstellt oder nicht.
+Und diese Nutzung habe ich im Griff und definiere ich, und ich allein.
 
-Und aus der IP ein personenbezogenes Datum zu machen ist jedoch ziemlich schwer.
+Aus der IP ein personenbezogenes Datum zu machen ist jedoch ziemlich schwer.
 Selbst wenn ich den ISP kontaktiere, dem die IP zugeordnet wurde, und über diesen den Anschlussinhaber ermitteln könnte,
-ist (vergleiche Mülltonne) noch nicht gesagt, dass ich die Person habe.
+ist (vergleiche Mülltonne) noch nicht gesagt, dass ich die Person habe, die die IP nutzt.
 
 Und selbst wenn ich die IP ganz konkret den Daten eines meiner User zuordnen kann, also jemand, der mir bestens bekannt ist,
-bedeutet das noch lange nicht (vergleiche Autokennzeichen), dass der Verursacher auch dieser User ist.
+bedeutet das noch lange nicht (vergleiche Autokennzeichen), dass der Verursacher auch dieser User ist, der gerade aktiv ist.
 
 Wichtig in diesem Zusammenhang ist aber, dass ich eben nicht einfach so ausschließen kann, dass die IP ein personenbezogenes Datum ist.
 Ich muss also bei jedem Schritt eines Prozesses darauf achten, ob die IP nicht plötzlich in dem Zusammenhang,
 in dem ich sie verwende, einen Personenbezug erhält oder nicht.
 
-> Das war früher übrigens anders.  Da war die IP ein personenbezogenes Datum!
+> Das war früher übrigens anders.  Da war die IP ein personenbezogenes Datum!  Immer!
 
 Dieser Dualismus der IP ist aber technisch kein Problem.  Technisch kenne ich den Prozess.  Ich weiß, was dieser tut.
 Ich habe den definiert und außerdem im Griff.  Statt jetzt die IP zu bewerten, kann ich den Prozess bewerten.
 Und dann weiß ich, ob es eine Gefahr geben kann, dass eine IP einen Personenbezug erhält.
 
 Natürlich kann meine Einschätzung sich als falsch erweisen.  Aber das ist dann ein normaler Bug, also ein
-Implementierungsfehler, den man reparieren kann.
+Implementierungsfehler, den man hinterher noch reparieren kann.  Dann habe ich zwar in der Vergangenheit
+gegen die DSGVO verstoßen (was in der Regel meldepflichtig sein dürfte), kann den Fehler aber abstellen (was
+den Datenschützer zufriedenstellen dürfte).  Immer vorausgesetzt, der Prozess war DSGVO-konform gedacht und
+nicht dazu, diese zu ignorieren oder zu umgehen (in welchem Fall ich den Bug nicht immer beseitigen kann).
 
-Nur schlecht wenn das Verfahren so alt oder unklar definiert ist, dass man eben genau diesen Punkt nicht verifizieren kann.
+Schlecht also, wenn das Verfahren so alt oder unklar definiert ist, dass man eben genau diesen Punkt nicht verifizieren kann.
 
 
 # Fazit
@@ -361,15 +446,19 @@ Allerdings muss ich höllisch aufpassen, dass ich diese nicht aus Versehen um ei
 > Es soll dazu ein höchstrichterliches Urteil geben.  Das würde ich gerne mal lesen.
 > Leider wird es immer nur zitiert, aber die Quelle scheint geheim zu sein.
 >
-> Aber auch wenn es tatsächlich so ein Urteil gibt, die Technik können wir nicht ändern.
+> Einige Quellen habe ich gefunden, diese sind aber Murx oder geben einfach nicht das wieder, was die Leute behaupten.
+>
+> **Auch wenn es tatsächlich so ein Urteil gibt, die Technik können wir nicht ändern.**
 >
 > Um per IP der DSGVO zu entsprechen, muss ich die IP verwenden, bevor ich der DSGVO entsprechen kann!
 > Das kann ich aber nur, wenn die IP schon vorher der DSGVO entspricht.
-> Somit kann ich die an personenbezogene Daten geknüpften Bedingungen in der DSGVO niemals entsprechen.
+> Somit kann ich den an personenbezogene Daten geknüpften Bedingungen in der DSGVO niemals entsprechen,
+> diese dürfen also auf die IP nicht zutreffen.
 >
-> Das ist nämlich schlicht unmöglich.
+> Das wäre nämlich schlicht unmöglich.
 >
-> Deshalb gehe ich schlicht davon aus, dass die Leute das Urteil alle nicht verstanden haben, die es immer so geheimnisvoll zitieren.
+> Deshalb gehe ich schlicht davon aus, dass die Leute das Urteil alle nicht verstanden haben,
+> die es immer so geheimnisvoll zitieren.
 > (Dazu gehört übrigens auch die Wikipedia, die das ebenso behauptet, und zwar seltsamerweise ganz ohne Quellenangabe!)
 
 Und folgendes [habe ich dazu bei der Wikipedia hinterlassen](https://de.wikipedia.org/wiki/Diskussion:6to4#Datenschutzaspekt:_Quellangabe_fehlt_und_vermutlich_veraltet)
