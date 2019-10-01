@@ -4,7 +4,8 @@ Mein Fazit (das falsch sein kann) vorweg:
 
 Ob die IP ein pseudonymes Datum oder ein personenbezogenes Datum ist,
 das ist gem. DSGVO prinzipiell dieselbe Frage,
-wie in der Physik die Frage, ob ein Quant nun Welle oder Teilchen ist.
+wie in der Physik die Frage danach,
+ob ein Quant nun Welle oder Teilchen ist.
 
 Es hängt nämlich immer davon ab, was ich mit der IP tue:
 
