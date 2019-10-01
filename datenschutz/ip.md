@@ -527,6 +527,9 @@ Ich denke, der Fehler liegt weder in der DSGVO noch bei den Leuten, die Logfiles
 
 Diese ermitteln den Verursacher und müssen dem Antragsteller dann entsprechend Auskunft erteilen.
 **Genau diese Auskunft ist es, die gem. DSGVO dann den Bezug der IP zur Person herstellt.**  
+
+> Sage nicht ich, sagt der EUGH!
+
 Und genau diese Auskunft hat zu unterbleiben.  Punkt, aus und Ende.
 **Das muss Dringend verändert werden!**
 
@@ -534,21 +537,21 @@ Entweder wir ändern das, oder wir müssen das Internet abschalten.  Und zwar so
 
 Denn wenn ich die IP nicht speichern darf, dann darf ich sie auch nicht verarbeiten.
 
-Sage nicht ich.  Sagt die DSGVO!
+> Sage nicht ich.  Sagt die DSGVO!
 
 Wenn ich sie aber schon nicht verarbeiten darf, dann darf ich sie auch nicht verwenden.
 Auch nicht dazu, meine Datenschutzbestimmungen mitzuteilen.
 
-Sage nicht ich.  Sagt die DSGVO!
+> Sage nicht ich.  Sagt die DSGVO!
 
 Wenn aber aufgrund der Akteneinsicht bei den Ermittlungsbehörden jede IP jetzt personenbezogen ist,
 darf ich sie nicht verwenden, bevor ich die Datenschutzbestimmungen bekanntgegeben habe.
 
-Sage nicht ich.  Sagt die DSGVO!
+> Sage nicht ich.  Sagt die DSGVO!
 
 Da ich das aber nicht kann darf ich die IP niemals verwenden.
 
-Sage nicht ich.  Sagt die DSGVO!
+> Sage nicht ich.  Sagt die DSGVO!
 
 Die einzige Lösung, die ich sehe ist, die Praxis der Akteneinsicht zu verändern.
 Man darf zwar in die Akten einsehen, erfährt aber so nicht die Person, sondern nur, ob dieser ermittelt wurde.
