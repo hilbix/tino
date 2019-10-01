@@ -507,3 +507,68 @@ Ich hoffe mal, die EUGH-Aussage ist schlicht nicht auf die DSGVO übertragbar.  
   Cookie-Einwilligungen über ein Popup sind Null und Nichtig, und zwar aufgrund Art 7(2) Satz 2 wegen Art 7(3) Satz 4.  
   Denn wie kann ich genauso einfach widersprechen nachdem das Popup verschwunden ist?  
   Dass sie meistens auch noch gegen Art 7(4) sowie Art 30 Satz 3 verstoßen, ist hier gar nicht mehr relevant.
+
+
+# Nachtrag
+
+https://www.daten-speicherung.de/index.php/eugh-urteil-piraten-fordern-europaweites-verbot-der-surfprotokollierung/#Irrtum
+
+Dieser Argumentation dort kann ich nicht folgen.  Aus einem einfachen Grund:
+
+Wenn das so stimmt, dann müssen wir nicht nur das Internet abschalten.  **Dann gibt es in Zukunft auch keine Strafverfolgung mehr, da ich als Opfer oder Zeuge gem. DSGVO keine Daten mehr mehr z. B. an einen Richter weitergeben darf**, wenn diese dazu geeignet sein könnten, den Verursacher zu ermitteln - wodurch die Daten ja einen personenbezug bekommen, also personenbezogne Daten darstellen.
+
+Sprich so gut wie jegliche Datenweitergabe an Ermittlungsbehörden wären dann ein Verstoß gegen die DSGVO und somit ein meldepflichtiger Datenvorfall und stünden unter bis zu 2 Mio EUR Strafe!
+
+Ich kann mir einfach nicht vorstellen, dass das so korrekt sein kann.
+
+Ich denke, der Fehler liegt weder in der DSGVO noch bei den Leuten, die Logfiles mit IPs speichern.
+
+**Der Fehler liegt darin, wie bei uns die Justizbehörden arbeiten.**
+
+Diese ermitteln den Verursacher und müssen dem Antragsteller dann entsprechend Auskunft erteilen.
+**Genau diese Auskunft ist es, die gem. DSGVO dann den Bezug der IP zur Person herstellt.**  
+Und genau diese Auskunft hat zu unterbleiben.  Punkt, aus und Ende.
+**Das muss Dringend verändert werden!**
+
+Entweder wir ändern das, oder wir müssen das Internet abschalten.  Und zwar sofort.  Und nicht nur das!
+
+Denn wenn ich die IP nicht speichern darf, dann darf ich sie auch nicht verarbeiten.
+
+Sage nicht ich.  Sagt die DSGVO!
+
+Wenn ich sie aber schon nicht verarbeiten darf, dann darf ich sie auch nicht verwenden.
+Auch nicht dazu, meine Datenschutzbestimmungen mitzuteilen.
+
+Sage nicht ich.  Sagt die DSGVO!
+
+Wenn aber aufgrund der Akteneinsicht bei den Ermittlungsbehörden jede IP jetzt personenbezogen ist,
+darf ich sie nicht verwenden, bevor ich die Datenschutzbestimmungen bekanntgegeben habe.
+
+Sage nicht ich.  Sagt die DSGVO!
+
+Da ich das aber nicht kann darf ich die IP niemals verwenden.
+
+Sage nicht ich.  Sagt die DSGVO!
+
+Die einzige Lösung, die ich sehe ist, die Praxis der Akteneinsicht zu verändern.
+Man darf zwar in die Akten einsehen, erfährt aber so nicht die Person, sondern nur, ob dieser ermittelt wurde.
+
+Man kann dann Klage einreichen, in welchem Fall das Gericht die Person laden kann (da diese ja ermittelt wurde),
+oder man klagt eben nicht.
+
+Und das Gericht kann dann ggf. auch feststellen, ob die Angabe der Person überhaupt notwendig ist.
+Man kann ja ggf. auch die Klage führen, wenn der Angeklagte anonym ist, also z. B. von einem Anwalt vertreten wird.
+
+Wozu muss die klagende Stelle überhaupt die Person kennen gegen die sie klagt.  Verstehe ich nicht.
+
+Denn das zur IP gesagte gilt nicht nur für die IP.  Das gilt für alles und jeden.
+Das gilt für die Augenfarbe, für jeden Buchstaben, ja sogar für Gerüche, Sätze oder Meinungen.
+Das ist die ultimative Waffe gegen alle Daten, egal ob sie in Bits, physikalisch oder rein logisch vorliegen.
+
+Da unser Universum aber auf Daten basiert (jedenfalls behaupten das inzwischen die Mehrheit der Physiker)
+gilt das einfach wirklich für alles.  Insbesondere da wir ja wissen, dass die Wellenfunktion zwar kollabiert,
+dies aber nur mit Lichtgeschwindigkeit passiert, gilt das außerdem nicht nur für alles sondern auch überall.
+Sowohl im Heute, in der Vergangenheit und in Zukunft.
+
+Das ist doch Absurd!  Das man die Existenz der DSGVO opfert, nur weil es bei der Staatsanwaltschaf ein
+ungewschärztes Akteneinsichtsrecht gibt, das halte ich irgendwie für vollkommen absurd.
