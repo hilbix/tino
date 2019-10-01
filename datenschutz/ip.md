@@ -530,8 +530,8 @@ Diese ermitteln den Verursacher und müssen dem Antragsteller dann entsprechend 
 
 > Sage nicht ich, sagt der EUGH!
 
-Und genau diese Auskunft hat zu unterbleiben.  Punkt, aus und Ende.
-**Das muss Dringend verändert werden!**
+Und genau diese Auskunft hat zu unterbleiben.  Punkt, aus und Ende.  
+**Das muss dringend verändert werden!**  (Das sage allerdings nur ich)
 
 Entweder wir ändern das, oder wir müssen das Internet abschalten.  Und zwar sofort.  Und nicht nur das!
 
