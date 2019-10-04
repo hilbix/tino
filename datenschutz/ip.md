@@ -716,3 +716,26 @@ Ich brauche also einen rechtsgültigen Vertrag, der die Pflichten des Nutzers re
 Oder habe ich da irgendetwas komplett falsch verstanden?
 
 Nochmals:  Ich sehe das rein technisch, nicht juristisch.  Ich weiß nur, was technisch möglich ist und was nicht.
+
+> Hier eine kleine Liste der technischer Probleme bei der Umsetzung und das sind eine Sonderfälle, sondern der Normalfall:
+>
+> - Pixelfehler:  In eienr EU-Richtlinie ist festgelegt, wie Pixelfehler zu behandeln sind.  Auf modernen Großbildschirmen
+> darf es bis zu 10 Pixelfehler geben.  Das reicht aus, dass aus einem "kein" bei der Darstellung ein "ein" wird.
+> Da ich Pixelfehler auf einem Screenshot nicht sehen kann, sind Screenshots deshalb nicht zur Dokumentation geeignet.
+>
+> - Tourist-Information:  Frei zugängliche großflächige Touchscreens sind inzwischen weit verbreitet.
+>   Ruft jemand eine Webseite auf, und klickt das Cookie-Banner weg, ist es verschwunden.
+>   Das Infoterminal hat aber ständig wechselnde Betrachter.  Der nächste, der vorbeikommt,
+>   kann auf der Webseite weitersurfen.  Es ist also nicht sichergestellt, dass der Nutzer,
+>   der dann etwas auf der Webseite ausfüllt, die Hinweise überhaupt jemals zur Kenntnis genommen hat.  
+>   Technisch kann ich das z. B. mit Gesichtserkennung lösen.
+>   Es ist aber technisch eher unüblich, dass solche Geräte eine Kamera haben, eben genau aus Datenschutzgründen.
+>
+> - Couch-Potato:  So gut wie jeder Fernseher heutzutage kann Internet.  Tablets sind weit verbreitet.
+>   Gerade in diesem Umfeld ist es eher üblich, dass die Nutzer wechseln.  Tablets werden weitergereicht,
+>   Ehepaare sitzen abwechselnd vor dem Fernseher, usw.  Wenn der Mann also eine Seite aufgerufen hat,
+>   dann die Frau von der Toilette kommt und der Mann das zum Anlass nimmt, auf die Toilette zu gehen,
+>   was gerade bei älteren Menschen geradezu üblich ist, wechselt der Nutzer ohne dass die Webseite das mitbekommt.
+>
+> usw.  Das mag man heute noch als "selten" abtun, wird aber zunehmend mehr und mehr.
+> Eine korrekte technische Umsetzung muss all das deshalb schon heute berücksichtigen!
