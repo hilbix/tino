@@ -662,3 +662,57 @@ Habe ich da irgendetwas falsch verstanden?
 > Denn es ist unklar, ob ich die IP überhaupt verwenden darf.
 >
 > Aus dieser Regelung aber geht eigentlich ziemlich klar hervor, wie eine Webseite auszusehen hat.
+
+Eine weitere Lesart - hat aber nichts mit der IP zu tun - ist, dass Cookie-Banner grundsätzlich verboten sind, egal wie sie implementiert wurden.
+
+- Nur wenn es so etwas wie einen Login gibt, dann sind Session-Cookies nach dem Login notwendig.  Ansonsten nicht.
+- Permanente Cookies sind grundsätzlich niemals irgendwie notwendig, können sich also niemals auf die Ausnahmen in
+  Art 5 (3) beziehen.
+- Ein Cookie-Banner ist grundsätzlich nicht dazu geeignet, Art 5 (3) zu entsprechen,
+  da nicht sichergestellt ist, dass diese Information beim Nutzer ankommt.  Denn:  
+  Wie die Informationen aus einem semantischen Web entnommen werden obliegt dem Browser und nicht dem Webseitenersteller.
+- "auf das Recht hingewiesen wird, diese Verarbeitung zu verweigern" ist somit im Internet immer notwendig.
+  - Nicht erklärt wird leider, wie diese Verweigerung auszusehen hat.
+  - Technisch bedeutet das für Nutzer wohl, dass ich an dieser Stelle die weitere Kommunikation abbrechen können muss ohne dass dies Folgen hat.
+  - Wenn die Kommunikation weitergeführt wird, bedeutet das für den Server aber nicht automatisch, dass der Hinweis ankam!
+  - Es muss also auf der Seite des Servers technisch festgestellt werden,
+    dass jemand tatsächlich auf der Clientseite auf das Recht hingewiesen wurde,
+    sonst ist der Vorgang unzulässig.
+  - Es muss also eine explizite Aktion des Nutzers erfolgen, die nicht automatisiert durch einen Bot erfolgen kann.
+- Setzt der Nutzer DNT hat er ja bereits verweigert.
+  - Es ist unklar, wie damit umzugehen ist.
+  - Eigentlich bedeutet das, jeder der **DNT einschaltet darf kein Cookie-Banner mehr bekommen**, da er ja schon explizit verweigert hat.
+  - **Dass DNT kein Standard ist ist unerheblich.**  Eine Verweigerung ist an kleine Form gebunden und erfolgt gerade dann,
+    wenn diese konkludent erfolgt.  Wenn ich aber bereits durch DNT die Verweigerung ausgesprochen habe, und trotzdem
+    eine Zustimmung verlangt wird, stellt dies in meinen Augen eine Nötigung zur Datenverarbeitung dar,
+    da dies ja den Fehler provoziert, dass jemand trotz seiner expliziten Ablehnung aus Versehen zustimmt.
+
+Das bedeutet für mich, wenn ich das richtig interpretiert habe:
+
+- Ich muss also den Nutzer aufklären
+- Ich muss nachweisen können, dass diese Aufklärung beim Nutzer ankam
+- Ich muss dem Nutzer eine Möglichkeit anbieten, zu widersprechen
+- Erst bei expliziter Zustimmung darf ich permanente Cookies verwenden
+  - Es gibt keine "notwendigen permanenten Cookies", sprich, denen kann man immer widersprechen
+  - Lediglich bei Session-Cookies gibt es - aber erst nach der Aufklärung - eine Ausnahme in Art 5 (3) von Richtline 2002/58/EG, diese kann ich auch bei Widerspruch nutzen wenn sie z. B. für einen Login technisch notwendig sind.
+- Hat der Nutzer DNT gesetzt, muss ich weiterhin aufklären.
+  - Aber ich darf dann nicht den Fehler einer möglichen unabsichtlichen Zustimmung provozieren
+
+Während ich das mit der Verweigerung vermutlich recht gut verstanden habe, erschließt sich mir nicht einmal Ansatzweise,
+Wie das mit der Zustimmung aussieht.  Ich habe bisher jedenfalls keine technische Möglichkeit gefunden,
+**dies korrekt umzusetzen, außer den Nutzer vertraglich zu binden**.
+
+Grund:
+
+Der Nutzer an einem Browser kann jederzeit wechseln.  Wenn also eine Zustimmung in einer Session vorliegt,
+bedeutet das noch lange nicht, dass die Zustimmung auch von dem Nutzer vorliegt, der den Browser gerade verwendet.
+
+Da die Daten auf dem Rechner des Nutzers gespeichert sind, habe ich über diese Daten nur dann eine Kontrolle,
+wenn ich den Nutzer vertraglich zu einer bestimmten **Form des Umgangs dieser Daten verpflichtet habe.
+Mit AGB oder irgendwelchen Klauseln die ich in meiner Datenschutzerklärung darstelle kann ich das nicht.**
+
+Ich brauche also einen rechtsgültigen Vertrag, der die Pflichten des Nutzers regelt, wie er mit diesen Daten umzugehen hat.
+
+Oder habe ich da irgendetwas komplett falsch verstanden?
+
+Nochmals:  Ich sehe das rein technisch, nicht juristisch.  Ich weiß nur, was technisch möglich ist und was nicht.
