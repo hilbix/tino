@@ -698,7 +698,7 @@ Das bedeutet für mich, wenn ich das richtig interpretiert habe:
 - Hat der Nutzer DNT gesetzt, muss ich weiterhin aufklären.
   - Aber ich darf dann nicht den Fehler einer möglichen unabsichtlichen Zustimmung provozieren
 
-Während ich das mit der Verweigerung vermutlich recht gut verstanden habe, erschließt sich mir nicht einmal Ansatzweise,
+Während ich das mit der Verweigerung vermutlich recht gut verstanden habe, erschließt sich mir nicht einmal ansatzweise,
 Wie das mit der Zustimmung aussieht.  Ich habe bisher jedenfalls keine technische Möglichkeit gefunden,
 **dies korrekt umzusetzen, außer den Nutzer vertraglich zu binden**.
 
