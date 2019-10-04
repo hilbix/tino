@@ -511,6 +511,8 @@ Ich hoffe mal, die EUGH-Aussage ist schlicht nicht auf die DSGVO übertragbar.  
 
 # Nachtrag
 
+## Depseudonymisierung der IP durch Ermittlungsbehörden
+
 https://www.daten-speicherung.de/index.php/eugh-urteil-piraten-fordern-europaweites-verbot-der-surfprotokollierung/#Irrtum
 
 Dieser Argumentation dort kann ich nicht folgen.  Aus einem einfachen Grund:
@@ -575,3 +577,88 @@ Sowohl im Heute, in der Vergangenheit und in Zukunft.
 
 Das ist doch Absurd!  Das man die Existenz der DSGVO opfert, nur weil es bei der Staatsanwaltschaf ein
 ungewschärztes Akteneinsichtsrecht gibt, das halte ich irgendwie für vollkommen absurd.
+
+### Fazit
+
+Was der EuGH schreibt ist richtig!  Nur die Interpretation davon ist IMHO falsch.
+
+Durch die Weitergabe der IP an unsere Justizbehörden (und ggf. anderer Gesetze) und die anschließende Akteneinsicht wird die IP zu einem personenbezogenen Datum.  Daran ändert sich auch dann nichts, wenn man die IP gar nicht weitergibt, denn gem. DSGVO reicht es, wenn man diesen Weg beschreiten kann, und dass man das kann, das ist unzweifelhaft der Fall.
+
+Aufgrund der daraus folgenden strengeren Rechtsvorschriften ist die IP also als Kommunikationsmittel im Internet nicht mehr geeignet.  **Das Internet muss abgeschaltet werden!**  Denn man kann die Vorschriften in der DSGVO im Internet unmöglich ohne Verwendung der IP selbst einhalten, da ich der IP nicht ansehe, ob diese personenbezogen oder anonymisiert ist.  Ich darf ja nur mit anonymisierten IPs arbeiten, die ich auf keinen Fall depseudonymisieren kann.  Da man aber ohne Verwendung der IP nicht kommunizieren kann, und ohne Kommunikation die DSGVO nicht erfüllen kann, ist dieser Teufelskreis technisch nicht zu lösen.
+
+Da die EU mit der europäischen Datenschutzrichtlinie sicher nicht die Abschaltung des Internet in Deutschland verlangt, liegt der Fehler also nicht in der DSGVO selbst, sondern daran, wie die deutschen Justizbehörden mit der IP umgehen.  Sie schaffen ein Verzeichnis, welches jedem die Deaonymisierung gestattet.  Diese Praxis ist deshalb unbedingt zu beenden, was jedem erst das Einhalten der DSGVO im Internet hinsichtlich der IP ermöglicht.
+
+So jedenfalls meine Lesart.
+
+> Brief ist kein Gegenbeispiel.
+>
+> Beim Brief kann ich in der ersten Kontaktaufnahme sofort meine Datenschutzbestimmungen mitschicken.
+> Ob die Anschriften aus einem öffentlichen Verzeichnis stammen oder nicht ist dabei unerheblich
+> (genauso wie das bei der IP unerheblich ist, da ich alle IPs ja durchnumerieren kann).
+>
+> In der Regel kommt der Brief an, und aufgrund des Postgeheimnisses geschieht das unverändert.
+> Somit kann ich nachweisen, das ich die gem. DSGVO notwendige Aufklärung geleistet habe.
+>
+> Ein Aspekt ist noch wichtig, ich muss die Datenschutzbestimmungen so lange beilegen, bis ich dokumentieren kann,
+> dass diese angekommen sein müssen, z. B. indem sich jemand auf einen Brief bezieht, der die Datenschutzbestimmungen
+> enthielt.  Noch einfacher ist, dass ich jedem Brief einfach die Datenschutzbestimmungen beilege.
+>
+> Genau das kann ich bei der Verwendung der IP aber nicht tun.  Die Datenschutzbestimmungen sind in der Regel größer
+> als 1400 Byte, können also nicht in jedem Datenpaket mitgeschickt werden.  
+> Ebensowenig sehen die meisten IP-Protokolle (TCP ist nur eines von vielen) eben nicht vor, dass ich überhaupt
+> Datenschutzbestimmungen mitschicken kann.  Ich kann so nicht dokumentieren, dass der Nutzer jemals in der Lage war,
+> die Datenschutzbestimmungen wahrzunehmen.  Das wiederum bedeutet, dass ich diese gem. DSGVO eben nicht bekanntgeben kann.
+>
+> Wenn der Nutzer diese Bestimmungen auf dem Bildschirm sieht, ist es meistens schon längst zu spät.
+>
+> Außerdem kann ich nicht sicherstellen, dass der Nutzer dies auf dem Bildschirm sieht, da ich ja keinen Einfluss darauf
+> habe, welchen Browser der Nutzer verwendet.  Lynx/curl/wget können z. B. keine Popups und kein JavaScript, werden aber
+> massenhaft im Internet eingesetzt.  Damit man aber diese Anzeige sieht, sind schon viele weitere Vorgänge vorher
+> im Internet abgelaufen.  Alle unterliegen sie der DSGVO.  Man muss also davon ausgehen, dass es sogar die Regel ist,
+> dass bei der Verwendung einer IP die Datenschutzbestimmungen nicht erfüllt wurden, so lange sie nicht dokumentierbar
+> erfüllt wurden.
+>
+> Das Anzeigen eines Banners reicht also nicht.
+> **Jede Verwendung einer IP stellt somit einen meldepflichtigen Datenvorfall gem. DSGVO dar,**
+> wenn ich die Zurkenntnisnahme der Datenschutzbestimmungen nicht einwandfrei dokumentieren kann.
+> Da dies derzeit wohl niemand macht (da es technisch alles andere als einfach ist),
+> haben wir hier, im Gegensatz zum Brief, einen massenhaften, ja generellen Verstoß gegen die DSGVO.
+
+## [Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32002L0058&from=DE)
+
+Diese Richtlinie muss ich mir noch genauer ansehen.
+
+- Diese Regelung ist explizit auf Cookies anzuwenden.
+  - Im Gegensatz zu allgemeiner Auffassung werden Session-Cookies in der Regel auf dem Endgerät des Nutzers gespeichert.
+  - Session-Cookies werden allerdings automatisch wieder gelöscht sobald deren Nutzen erloschen ist.
+- Die IP gehört auf jeden Fall zu den Verkehrsdaten, unabhängig ob man sie als pseudonym ansieht oder nicht.
+- Das übliche Logging, das ich für absolut notwendig dafür erachte, dass ich einen Webserver betreiben kann, gehört somit zu den Verkehrsdaten.
+
+Probleme mit dieser Richtiline:
+
+- Die Worte in Art 5 (3) verstehe ich nicht.  Ich kann dieses Juristendeutsch in mindestens 3 vollkommen gegensätzliche Weisen interpretieren, weshalb sich mir dieser Abschnitt leider nicht einmal Ansatzweise erschließt.  Insbesondere erschließt sich mir nicht, wie dies technisch gemeint ist.  Es mag ja juristisch sauber beschrieben sein, daraus ergibt sich aber nicht einmal ansatzweise eine technisch mögliche Umsetzung.  Und wir haben es bei Cookies und IPs ja mit purer Technik und keinen juristischen Gebilden zu tun.
+  - Meine technische lesart ist, dass ich auf der Seite des Nutzers keine Verarbeitung seiner eigenen IP erlauben darf, da dazu eine Speicherung notwendig ist.
+  - Das bedeutet, dass **Web-Push-Nachrichten gemäß dieser Richtline absolut verboten sind**, außer der Nutzer wurde vorher darüber aufgeklärt.  Da die Browser dies nicht erlauben, hat diese Funktionalität unterlassen zu werden.
+  - Ebenso betrifft das IMHO die Bereitstellung von RSS, da dessen Zweck ja die Speicherung auf dem Client ist
+  - Ebenso betrifft das die Möglichkeit des Setzens eines Bookmarks, da dieses ja auch auf dem Client gespeichert wird
+  - Ebenso betrifft das jegliche Formulare, da diese ja in der Regel über Auto-Fill vom Client betroffen sind
+  - **Sprich, ich darf keinen Haken anzeigen a la "ich habe die Datenschutzbestimmungen gelesen"**
+  - Oder habe ich irgendetwas technisch falsch verstanden?
+
+Meine Lesart ist also derzeit so:
+
+- Wenn ich eine Webseite aufrufe, müssen zuerst die Datenschutzbestimmung auf der Seit angezeigt werden.
+  - Und zwar nur diese, da sonst ja keinerlei Rückmeldung vorhanden ist, dass die Seite zur Kenntnis genommen wurde
+- Wenn der Nutzer dann auf "OK" klickt (und damit bestätigt, dass er sie zur Kenntnis genommen hat) dann kann ich weitermachen.
+- Diese Seite darf dann auf dem Browser ein Cookie setzen - aber erst wenn man OK geklickt hat - um das weitere Anzeigen der Seite zu verhindern.
+  - Das Session-Cookie darf nicht mit dieser Seite gesetz werden, da ja nicht sichergestellt ist, dass der Nutzer auf OK klickt.
+  - Mit dem Klick auf OK darf ein permanentes Cookie gesetzt werden, da dieses ja erlaubt ist.  Aber halt erst nach der Aufklärung.
+
+Das halte ich zwar für absolut Banane.  Aber so scheint sich mir diese Regelung zu lesen.
+
+Habe ich da irgendetwas falsch verstanden?
+
+> Ob ich diese Datenschutzbestimmungen überhaupt anzeigen darf, das geht daraus nicht hervor.
+> Denn es ist unklar, ob ich die IP überhaupt verwenden darf.
+>
+> Aus dieser Regelung aber geht eigentlich ziemlich klar hervor, wie eine Webseite auszusehen hat.
