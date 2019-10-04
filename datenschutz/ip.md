@@ -717,10 +717,11 @@ Oder habe ich da irgendetwas komplett falsch verstanden?
 
 Nochmals:  Ich sehe das rein technisch, nicht juristisch.  Ich weiß nur, was technisch möglich ist und was nicht.
 
-> Hier eine kleine Liste der technischer Probleme bei der Umsetzung und das sind eine Sonderfälle, sondern der Normalfall:
+> Hier eine kleine und hoffnungslos unvollständige Liste technischer Probleme,
+> die bei der Umsetzung auftreten können.  ALl das sind keine Sonderfälle, sondern treten oft genug schon heute auf:
 >
 > - Pixelfehler:  In eienr EU-Richtlinie ist festgelegt, wie Pixelfehler zu behandeln sind.  Auf modernen Großbildschirmen
-> darf es bis zu 10 Pixelfehler geben.  Das reicht aus, dass aus einem "kein" bei der Darstellung ein "ein" wird.
+> darf es bis zu 10 Pixelfehler geben.  Das reicht aus, dass aus einem "kein" bei kleiner Darstellung ein "ein" wird.
 > Da ich Pixelfehler auf einem Screenshot nicht sehen kann, sind Screenshots deshalb nicht zur Dokumentation geeignet.
 >
 > - Tourist-Information:  Frei zugängliche großflächige Touchscreens sind inzwischen weit verbreitet.
