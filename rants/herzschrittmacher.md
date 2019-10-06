@@ -6,7 +6,8 @@ Ich habe mal ein Gedankenexperiment gestartet, wie ich mir, als Techniker, vorst
 konstruiert sein müsste.  Folgende Grundlagen habe ich mir dabei vorgestellt:
 
 - Der Schrittmacher muss im Umfeld eines MRT weiter einsetzbar sein
-- Der Schrittmacher muss jeden harten EMP aushalten
+- Der Schrittmacher muss jeden harten EMP aushalten ("aushalten" bedeutet:
+  Er kann kaputtgehen, aber nur so, dass der Träger nicht gefährdet wird)
 - Überhaupt muss der Schrittmacher jegliche elektrische oder magnetische Ladung aushalten, die einen Menschen nicht umbringt.
 - Er muss servicetechnisch leicht reparierbar und austauschfähig sein
 - Er muss flexibel sein, also sich verschiedensten Notwendigkeiten anpassen
