@@ -2,6 +2,8 @@ Folgende Anfrage habe ich gerade mal bei einer Firma eingekippt, die Windows-Liz
 
 Hinweis: Tippfehler stehen so original in meiner Anfrage ;)
 
+Edit: Zeilenumbrüche hinzugefügt, so dass Markdown das sinnvoll anzeigt.
+
 ------
 
 Kopie dieses Textes siehe https://github.com/hilbix/tino/blob/master/plan/windows-cloud.md
@@ -30,8 +32,8 @@ Zum Verständnis:
 
 - Es müssen verschiedene Betriebssysteme und verschiedene Varianten von Win7/Win10 einsetzbar sein.
 
-Das Ganze ist experimentell und wird verm. zum Großteil Open Source.
-Ich würde gerade mal mit 3 Lizenzen (je einer Win7 Pro, Win10 Pro, Win10 Ult) starten.
+Das Ganze ist experimentell und wird verm. zum Großteil Open Source.  
+Ich würde gerade mal mit 3 Lizenzen (je einer Win7 Pro, Win10 Pro, Win10 Ult) starten.  
 Sollte das Konzept funktionieren, können es sehr schnell viel mehr werden (eben so viele wie nötig).
 
 Danke  
