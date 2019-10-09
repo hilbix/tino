@@ -1,5 +1,7 @@
 Folgende Anfrage habe ich gerade mal bei einer Firma eingekippt, die Windows-Lizenzen günstig online vertickt:
 
+Hinweis: Tippfehler stehen so original in meiner Anfrage ;)
+
 ------
 
 Kopie dieses Textes siehe https://github.com/hilbix/tino/blob/master/plan/windows-cloud.md
