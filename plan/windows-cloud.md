@@ -34,5 +34,5 @@ Das Ganze ist experimentell und wird verm. zum Großteil Open Source.
 Ich würde gerade mal mit 3 Lizenzen (je einer Win7 Pro, Win10 Pro, Win10 Ult) starten.
 Sollte das Konzept funktionieren, können es sehr schnell viel mehr werden (eben so viele wie nötig).
 
-Danke
+Danke  
 -Tino
