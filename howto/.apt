@@ -13,7 +13,7 @@ apt-get upgrade
 
 for a in /proc/[0-9]*
 do
-	grep -v /dev/zero "$a/maps" | grep -q deleted &&
+	grep -v /dev/zero "$a/maps" | fgrep -v /tmp/ | fgrep -q deleted &&
 	echo "${a#/proc/} $(basename "$(readlink -m "$a/exe")")"
 done | sort -k2
 
