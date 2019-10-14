@@ -673,7 +673,7 @@ Relation zu den gefahrenen km auf den jeweiligen Straßen.  Dann seht ihr, wie h
 
 Bleibt noch die Unaufmerksamkeit.
 
-Es ist hinlänglich bekannt, dass die Unaufmerksamkeit des Menschen sinkt.  Sie steigt nur, wenn der Mensch angeregt wird.
+Es ist hinlänglich bekannt, dass die Aufmerksamkeit des Menschen sinkt.  Sie steigt nur, wenn der Mensch angeregt wird.
 
 Wer gleichtönig auf irgendeiner Strecke unterwegs ist, dessen Aufmerksamkeit ist irgendwenn weg.
 Das ist nicht weiter tragisch, wenn ich einen Kleinwagen habe und hinter einem LKW dahersurfe,
