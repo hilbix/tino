@@ -60,7 +60,7 @@ Unumstritten:
 - Kondensstreifen begünstigen Cirruswolken
 - Wolken erhöhen die Albedo der Erde, kühlen sie dadurch ab
 
-Unmstritten:
+Umstritten:
 
 - Cirruswolken beeinflussen die normale Wolkenbildung
 - Dadurch heizt sich die Erde auf
