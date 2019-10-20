@@ -120,8 +120,10 @@ Hier einige Punkte, die ich sinngemäß in der Satzung erwarten würde.
   - Diese Verpflichtung kann andere Mitglieder übertragbar sein
   - Diese Verpflichtung kann durch die Mitgliederversammlung durch einfache Mehrheit verändert werden,
     dabei müssen alle, an die die Verpflichtung 
+  - Mitglieder können ihre Bindung jederzeit beenden
+    - Dies kann nur amtlich beglaubigt erklärt werden
 
-- Die eG übernimmt immer den gesamten Geschäftsbetrieb einer Domain
+- Die eG übernimmt immer den gesamten Geschäftsbetrieb einer Domain wenn diese an sie übergeben wurde
   - Die vollständigen Kosten der Domainregistrierung und Verlängerung
   - Den vollständigen Nameservice inkl. der Kosten dafür
   - Den vollständigen technischen Betrieb, inkl. der Kosten dafür soweit Kosten entstehen
@@ -131,6 +133,23 @@ Hier einige Punkte, die ich sinngemäß in der Satzung erwarten würde.
       - Das Mitglied hat diese kosten dann per Mitgliedsbeitrag zu entrichten
       - Tut es das Mitglied nicht, verfällt die Lizenz
     - Das geht auch gerade für den Fall, wenn das Mitglied selbst der Lizenzgeber ist
+  - Die vollständige Monetarisierung, in sofern es sich um eine Domain handelt, die Umsätze generiert
+  - Und auch alles weitere
+  - Dazu gehört auch die vollständige Einhaltung der DSGVO
+    - Entsprechende Vorgänge, die das nicht gewährleisten, werden entsprechend umgebaut
+    - Bis zum vollständigen Umbau ist derjenige, der die Domain einbringt, für die Einhaltung der DSGVO verantwortlich,
+      sofern es sich noch auf die alten Vorgänge bezieht.
+    - Dies darf max. 1 Jahr nach Übergabe dauern
+    - Hat die eG die DSGVO der eingebrachten Domain binnen 1 Jahres nicht übernommen,
+      kann die Domain wieder zurückgenommen werden.
+      - Bei solch einer Rücknahme werden alle Dienste der eG eingestellt und die Domain in den Zustand
+        vor der Übergabe versetzt soweit dies technisch vorgesehen ist.
+        In der Regel bedeutet das, die Domain wird disfunktional.
+    - Die Entscheidung kann auch bedeuten, die Sache noch 1 Jahr zu verlängern.
+      - Die eG kann sich weigern, diese Verlängerung zu akzeptieren
+    - Eine Entscheidung kann auch bedeuten, die Domain geht, soweit umgesetzt an die eG über,
+      alle noch nicht umgesetzten Dinge werden abgeschaltet, auch wenn das die Domain disfunktional macht.
+      - Die eG kann sich gegen dieser Entscheidung nicht weigern
 
 - Die Übertragung der Domains an die eG ist unwiderruflich und kann nur durch ein Urteil eines
   Gericht eines Landes geändert werden, dem die Domain zugeordnet ist
@@ -143,7 +162,16 @@ Hier einige Punkte, die ich sinngemäß in der Satzung erwarten würde.
   - Liegt ein Veto für eine Domain vor, die der eG vollständig überlassen wurde, wird die Klage nicht erwiedert.
 
 - Die eG kann weitere Domains erwerben
-  - Blah fasel blubb
+  - Die Domains werden dadurch in die eG zu einem Zweck eingebracht
+  - Der Zweck kann nicht die in-Besitz-Erlangung eines Mitglieds darstellen
+    - Außer das Mitglied trägt bis zur in-Besitz-Erlangung alle anfallenden Kosten für die Domain
+
+- Domains, die vollständig der eG gehören und ihren Zweck erfüllt haben, können einem neuen Zweck zugeführt werden
+  - Das gilt nur, wenn sie den Zweck niemals wieder erfüllen können
+  - Das gilt nur, wenn die Domain nicht mehr gebunden ist
+  - Domains können mit dem neuen Zweck an Mitglieder neu gebunden werden
+    - Der Vorstand kann dies nur vorläufig aussprechen
+    - Dazu ist auf jeden Fall notwendig, dass die Mitgliederversammlung zustimmt (den Vorstand davon entlastet)
 
 usw.
 
