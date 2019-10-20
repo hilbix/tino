@@ -1,5 +1,10 @@
 Folgendes habe ich auf dem Kontaktformular von https://www.lillyregistration.de/ hinterlassen
 
+> Das URL oben funktioniert nicht, weil ich nicht den vollständigen Deep-Link angegeben habe.
+> Ich denke, der Domainwechsel hat einen Grund, weshalb ich auf einen Deep-Link vorsorglich verzichte.
+>
+> Der Deep-Link befindet sich auf der Seite https://www.lilly-pharma.de/ im Bereich "Kontakt".
+
 ----------------------
 
 Diesen Text finden Sie auch in meinem Blog unter https://github.com/hilbix/tino/blob/master/rants/trulicity.md
