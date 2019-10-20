@@ -5,6 +5,8 @@ Folgendes habe ich auf dem Kontaktformular von https://www.lillyregistration.de/
 >
 > Der Deep-Link befindet sich auf der Seite https://www.lilly-pharma.de/ im Bereich "Kontakt".
 
+Tippfehler im Original belasse ich wie sie sind.
+
 ----------------------
 
 Diesen Text finden Sie auch in meinem Blog unter https://github.com/hilbix/tino/blob/master/rants/trulicity.md
