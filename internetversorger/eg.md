@@ -291,3 +291,6 @@ Es kann festgelegt werden, wie Vetos abgestimmt werden:
     - Die Gewichtung nimmt der Vorstand vor.
   - Kann eine Domain nicht eingebracht werden (Gewichtungsregel) kann sie lediglich verwaltet werden.
     - Dabei treten höhere Kosten und Zuschusspflichten für das Mitglied ein.  Nur eingebrachte Domains trägt die Genossenschaft.
+
+Das sind derzeit nur Vorschäge rein ins Blaue.  Die konkreten Punkte werden in einzelnen Dokumenten ausgearbeitet.
+Das hier Geschriebene stellt lediglich nicht bindende Leitlinien (Wünsche) dar.
