@@ -261,6 +261,10 @@ Es kann festgelegt werden, wie Vetos abgestimmt werden:
 - Mitglieder können natürliche und juristische Personen sein
 - Die Mitgliedschaft ist nicht beschränkt und offen für alles und Jeden
   - Sofern nichts anderes dagegegensteht
+  - Wenn ein neues Mitglied der Gemeinschaft durch die Aufnahme schaden würde, ist dies ein Grund, das Mitglied nicht zu akzeptieren
+    - Schaden ist auch Reputationsschaden oder politischer Schaden oder moralischer Schaden
+  - Wenn ein neues Mitglied mit einem existierenden Mitglied im Streit liegt, oder mit der Gemeinschaft, ist dies kein Ausschlussgrund!
+  - Ziel ist ein ungehinderter Zugang von jedem
 - Jedes Mitglied der eG ist uneingeschränkt der DSGVO bzw. GDPR verpflichtet.
   - Es gibt keine Ausnahmen von dieser Regel.
   - Das bedeutet, Firmen aus den USA können aufgrund der NSL prinzipbedingt nicht als Mitglied aufgenommen werden
@@ -298,6 +302,23 @@ Es kann festgelegt werden, wie Vetos abgestimmt werden:
     - Die Gewichtung nimmt der Vorstand vor.
   - Kann eine Domain nicht eingebracht werden (Gewichtungsregel) kann sie lediglich verwaltet werden.
     - Dabei treten höhere Kosten und Zuschusspflichten für das Mitglied ein.  Nur eingebrachte Domains trägt die Genossenschaft.
+
+- Die Mitgliedschaft ist prinzipiell unabhängig von der Zahlung eines Mitgliedsbeitrags
+  - Der Mitgliedsbeitrag kann ganz oder teilweise durch Dienstleistungen für die eG erbracht werden
+  - Der Basis-Mitgliedsbeitrag kann in besonderen Fällen vollständig entfallen
+    - Darüber entscheiden Vorstand und Mitgliederversammlungen
+    - Eine einmal erteilte Ausnahme ist widerruflich, aber nur mit der Abstimmung auf einer Generalversammlung
+  - Es gibt auch besondere Gruppen, deren Basis-Mitgliedsbeitrag vollständig entfällt
+    - Dazu gehören insbesondere sozialschwache, für die z. B. 10 EUR/Jahr pro Domain eine soziale Härte darstellen könnte
+- Für besonders Bedürftige gilt:
+  - Sie können bis zu 10 Domains auf Kosten der eG erhalten (in der Regel eine persönliche Domain, und eine in verschiedenen TLDs)
+  - Aber immer nur beschränkt darauf, dass die eG die dafür notwendigen Kosten erwirtschaften kann
+  - Die eG vergibt dabei Kontingente an solchen freien Domains (das Kontingent kann 0 sein)
+  - Das Kontingent wird fair aufgeteilt, d. h. jemand, der noch keine Domain hat, hat Vorrang
+  - Das Kontingent ist nicht auf Mitglieder beschränkt, allerdings habem Mitglieder, die noch keine Domain haben, immer Vorrang.
+  - Bei mehreren gleichberechtigten mit gleichem Vorrang entscheidet das Losverfahren.
+  - Gewinnt jemand Bedürftiges das Los (muss er ggf. Mitglied werden und) kann er entscheiden, für welche Domain er es verwendet.
+  - Das ist unabhängig davon ob er die Domain einbringt und ob die Domain gebunden wird oder nicht.
 
 Das sind derzeit nur Vorschäge rein ins Blaue.  Die konkreten Punkte werden in einzelnen Dokumenten ausgearbeitet.
 Das hier Geschriebene stellt lediglich nicht bindende Leitlinien (Wünsche) dar.
