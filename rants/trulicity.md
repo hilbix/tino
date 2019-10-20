@@ -5,7 +5,7 @@ Folgendes habe ich auf dem Kontaktformular von https://www.lillyregistration.de/
 >
 > Der Deep-Link befindet sich auf der Seite https://www.lilly-pharma.de/ im Bereich "Kontakt".
 
-Tippfehler im Original belasse ich wie sie sind.
+Tippfehler im Original belasse ich wie sie sind, lediglich Markdown-Formatierung wurde korrigiert.
 
 ----------------------
 
@@ -85,8 +85,8 @@ das zur dauerhaften unkomplizierten und risikoarmen Selbstapplizierung durch Nor
 
 Wie heißt es im Film Dark Star so schön: "Danke für die Beachtung aller Sicherheitsmaßnahmen."
 
-In diesem Sinne, HTH
--Tino
-PS: Gemäß des Gesetzes von Murphy gilt:
+In diesem Sinne, HTH  
+-Tino  
+PS: Gemäß des Gesetzes von Murphy gilt:  
 Wurde ein Produkt vollkommen DAU-sicher gemacht, dann konstruiert die Natur einen besseren DAU.
 Das sollte uns aber trotzdem nicht davon abhalten, Produkte hinsichtlich der DAU-Sicherheit zu verbessern.
