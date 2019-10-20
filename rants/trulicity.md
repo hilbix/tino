@@ -2,6 +2,8 @@ Folgendes habe ich auf dem Kontaktformular von https://www.lillyregistration.de/
 
 ----------------------
 
+Diesen Text finden Sie auch in meinem Blog unter https://github.com/hilbix/tino/blob/master/rants/trulicity.md
+
 Die Automatikspritze "trulycity" hat IMHO einen Usability-Bug.
 
 Man muss:
@@ -75,8 +77,6 @@ das zur dauerhaften unkomplizierten und risikoarmen Selbstapplizierung durch Nor
 (aka. medizinischen DAUs) gedacht ist.
 
 Wie heißt es im Film Dark Star so schön: "Danke für die Beachtung aller Sicherheitsmaßnahmen."
-
-Diese Anfrage veröffentliche ich in meinem Blog unter https://github.com/hilbix/tino/blob/master/rants/trulicity.md
 
 In diesem Sinne, HTH
 -Tino
