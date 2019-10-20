@@ -259,6 +259,8 @@ Es kann festgelegt werden, wie Vetos abgestimmt werden:
 ### Mitgliedschaft
 
 - Mitglieder können natürliche und juristische Personen sein
+- Die Mitgliedschaft ist nicht beschränkt und offen für alles und Jeden
+  - Sofern nichts anderes dagegegensteht
 - Jedes Mitglied der eG ist uneingeschränkt der DSGVO bzw. GDPR verpflichtet.
   - Es gibt keine Ausnahmen von dieser Regel.
   - Das bedeutet, Firmen aus den USA können aufgrund der NSL prinzipbedingt nicht als Mitglied aufgenommen werden
@@ -273,6 +275,11 @@ Es kann festgelegt werden, wie Vetos abgestimmt werden:
 - Ein Mitglied kann über eine Abstimmung ausgeschlossen werden
   - Dies ist in der Satzung entsprechend genau zu regeln
   - Der Vorstand kann nach einem Ausschluss darüber entscheiden, ob eine Mitgliedschaft nur ruht
+  - Ein ausgeschlossenes (oder abgelehntes) Mitglied kann frühestens nach Ende des darauffolgenden Jahres nach Erlöschen der Mitgliedschaft wieder erneut eine Mitgliedschaft beantragen, außer der Vorstand verkürzt diese Frist.
+  - Danach jedes Jahr wieder.
+  - Für ruhende Mitgliedschaften gilt entsprechendes für den Antrag auf Aufhebung der Ruhe.
+  - Danach muss spätestens auf der nächsten Generalversammlung über diesen Antrag entschieden werden
+
 - Ein Mitglied kann nicht vollständig ausgeschlossen werden, so lange noch Domains existieren, die das Mitglied eingebracht hat, die an das Mitglied gebunden sind
 - Durch den Verlust einer Mitgliedschaft gehen die eingebrachten Domains in der Regel nicht wieder an das ausscheidende Mitglied über
   - Das gilt gundsätzlich für die vollständig (nichtgebunden) eingebrachten Domains, denn dies war unwiderruflich.
