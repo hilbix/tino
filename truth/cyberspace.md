@@ -38,7 +38,7 @@ Also, belügen wir uns weiter, ganz in diesem Sinne, denn diesem Aspekt können 
 
 Der Cyberspace, der beginnt im Kopf, und nicht erst auf dem Bildschirm.
 
--Tino
+-Tino  
 PS: Und richtig, die meisten, die Cyber in den Mund nehmen, die haben tatsächlich nicht die geringste Ahnung ;)
 
 Edits: Typos
