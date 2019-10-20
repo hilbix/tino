@@ -2,7 +2,7 @@
 
 # Internetversorger eG
 
-Ich habe eine Domain namens **Internetversorger**, die ich gerne in eine eG umwandeln würde.
+Ich habe eine Domain namens [**Internetversorger**](http://internetversorger.de/), die ich gerne in eine eG umwandeln würde.
 
 In diese eG würde ich gerne einen Haufen anderer Domains einbringen, die dann von der eG bedient werden:
 
