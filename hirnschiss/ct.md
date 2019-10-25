@@ -15,9 +15,9 @@ Allerdings sind sie etwas alt ..
 
 ------------------------------
 
-Siehe URL https://github.com/hilbix/tino/blob/master/hirnschiss/ct.md
-
 Sagt mal, HAT MAN EUCH ALLEN INS HIRN GESCHISSEN?!?
+
+Siehe URL https://github.com/hilbix/tino/blob/master/hirnschiss/ct.md
 
 Hier bittet ihr die Leuten darum, sich MitM Apps zu installieren, die aus vollkommen dubiosen Quellen stammen!  Ernsthaft?!?
 
@@ -102,6 +102,7 @@ Deshalb fängt dieser Text auch mit einer klipp und klare Ansage an und enthält
 
 PPPS: Wer schreit, hat Unrecht.  Deshalb schreie ich nicht nur, ich brülle!
 Weil man das aber einfach gar nicht oft genug oder laut genug sagen kann.
+Und könnte ich das anders ausdrücken hätte ich es anders ausgedrückt.
 
 PPPPS: Ich entschuldige mich hiermit bei allen, denen ich die c't empfohlen habe.
 Sorry, Leute, kommt ganz sicher nie wieder vor!  Stimmt, auch ich bin nur ein Mensch, lerne also nur langsam und unter Schmerzen.
