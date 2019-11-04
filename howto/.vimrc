@@ -8,8 +8,17 @@
 
 set secure
 set nomodeline			" disable modeline, see CVE-2019-12735
-" use securemodelines instead (sudo apt-get install vim-scripts)
-source /usr/share/vim-scripts/plugin/securemodelines.vim
+" use securemodelines instead of insecure modeline
+if filereadable(expand('~/.vim/plugins/securemodelines.vim'))
+  " In case you cannot sudo:
+  " apt-get download vim-scripts && dpkg -x vim-scripts_*_all.deb tmp/
+  " cp tmp/usr/share/vim-scripts/plugin/securemodelines.vim ~/.vim/plugins/
+  source ~/.vim/plugins/securemodelines.vim
+else
+  " sudo apt-get install vim-scripts
+  source /usr/share/vim-scripts/plugin/securemodelines.vim
+endif
+
 let g:secure_modelines_verbose=1
 
 set cul				" Highlight cursor line:
