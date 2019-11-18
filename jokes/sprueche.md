@@ -37,3 +37,5 @@
 - 2019-09-05 Verrückt zu sein hat auch deutlich Vorteile.  Das einzige Problem:  Ich bin's nicht ..
 
 - 2019-11-11 [Mehr Überall als Sonderfall](https://www.heise.de/forum/heise-online/News-Kommentare/Trojaner-greift-Netzwerk-von-Humboldt-Universitaet-an/Normative-Macht-des-Faktischen/posting-35580239/show/)
+
+- 2019-11-18 [Gott ist Agnostiker, so wie ich.](https://www.heise.de/forum/heise-online/News-Kommentare/Hacker-sollen-Daten-von-Offshore-Bank-erbeutet-haben/Nein-nein-nein-schon-richtig-Er-hat-ja-nicht-von-sich-auf-andere-geschlossen/posting-35626173/show/)
