@@ -1,3 +1,9 @@
+Update: Die Antwort der Firma machte klar, dass die Lizenzen nur zur einmaligen Installation von Windows berechtigen.
+
+Sprich: Installiert man eine Maschine 100 Mal neu, verbraucht das 100 Lizenzen.
+
+------
+
 Folgende Anfrage habe ich gerade mal bei einer Firma eingekippt, die Windows-Lizenzen günstig online vertickt:
 
 Hinweis: Tippfehler stehen so original in meiner Anfrage ;)
