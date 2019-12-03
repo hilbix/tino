@@ -1,3 +1,10 @@
+Update: GitHub told me, that there will be no exception of the 1 account rule.  At least that is what I understood.
+
+Hence, security against excess access right apps cannot be implemented using GitHub alone.
+Either you sacrifice your GitHub account, or you cannot use GitHub for those CIs/Apps, etc.
+
+---------------
+
 # For open source security I need a 2nd free account at GH
 
 Hello GitHub,
