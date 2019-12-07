@@ -40,31 +40,4 @@
 
 - 2019-11-18 [Gott ist Agnostiker, so wie ich.](https://www.heise.de/forum/heise-online/News-Kommentare/Hacker-sollen-Daten-von-Offshore-Bank-erbeutet-haben/Nein-nein-nein-schon-richtig-Er-hat-ja-nicht-von-sich-auf-andere-geschlossen/posting-35626173/show/)
 
-- 2019-12-07 [`--` nenne ich ab sofort Parameterneua]()
-
-Hier was ich nicht unter https://www.heise.de/security/meldung/Entfernte-Angreifer-koennten-das-Authentifizierungssystem-von-OpenBSD-umgehen-4607316.html posten konnte, weil das Forum von Heise gerade down ist:
-
-```
-Subject: Nennt man das Parameterneua?  Mit PAM wäre das nicht passiert.
-
-Wie nennt man so etwas?  Fehlende Parameterneua?  Also die pathologisch fehlende Paranoia, wenn etwas aufruft, das auch Parameter annimmt?
-
-Ich hasse PAM: https://serverfault.com/q/249671/59497
-Aber mit soetwas wie PAM wäre das wohl nicht passiert.
-
-Lesson learned:
-
-- In einem Script/Modul in einem Authentikationssystem den User (und alle anderen vom Nutzer passbare Informationen) niemals "plain" über die Commandline übergeben.  Mit einem Schalter der das nächste Argument "quotet", also zwangsweise übernimmt, da ist es wohl meistens OK - so lange man das Argument korrekt übergibt.
-
-- Gilt übrigens auch für's Environment.  Wer etwas, das nutzerdefiniert ist, einfach so ins Environment hängt, der war ggf. von ShellShock betroffen.  Lies: Ja, ich war von Shellshock betroffen, das Ding kann aber dank folgendem Fix weiterlaufen:
-https://github.com/hilbix/shellshock
-
-Also, egal was man macht, am Ende landet man doch wohl bei einem Matmos wie PAM.
-
--Tino
-PS: Hatte ich schon erwähnt, dass ich PAM hasse?
-
-PPS: Das fängt ja schon bei sowas wie [code]basename "$1" .txt[/code] an.   Na, wer hat das schon so in einem Shellscript gesehen oder gar verwendet?  [b]Möp, falsch![/b]  Muss lauten [code]basename -- "$1" .txt [/code].
-
-Note to self: "--" nenne ich ab sofort Parameterneua ..
-```
+- 2019-12-07 [`--` nenne ich ab sofort Parameterneua](https://www.heise.de/forum/heise-Security/News-Kommentare/Entfernte-Angreifer-koennten-das-Authentifizierungssystem-von-OpenBSD-umgehen/Fehlende-Parameterneua-Mit-PAM-waere-das-nicht-passiert/posting-35733351/show/)
