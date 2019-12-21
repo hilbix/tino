@@ -12,7 +12,9 @@ Here is what is set:
 - The portion viewed on screen range from 10px to 10000px
 - The image can be zoomed, mirrored/flipped and rotated 90 degree wise
 
-How to archive that without doing something like
+Example:
+
+With a CSS-file which contains all the possible width/height/position/imagesize values, like
 
     width10 { width:10px }
     width11 { width:11px }
@@ -21,12 +23,7 @@ How to archive that without doing something like
     width9999 { width:9999px }
     width10000 { width:10000px }
 
-and so on in the `.css` file?
-
-Example:
-
-With a CSS-file which contains all the possible width/height/position/imagesize values,
-an image could be rendered like this:
+and so on, an image could be rendered like this:
 
     <img style="width100 height100 imgx1234 imgy2345 imgw200 imgh200 rot90 mirror" src="the-image.png" alt="face zoom"/>
 
@@ -38,3 +35,5 @@ Invalid solutions are:
 - Requiring `style-src 'unsafe`, as this makes the page insecure (XSS), as the name suggest
 - Requiring `style-src data:`, as this makes the page insecure as well
 - Requiring JavaScript/JQuery/etc.
+
+Allowed is to require an `img` being wrapped into several `div` with several `style` and/or use HTML attributes etc.
