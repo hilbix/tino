@@ -315,6 +315,55 @@ While the Client-Server connection always is online (using loopback, unix domain
 the Server-Server connection can be online or offline/manual or any combination you might think of.
 The Server is handling everything needed to communicate.
 
+
+### Server is On-Demand
+
+When a Client needs a Server, a Server can be run on-demand, based on the infrastructure settings.
+
+- A Server can permanently run in it's own Context on a machine.  
+  In that case a single Server is set up to run on the machine and permanently runs in it's own Context.
+  This way Clients can be controlled by it to do scheduled backups.  
+  (This will be probably implemented last as this is a most complex thing.)
+- A Server can be started on-demand (`inetd`-style) if it is needed.  
+  In that case it does not run permanently, but still everything can be controlled using `cron` or similar.  
+  This supports SystemD way of doing it as well as `inetd` or `sudo`/`suid` style.
+  (This probably will be implemented first.)
+- The Server can be forked by the Client.  
+  In that case it runs in the context of the Client, which probably means the context of the User.
+  The data then is kept somewhere (probably `/var/tmp/$USER/backup` or `$HOME/.backup/`)
+  where it can be picked up by some other processes to transport it to the "real" server.
+  (Note that this just is a special variant of on-demand.)
+
+
+### Server is hierarchical
+
+There is a Server-Server communication protocol, which basically is offline-capable.
+
+When a Client does the Backup, Data is written into a Server.  This Data then needs to be transferred somehow.
+This is done the Server-Server-link.
+
+An important part here is, that this must be independent from the server and offline.
+Hence the Server stores the data locally and then some action is triggered to transfer the data upstream.
+
+The local storage itself does not need to be physically local, so it can be networked or replicated as well.
+Hence the Server can also use virtual storage.
+
+So the Server just acts as a Cache in a hierarchical sense.
+
+
+### Server is asynchronous
+
+If a Client needs to restore things, probably data must be requested from the upstream.
+
+The Server then needs to forward the request for data to the upstream and waits until the data arrives locally.
+
+As the transport of the Server-Server communication can be implemented by many means, this is a matter of the infrastructure,
+not of the Server itself.
+
+The Server just needs to make sure, that the request is not forgotten (so you need to be able to retry).
+This must be part of the Server-Server communication protocol.
+
+
 ### T.B.D.
 
 > Here is missing a lot about the server
