@@ -1,3 +1,5 @@
+> T.B.D. not ready yet
+
 # Anatomy of a secure backup
 
 
@@ -298,7 +300,7 @@ The Client has following components:
 - Restore files (perhaps needs password)
 
 To be able to do all backup/verification without a password, but a restore with password only,
-we need the client to be able to handle asymmetrically encryption.
+we need the client to be able to handle Asymmetric Encryption.
 
 
 ## Server
@@ -362,6 +364,55 @@ not of the Server itself.
 
 The Server just needs to make sure, that the request is not forgotten (so you need to be able to retry).
 This must be part of the Server-Server communication protocol.
+
+
+### Server uses Asymmetric Encryption
+
+The Server gets data from the Client.  The Client can use Asymmetric Encryption.
+
+Hence the Server needs to be able to understand that.
+
+But the Server-Server-Protocol should be able to utilize that encryption, too.
+This is for infrastructure authentication.
+
+- The Server always encrypts the data before it is sent to some upstream with the public key of the upstream.
+- The upstream then can decrypt the data again.
+- The tranport mechanism in-between can be arbitrary this way.
+
+Think about a CD-ROM which then is mailed.  It may reach the wrong target.
+
+In that case the data on the CD-ROM might be encrypted three times:
+
+- One:  By the Client
+- Second: By the Server
+- Third: By the transport process (by storing files encrypted)
+
+Usually this should be enough to keep things secure.
+
+If you break the 3rd encryption, you still have an encryption in place.
+If properly done, you cannot distinguish the inner encrypted layer from random data.
+Hence you have no way to proof, that you have broken the outside key!
+
+As we know which infrastructure was used we do not associate the public keys to the transport
+(this only is needed on Client level, not on Server level).
+So by using an asymmetrically encrypted transport layer, without keeping file magics inside
+(everything can be expressed in the metadata of the file, like the file's name),
+we give the attacker no clue on how to decrypt the data.
+
+#### How to securly store a NONCE
+
+Well, I am no cryptonerd, but I came up with following scheme.  Please note me if this can be done better.
+
+> Please note that 509 and 503 are primes.
+
+    i := a[0]
+    j := a[i%256
+- You prepend a file with 512 bytes.
+- The first byte defines an offset in the first 256 bytes where the second byte is found
+- The next byte
+- The second byte defines an offset where the 3rd byte is found
+- The next 
+
 
 
 ### T.B.D.
