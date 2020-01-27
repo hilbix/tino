@@ -41,3 +41,5 @@
 - 2019-11-18 [Gott ist Agnostiker, so wie ich.](https://www.heise.de/forum/heise-online/News-Kommentare/Hacker-sollen-Daten-von-Offshore-Bank-erbeutet-haben/Nein-nein-nein-schon-richtig-Er-hat-ja-nicht-von-sich-auf-andere-geschlossen/posting-35626173/show/)
 
 - 2019-12-07 [`--` nenne ich ab sofort Parameterneua](https://www.heise.de/forum/heise-Security/News-Kommentare/Entfernte-Angreifer-koennten-das-Authentifizierungssystem-von-OpenBSD-umgehen/Fehlende-Parameterneua-Mit-PAM-waere-das-nicht-passiert/posting-35733351/show/)
+
+- 2020-01-27 Wahnsinn für Fremdsprachler: Mal wieder mit dem Widder das Für und Wider abwägen.
