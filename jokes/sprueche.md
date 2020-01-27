@@ -42,4 +42,4 @@
 
 - 2019-12-07 [`--` nenne ich ab sofort Parameterneua](https://www.heise.de/forum/heise-Security/News-Kommentare/Entfernte-Angreifer-koennten-das-Authentifizierungssystem-von-OpenBSD-umgehen/Fehlende-Parameterneua-Mit-PAM-waere-das-nicht-passiert/posting-35733351/show/)
 
-- 2020-01-27 Wahnsinn für Fremdsprachler: Mal wieder das Für und Wider vom [Widder](https://de.wikipedia.org/wiki/Hydraulischer_Widder) abwägen.
+- 2020-01-27 Wahnsinn für Fremdsprachler: Mal wieder das Für und Wider für den [Widder](https://de.wikipedia.org/wiki/Hydraulischer_Widder) abwägen.
