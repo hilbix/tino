@@ -73,7 +73,7 @@ wir haben auch keinerlei Wärmeverluste.  Dann reduziert sich das auf folgendes:
 Das ist weit von 92% entfernt!
 
 Was die Forscher wohl meinen ist, dass bei dem Verfahren 8% der Energie im resultierenden Wasserstoff verlorengeht,
-was eine ziemliche Menge ist, wenn man bedenkt, wie wenig Effizient die Umwandlung von H2O in AlO2 ist.
+was eine ziemliche Menge ist, wenn man bedenkt, wie wenig Effizient die Umwandlung von H2O in Al2O3 ist.
 
 
 ### Was die Forscher demonstrieren
