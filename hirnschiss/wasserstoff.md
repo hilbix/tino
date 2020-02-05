@@ -5,7 +5,7 @@ So wie Wasserstoff in der Raumfahrt sinnvoll ist.  Deshalb sind Verbesserungen i
 
 Es gibt auch einige sinnvolle Einsatzszenarien für Wasserstoff.  Eines muss aber klar sein:
 
-100% Autos sind BEV ist möglich.  Aber 100% der Autos fahren mit Wasserstoff kann nicht erreicht werden.
+"100% Autos sind BEV" wird wohl bald Realität.  Aber "100% der Autos fahren mit Wasserstoff" ist übelster Unsinn.
 
 > Wichtiges Detail:  Wasserstoffautos sind auch immer BEVs, denn die Brennstoffzelle unterstützt keinen dynamischen Fahrbetrieb.
 
