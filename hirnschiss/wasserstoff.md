@@ -50,7 +50,7 @@ Das ist schoneinmal rein chemisch-physikalisch anzuzweifeln.  Außerdem untersch
 
 Also nochmals zum Mitdenken:
 
-- Ich wandle H2O in AlO2 um.
+- Ich wandle H2O in Al2O3 um.
 - Dabei verliere ich die Prozesswärme die dabei entsteht
 - Dabei verliere ich die Bindungsenergie, die im H2O steckt
 - Dann leite ich den H2 zur Brennstoffzelle
@@ -68,7 +68,7 @@ Lassen wir mal die Verluste außen vor.  Die Brennstoffzelle arbeite mit 100% Ef
 wir haben auch keinerlei Wärmeverluste.  Dann reduziert sich das auf folgendes:
 
 - Reingesteckt werden Wasser und Aluminum
-- Raus kommt die Bindungsenergie von AlO2 abzüglich der Bindungsenergie von H2O
+- Raus kommt die Bindungsenergie von Al2O3 abzüglich der Bindungsenergie von H2O
 
 Das ist weit von 92% entfernt!
 
