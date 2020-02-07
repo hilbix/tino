@@ -1,3 +1,15 @@
+Update:  Ich bekam einen sehr netten Anruf von der Firma.
+
+Sie boten mir sogar an, die fehlbediente Spritze auszutauschen.  Da ich diese nicht mehr identifizieren konnte und der Aufwand sich IMHO nicht lohnt habe ich darauf verzichtet.
+
+Außerdem meinten Sie, dass man die Anregung weitergebe, aber dass eine Umsetzung dieser Art länger (lies: Jahre) dauern dürfte.
+
+Da ich mal für ein Pharmaunternehmen gearbeitet habe kann ich das aus Erfahrung bestätigen.
+Medizinische Produkte habe einen aufwendigen und langwierigen Abnahmeprozess einzuhalten,
+[kaizen](https://de.wikipedia.org/wiki/Kaizen) ist da so gut wie unmöglich.
+
+----------------------
+
 Folgendes habe ich auf dem Kontaktformular von https://www.lillyregistration.de/ hinterlassen
 
 > Das URL oben funktioniert nicht, weil ich nicht den vollständigen Deep-Link angegeben habe.
