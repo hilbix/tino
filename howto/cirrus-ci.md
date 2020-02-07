@@ -30,7 +30,7 @@ Enable [Cirrus CI on GitHub marketplace](https://github.com/marketplace/cirrus-c
 Open https://cirrus-ci.com/
 - Let it access your GitHub account
 - **Keep it open** to see what Cirrus CI is doing.
-- Do not be puzzled.  It does nothing until you push.  Then it fills with life, fully automagically!
+- Do not be puzzled.  Nothingh shows up there until your first push to a project with a `.cirrus.yml` file.  Then it fills with life, fully automagically!
 
 ## Create a `.cirrus.yml` in a public Repo
 
@@ -50,7 +50,7 @@ make_task:
   install_script: make install
 ```
 
-> Compile runs as `root` (at least in container `gcc:lastest`), so `sudo` is not needed.
+> Compile runs as `root` (at least in container `gcc:latest`), so `sudo` is not needed.
 
 - `git commit -A`
 - `git push`
