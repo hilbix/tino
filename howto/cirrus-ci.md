@@ -1,3 +1,13 @@
+> **Very Important!**
+>
+> Very unusual these days **Cirrus-CI displays the right attitude when it comes to security**!
+>
+> [In their documentation](https://cirrus-ci.org/examples/#release-assets) they write
+>
+> > Cirrus CI only requires write access to Check API and doesn't require write access to repository contents because of security reasons.
+>
+> That's exactly the point!  **Thank you very much, Cirrus CI team, for doing it right!**
+
 # GitHub Cirrus CI micro HowTo
 
 Unfortunately, Cirrus CI is not self explanatory.  You need documentation.  This tries to sum it up.
