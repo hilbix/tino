@@ -94,7 +94,8 @@ Where do I find a list of all possible containers?
 - [official images](https://github.com/docker-library/official-images) do not have a `/` (like: `debian:buster-slim`)
 - [user repos](https://docs.docker.com/docker-hub/repos/) do have one `/` (like: `cirrusci/android-sdk:27`)
 - Specials like [Bazel](https://cirrus-ci.org/examples/#bazel) have more `/`es (like `image: l.gcr.io/google/bazel:latest`)
-  - I really have no idea if this can pull images from any domain somehow
+  - I have no idea how to explain to a human how to create the correct `image:` line for `.cirrus.yml` in this case
+  - And I really have no idea if this can pull images from any domain somehow
 - I did not find out how to get a machine readable list of docker images.  But there probably is some tool or API for it, too.
   - Note that I am not looking for the `docker` command, as this needs to run in a real computer.
   - What I want to see is something which can be accessed by using `curl` (or AJAX or your phone).
