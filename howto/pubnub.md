@@ -42,19 +42,24 @@ Why don't they tell you?  I have no idea.
 
 ## Prep
 
-- [Register with PubNub](https://dashboard.pubnub.com/signup)
-  - You can use a scratch Google Account for this
-- Create your first test application
-  - You can disable all features
-  - All you need are the two keys: Publish-Key and Subscribe-Key
-- put those into your environment:
+[Register with PubNub](https://dashboard.pubnub.com/signup)
+
+- You can use a scratch Google Account for this
+
+Create your first test application
+- You can disable all features
+- All you need are the two keys: Publish-Key and Subscribe-Key
+
+Put the keys into your environment:
 
 	PUBK=pub-c-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 	SUBK=sub-c-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 
-- Also define a test channel to use
+Also define a test channel to use
 
 	CHAN=test
+
+## Try
 
 Then open 2 terminal windows with this settings.  In the first:
 
@@ -101,7 +106,7 @@ That's it.  To continue on the first windows, use
 
 This way you get the next message, if there is one ever.
 
-Notes:
+## Notes
 
 - The above uses the SIGNAL API, which only can send short JSON messages.
 - Signals are cheaper than messages.
