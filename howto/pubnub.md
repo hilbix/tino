@@ -99,7 +99,7 @@ and in the other window
 
 	{"t":{"t":"15826341938398226","r":12},"m":[{"a":"4","f":0,"e":1,"p":{"t":"15826341938400063","r":12},"k":"sub-c-18c02f88-c57d-11e9-8ada-366022f02051","c":"test2","d":"hello-world"}]}
 
-That's it.  To continue on the first windows, use
+That's it.  To continue on the first window, use
 
 	PUBT=15826341938398226
 	curl -gD- "https://ps.pndsn.com/v2/subscribe/$SUBK/$CHAN/0?tt=$PUBT&tr=$PUBR"; echo
