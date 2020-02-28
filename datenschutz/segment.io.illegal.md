@@ -190,7 +190,8 @@ und die Leute wissen das sogar noch vorher (so dumm, etwas anderes anzunehmen, k
 ## Fazit
 
 Jedes deutsche Unternehmen, das segment.io einsetzt, oder Firmen im Ausland einsetzt,
-die wiederum segment.io einsetzt, begeht den schwersten aller möglichen Verstöße gegen die DSGVO.
+die wiederum segment.io einsetzen (sofern segment.io mit den Kundendaten oder Mitarbeiterdaten in Berührung gerät),
+begeht den schwersten aller möglichen Verstöße gegen die DSGVO.
 
 # Hinweis
 
