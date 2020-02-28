@@ -209,5 +209,5 @@ Danke.
 
 Beispiel für solch ein Unternehmen:
 
-- PubNub.  Die Registrierung bei PubNub ist nur freigeschaltetem segment.io möglich
+- [PubNub](https://www.pubnub.com/).  Die Registrierung bei PubNub ist nur mit freigeschaltetem segment.io möglich
   - Alles weitere scheint auch mit blockiertem segment.io zu funktionieren
