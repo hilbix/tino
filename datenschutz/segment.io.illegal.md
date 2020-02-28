@@ -166,11 +166,22 @@ eine sparsame Datenverarbeitungsvariante zu wählen,
 haben die Firmen, die segment.io einsetzen aus reiner Bequemlichkeit eine unkontrollierbare Datenkrake gewählt.
 
 Das tun sie ohne Not, ohne Zwang, ohne jeden datentechnisch nachvollziehbaren Grund,
-aus freien Stücken, lediglich aus dem niederen Beweggrund der reinen Profitmaximierung.
+aus freien Stücken, lediglich aus dem niederen Beweggrund der eklatanten Gesetzesmissachtung zur reinen Profitmaximierung.
 
 Dafür gibt es keinerlei Entschuldigung.
 
-Wenn das nicht der Standardfall für die Höchststrafe der DSGVO darstellt, dann weiß ich nicht,
+> Das, was Unternehmen hier tun, ist nicht einmal mit dem vergleichbar, was Raubmörder oder Bankräuber tun.
+> Letztere befinden sich oft selbst in einer Zangs- oder Notlage,
+> haben also quasi gar keine andere Wahl oder glauben dies zumindest.
+>
+> Genau das trifft hier eben nicht zu.  Nicht nur haben alle Unternehmen die freie Wahl ob sie segment.io verwenden,
+> auf segment.io zu verzichten ist sogar leicht, weil die Alternative dem typischen Vorgehen entspricht!
+>
+> Anders gesagt:  Der Raubmörder handelt deutlich verantwortungsvoller als Unternehmen, die segment.io einsetzen.
+> Dem Raubmörder könnte ich vergegeben (aka. Bewährung oder zumindest mildernde Umstände),
+> Unternehmen, die segment.io einsetzten, verdienen hingegen niemals jedwede Vergebnung (ergo: Mindesten Höchststrafe)!
+
+Wenn das also nicht der Standardfall für die Höchststrafe der DSGVO darstellt, dann weiß ich nicht,
 wie es jemals zu der Höchsstrafe kommen soll.
 
 Hier werden Daten aus rein monetären Gründen in sinnloser Weise and Datenkraken verschachert,
