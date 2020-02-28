@@ -204,3 +204,10 @@ Und ich empfehle es jedem anderen, dies ebenfalls zu tun.
 > Ergebnisse bitte hier als "Issue" bei GitHub eintüten.
 
 Danke.
+
+## Beispiele für Unternehmen im Ausland die segment.io einsetzen
+
+Beispiel für solch ein Unternehmen:
+
+- PubNub.  Die Registrierung bei PubNub ist nur mit Freischaltung von segment.io möglich
+  - Alles weitere scheint auch mit blockiertem segment.io zu funktionieren
