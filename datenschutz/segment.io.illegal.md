@@ -175,7 +175,7 @@ Dafür gibt es keinerlei Entschuldigung.
 > haben also quasi gar keine andere Wahl oder glauben dies zumindest.
 >
 > Genau das trifft hier eben nicht zu.  Nicht nur haben alle Unternehmen die freie Wahl ob sie segment.io verwenden,
-> auf segment.io zu verzichten ist sogar leicht, weil die Alternative dem typischen Vorgehen entspricht!
+> auf segment.io zu verzichten ist sogar leicht, weil die Alternative dem typischen und normalen Vorgehen entspricht!
 >
 > Anders gesagt:  Der Raubmörder handelt deutlich verantwortungsvoller als Unternehmen, die segment.io einsetzen.
 > Dem Raubmörder könnte ich vergegeben (aka. Bewährung oder zumindest mildernde Umstände),
