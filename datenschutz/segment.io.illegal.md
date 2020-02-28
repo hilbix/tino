@@ -2,7 +2,7 @@
 
 # segment.io
 
-Nach meiner (umnaßgeglichen) Analyse handelt jeder, der segment.io in Deutschland einsetzt,
+Nach meiner (unmaßgeglichen) Analyse handelt jeder, der segment.io in Deutschland einsetzt,
 hoch illegal und verstößt in eklatanter, vorsätzlicher und wissentlicher Weise gegen die DSGVO.
 
 
