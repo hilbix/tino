@@ -47,6 +47,8 @@ Wenn segment.io in Form mit der (erlaubnispflichtigen)
 Verarbeitung von (für den Businessprozess notwendigen) Daten betraut wurde,
 kann dies im Rahmen einer Auftragsverarbeitung geschehen.
 
+## Keine Auftragsverarbeitung
+
 Im Rahmen einer Auftragsverarbeitung kann es auch in Form einer Auftragsverarbeitung zu einer Datenweitergabe kommen,
 wenn diese im Rahmen der Auftragsverarbeitung notwendig ist.
 
@@ -119,6 +121,8 @@ der die Marketingdaten dann am Ende zur Verfügung gestellt werden.)
 Die DSGVO halte ich eben in diesem Fall also hinten und vorne nicht ein,
 weil sie in diesem Konstrukt unmöglich eingehalten werden kann.
 Das kann natürlich unwissentlich (sprich: Aus Faulheit, Dummheit oder Inkompetenz) geschehen.
+
+## segment.io ist nicht notwendig
 
 Nur leider ist diese Ausrede in diesem Fall nicht anwendbar.  Der Grund dafür steht wiederum in der DSGVO.
 
