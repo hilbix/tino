@@ -8,10 +8,12 @@
 # Add a first rule to Makefile:
 #	.PHONY:	love
 #	love:
-#		python3vim.sh ./python-script.py
+#		python3vim.sh ./python-script.py args..
 # Now run vim and in vim press:
 #	M
 # This then jumps to the first error encounted.
+#
+# Now also support (a bit): PYTHONPATH=path python3vim.sh -m module args..
 
 OUT="/tmp/$LOGNAME-python3lasterrors.out"
 
@@ -55,13 +57,13 @@ armed		{ d[armed++]=$0; next }
 END			{ ok(); exit(have) }
 ' || have=true;
 $have && note "$OUT" 0 0 location of original error log
-$have && note "$0" 79 2 Running python3 "$@"
+$have && note "$0" 82 2 Running python3 "$@"
 }
 
 catcherrors()
 {
 trap 'mv -f "$OUT.$$" "$OUT"' 0
-tee "$OUT.$$" | parseerrors
+tee "$OUT.$$" | parseerrors "$@"
 mv -f "$OUT.$$" "$OUT"
 trap '' 0
 }
@@ -76,8 +78,16 @@ then
 	echo
 	cat "$OUT"
 else
-	python3 "$@" 2> >(catcherrors) | cat	# cat waits for (catcherrors) to return
+	python3 "$@" 2> >(catcherrors "$@") | cat	# cat waits for (catcherrors) to return
 	ret=${PIPESTATUS[0]}
+	if [ '.-m' = ".$1" ]
+	then
+		shift
+		# python3vim.sh -m module args..
+		module="${PYTHONPATH%%:*}"
+		module="${module:-.}/$1/__main__.py"
+		[ -f "$module" ] && set -- "$module"
+	fi
 	[ 0 = $ret ] || warn "$1" 0 0 failed: $ret
 	cat "$OUT"
 fi
