@@ -110,15 +110,39 @@ Docker?
 How to compile for Windows or MacOSX?
 
 - All work in the free tier, too.  (At least I think so.)
-- [Windows](https://cirrus-ci.org/guide/windows/) executes on Azure `windows_container`s (but I never did this yet, so I am not sure):  
-  [`cirrusci/windowsservercore:2016`](https://hub.docker.com/r/cirrusci/windowsservercore/tags/)  
-  [`microsoft/windowsservercore:ltsc2016`](https://hub.docker.com/r/microsoft/windowsservercore/tags/)  
-  Probably more
-- [MacOSx](https://cirrus-ci.org/guide/macOS/) executes on Anka Cloud [example](https://github.com/hilbix/macshim/blob/dev/.cirrus.yml)) [`osx_instance`](https://github.com/cirruslabs/osx-images)s:  
-  `high-sierra-base` without Xcode  
-  `high-sierra-xcode-9.4` with Xcode 9.4  
-  `high-sierra-xcode-9.4.1` with Xcode 9.4.1  
-  (This list was compiled in 2018-09, the images [listed there](https://github.com/cirruslabs/osx-images) are now different)
+
+- [Windows](https://cirrus-ci.org/guide/windows/) executes on Azure `windows_container`s (but I never did this yet, so I am not sure):
+  - [`cirrusci/windowsservercore:cmake`](https://hub.docker.com/r/cirrusci/windowsservercore/tags/) uses 2019 currently and includes dev env
+  - [`microsoft/windowsservercore:ltsc2019`](https://hub.docker.com/_/microsoft-windows-servercore) includes no dev env  
+    [list of all tags](https://mcr.microsoft.com/v2/windows/servercore/tags/list) like `ltsc2019`
+
+- [MacOSx](https://cirrus-ci.org/guide/macOS/) executes on [Anka](https://veertu.com/anka-technology/) Cloud ([example](https://github.com/hilbix/macshim/blob/dev/.cirrus.yml))
+  - [`osx_instance`](https://github.com/cirruslabs/osx-images)s:  
+
+		catalina
+		mojave
+		high-sierra
+
+  - `catalina-base` without Xcode (automatically upgrades to the latest OS)
+  - `catalina-xcode` with xcode (automatically upgraded to latest OS and xcode)
+  - Current images [listed from Cirrus-CI](https://github.com/cirruslabs/osx-images) may be different
+  - Image history (compiled 2020-03, mostly untested, may perhaps vanish):
+  
+		catalina-xcode-11.3.1
+		mojave-xcode-11.3
+		mojave-xcode-11.2.1
+		mojave-xcode-11.2
+		mojave-xcode-11.1
+		mojave-xcode-11
+		mojave-xcode-11.0
+		mojave-xcode-10.3
+		mojave-xcode-10.2
+		mojave-xcode-10.1
+		mojave-xcode-10.0
+		high-sierra-xcode-10.0
+		high-sierra-xcode-9.4.1
+		high-sierra-xcode-9.4
+
 - Android and others [see yourself](https://hub.docker.com/u/cirrusci/) ([examples](https://cirrus-ci.org/examples/) from Cirrus CI)
 
 How to use with `gbp` and Debian Toolchain?
