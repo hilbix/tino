@@ -36,25 +36,39 @@ Open https://cirrus-ci.com/
 
 In the root of a public repo, create a file named `.cirrus.yml`.
 
-> This is the biggest drawback of Cirrus CI:  You have to modify your project!
+> This is the biggest drawback of Cirrus CI:  You have to modify your project by adding just one single small file!
 
-To run `make` probably this is the contents of your `.cirrus.yml`:
+Example `.cirrus.yml` to run `make` on GCC/Linux and Xcode/MacOS:
 
 ```
-container:
-  image: gcc:latest
-
 make_task:
+  matrix:
+    - container:
+        image: gcc:latest
+    - osx_instance:
+        image: catalina-xcode
   prep_script: git submodule update --init --recursive
   compile_script: make
   install_script: make install
+  test_script: make test
 ```
 
 > Compile runs as `root` (at least in container `gcc:latest`), so `sudo` is not needed.
 
-- `git commit -A`
+To enable and run the build, on the `master` branch do:
+
+- `git add .cirrus.yml`
+- `git commit`
 - `git push`
-- Refresh https://cirrus-ci.com/
+
+(Or create the `.cirrus.yml` file directly on GitHub in the `master` branch.)
+
+Refresh https://cirrus-ci.com/
+
+- It may take a second for Cirrus-CI to recognize the change.
+- Only repositories with a `.cirrus.yml` on the `master` branch with recent activities on the `master` branch are shown there
+- An unlisted repo `https://github.com/{USERorORG}/{REPO}` (or `{REPO}.git`) can be accessed as `https://cirrus-ci.com/github/{USERorORG}/{REPO}` on Cirrus-CI
+  - If it still does not show, it has no `.cirrus.yml` in any branch
 
 
 # `.cirrus.yml` HowTo
@@ -117,35 +131,30 @@ How to compile for Windows or MacOSX?
     [list of all tags](https://mcr.microsoft.com/v2/windows/servercore/tags/list) like `ltsc2019`
 
 - [MacOSx](https://cirrus-ci.org/guide/macOS/) executes on [Anka](https://veertu.com/anka-technology/) Cloud ([example](https://github.com/hilbix/macshim/blob/dev/.cirrus.yml))
-  - [`osx_instance`](https://github.com/cirruslabs/osx-images)s:  
-
-		catalina
-		mojave
-		high-sierra
-
-  - `catalina-base` without Xcode (automatically upgrades to the latest OS)
-  - `catalina-xcode` with xcode (automatically upgraded to latest OS and xcode)
-  - Current images [listed from Cirrus-CI](https://github.com/cirruslabs/osx-images) may be different
-  - Image history (compiled 2020-03, mostly untested, may perhaps vanish):
+  - Current images [listed from Cirrus-CI](https://github.com/cirruslabs/osx-images) may be different  
+    `catalina-base` without Xcode (automatically uses latest OS without Xcode)  
+    `catalina-xcode` with xcode (automatically uses latest OS and Xcode)
+  - Sadly you cannot test backward compatibility, as older Xcode/OS-X-images seem to automatically be upgraded to Catalina.  
+    Image history (compiled 2020-03. `*`: vanished and auto-upgrades to latest OS/Xcode, `?`: not tested):
   
 		catalina-xcode-11.3.1
-		mojave-xcode-11.3
-		mojave-xcode-11.2.1
-		mojave-xcode-11.2
-		mojave-xcode-11.1
-		mojave-xcode-11
-		mojave-xcode-11.0
-		mojave-xcode-10.3
-		mojave-xcode-10.2
-		mojave-xcode-10.1
-		mojave-xcode-10.0
-		high-sierra-xcode-10.0
-		high-sierra-xcode-9.4.1
-		high-sierra-xcode-9.4
+		*mojave-xcode-11.3
+		*mojave-xcode-11.2.1
+		*mojave-xcode-11.2
+		*mojave-xcode-11.1
+		*mojave-xcode-11
+		*mojave-xcode-11.0
+		*mojave-xcode-10.3
+		*mojave-xcode-10.2
+		*mojave-xcode-10.1
+		*mojave-xcode-10.0
+		*high-sierra-xcode-10.0
+		*high-sierra-xcode-9.4.1
+		*high-sierra-xcode-9.4
 
 - Android and others [see yourself](https://hub.docker.com/u/cirrusci/) ([examples](https://cirrus-ci.org/examples/) from Cirrus CI)
 
 How to use with `gbp` and Debian Toolchain?
 
-- I really have no idea yet.
+- I really have no good idea yet.
 - However it should be easy to find out when I find the time to look into it.
