@@ -253,4 +253,182 @@ der Bevölkerung bei allen Mitteln des täglichen Bedarfs.
 
 ## Der Abschuss aber war folgende Meldung
 
+https://www.nau.ch/news/amerika/wegen-homeoffice-netflix-im-notfall-abgeschaltet-65678360
 
+Da erblödet sich tatsächlich jemand,
+der offentsichtlich weniger als überhaupt gar keine Ahnung hat,
+eine derartige Meldung zu verbreiten.
+
+**Sagt mal, geht's noch?!?**  Das ist wirklich ein absoluter Höhpunkt,
+ein unvergesslicher Meilenstein in Sachen Hirnschiss!
+
+Diese Meldung ist nicht nur mit keinerlei Belegen oder Referenzen hinterlegt.
+Sie offenbart auch ein so darmaßenes Unverständnis, wie das Internet funktioniert,
+wie es selbst die Neuland-Politiker in Deutschland noch niemals an den Tag gelegt
+haben.
+
+Diese Meldung ist nicht nur unwissenschaftliche Fake News, entbehrt jeglicher
+Grundlage und ist somit eine dreiste rein erfundene Lüge, sie ist in etwa so
+wahrscheinlich wie .. öh .. das Corona in Wirklichkeit ein Alienangriff ist,
+der dazu dient, die Weltbevölkerung durch die dann selbstentwickelte Impfung
+zu sterilisieren, um dann den Planeten und vor allem die menschliche
+Technologie übernehmen zu können.  Oder nein, wenn ich mir es überlege,
+ist das mit dem Alienangriff millardenfach wahrscheinlicher als das
+Netflix abgeschaltet wird um Internetbandbreite zu sparen.
+
+> Jupp, und das gilt auch und gerade für Amerika!
+
+Also, wie krank muss man eigentlich sein solch einen Artikel auszudenken?
+Und wie kriminell im Hirn muss man dazu noch sein, das auch noch als News
+zu verkaufen?
+
+Ein paar Fakten:
+
+- Youtube und Netflix sind Streamingdienste.
+- Diese Streamen von großen Rechenzentren zum Heimkunden.
+- Das Internet ist dezentral aufgebaut
+- Die großen Internetknoten (Exchanges) sind weit unter der Kapazitätsgrenze
+- Das Internet basiert auf Peering, d. h. einer engen Vermaschung aller Beteiligen
+- Im Internet gilt die Netzneutralität, d. h. alle Dienste sind gleichberechtigt
+- Die großen Interlinks basieren auf Glasfaser und haben ausreichend Kapazitäten
+- Heimarbeit braucht eine vergleichweise wenig bis verschwindende Bandbreite
+
+Im Internet gibt es keine Autobahnen die irgendwie verstopft werden können.
+Im Internet gibt es keine Kreuzungen, die durch Ampeln behindert werden.
+
+Im Internet ist quasi jedes Auto permanent mit Lichtgeschwindigkeit unterwegs,
+und das ohne jemals richbtig anzuhalten.
+
+Wird das Netzwerk überlastet, dann geschieht eine sog. Backpressure.
+Diese aber findet nicht auf der Straße statt, sondern in der Garage.
+Wenn das Auto nicht mit Höchstgeschwindigkeit zum Ziel kommen kann,
+fährt das Auto also erst gar nicht los!
+
+> So jedenfalls könnte man TCP beschreiben.  Und TCP wird nun einmal für
+> so gut wie alles eingesetzt.
+
+Also, so etwas wie eine "Verstopfung" kann es im Internet gar nicht geben.
+
+**Überlast im Internet wegen Heimarbeit ist genaus absurd,
+als würde man jetzt sagen der Parkraum wird knapp,
+weil die Leute nicht in die Arbeit fahren,
+die Autos also nur dumm rumstehen.**
+
+Wo ist der Stau?  Stau existiert nur an 2 Stellen im Internet:
+
+- Am lokalen Anschluss
+- Und am Anschluss vom Ziel
+
+Wenn die Firmen über zu wenig Kapazitäten für Heimarbeit verfügen,
+dann hilft exakt nur eines:  Kapazitätsausbau.
+Denn Netzflix abzuschalten (oder Youtube) entlastet den Firmenanschluss
+exakt gar nicht.  Da streamt ja nix hin und Firmen hängen nun einmal
+an Businessanschlüssen, die über eine eigene Infrastruktur verfügen
+(ansonsten: ISP wechseln, der ist Müll).
+
+Bleibt also noch der lokale Anschluss.
+
+Ja, Streaming kann Heimarbeit behindern.  Bei den Regionalnetzen.
+Weil irgendein Arsch von Shareholder befriedigt werden musste statt
+dass der ISP rechtzeitig für eine sinnvolle Infrastruktur vorgesorgt hätte.
+
+Denn das ist die Aufgabe eines ISPs.  Und ja, es **ist** die Aufgabe eines
+ISPs für die Zombieapokalypse gewappnet zu sein.  Jedenfalls mit seiner
+Netzinfrastruktur.  Denn nicht der ISP definiert, wie der Anwender das
+Netz nutzt, sondern der Anwender.  Ebenfalls ein Teil der Netzneutralität
+die jeder Marktanbieter (evtl. unwissenltich) zu befolgen hat.
+
+Sprich, wenn irgendein regionaler Bullshit-ISP jetzt Probleme mit der
+Leistungsfähigkeit seines Netzes wegen Homeoffice hat, ist das ..
+.. ein reines Luxusproblem.
+
+Hat der ISP etwa Homeoffice verkauft?  Nicht?  Dafür gibt es Businessanschlüsse!
+Das gilt zwar hierzulande weniger, aber gerade in Amerika.
+Wer also Probleme mit seiner Internetleistung hat, weil die Streamer das
+Regionalnetz verstopfen (wie auch immer das möglich sein soll),
+dann muss man halt seinen Vertrag auf das Businessmodell umstellen.
+
+> Und plötzlich sind die Streamer kein Thema mehr.
+
+Überregional kann Streaming auch ein Punkt sein.  Weil die Leitungen jetzt
+zu gering ausfallen, weil alle Leute zuhausesitzen und streamen.
+Das ist dann ebenfalls ein Problem des regionalen ISP, er muss halt höhere
+Kapazitäten bereitstellen.
+
+Das Backbone und die CIXe aber haben überhaupt kein Thema mit dem Traffic.
+Und selbst wenn, das regeln Dienste wie Youtube und Netflix automatisch!
+
+Dafür gibt es sogar 2 Mechanismen:
+
+- Die Bandbreite wird automatisch gesenkt.
+- Es wird automatisch umgeroutet.
+
+Letzteres geschieht teils auf Carrierebene, d. h. beim Streaming hat man dann
+plötzlich höhere Latenzen.  Oh wie schlimm.  Merkt man überhaupt nicht.
+
+**Ein Abschalten von Netflix oder Youtube?** Nur über deren Leichen.
+
+Ein Abschalten ist genauso absurd, wie das Abschalten von Kraftwerken um Strom zu sparen.  **Warum haben wir überhaupt derart leistungsfähige Netze heute?**  Weil die ISPs alle Altruisten sind und das aus reiner Nettigkeit tun?  Quark!  **Die Leistung haben wir, weil die Leistung nachgefragt wird!**  Und wodurch?  Eben gerade wegen Youtube und Netflix.
+
+Diese jetzt abzuschalten ist genauso sinnvoll wie Fucking for Virginity.
+
+Sollte es zu kurzfristigen regionalen Engpässen kommen, so sind das genau solche:
+
+Kurzfristige regionale Engpässe bis die Kapazitäten nachgerüstet wurden.
+Da global irgendwelche Dienste abzuschalten ist wie wenn man ein Verkaufsstopp
+für Lebensmittel ausspricht, nur weil irgendwo das Ketchup ausgegangen ist.
+
+> Sprich:  Wird genausowenig passieren.
+
+Ein guter ISP kriegt Kapazitätsengpässe schnell auf die Reihe.
+
+Und noch ein Hirnschiss:
+
+Streaming und Homeoffice sind vollkommen verschiedene Traffictypen.
+Das eine ist ein Protokoll, das hohe Latenzen verträgt.
+Es braucht eben nur eine hohe Bandbreite.
+
+Das andere ist genau das umgekehrte.  Es ist nahezu ein Echtzeitprotokoll,
+welches hohe Latenzen überhaupt nicht verträgt, aber dafür vergleichbar
+eine geringe Bandbreite hat.
+
+Ein Porsche im Feld ist genauswenig sinnvoll wie ein Trecker auf der Autobahn.
+
+Aber genau das wird hier propagiert.  Schalten wir die LKW ab,
+damit die Porsches freie Bahn haben.
+
+Nope.  Hilft so gut wie nicht.  Ja, einen geringen Effekt hat das.
+Aber es gibt ein viel einfacheres Mittel:
+
+Einfach ein Überholverbot für LKW auf Autobahnen.
+
+Dann haben die Porsches weiterhin freie Fahrt und die LKW ebenso.
+
+Das Mittel dafür muss auch nicht erst geschaffen werden.
+Das haben wir bereits seit Bestehen des Internets.
+Es nennt sich QoS (Quality of Service) und wird bereits weltweit genutzt.
+
+Sprich, da muss man überhaupt gar nichts für machen.  Man muss es nur einschalten.
+
+> QoS ist meistens aus, weil die Kapazitäten einfach dermaßen hoch sind,
+> dass es nicht notwendig ist.  Es einzuschalten belastet nämlich die Router,
+> weil sie dann den Traffic priorisieren müssen.  Was oft größere Nachteile
+> bringt als es gar nicht zu machen!  Und es erhöht den Energieverbrauch,
+> wenn es im Router verarbeitet wird ohne dass es notwendig ist.
+>
+> Aber auf belasteten Teilstrecken, auf denen keine schnelle Abhilfe möglich ist,
+> kann man es einschalten.  Das get meist rein konfigurativ, außer der ISP
+> hat Scheiße gebaut.
+>
+> Dafür ist gar nicht notwendig dass jeder QoS macht, also wenn die Firma
+> mit den Heimarbeitsplätzen schlicht keine Ahnung hat wie das funktioniert.
+>
+> Es reicht dass Youtube und Netflix wissen, wie das geht.
+
+So funktioniert Internet.  Und genau deshalb wurde es ein Erfolg.
+Denn selbst wenn alle Idioten vollkommen ablosen wie irr,
+und daraus Schreiberlinge abartige Stories machen wie die zitierte,
+es funktioniert trotzdem.
+
+Jedenfalls so lange keine Deppen unterwegs sind und massenhaft IoT ins Feld stellen
+welches dann für dDoS gekapert werden kann.  Aber das ist eine vollkommen andere Geschichte.
