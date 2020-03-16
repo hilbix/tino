@@ -1,3 +1,20 @@
+> Update 2020-03-16 18:00 Uhr: Aldi verkauft einem nur noch 2 Dosen pro Produkt pro Einkauf.  **Das ist Hirnschiss**
+>
+> Normalerweise bin ich 1-2 Mal pro Monat bei Aldi.  Dann kaufe ich immer Massen, weil es sich sonst nicht lohnt.
+> Das sind bei mir ganz normale haushaltsübliche Mengen.  Und dass ich meist über 80 EUR pro Einkauf zahle kann ich
+> bei Bedarf beweisen.  Das ist aber kein Hamstern.  Das ist einfach der normale Verbrauch den ich nachkaufe!
+>
+> Derzeit bei Corona komme ich häufiger zu Aldi, weil ich für meine Mutter jede Woche mit einkaufe.
+> Deshalb kaufe ich weniger.  Heute waren es 5 Dosen Hühnchen.  Aber nö, das ist jetzt plötzlich rationiert!
+>
+> Hamstern mag ja Scheiße sein, **aber das was Aldi da macht ist galloppierender Bockmist der übelsten Sorte!**
+> **Das ist nämlich kein Käuferschutz, das ist Gefährdung der Volksgesundheit!**
+>
+> Also in einen Laden gehen der leergehamstert ist, das ist eine Sache.
+> Mich aber der Ansteckungsgefahr **unnötig** hingeben zu müssen, weil ich häufiger Einkaufen muss als notwendig,
+> weil die Sachen nicht mehr in haushaltsüblichen Mengen abgegeben werden, das grenzt
+> in Zeiten einer Pandemie geradezu an **vorsätzliche Gefährdung** und **versuchte Körperverletzung**!
+
 # Hirnschiss Covid 19
 
 Sagt mal, wem haben sie denn da wieder ins Hirn geschissen?
