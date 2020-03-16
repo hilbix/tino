@@ -10,10 +10,14 @@
 > Hamstern mag ja Scheiße sein, **aber das was Aldi da macht ist galloppierender Bockmist der übelsten Sorte!**
 > **Das ist nämlich kein Käuferschutz, das ist Gefährdung der Volksgesundheit!**
 >
-> Also in einen Laden gehen der leergehamstert ist, das ist eine Sache.
-> Mich aber der Ansteckungsgefahr **unnötig** hingeben zu müssen, weil ich häufiger Einkaufen muss als notwendig,
-> weil die Sachen nicht mehr in haushaltsüblichen Mengen abgegeben werden, das grenzt
-> in Zeiten einer Pandemie geradezu an **vorsätzliche Gefährdung** und **versuchte Körperverletzung**!
+> Also in einen Laden gehen der leergehamstert wurde, das ist eine Sache und dafür kann der Laden nichts,
+> denn wie will er verhindern dass der verstärkte Verkauf haushaltsüblicher Mengen zu leeren Regalen führt?
+>
+> Kunden aber **unnötig** der einer erhöhten Ansteckungsgefahr auszusetzen, weil diese jetzt häufiger einkaufen müssen
+> als unbedingt notwendig, und das nur weil der Laden vorsätzlich und willkürlich partout nicht mehr in
+> haushaltsüblichen Mengen herausgeben will, das grenzt in Zeiten einer Pandemie geradezu an
+> **vorsätzliche Gefährdung** sowie **versuchte Körperverletzung**.
+
 
 # Hirnschiss Covid 19
 
