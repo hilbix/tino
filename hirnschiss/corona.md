@@ -159,7 +159,7 @@ außer der 3. Weltkrieg geht los oder eine neue Eiszeit kommt.
 Wir sind einer der größten Exporteure von Hühnchen und Hühnerprodukten in der Welt!
 Warum?  Weil Deutschnald die beste Qualität liefern kann.
 
-Diese Hünerfarmen, die Schweinefarmen usw., all diese Farmen hören ja nicht auf
+Diese Hühnerfarmen, die Schweinefarmen usw., all diese Farmen hören ja nicht auf
 zu produzieren.  **Das einzige, wo es einen Engpass gibt, ist beim Personal dieser
 Einrichtungen.**  Deutsche sind sich ja zu schade das zu machen.
 
