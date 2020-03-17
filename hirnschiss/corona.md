@@ -453,3 +453,72 @@ es funktioniert trotzdem.
 
 Jedenfalls so lange keine Deppen unterwegs sind und massenhaft IoT ins Feld stellen
 welches dann für dDoS gekapert werden kann.  Aber das ist eine vollkommen andere Geschichte.
+
+> Fun Fact Nachtrag 2020-03-17 01:50
+>
+> Der Artikel, auf den ich mich beziehe, befindet sich unter Home -- News -- Amerika
+>
+> Der im Artikel zitierte Mensch hat aber - wenn ich die Sache richtig verstehe -
+> nicht über Amerika geredet, sondern über die Schweiz.
+>
+> OK, die zwei Länder ch und us kann man bei der Ablage eines Artikels ja durchaus mal verwechseln .. NICHT.
+>
+> Aber, wenn ich das jetzt richtig verstanden habe, hat er nicht einfach nur über das Internet der Schweiz geredet.
+> Er hat über das Mobilfunknetz in der Schweiz geredet!
+>
+> Die Grundlage des Artikels ist also die Spekulation von eben dem zitierten, dass es im Mobilfunknetz
+> (das gibt dem Bezug "telefonische Erreichbarkeit" im Artikel eine komplett andere Bedeutung)
+> durch Netflix-Streaming überlastet werden könnte wenn jetzt auch noch die Homeoffice-User dazukommen.
+>
+> WTF what?  Netflix Streaming samt Homeoffice in Massen über Mobilfunknetz?
+>
+> Öhm .. ja genau, es scheint in der Schweiz üblich zu sein, auf Festnetz zu verzichten,
+> weil da die mobilen Flatrates wohl nicht so beschnibbelt zu sein scheinen wie in Deutschland.
+> Das Handy reicht einfach als Internetzugang aus.  Wozu noch einen "echten" Router oder "echtes" Telefon?
+>
+> Ja, und oh, genau dann fängt diese Aussage im Artikel an, ein klitzekleinwenig Sinn zu ergeben .. NICHT!
+>
+> Es steht nämlich weiterhin nur Schwachsinn drinnen:
+> - Es handelt sich nicht um "Netze", sondern lediglich (vermutlich) um "das Mobilfunknetz der Swiss Telecom"
+> - Netflix/Youtube werden nicht abgeschaltet, sondern depriorisiert (QoS)
+>   - Jedenfalls gehe ich mal davon aus, die ST versteht unverschämterweise ihr Handwerk
+>   - Ja, ist doch unverschämt, wenn jemand nicht das tut was ein Schreiberling sich ausdenkt!
+> - Es handelt sich um eine Mobilfunkverbindung, die, egal wie schnell sie ist, keine Netze belastet, sondern nur sich selbst.
+> - Es handelt sich um eine Mobilfunkverbindung, die eben genau kein schnelles Internet darstellt sondern irre Latenzen hat.
+>   - Jedenfalls noch, ich gehe davon aus, die faseln nicht von 5G, das ja keinerlei Streamingbandbreitenprobleme mehr kennt.
+>   - LTE/4G ist zwar etwas schneller als Schnecke und Schildkröte, aber nur ein krabbelndes Baby und kein Windhund wie 5G.
+> - Die Überlastung nicht durch Streamingdienste entsteht, sondern durch aktive Nutzer, egal ob die Streamen oder nicht
+>   - Das ändert sich erst mit 5G!  LTE hat nur die Bandbreite verbessert, aber eben weniger die Gesamtnutzerzahlen.
+>
+> Sprich:  Netflix abzuschalten hilft fast nix.  Wenn in Wohnsilos plötzlich hunderte Leute mit ihren
+> Handys zuhause Homeoffice machen, also gleichzeitig surfen und telefonieren wollen, dann braucht man nix extra abschalten.
+> Das bricht LTE ganz von selbst zusammen.
+>
+> Da hilft eben nur, Hand an die Sendemasten anzulegen, zur Funkzellenoptimierung.  Telefonie hat Prio, und wenn die
+> ans Limit kommt, dann purzelt das Internet raus um Slots für die Telefonie freizumachen.  Erst 5G macht das anders.
+> Mehr als ca. 100 aktive Sessions pro Sektor kann LTE einfach nicht und wenn die alle telefonieren war's das mit Internet.
+>
+> Streamer sind in sofern toll, weil die LTE weniger belasten als ein Telefoniekanal.  Die kann man nämlich nacheinander
+> bedienen.  Bei Telefonie kannst Du aber nicht mal schnell 100ms lang jemand anderen bedienen.  Solche Aussetzer hört
+> man sofort.  Außer die Telefonate werden mit Latenzen geführt, die an eine Verbindung über einen geostationären Orbit
+> erinnern.  Nee, so Homeoffice, das willst Du gar nicht!
+>
+> Dazu kommt die (vergleichsweise) niedrige Uplinkrate von LTE.  Wenn alle Homeoffice mit Videkonferenz machen, dann nur
+> in Briefmarkengröße.  Full-HD-Streaming wie es jeder auf Twitch macht, das geht nur, wenn nicht viele dasselbe versuchen.
+> Die andere Richtung hat - internetmäßig - eher wenig Probleme.  Gut, Netflix zieht schon mal 10 MBit/s bei Full-HD.
+> Aber das sind für Streaming hochoptimierte Daten!  Eine Videokonferenz belegt da gerne mal das Doppelte.  Bei
+> deutlich schlechterer Qualität als Netflix!  Oh, ja, 2 Streamer für 1 Videokonferenzler rauswerfen.  Deal!
+>
+> Und Citrix tut dann sein Übriges.
+>
+> Nur mal so zum Vergleich:  Mit Vectoring (Festnetz) hat ein einzelner Nutzer exklusiv das, was ein Sektor bei LTE hat.
+> Also dem beschissenen Vectoring in Deutschland, natürlich.  Bei LTE teilen sich das alle Nutzer.
+>
+> Gut wenn Du alleine bist.  Bist Du aber nicht.
+>
+> Und einen habe ich noch:
+>
+> Cool wenn man Youtube abschaltet, wenn das Meeting ins Homeoffice über einen privaten Youtube-Stream geht.  
+> Und jetzt stelle Dir mal vor, was passiert, wenn das Streaming von Netflix bewusst abklemmt wird,
+> aber das von Youtube angelassen wird weil das die Firmen für's Streaming nutzen.
+> Das dürfte dann die nukleare Variante einer Schadensersatzexplosion sein.
