@@ -35,7 +35,7 @@ Beispielsweise hatte ich gerade festgestellt, dass ich das handliche
 Mitnahmefläschchen vom Handdesinfektionsmittel verlegt hatte, und wollte
 ein neues kaufen.  Geht nicht, gibt's nimmer, und wenn ja, dann zu horrenden Preisen.
 
-Geggehamstert!  Alles, was ich jetzt noch habe sind die unhandlichen Nachfüllflaschen!
+Weggehamstert!  Alles, was ich jetzt noch habe sind die unhandlichen Nachfüllflaschen!
 Die aber mitzunehmen ist unsinn.  Desinfektionsmittel müsste ich also eigentlich
 gar nicht kaufen - habe ich ausreichend im Vorrat - aber ich kann es trotzdem nicht
 nutzen.
