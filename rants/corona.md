@@ -1,0 +1,348 @@
+> Siehe auch [Hirnschiss zu Corona](../hirnschiss/corona.md).
+
+# Gedanken zu Corona
+
+## Bündeleinkäufe zur Risikominimierung
+
+Ich halte in der jetzigen Zeit zur Coronaprävention **Bündeleinkäufe** nicht nur für sinnvoll, sondern auch gegeben.
+
+Ein Bündeleinkauf gestaltet sich so:
+
+- Nachbarn finden sich für ihre Einkäufe zusammen
+- Nur einer derjenigen fährt einkaufen, kauft alles für die anderen mit ein, und liefert es entsprechend ab.
+- Beim nächsten Einkauf fährt der nächste.
+
+Zwischen zwei Einkäufen, die eine Person macht, liegen dabei jeweils mindestens 14 Tage.
+Sinnvoll ist also, dass die Anzahl der Einkäufe möglichst auf 1 Mal pro Woche entsprechend reduziert werden,
+dann reichen 4 Personen aus, die einkaufen.
+
+- Es geht nicht darum, eine Corona-Ansteckung der Gruppe zu vermeiden.
+- Es geht darum, die Ausbreitung von Corona aus einer ehemals coronafreien Gruppe zu verhindern
+
+Bei dem hier vorgestellten Modell braucht Corona 2 Hops um sich durch die Gruppe auf andere auszubreiten.
+Das funktioniert, denn wenn der Corona-Test bei dem ersten Hop anschlägt, ist der 2. Hop in der Regel noch nicht ansteckend.
+
+### 2/4 Szenario
+
+Ich gehe von einem 2/4-Modellfall aus:
+
+- 4 Einkäufer
+- 2 Einkäufe die Woche
+- Der Gesamtzyklus ist also 14 Tage
+- Patient 0 ist derjenige, der (unerkannt) Corona hat und keinerlei Symptome aufweist
+  - Er wird nur dann getestet, wenn die Gruppe in Quarantäne geht
+- Patient 1 ist derjenige, der von Patient 0 angesteckt wurde und noch keine Symptome aufweist, aber bereits ansteckend ist
+  - Er löst in der Folgewoche eine Quarantäne der Gruppe aus
+- Patient 2 ist jemand außerhalb der Gruppe, der von Patient 0 oder Patient 1 angesteckt wurde
+
+Der Normalfall dazu ist:
+
+- 4 Einkäufer
+- Jeder der 4 Einkäufer geht ein Mal pro Woche einkaufen
+- Die Einkäufe im Modell werden so gelegt, dass die beiden Einkäufe in der Woche
+  mit den Einkaufstagen der Einkäufer aus dem Normalfall zusammenfallen.
+- Falls in der ersten Woche Patient 1 Einkäufer ist, befindet sich die Gruppe in Woche 2 in Quarantäne
+
+Fall: In der Gruppe gibt es Patient 0 und 1
+
+- Für die Ausbreitung muss der Einkäufer Patient 0 oder 1 sein.
+  - Patient 0 und Patient 1 seien beide Einkäufer
+- Patient 0 und 1 in 1. Woche
+  - In diesem Fall besteht kein wesentlicher Unterschied gegenüber dem Normalfall
+  - In der 2. Woche geht die Gruppe in Quarantäne weil Patient 1 erkannt wird.
+- Patient 0 und 1 in 2. Woche, Patient 1 tritt in 1. Woche auf
+  - Die Ausbreitung wurde verhindert!
+  - Die Gruppe befindet sich in der 2. Woche in Quarantäne (auch im Normalfall)
+- Patient 0 und 1 eingeteilt in 2. Woche, Patient 1 tritt erst in 2. Woche auf
+  - Das Modell verhindert die Ausbreitung in der 1. Woche
+  - Die Ausbreitung wird also effektiv um 1 Woche gebremst
+- Patient 0 in 1. Woche, Patient 1 in 2. Woche, Patient 1 tritt in 1. Woche auf
+  - Das Modell verhindert die Ansteckungsgefahr durch Patient 1 in der 1. Woche
+  - Die Gruppe befindet sich in der 2. Woche in Quarantäne (auch im Normalfall)
+- Patient 0 in 1. Woche, Patient 1 in 2. Woche, Patient 1 tritt in 2. Woche auf
+  - Das Modell verhindert die Ansteckungsgefahr durch Patient 0 in der 2. Woche
+- Patient 1 in 1. Woche, Patient 0 in 2. Woche
+  - Das Modell verhindert die Ansteckungsgefahr durch Patient 0 in der 1. Woche
+  - Die Gruppe befindet sich in der 2. Woche in Quarantäne (auch im Normalfall)
+
+Das Modell kann also rein statistisch bereits die Ausbreitung von Corona aus der Gruppe heraus dämpfen.
+Dieser Fall ist aber weniger interessant.  Interessanter ist der Fall dass die Gruppe frei von Corona ist.
+
+Die Annahme ist nun, dass der Fall auftritt, dass alle Fahrer infiziert werden.
+Der ungünstigste Fall wäre, dass alle Fahrer dann zu Patient 0 werden.
+Da das wenig bei der Überlegung bringt gehen wir von einem abgewandelten Worst-Case aus:
+
+- In Woche 1 werden die Fahrer zu Patient 2, durch einen unerkannten symptomlosen Verbreiter
+- In Woche 2 werden die Fahrer der 1. Woche zu Patient 0 und die neuen Fahrer der 2. Woche zu Patient 2
+- In Woche 3 wird mindestens 1 Fahrer der 2. Woche zu Patient 1
+- In Woche 4 befindet sich die Gruppe in Quarantäne
+
+Was leistet das Modell hier gegenüber dem Normalfall?
+
+- 1. Woche
+  - Im Normalfall stecken sich alle 4 Fahrer an
+  - Im Modell stecken sich nur 2 Fahrer an
+- 2. Woche
+  - Im Normalfall verbreiten alle Fahrer die Seuche
+  - Im Modell gibt es hier noch keine Verbreitung, es stecken sich lediglich die beiden Fahrer an.
+  - Außerdem verbreiten die Patient 0 die Seuche in der Gruppe, was aber für die Betrachtung hier unerheblich ist
+- 3. Woche
+  - Alle Fahrer verbreiten die Seuche in beiden Fällen
+- 4. Woche
+  - Die Gruppe ist in Quarantäne
+
+Man kann also behaupten, dass das Modell effektiv in so gut wie allen Fällen die Ausbreitung um 1 Woche verzögert.
+Tatsächlich senkt es aber sogar auch das Infektionsrisiko in der Gruppe.
+
+Es hat also auch Vorteile, wenn auch nur geringe, für die Gruppe.
+Allerdings ist ein "alles getan zu haben um niemand anderen anzustecken" ein guter Nebeneffekt.
+
+### Fazit
+
+Bündeleinkäufe können die Ausbreitungsgeschwindigkeit aus einer entsprechenden Gruppe verlangsamen.
+In wenigen Fällen verhindern sie die Ausbreitung aus der Gruppe heraus sogar vollständig.
+Im den seltenen schlimmsten Varianten ist das Szenario nicht schlechter als der Normalfall.
+
+**Damit Bündeleinkäufe möglich sind, muss dafür aber die Möglichkeit geschaffen werden!**
+
+Derzeit ist genau das Gegenteil der Fall.
+
+- Um Hamstereinkäufe zu verhindern werden die Leute gezwungen, weniger nachzukaufen als sie eigentlich nachkaufen müssen.  
+  Z. B. (s. u.) 2 Dosen statt (ebenfalls haushaltsüblich) 5 Dosen.
+- Das sorgt für die Notwendigkeit weiterer (früherer oder zusätzlicher) Einkäufe
+- Das wiederum erhöht die Kontaktanzahl
+- Und das wiederum fördert das Infektionsrisiko bzw. die Ausbreitungsgeschwindigkeit von Corona!
+- Und zwar schon ganz ohne Bündeleinkäufe.
+- Außerdem erschwert es Bündeleinkäufe bereits heute deutlich.
+
+Ich kaufe bereits für jemand anderen ein, der ein geschwächtes Immunsystem hat.
+Um das zu tun muss ich deutlich häufiger fahren und kann nichts mitnehmen,
+weil ich bereits bei meinen Einkäufen am Limit angekommen bin!
+
+> Zur Information:  Ich verfüge seit Jahren über ausreichend Vorräte, so dass ich nicht zusätzlich hamstern muss.
+> Es geht hier lediglich um den Nachkauf von verbrauchten Lebensmitteln, was derzeit nicht mehr so wie früher möglich ist:
+>
+> - Entweder ist etwas weggehamstert.  Dafür sind aber nicht die Läden verantwortlich, sondern die Käufer.
+> - Oder die Läden limitieren die Mengen zu stark, so dass größere Nachkäufe nicht mehr möglich sind,
+>   man also die Einkaufsfrequenz erhöhen muss bzw. auf keinen Fall senken kann, was angesichts Corona sinnvoll wäre.
+>
+> Für letzteres gebe ich den Läden die Schuld.  Denn wer hamstert, der wird durch irgendwelche Regeln nicht davon abgehalten.
+> Wer hamstern will fährt einfach weiter zum nächsten Laden bis alles gekauft ist.  Insgesamt wird also gar nichts gespart.
+> Einige Hamsternde machen nicht einmal vor Diebstahl aus öffentlich zugänglichen Einrichtungen halt.
+> Die wenigen Hamsternden, auf die die Maßnahmen wirken, würden vermutlich auch einfache Ansprachen wirken,
+> also eine einfache Frage der Form "Hamstern Sie oder brauchen Sie das alles tatsächlich?".
+>
+> Durch diese Maßnahmen werden also vorwiegend nur diejenigen getroffen, die aus einem guten Grund mehr einkaufen.
+> Z. B. weil sie für andere miteinkaufen, selten einkaufen, eine große Familie haben oder einfach gerade soviel davon
+> brauchen wie sie einkaufen.
+>
+> Die Ironie ist, dass die Maßnahmen sogar Leute wie mich treffen, die bewusst darauf achten, nichts wegzuhamstern,
+> aber halt trotzdem wegen der Situation in den kommenden Wochen einen entsprechenden Bedarf haben, diesen aber nicht
+> mehr decken können.
+>
+> Ich habe schon lange vor Corona viele Dosen und anderes im Vorrat.  Der Bestand wechselt dabei durchaus je nach Angebot
+> und Appetit.  Das Problem ist nur, dass ich genau diesen Vorrat nicht mehr nachkaufen kann.  Weil die kaufbaren Mengen
+> ggf. aus einem falschen Verständnis heraus zu stark beschränkt werden.
+>
+> Und ich kaufe ja nicht nur für mich selbst ein und habe vor, die Einkaufsfrequenz mit fortschreitender
+> Durchseuchung so stark zu senken wie nur möglich.  Das wird mir momentan aber effektiv unmöglich gemacht.
+> Aufgrund der falschen Auslegung, was in der momentanen Situation haushaltsübliche Mengen sein sollen.
+>
+> Ich halte es deshalb für geboten, dass Hamsten zwar verachtet aber nicht verboten wird.
+> Ermangels einer Entscheidungsmöglichkeit,
+> wo Hamstern anfängt und wo haushaltsübliche Mengen bei Bündeleinkäufen mit reduzierter Frequenz aufhören,
+> sehe ich deutlich die Notwendigkeit die Regeln auf den maximalen Gesundheitsschutz auszulegen.
+>
+> Und das ist nur erreichbar, wenn ich so selten in den Laden gehen kann wie nötig.
+> Was wiederum bedeutet, dass ich dann so viel kaufen kann, wie ich muss, ohne dass mich irgendwelche Regeln beschränken.
+>
+> Wenn dann etwas aufgrund von Hamsterkäufen nicht mehr vorrätig ist, so ist das halt Pech.
+
+## Ein intermediärer Lösungsvorschlag
+
+**Die Lösung, die ich sehe ist, dass man Einkäufe ungewöhnlicher Mengen nicht mehr anonym machen darf.**
+
+> Das gilt nur in der jetzigen Situation, also wenn die normale Versorgung beeinträchtigt ist.
+
+Wenn der Laden den Eindruck hat, das könnte Hamstern sein, dann
+
+- muss die Zahlung elektronisch erfolgen
+- oder der Kunde identifiziert sich über ein geeignetes Dokument (Ausweis, Führerschein),
+  - Dieses wird dann samt Einkaufzettel fotografiert.  Das geht eigentlich mit jedem Handy sehr schnell.
+- oder der Kunde lässt einiges zurück.  (Nur dann wird es nicht an eine Zentralstelle übermittelt.)
+
+**Das ist in der jetzigen Situation zumutbar.**  Wer das nicht will (z. B. dem Foto des Dokuments nicht zustimmt)
+kann halt nicht soviel einkaufen.  Da sehe ich wirklich kein Problem!
+
+Mit der Übermittlung meiner der Einkaufsdaten an solch eine Zentralstelle wäre ich (sofort) einverstanden!
+
+- Das darf sich aber so nur auf den jeweiligen Einkauf beziehen.
+  - Eine generelle Übermittlung aller Einkaufsdaten darf nicht stattfinden!
+  - Der Einkauf sollte dann immer vollständig übermittelt werden (ich splitte gerne wegen der Garantie, das wäre dann unmöglich).  
+    Grund: Man könnte so etwas anderes mit dem Großeinkauf tarnen.
+- Die Behörde kann so (ggf. europaweit!) diejenigen ermitteln, die irrsinnige Mengen einkaufen.
+  - Das kann ja alles seine Richtigkeit haben (Party, Umzug etc.)
+- Bei Bedarf hat sie dann sogar eine Liste derjenige, die irgendeinen Bedarfsartikel noch vorrätig haben sollten.
+  - Wenn bei mir das THW aufschlägt und 20 Bihun-Suppen haben will, warum sollte ich das verweigern wenn ich noch genug habe?
+  - Aber warum sollte das THW gerade Bihun-Suppen brauchen?
+
+Ach ja, dieselbe Zentralstelle wäre dann der Anlaufort für derzeit sowieso vorhandene Meldepflichten,
+z. B. wenn jemand viel Dünger einkauft usw.  Letztere werden aufgrund eines Gesetzes gemacht,
+sind also nicht zustimmungs- oder hinweispflichtig.
+
+Bei der Anti-Hamster-Regel aber würde ich deutlich darauf hinweisen,
+also a la "Denn bei den Mengen geht das nur über die Zentralstelle.
+Sind Sie damit einverstanden elektronisch zu zahlen?".
+(Wenn nicht kann der Kauf halt nicht durchgeführt werden.)
+
+
+## Menschenrechte Betroffener?
+
+Ich halte diese Beschränkung für äußerst bedenklich, ja geradezu verfassungsmäßig verboten.
+
+Folgender hypothetischer Fall:
+
+- 20 Leute wollen - YOLO WAGD Corona - eine Orgie veranstalten.
+- Sie verabreden sich, dass jeder dafür 5 Erdnusbuttern von Aldi mitbringt.
+- Sie gehen also alle in den Aldi um die Ecke und kaufen die Erdnusbutter.
+
+Ändern wird das Szenario:
+
+- Die 20 Leute sind in Quarantäne, weil sie Corona aber nur mit milden Symptomen haben.
+- Sie wollen - dito - eine Origie veranstalten und brauchen dafür Erdnussbutter.
+- Da sie nicht einkaufen dürfen beauftragen also jemanden außerhalb der Quarantäne, ihnen alles zu besorgen.
+- Derjenige fährt hin und will die 100 Erdnussbuttern kaufen
+
+Ändern wir das Szenario:
+
+- 20 spastisch gelähmte Behinderte in einem Bus
+- Jeder hat einen Betreuer, der für sie Dinge wie Einkäufe erledigt
+- Jeder von ihnen will 5 Erdnussbuttern
+- Der Bus fährt beim Aldi vor
+- Die Betreuer steigen aus und kaufen die Erdnusbutter
+
+Ändern wir das Szenario:
+
+- Jetzt haben im Bus nur 3 Betreuer Platz.
+- Zwei Betreuer müssen versicherungstechnisch bei den Spastisch Behinderten im Bus bleiben, für den Fall der Fälle
+- Also steigt der dritte Betreuer aus und will die 100 Erdnusbuttern kaufen
+
+Alle diese Szenarien sind absolut vergleichbar.  Bei den Behinderten ist ganz klar das Recht auf ihrer Seite,
+es wäre ein krasser Fall der Ungleichbehandlung, wenn sie die Erdnusbutter nicht bekommen dürften.
+
+Warum aber dürfen die Coronafälle anders als Behinderte behandelt werden?
+
+Nochmals zum Verständnis:
+
+- Ein "die Erdnusbutter können die ja auch woanders kaufen" ist ein krasser Verstoß gegen die Menschenwürde!
+- Jeder Mensch hat das Recht dazu, mit der gleichen Würde behandelt zu werden wie jeder andere auch.
+- Jemandem aber zu verweigern bei Aldi einzukaufen nur weil er anders ist, das ist eine Benachteiligung.
+  Im GG steht klipp und klar "Niemand darf wegen seiner Behinderung benachteiligt werden."
+- Wer Corona hat ist de facto behindert, und zwar weil er in Quarantäne steckt.  
+  (Wenn eine Quarantäne keine Behinderung ist, was ist sie dann?)
+- Ich würde sogar so weit gehen, dies auf die Personen auszuweiten, denen ein Einkauf in der derzeitigen
+  Ansteckungssituation nicht zuzumuten ist.
+
+Aber wenn jetzt derjenige, der für diese Leute einkauft, dies nicht mehr kann, dann ist das eine Benachteiliung.
+
+Nicht nur irgendeine.  Das ist sogar eine extreme Benachteiligung!
+
+> Und kommt mir jetzt nicht mit "staatlich zugelassen" oder so was.
+> Das ist quark.  Wir sind in einer Pandemie.  Es kann und darf nicht sein,
+> dass die Rechte der Leute, die geschützt werden müssen, durch solch ein Outing
+> unnötig beeinträchtigt werden.  Das muss in Anonymität gehen, weil es keinen
+> Grund gibt, der einen derartigen Einschnitt in die Privatsphäre rechtfertigt!
+>
+> Es geht nicht um die, die einkaufen.  Es geht um die, für die eingekauft wird!
+>
+> **Wenn der, der einkauft, die Liste derjenigen, für die er einkauft, vorlegen muss, dann ist unsere Demokratie endgültig im Eimer!**
+> Und nicht nur, weil das vollkommen unnötig ist.
+>
+> Wer für wen einkauft, das entscheidet letzterer schon hübsch selbst, das bestimmt gefälligst keine Behörde!
+> (So eine Behörde sollte es geben, für diejenigen, die niemanden sonst haben.  Aber das ist etwas vollkommen anderes.)
+>
+> Selbst im Fall eines Armageddons könnte man etwas derartiges nicht einmal ansatzweise rechtfertigen:
+>
+> Wenn alle sterben, dann haben sie das Recht dazu, das menschenwürdig in der ihnen gewählten Anonymität zu tun,
+> und nicht erst, wenn sie sich datentechnisch irgendwie entblößt haben.  Da hat gerade das Verfassungsgericht
+> beim Sterbehilfenurteil ganz ähnlich geurteilt - die Betroffenen haben alle Rechte, die darf man ihnen nicht
+> aus irgendeinem nichtigen miesen Grund entziehen, nur weil man nicht kapiert hat was Par. 1 Abs. 1 GG bedeutet,
+> und so irgendwelche opportunistischen Gesetze in den Bundestrag einbringt weil man eine politische Klientel vertritt,
+> bei der solche Verfassungswidrigkeiten gut ankommen.
+>
+> Aber hier geht es "nur" um Corona.  Die (meisten) Leute sterben nicht daran.  Sprich, was ihr jetzt falsch macht,
+> das haben die nicht irgendwann hinter sich.  Das hängt noch ein Leben lang nach!  Also überlegt euch gut,
+> wie beschissen man solche Leute behandeln darf, wie arg man deren Rechte mit Füßen tritt und was man so
+> selbst als Mensch ertragen will wenn man sich im Spiegel begegnet!
+>
+> Seid froh dass ich an keinen Gott glaube.  Denn wäre das so würde ich ihr raten, euch allesamt zu verdammen.
+> Nein, nicht in die Hölle, das ist viel zu mild.  Sondern in die Absurdität, die ihr selbst geschaffen habt!
+>
+> Auf dass alle Qualen auf euch selbst zurückfallet, die ihr aus purem menschlichem Unverstand verursacht habet.
+> Der Hinduismus mit seinem Samsara erscheint mir da geradezu epische Gerechtigkeit zu versprechen.
+>
+> Aber ich will mal nicht gehässig sein und euch doch vergeben.  Denn ihr wisst ja ganz offensichtlich überhaupt nicht mehr,
+> ja nicht einmal ansatzweise, was ihr da tut.  Einen Idioten, der blutend am Boden liegt, den tritt man ja nicht auch noch nach.
+> Das wäre böse.
+
+## TL;DR
+
+In der derzeitigen Einkaufssituation Beschränkungen aufzuerlegen, wieviel jemand einkaufen darf,
+das entspricht einem derart ungeheuren Unverständnis für alles was gut und richtig ist,
+dass ich einfach nicht anders konnte als dieses Pampflet zu verfassen.
+
+
+## Referenz
+
+Folgendes habe ich gerade auf dem [Aldi-FAQ-Portal](https://faq.aldi-sued.de/kb/kann-ich-auch-groessere-mengen-von-einem-artikel-kaufen/) hinterlassen:
+
+<blockquote>
+
+Gerade hat mir die Aldi-Filiale verboten, obwohl ich mit meinem Sohn an der Kasse stand, 5 Dosen Hühnchensuppe zu kaufen.  Pro Produkt und Einkauf ist es auf 2 Dosen limitiert, egal für wieviele Menschen man einkauft.  WTF?!?  Also haben wir die überzähligen Dosen dagelassen, aber erfreut bin ich darüber nicht.
+
+WAS SOLL DAS?  WILL ALDI SEINE KUNDEN SOWIE SEIN PERSONAL DURCH EIN KÜNSTLICH GESTEIGERTE EINKAUFSFREQUENZ EINEM DEUTLICH ERHÖHTEN ANSTECKUNGSRISIKO AUSSETZEN?
+
+Werde ich durch Aldi durch komplett unnötige Maßnahmen gezwungen, die Einkaufsfrequenz unnötig zu steigern, weil ich mit einem einzigen Einkauf nicht einmal den üblichen Verbrauch nachkaufen kann, dann erhöht das das Corona-Risiko.  Nicht nur für mich.  GERADE FÜR ANDERE!  Der derzeitige Corona-Test kann nämlich nur erkennen, wenn jemand bereits ansteckend ist!  Nur eine möglichst niedrige Kontaktaktfrequenz - und damit Häufigkeit der Einkäufe - kann diese sehr reale Gefahr zwischen Einkauf und Test drastisch reduzieren!  (Wenn sie mir nicht glauben, fragen Sie bitte das Robert-Koch-Institut.)
+
+Also, was sind haushaltsübliche Mengen?  Bei der Bihun-Suppe, die es nur so 3 Mal im Jahr gibt, wären das bei mir ca. 90 Stück!  Da ich immer nur um die 70 kriege, reichen die immer nicht bis es sie wieder gibt.
+
+Klopapier.  Mein Haushalt verbraucht ca. 2 Rollen pro Tag.  Also kaufe ich seit Jahren immer mindestens 2 Packungen wenn ich bei Aldi bin.  Gelegentlich mehr weil ich ebnen nur alle 2 Wochen oder so bei Aldi einkaufe.
+
+Von allen haltbaren Dingen habe ich seit Jahren immer genug im Vorrat.  Nicht, weil ich preppe.  Sondern weil Produkte ohne Vorwarnung ausgelistet werden!  Und dann muss man immer mühsam für Ersatz sorgen, und ich bin in dieser Hinsicht (Asperger) nicht besonders anpassungsfähig.
+
+Nudeln, Reis, Klopapier, Seife, Desinfektionsmittel, Küchenpapier, Schwämme, usw.  Genau das, was gerade aufgrund der Hamsternden knapp wurde, davon habe ich schon seit Jahren genug Vorrat für Monate.  Das gilt für die meisten Dinge, die sich lange halten.
+
+Das mit dem Vorrat-halten klappt aber nur, wenn ich alle verbrauchten Anteil jederzeit wieder nachkaufen kann!  Und genau das verhindert Aldi derzeit.  Nicht weil die Ware aus ist, sondern weil es jetzt Einkaufslimits gibt!
+
+Fazit:
+
+Ich würde gerne weiterhin den NORMALEN Verbrauch BEI ALDI nachkaufen dürfen OHNE DABEI GEGÄNGELT ZU WERDEN!
+
+Seuchentechnisch ausgedrückt:
+
+Die Ansteckungsgefahr zu minimieren muss derzeit unserer oberste Priorität haben.  Das bedeutet gerade die Frequenz der Einkäufe eines jeden Bürgers muss so niedrig liegen wie möglich!
+
+Einmal pro Woche halte ich bereits für deutlich zu häufig, das Ziel wäre, dies alles an einem einzigen Einkauf in einem Monat zu machen.  Denn Corona wird uns noch bis mindestens 2021 begleiten, auch wenn bereits jetzt (6 Monate früher als geplant) eine Reihe möglicher Impfstoffe entwickelt wurden.
+
+Betriebswirtschaftlich ausgedrückt:
+
+4 Mahlzeiten am Tag für 2 Personen sind 75 Dosen/Nudeln/Reispackungs-Äquivalente.
+30 Tage a 3l Wasser a 2 Personen entspricht 20(!) vollen Trägern Wasser (30 EUR Pfand!).
+
+BEI MIR bedeutet das also ein Umsatz von ca. 300-400 EUR.  Bei MÖGLICHST NUR EINEM EINKAUF!
+Außerdem kaufe ich derzeit zusätzlich für jemanden ein, dessen Immunsystem geschwächt ist, der Umsatz kommt noch hinzu.  Gut, ich realisiere davon nicht alles bei Aldi, aber sicher mehr als die Hälfte!
+
+Auf die "haushaltsübliche Menge" übertragen:
+
+Eine unzumutbare Gängelung findet dann statt, wenn Aldi es nicht gestattet, ALLES BEI EINEM EINZIGEN EINKAUF PRO MONAT ZU REALISIEREN.  Und denken Sie bitte auch an Familien mit 5 oder mehr Kindern.
+
+Zwar kaufe ich derzeit ca. 1 Mal pro Woche ein (entspricht ca. 50 EUR pro Woche für Aldi - rechnen Sie das bitte mal in Dosenaquivalente um!), aber das ist halt ganz speziell bei mir so, weil ich derzeit für jemand anderen mit-einkaufe.  Ein verantwortungsvoller Umgang mit der Seuche würde es erlauben, einen nur einmaligen Einkauf pro Monat gängelungsfrei zu realisieren.  Noch besser wäre es, wenn sich Nachbarn zusammenfinden um ihre Einkäufe zu bündeln.
+
+Und wenn man deshalb das unsinnige Hamstern einiger nimmer verhindern kann, so ist das halt hinzunehmen.  Denn wie lautet die Alternative?  Wünschenswert besonders vernünftig handelnde Menschen mit einem erhöhten Ansteckungsrisiko zu gefährden?  Das wäre so als ob man alle Bürger einer Stadt zum Tode verurteilt, nur weil sich ein paar wenige Plünderer unter ihnen verstecken!
+
+Bitte überdenken Sie die DRINGEND die derzeitigen Abgabemengen.
+Ich halte es unbedingt notwendig, dass der Einzelhandel Bündeleinkäufe ermöglicht!
+
+Danke!
+
+</blockquote>
