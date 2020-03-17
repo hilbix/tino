@@ -1,3 +1,5 @@
+Siehe auch [Gedanken zu Corona](../rants/corona.md)
+
 > Update 2020-03-16 18:00 Uhr: Aldi verkauft einem nur noch 2 Dosen pro Produkt pro Einkauf.  **Das ist Hirnschiss**
 >
 > Normalerweise bin ich 1-2 Mal pro Monat bei Aldi.  Dann kaufe ich immer Massen, weil es sich sonst nicht lohnt.
