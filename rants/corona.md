@@ -2,6 +2,111 @@
 
 # Gedanken zu Corona
 
+Langsam kommen die ersten ein bisschen sinnvolleren Grafiken auf als "X Infizierte".
+
+## Welche Daten ich mir wünschen würde
+
+https://datawrapper.dwcdn.net/RsLTs/227/ sagt schon etwas mehr als der andere Schlonz da draußen, aber leider kann man immer noch nichts konkretes aus der Darstellung entnehmen.
+
+Folgende Daten würde ich mir gerne wünschen, bereitgestellt mit einer leicht verwendbaren API.
+
+Aufschlüsselbar nach hierarchisch angeordneten Regionen
+- Länder wie Deutschland sind eine Region
+- Übergeordnete Regionen wie Europa und Zentraleuropa (also Europa ohne die vielen Inseln)
+- West-, Nord-, Ost- und Südeuropa sind ebenfalls sinnvolle Regionen
+- Stadtstaaten sind eine Region
+- Bayern hat mehrere Regionen wie Niederbayern oder ggf. Landkreise
+
+Aufschlüsselbar nach nicht hierarchischen Interessensregionen
+- Herkunftsgebiete nach Tagen
+- Besondere Bereiche, wie Inseln oder Inselgruppen (die nicht anderweitig als Region existieren)
+- Kontinentalregionen sind besondere Regionen
+- Geographische Regionen wie Asiatischer, Indischer, Afrikanischer, Nord/Mittel/Südamerika usw.
+
+Bei bestimmten Daten aufschlüsselbar nach weiteren Unterregionen
+- Städte, Land, einzelne Stadt ohne Umland, Stadt mit Umland, etc., was die Daten halt hergeben
+
+> - Jeder Datensatz hat sinnvollerweise einen Zeitstempel, eine Quellangabe und ein Geotag.
+> - Aus dem Geotag lässt sich (aber nicht immer!) die Region ermitteln.
+> - Regionen verweisen 1:N auf die Datensätze.  Datensätze können in beliebigen Regionen auftreten.
+> - Regionen haben 1:N Unterregionen.  Die Datensätze einer Unterregion sind immer in der Region ebenfalls enthalten.
+>
+> Gefiltert werden Datensätze
+> - direkt auf Zeit (relativ) oder Zeitbereich (range), Quelle (exakt) und Geotag (exakt)
+> - indirekt auf die Region (exakt)
+
+Welches sind die Anteile der auf Corona getesteten Personen?
+- Der Anteil der einmalig (also unsicher) getesteten
+- Der Anteil der sicher negativ getesteten (4 Tests in Folge, im Abstand von mindestens 24h)
+- Der Anteil der positiv getesteten (mind. 1 Test der letzten bis zu 4 Tests postiv)
+- Der Anteil der geimpften (derzeit: sich im Test der Impfung befindlichen)
+
+Wie hoch ist der Anteil bei Tests?
+- Der Anteil der in den letzten 14 Tagen negativ getesteten geheilten Coronafälle (sollte 100% betragen)
+- Der Anteil der Fälle, die negativ getestet waren (mind. 4 Tests) und dann einen positiven Test haben.
+- Der Anteil der täglich getesteten bisher ungetesteten Bevölkerung die keine Verdachtsfälle sind
+- Der Anteil derjenigen, die freiwillig einen Test wünschen aber keinen bekamen
+- Der Anteil derjenigen, die den Test nicht freiwillig durchführen ließen
+- Der Anteil der in den letzten 24h getesteten bisher ungetesteten Verdachtsfällen (sollte 100% betragen)
+- Der Anteil der in den letzten 14 Tagen bisher negativ getestetenen
+- Der Anteil der in den letzten 14 Tagen positiv getesteten Neufälle
+- Der Anteil der in den letzten 14 Tagen positiv getesteten
+- Die Anzahl der Tests bezogen auf die Gesamtbevölkerung
+- Der Anteil der Tests in der bisher niemals getestete Bevölkerung
+- Der Anteil der Tests in der bisher mindestens schon einmal getesteten Bevölkerung
+
+Welches sind die Anteile der Bevölkerung?
+- Die Corona evtl. noch bekommen können (ist das der reziproke Wert oder nicht?  Geht aus der Grafik nicht hervor.)
+- Die Corona haben und derzeit ansteckend sind
+- Die Corona überstanden haben, die also Corona nicht mehr bekommen können und auch nicht mehr ansteckend sind
+- Die gerade Verdachtsfälle sind und in häuslicher Quarantäne
+- Die gerade nur leicht an Corona erkrankt sind und in häuslicher Quarantäne leben
+- Die gerade zusammen mit einem in häuslicher Quarantäne befindlichen leichten Coronafall in häuslicher Quarantäne leben
+- Die gerade so an Corona erkrankt sind, dass sie in zentralen Quarantäneeinrichtungen stecken
+- Die gerade so stark an Corona erkrankt sind, dass sie im Krankenhaus sein müssen
+- Die gerade so extrem an Corona erkrankt sind, dass sie Intensivpflege benötigen
+
+Wie hoch ist die Gesundheitsversorgung in dem Land belastet?  (Das sollte nach Region gelistet werden)
+- Wie hoch ist die Belegung der regulären Krankenhäuser
+- Wie hoch ist die Belegung der Intensivmedizin
+- Wie hoch ist die Belegung der zentralen Quarantäneeinrichtungen (wie Hotels, Flughafeneinrichtungen etc.)
+- Wie hoch ist der Anteil an zusätzlich geschaffenen Einrichtungen, je Einrichtung, in den nächsten 14 Tagen
+- Wie hoch ist der Anteil an geplanten zu schaffenen Einrichtungen, je Einrichtung, in den nächsten 4 Wochen und 8 Wochen
+
+Wie hoch ist das Sterberisiko an Corona?
+- Aufgeschlüsselt nach Alter in 5-jahres-Schritten, gesamt, männlich, weiblich
+- Aufgeschlüsselt nach typischen chronischen Vorerkrankung wie Diabetes1, Diabetes2, Blutdruck, Leber, Psychopharmaka, etc.
+- Aufgeschlüsselt nach den typischen akuten Krankheiten im Zusammenhang mit einem Coronafall.
+- Aufgeschlüsselt nach dem geschätzten prozentualen Aufenthalt der letzten 14 Tage, 2 und 6 Monate:
+  - Tage ohne regelmäßige Arbeit (z. B. Wochenenden oder Rentner)
+  - Tage mit regelmäßiger Arbeit
+  - Land
+  - Stadt
+  - Obdachlos
+  - Pflegeeinrichtung
+  - Krankenhaus
+  - Ausland (nicht: welches Ausland)
+  - Erkannte (auch nachträglich erkannte) Risikoregion (nicht: welche)
+  - Großveranstaltungen (soweit bekannt) a 20, 100, 500, mehr als 1000
+
+Wie hoch ist das Ansteckungsrisiko in dem Land?  (Das sind anhand der Daten geschätzte Werte)
+- Der geschätzte Anteil der Lebenden, die aktuell durch Corona infiziert sind
+- Der geschätzte Anteil der Lebenden, die aktuell Coron verbreiten können
+- Das geschätzte Risiko der Ansteckung über Blutkonserven oder anderen Blutprodukte
+- Prozentuale Fläche in der keine Ansteckung in 10km Umkreis bekannt ist
+- Prozentuale geschätzte Fläche, in der wahrscheinlich kein Coronafall in 10km Umkreis existiert
+- Durchseuchungsrate in der Stadtbevölkerung kleiner, mittlerer und großer Städte
+- Durchseuchungsrate in der Landbevölkerung kleiner, mittlerer und großer Dörfer
+- Durchseuchungsrate sonstige Regionen und im Landesdurchschnitt
+
+> Wenn ich es richtig im Kopf habe, schätzen Experten zur Zeit (Stand: 2020-03),
+> dass 87% aller Menschen Corona bekommen werden.
+> Die andere 13% sind dann entweder immun oder wurden noch rechtzeitig geimpft.
+>
+> Außerdem sollen bis zu 4% der Infizierten sterben, der Großteil davon hat Vorerkrankungen und/oder ist sehr alt.
+> ("sehr alt" ist dabei relativ zu sehen.  In einigen Regionen ist man mit 50 schon sehr alt, in anderen erst mit 80.)
+
+
 ## Bündeleinkäufe zur Risikominimierung
 
 Ich halte in der jetzigen Zeit zur Coronaprävention **Bündeleinkäufe** nicht nur für sinnvoll, sondern auch gegeben.
