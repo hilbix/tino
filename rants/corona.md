@@ -8,29 +8,47 @@
 
 [Bayern hat gerade eine Ausgangsbeschränkung wegen Corona erlassen](https://www.bayern.de/service/informationen-zum-coronavirus/vorlaeufige-ausgangsbeschraenkung-anlaesslich-der-corona-pandemie/)
 
-Ich wohne in Bayern und bin verdammt froh, dass es diese Verordnung jetzt gibt.
+Ich wohne in Bayern und bin verdammt froh, dass es diese ~~Verordnung~~ Verfügung jetzt gibt.
 Das war nämlich mehr als überfällig!
 
-Zwar bin ich kein Wissenschaftler, aber Mathematiker.  Und deshalb begreife ich sehr deutlich,
+> Was ist eigentlich der Unterschied zwischen Verordnung und Verfügung?
+> Beides kommt ja von der Exektuive!
+>
+> Eine Verfügung ist etwas, das eine Behörde festlegen kann.
+> Sie hat deutlich weniger Freiheiten als eine Verordnung,
+> denn die Verordnugn kann etwas frei (und auch neu) regeln,
+> so lange das von Gesetzeswegen her regelbar ist.
+>
+> Eine Verordnung hat dabei Gesetzescharakter, soweit das zulässig ist.
+> Gleichzeitig kann eine Verfügung aber deutlich mehr als eine Verordnung erreichen,
+> denn Verordnungen können nicht in Grundrechte eingreifen.
+>
+> Die Verfügung hat dabei selbst keinen Stand wie ein Gesetz
+> sondern verordnet nur, wie ein bestehendes Gesetz angewendet wird.
+>
+> Meine Worte, IANAL!
+
+Zwar bin ich kein Wissenschaftler (und auch kein Jurist), aber Mathematiker.  Und deshalb begreife ich sehr deutlich,
 was ein exponentielles Wachstum bedeutet, und dass es ohne die Maßnahmen, die Bayern gerade ergreifen möchte,
 nicht nur so ein bisschen in die Hose gehen würde.  Wir würden sang und klanglos verlieren,
 was wir bisher in Sachen Corona erreicht haben.  Nicht nur in Bayern.  Landesweit.  Europaweit.
 
-Alle müssen sie jetzt dem Beispiel Bayerns folgen, wenn sie es nicht aus der unabdingbaren Notwendigkeit heraus
+Alle müssen jetzt bitte dem Beispiel Bayerns folgen, wenn sie es nicht aus der unabdingbaren Notwendigkeit heraus
 (NRW) schon getan haben.
 
-Das Problem ist nur:  **Leider ist diese Verordnung Murx!**
+Das Problem ist nur:  **Leider ist diese Verfügung Murx!**
 
 Ich bin jetzt zwar kein Jurist, aber so ein klitzekleinwenig glaube ich schon das Recht richtig lesen zu können.
 Und da ich sicher nicht der einzige bin der das kann, halte ich es mal nicht hinter dem Berg:
 
-Vieles in der Verordnung ist gut.  Auch die Idee der **Spaziergänge.  Aber genau das bricht der Verordnung das Genick!**
-Leider müssen wir sagen.
+Eigentlich ist alles in der Verfügung gut und richtig.
+Auch die Idee der **Spaziergänge.  Aber eben genau das kann die Verfügung nicht verfügen!**
+Leider ist das so.
 
-Der Fehler steckt nicht wirklich in der Verordnung.  Die ist soweit vollkommen gut und richtig.
-**Der Fehler steckt im IfSG, das genau solch eine sinnvolle Maßnahme nicht vorsieht.**
+Der Fehler steckt nicht wirklich in der Verfügung.
+**Der Fehler steckt im IfSG, das es einer Behörde nicht erlaubt, genau solch sinnvolle Maßnahmen auszusprechen.**
 
-Die Verordnung stützt sich auf [§ 28 Abs. 1 Satz 1 und 2 IfSG](https://www.gesetze-im-internet.de/ifsg/__28.html) (Auszug):
+Die Verfügung stützt sich auf [§ 28 Abs. 1 Satz 1 und 2 IfSG](https://www.gesetze-im-internet.de/ifsg/__28.html) (Auszug):
 
 > Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz - IfSG)
 > 
@@ -40,7 +58,7 @@ Die Verordnung stützt sich auf [§ 28 Abs. 1 Satz 1 und 2 IfSG](https://www.ges
 
 ## Punkt 1 ist Murx
 
-Schon beim 1. Punkt hat die Verordnung ein Problem, nämlich dass sie nicht greift.  Hier wird **das Verhalten von Personen definiert** was sich aus dem Gesetz leider nicht ergibt.  Clevererweise ist die Verordnung an dieser Stelle so formuliert, dass dies ganz klar als Handlungsempfehlung zu verstehen ist.  Aber **leider gilt das nicht unmittelbar** sondern nur im erklärten Einzelfall.  Gut ist, dass man sich so auf die klar von der Behörde festgelegten Schutzmaßnahmen berufen kann, und so, jemandem, der uneinsichtig ist, an einer örtlichen Betretung hindern kann und ggf. sogar festsetzen.  Das mag dann hinterher juristisch sehr strittig werden, aber ich möchte mal sehen, dass dagegen jemand erfolgreich Klage einlegt.  Denn zur Not, und die ist ja in Sachen Corona bereits deutschlandweit erklärt, habe ich auch das Recht der Notwehr.  Stattdessen greife aber zu einem viel milderen Mittel, nämlich der Durchsetzung des IfSG, wie es auch geboten ist wenn es solch mildere Mittel gibt, indem ich den wahrscheinlichen Willen (da erklärt) der zuständigen Behörde vorgreife und diesen dann durchsetze.  (IANAL, geht das so?  Ich hoffe doch, sonst müsste ich gleich zur ultima Ratio greifen und denjenigen zu Boden strecken damit er mir nicht zu nahe kommt und mich ggf. lebensgefährdend ansteckt.  Und danach muss ich mir sofort die blutige Faust desinfizieren.  Klingt irgendwie falsch.)
+Schon beim 1. Punkt hat die Verfügung ein Problem, nämlich dass sie nicht greift.  Hier wird **das Verhalten von Personen definiert** was sich aus dem Gesetz leider nicht ergibt.  Clevererweise ist die Verfügung an dieser Stelle so formuliert, dass dies ganz klar als Handlungsempfehlung zu verstehen ist.  Aber **leider gilt das nicht unmittelbar** sondern nur im erklärten Einzelfall.  Gut ist, dass man sich so auf die klar von der Behörde festgelegten Schutzmaßnahmen berufen kann, und so, jemandem, der uneinsichtig ist, an einer örtlichen Betretung hindern kann und ggf. sogar festsetzen.  Das mag dann hinterher juristisch sehr strittig werden, aber ich möchte mal sehen, dass dagegen jemand erfolgreich Klage einlegt.  Denn zur Not, und die ist ja in Sachen Corona bereits deutschlandweit erklärt, habe ich auch das Recht der Notwehr.  Stattdessen greife aber zu einem viel milderen Mittel, nämlich der Durchsetzung des IfSG, wie es auch geboten ist wenn es solch mildere Mittel gibt, indem ich den wahrscheinlichen Willen (da erklärt) der zuständigen Behörde vorgreife und diesen dann durchsetze.  (IANAL, geht das so?  Ich hoffe doch, sonst müsste ich gleich zur ultima Ratio greifen und denjenigen zu Boden strecken damit er mir nicht zu nahe kommt und mich ggf. lebensgefährdend ansteckt.  Und danach muss ich mir sofort die blutige Faust desinfizieren.  Klingt irgendwie falsch.)
 
 ## Punkte 2 und 3 sind OK
 
