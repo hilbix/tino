@@ -2,9 +2,198 @@
 
 # Gedanken zu Corona
 
+## Großer gigantischer Mist, Bayern
+
+> IANAL!
+
+[Bayern hat gerade eine Ausgangsbeschränkung wegen Corona erlassen](https://www.bayern.de/service/informationen-zum-coronavirus/vorlaeufige-ausgangsbeschraenkung-anlaesslich-der-corona-pandemie/)
+
+Ich wohne in Bayern und bin verdammt froh, dass es diese Verordnung jetzt gibt.
+Das war nämlich mehr als überfällig!
+
+Zwar bin ich kein Wissenschaftler, aber Mathematiker.  Und deshalb begreife ich sehr deutlich,
+was ein exponentielles Wachstum bedeutet, und dass es ohne die Maßnahmen, die Bayern gerade ergreifen möchte,
+nicht nur so ein bisschen in die Hose gehen würde.  Wir würden sang und klanglos verlieren,
+was wir bisher in Sachen Corona erreicht haben.  Nicht nur in Bayern.  Landesweit.  Europaweit.
+
+Alle müssen sie jetzt dem Beispiel Bayerns folgen, wenn sie es nicht aus der unabdingbaren Notwendigkeit heraus
+(NRW) schon getan haben.
+
+Das Problem ist nur:  **Leider ist diese Verordnung Murx!**
+
+Ich bin jetzt zwar kein Jurist, aber so ein klitzekleinwenig glaube ich schon das Recht richtig lesen zu können.
+Und da ich sicher nicht der einzige bin der das kann, halte ich es mal nicht hinter dem Berg:
+
+Vieles in der Verordnung ist gut.  Auch die Idee der **Spaziergänge.  Aber genau das bricht der Verordnung das Genick!**
+Leider müssen wir sagen.
+
+Der Fehler steckt nicht wirklich in der Verordnung.  Die ist soweit vollkommen gut und richtig.
+**Der Fehler steckt im IfSG, das genau solch eine sinnvolle Maßnahme nicht vorsieht.**
+
+Die Verordnung stützt sich auf [§ 28 Abs. 1 Satz 1 und 2 IfSG](https://www.gesetze-im-internet.de/ifsg/__28.html) (Auszug):
+
+> Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (Infektionsschutzgesetz - IfSG)
+> 
+> § 28 Schutzmaßnahmen
+> 
+> (1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die in den §§ 29 bis 31 genannten, soweit und solange es zur Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich ist. Unter den Voraussetzungen von Satz 1 kann die zuständige Behörde Veranstaltungen oder sonstige Ansammlungen einer größeren Anzahl von Menschen beschränken oder verbieten und Badeanstalten oder in § 33 genannte Gemeinschaftseinrichtungen oder Teile davon schließen; sie kann auch Personen verpflichten, den Ort, an dem sie sich befinden, nicht zu verlassen oder von ihr bestimmte Orte nicht zu betreten, bis die notwendigen Schutzmaßnahmen durchgeführt worden sind.
+
+## Punkt 1 ist Murx
+
+Schon beim 1. Punkt hat die Verordnung ein Problem, nämlich dass sie nicht greift.  Hier wird **das Verhalten von Personen definiert** was sich aus dem Gesetz leider nicht ergibt.  Clevererweise ist die Verordnung an dieser Stelle so formuliert, dass dies ganz klar als Handlungsempfehlung zu verstehen ist.  Aber **leider gilt das nicht unmittelbar** sondern nur im erklärten Einzelfall.  Gut ist, dass man sich so auf die klar von der Behörde festgelegten Schutzmaßnahmen berufen kann, und so, jemandem, der uneinsichtig ist, an einer örtlichen Betretung hindern kann und ggf. sogar festsetzen.  Das mag dann hinterher juristisch sehr strittig werden, aber ich möchte mal sehen, dass dagegen jemand erfolgreich Klage einlegt.  Denn zur Not, und die ist ja in Sachen Corona bereits deutschlandweit erklärt, habe ich auch das Recht der Notwehr.  Stattdessen greife aber zu einem viel milderen Mittel, nämlich der Durchsetzung des IfSG, wie es auch geboten ist wenn es solch mildere Mittel gibt, indem ich den wahrscheinlichen Willen (da erklärt) der zuständigen Behörde vorgreife und diesen dann durchsetze.  (IANAL, geht das so?  Ich hoffe doch, sonst müsste ich gleich zur ultima Ratio greifen und denjenigen zu Boden strecken damit er mir nicht zu nahe kommt und mich ggf. lebensgefährdend ansteckt.  Und danach muss ich mir sofort die blutige Faust desinfizieren.  Klingt irgendwie falsch.)
+
+## Punkte 2 und 3 sind OK
+
+Die Untersagungen (2 und 3) gehen IMHO in Ordnung, denn sie entsprechen genau dem Wortlaut des Gesetzes.  Und sind auch noch mehr als nur geboten, wir haben hier gar keine andere Wahl.
+
+## Punkte 4 und 5 sind Murx
+
+Punkt 4 und 5 hingegen sind wieder kompletter Murx.  **Das lässt das Gesetz so nicht zu.**
+
+Entweder die Behörde spricht ein Verlassensverbot aus, oder sie tut das nicht.  Ein bisschen Verbot geht genausowenig wie ein bisschen schwanger.  Von einem fallweisen Verlassensverbot je nach Situation des Betroffenen steht da eben leider nichts im Gesetz!  Eine Quarantäne kann man also gegen jemanden verhängen.  Genau das sagt das Gesetz aus.  Und das ist auch richtig so.  Das Betreten von bestimmten Orten - wie Krankenhäusern usw. - kann man ebenfalls aussprechen.  Und auch das ist vollkommen richtig und notwendig.
+
+Aber wenn ich erlaube, dass jemand einkaufen geht, dann erlaube ich das Verlassen des Ortes an dem sich jemand befindet.  Und wenn ich Arbeitnehmer nicht einschränke, dann dürfen sie sich auch überallhin bewegen, wo halt ihre Arbeit ist.  Und wenn ich dem Arbeitnehmer prinzipiell erlaube, im Rahmen seiner Tätigkeit überallhin zu gehen wo es für die Tätigkeit notwendig ist, dann darf der Arbeitnehmer auch überall hin, außer zu den Orten, die konkret verboten sind.
+
+Und das überträgt sich eben leider nicht nur auf die Arbeit, sondern auch auf die Freizeit, weil es da eben keine Einschränkungen gibt, weil das Gesetz das so nicht vorsieht.  Die Strafe von 25000 EUR droht also in diesem Fall nicht,
+weil es gar keine Einschränkung gibt, als wären die beiden Punkte nicht geschrieben!
+
+> **Das ist absoluter Bockmist, weil gerade diese Regelungen höchst sinnvoll und wünschenswert sind!**
+
+Irgendein Depp wird genau das so für sich ausnutzen.  Und gegen genau diese Deppen hat man keinerlei Maßnahme.
+
+## Punkt 6 greft nicht
+
+Was in der Verfügung unter Punkt 6 steht greift leider nicht.
+
+**Die Polizei hat nicht das Recht, nach einem triftigen Grund zu fragen!**
+Denn wenn Punkte 4 und 5 Unsinn sind, gibt das Gesetz das leider nicht her.
+
+> Oben schrieb ich, da kann ich im Rahmen der Notwehr ja das mildere Mittel des IfSG verwenden.
+> Ja, kann **ich**.
+> Das kann aber eben nicht die Polizei, denn das wäre polizeiliche Willkür.
+
+In Bayern haben wir das Polizeiaufgabengesetz.
+Aber die Polizei kann sich schwerlich auf eine "drohende Gefahr" wegen Corona berufen.
+Oder genauer, natürlich wird sie das, denn wenn eine Gefahr droht, dann Corona.
+
+Aber genau diese Auslegung wird niemals den Verfassungsgerichtshof passieren,
+und wenn doch, dann ist die Demokratie in Deutschland mehr als nur im Eimer.
+
+Krankheiten wie Corona ist eine abstrakte Gefahr und deshalb sind diese Gefahren eben in einem gesonderten Gesetz aufgehoben.
+Wenn das dortige Gesetz nicht angemessen für den vorherrschenden Fall formuliert wurde - und das wurde es offensichtlich nicht -,
+dann muss es entsprechend angepasst werden.
+Dann kann man nicht ein Gesetz, das für einen vollkommen anderen Zweck existiert, einfach in diesem Sinne auslegen!
+So funktionieren Gesetze nicht.  Das zu tun ist eine schwere Rechtsbeugung, geradezu ein Missbrauch der Legislative,
+und die Jurisdiktion wird das hoffentlich - sogar im Eilverfahren, schließlich sterben die Leute an Corona - zu Fall bringen.
+
+Bleibt noch der Depp, der sich nicht daran hält.
+Die Polizei darf sich in diesem Fall eben weder auf das PAG und drohende Gefahr berufen, noch auf die Verfügung.
+Beides wäre falsch.
+
+Was die Polizei genau kann weiß ich indes nicht.  Vermutlich kann sie das Gesundheitsamt informieren,
+und denjenigen nach Hause begleiten, damit das Gesundheitsamt feststellen kann, ob eine Quarantäne notwendig ist.
+Denn genau das darf die zuständige Behörde ja!  Die nötige Schutzmaßnahme ist hier,
+dass sich jemand danebenbenimmt und deshalb erst einmal festgestellt werden muss,
+ob er ansteckend ist, bevor er damit weitermachen darf.
+
+Und so lange kann derjenige dann festgesetzt werden.  Sobald derjenige sich dann wiederum danebenbenimmt,
+kann das Spielchen wieder von vorne losgehen.  Und im Wiederholungsfall würde ich sagen,
+den Corona-Test, den bezahlt er dann selbst, da er diesen ja durch sein Verhalten notwendig machte ;)
+
+> Den ersten Test oder falls der Test positiv ausfällt, das zahlt dann die Krankenkasse.
+>
+> Das wäre auch mein Modell für Leute die einen Test wünschen.
+> Entweder der ist vom Arzt, oder nicht.  Wenn freiwillig dann muss man selbst zahlen,
+> ist der dann aber positiv zahlt trotzdem die Kasse.
+>
+> Warum?
+>
+> Weil das bedeutet, ein Corona-Fall ist vorzeitig entdeckt worden.  Das schützt die Allgemeinheit!
+
+So wird ein Schuh draus.  Der einzige, den ich sehen kann.  Tarpitting heißt das.
+Ist zwar scheiß aufwendig, aber etwas anderes dürfte leider nicht gehen.
+(Hoffentlich gibt es nicht soviele Deppen.)
+
+Die 25000 EUR hingegen greifen nur, wenn jemand gegen eine Auflagen des Gesundheitsamtes verstößt,
+also z. B. in eine Einrichtung eindringt um vielleicht etwas zu stehlen (muss man dann nicht nachweisen,
+Betretungsverbot!).
+
+### Punkte 7 bis 10 soweit OK
+
+Bei Punkt 7 ist nur zu erwähnen, dass das natürlich nicht für die Punkte 4 und 5 gilt.
+
+Ein Geschmäckle hinterlassen allerdings Punkte 4 und 5.  Da diese ganz klar nicht auf der Basis
+des IfSG fußen, und leider nicht so clever wie Punkt 1 formuliert wurden, könnte die gesamte 
+Verfügung nichtig sein.  Damit wären auch diese Punkte nichtig.
+
+Allerdings müsste dies erst einmal der Auffassung eines Gerichts entsprechend.
+Was in Zeiten von Corona sicher nicht passieren wird.
+
+### Fazit
+
+**Das IfSG ist nicht auf Corona vorbereitet!**  Es wäre dringend erforderlich, dass die Gesundheitsbehörde
+auch bedingte Verlassensverbote erlassen kann, wie sie in Punkt 4 und 5 formuliert sind.
+
+Zur Zeit ist es ja so, dass sie das Verlassensverbot aussprechen und auch wieder aufheben muss.
+Letzteres wurde hier z. B. im Punkt 10 getan, der die Verfügung zu einem festen Zeitpunkt aufhebt,
+womit die Vertretungsverbote automatisch mit aufgehoben werden (denke ich jedenfalls, IANAL).
+
+Ein Verlassensverbot, das jeder nach gutdünken wegen eines wichtigen Grundes aufheben kann,
+sorry, das ist nicht sinnvoll.
+
+Und wenn man dann schon dabei ist, kann man der Polizei die Überprüfungsrechte eines so bedingeten Verlassensverbots
+auferlegen.  Die damit auch das Recht erhält, dass man ihr Auskunft geben muss.
+
+> In Deutschland ist es nun einmal so, **dass man immer ein Aussageverweigerungsrecht gegenüber der Polizei hat**.
+> Man kann nämlich gar nicht absehen, welche juristischen Auswirkungen z. B. die Aussage
+> "ich fahre zu meiner Mutter um ihr zu helfen" haben kann.  Evtl. landet man in einem Strafprozess
+> gegen die Mutter und wird dann aufgrund dieser Aussage als Mittäter verurteilt, da man ihr naiv bei etwas half,
+> das sich hinterher - unbeabsichtigt - als strafbar herausstellte.
+>
+> Die Regelung muss also vorsehen, dass man die Aussage in Gesundheitssachen ein anderweitiges Verwertungsverbot haben,
+> und diese Angaben - gem. DSGVO - auch nicht gespeichert werden dürfen.
+> Nur so kann man den Missbrauch derartig dann notwendiger Aussagen verhindern!
+>
+> Im § 28 (1) IfSG steht nun einmal nur:
+> > Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
+>
+> **Somit kann die Verfügung nicht das grundsätzlich bestehende Aussageverweigerungsrecht gegenüber der Polizei betreffen!**
+
+**Was kann die Polizei also tun wenn sich jemand weigert eine Aussage zu machen?**
+
+- Wenn es ein bekannter Störenfried ist:  Alles ;)
+- Wenn es nur ein Bürger ist der von seinen Rechten weiß:
+  - Die Personalien aufnehmen
+  - Die Person dem Gesundheitsamt melden
+  - Und der Person gegenüber eine Meldeauflage beim Gesundheitsamt aussprechen
+  - Wenn die Person dem nicht nachkommt - weil sie das nicht muss - muss die Polizei eben nachforschen - und das kann dann ziemlich teuer werden!
+
+Ansonsten kann die Polizei eigentlich nur an die Vernunft der Bürger appellieren.
+Aber genau daran krankt es ja offensichtlich, sonst hätten wir nicht die Verfügung.
+
+
+## Datenlage
+
 Langsam kommen die ersten ein bisschen sinnvolleren Grafiken auf als "X Infizierte".
 
-## Welche Daten ich mir wünschen würde
+### WorldOMeter
+
+> Die Domain worldometer.info ist von irgendeinem Arsch gecybersquattet.  
+> Die echte Domain heißt worldometers.info (also plural!)
+
+Eine IMHO recht gute Übersicht über Coronazahlen hat
+https://www.worldometers.info/coronavirus/
+sind nicht ganz so gut wie ich sie gerne hätte, siehe unten, aber es wird.
+Allerdings weiß ich nicht, ob die Daten wirklich stimmen.
+
+Deutschland hat z. B. immer nur 2 Patienten in kritischem Zustand,
+obwohl in den meisten Kliniken inzwischen Respiratoren knapp werden.
+Damit würde ich z. B. jeden, der ein Beatmungsgerät braucht und Corona hat,
+schon irgendwie als kritisch einstufen ..
+
+
+### Welche Daten ich mir wünschen würde
+
 
 https://datawrapper.dwcdn.net/RsLTs/227/ sagt schon etwas mehr als der andere Schlonz da draußen, aber leider kann man immer noch nichts konkretes aus der Darstellung entnehmen.
 
