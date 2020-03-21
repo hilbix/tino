@@ -58,7 +58,19 @@ Die Verfügung stützt sich auf [§ 28 Abs. 1 Satz 1 und 2 IfSG](https://www.ges
 
 ## Punkt 1 ist Murx
 
-Schon beim 1. Punkt hat die Verfügung ein Problem, nämlich dass sie nicht greift.  Hier wird **das Verhalten von Personen definiert** was sich aus dem Gesetz leider nicht ergibt.  Clevererweise ist die Verfügung an dieser Stelle so formuliert, dass dies ganz klar als Handlungsempfehlung zu verstehen ist.  Aber **leider gilt das nicht unmittelbar** sondern nur im erklärten Einzelfall.  Gut ist, dass man sich so auf die klar von der Behörde festgelegten Schutzmaßnahmen berufen kann, und so, jemandem, der uneinsichtig ist, an einer örtlichen Betretung hindern kann und ggf. sogar festsetzen.  Das mag dann hinterher juristisch sehr strittig werden, aber ich möchte mal sehen, dass dagegen jemand erfolgreich Klage einlegt.  Denn zur Not, und die ist ja in Sachen Corona bereits deutschlandweit erklärt, habe ich auch das Recht der Notwehr.  Stattdessen greife aber zu einem viel milderen Mittel, nämlich der Durchsetzung des IfSG, wie es auch geboten ist wenn es solch mildere Mittel gibt, indem ich den wahrscheinlichen Willen (da erklärt) der zuständigen Behörde vorgreife und diesen dann durchsetze.  (IANAL, geht das so?  Ich hoffe doch, sonst müsste ich gleich zur ultima Ratio greifen und denjenigen zu Boden strecken damit er mir nicht zu nahe kommt und mich ggf. lebensgefährdend ansteckt.  Und danach muss ich mir sofort die blutige Faust desinfizieren.  Klingt irgendwie falsch.)
+Schon beim 1. Punkt hat die Verfügung ein Problem, nämlich dass sie nicht greift.
+
+Hier wird **das Verhalten von Personen definiert** was sich aus dem Gesetz leider nicht ergibt.  Clevererweise ist die Verfügung an dieser Stelle so formuliert, dass dies ganz klar als Handlungsempfehlung zu verstehen ist.  Aber **leider gilt das nicht unmittelbar** sondern nur im erklärten Einzelfall.
+
+Gut ist, dass man sich so auf die klar von der Behörde festgelegten Schutzmaßnahmen berufen kann, und so, jemandem, der uneinsichtig ist, an einer örtlichen Betretung hindern kann und ggf. sogar festsetzen.  Das mag dann hinterher juristisch sehr strittig werden, aber ich möchte mal sehen, dass dagegen jemand erfolgreich klagt und sich nicht öffentlich zur Sau macht.
+
+Zur Not, und die ist ja in Sachen Corona bereits deutschlandweit erklärt, habe ich außedem das Recht der Notwehr.
+Stattdessen greife ich aber zu einem viel milderen Mittel, nämlich der Durchsetzung des IfSG.
+Bei der Notwehr ist auch geboten, das mildeste zur verfügung stehende Mittel anzuwenden.
+Indem ich dem wahrscheinlichen Willen (da erklärt) der zuständigen Behörde vorgreife und diesen dann durchsetze habe ich ein milderes Mittel.
+
+(IANAL, geht das so?  Ich hoffe doch, sonst müsste ich gleich zur ultima Ratio greifen und denjenigen zu Boden strecken damit er mir nicht zu nahe kommt und mich ggf. lebensgefährdend ansteckt.  Und danach muss ich mir sofort die blutige Faust desinfizieren.  Klingt irgendwie falsch.)
+
 
 ## Punkte 2 und 3 sind OK
 
