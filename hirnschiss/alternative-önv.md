@@ -1,3 +1,22 @@
+> Fun fact:
+>
+> Wehe dem, der in Zeiten von Corona auf den ÖNV angewiesen ist!
+>
+> Wem das jetzt nicht deutlich macht, warum der ÖNV eben gerade keine Antwort darstellt,
+> sondern eins der größten noch ungelösten Probleme der globalisierten Welt darstellt,
+> dem ist leider auch nicht mehr zu helfen.  Solchen Konsorten kann man nur zurufen:
+>
+> Bei der nächsten Pandemie, fahr dann bitte mit Deinem ach-so-tollen ÖNV, und geh sterben!
+>
+> Denn dass die nächste Pandemie genauso nett und harmlos daherkommt wie Corona,
+> das darf ich stark bezweifeln.  Und ja, sie werden kommen.  Mehr Pandemien.
+> Und das viel schneller, als uns lieb ist.
+>
+> Ach ja, nur damit es klar ist:  Corona ist alles andere als harmlos.
+> Trotzdem haben wir ein riesen Schwein, dass China die akute Pandemie ausgebrütet hat.
+> Denn es hätte weit schlimmer kommen können, z. B. eine aus Hyderabad (Indien) ..
+
+
 # Hirnschiss ÖNV
 
 Also, da kommen sie gekrochen, aus allen Löchern, und verbreiten die Mähr vom ÖNV, der nur ausgebaut werden muss,
