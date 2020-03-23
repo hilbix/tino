@@ -1,6 +1,6 @@
 > Fun fact:
 >
-> Wehe dem, der in Zeiten von Corona auf den ÖNV angewiesen ist!
+> **Wehe dem, der in Zeiten von Corona auf den ÖNV angewiesen ist!**
 >
 > Wem das jetzt nicht deutlich macht, warum der ÖNV eben gerade keine Antwort darstellt,
 > sondern eins der größten noch ungelösten Probleme der globalisierten Welt darstellt,
