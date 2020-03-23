@@ -12,7 +12,7 @@
 > das darf ich stark bezweifeln.  Und ja, sie werden kommen.  Mehr Pandemien.
 > Und das viel schneller, als uns lieb ist.
 >
-> Ach ja, nur damit es klar ist:  Corona ist alles andere als harmlos.
+> Ach ja, nur damit es klar ist:  **Corona ist alles andere als harmlos.**
 > Trotzdem haben wir ein riesen Schwein, dass China die akute Pandemie ausgebrütet hat.
 > Denn es hätte weit schlimmer kommen können, z. B. eine aus Hyderabad (Indien) ..
 
