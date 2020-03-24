@@ -880,3 +880,28 @@ Denn irgendwann erholt sich die Sonne und dann kommt der Solar Flare vor dem Her
 > Fun Fact:  Und mit dem Solar Flare ist der menschengemachte Klimawandel dann auch Geschichte.
 >
 > Aber nee, eigentlich überhaupt nicht witzig.
+>
+> - https://www.eike-klima-energie.eu/2018/11/06/die-globalen-temperaturen-stiegen-als-die-wolkenbedeckung-in-den-1980er-und-1990er-jahren-abnahm/
+> - https://kaltesonne.de/erwarmung-durch-weniger-wolken-oder-weniger-wolken-durch-erwarmung/
+>
+> Und ja, **das ist ein Punkt** in der Klimadebatte, der definitiv erst einmal zu klären wäre,
+> bevor wir darüber weiterdiskutieren, ob es menschengemacht ist oder nicht.
+> (Unstrittig ist, dass es einen Klimawandel gibt.  Und ebenso unstrittig ist, dass wir uns darauf einstellen müssen.)
+>
+> - Es besteht ein Zusammenhang (korrelativ) zwischen Wärme und Wolken.
+> - Und es besteht ein Zusammenhang (korrelativ) zwischen Sonnenflecken und Wolken.
+>
+> Ob auch ein Kausalzusammenhang besteht kann ich nicht sagen.  Da wir aber die Sonne nicht beeinflussen können,
+> dürfe die Korrelation kein Zufall darstellen.  Es ist also ein Kausalzusammenhang eher anzunehmen als auszuschließen.
+>
+> Aus meiner (unmaßgeblichen) Sicht ist dieser Kausalzusammenhang jedenfalls deutlich stärker, als der Kausalzusammenhang
+> zwischen CO2 und Klimaerwärmung - denn bisher hat niemand erklären können, warum mit steigendem CO2 die
+> Erde wärmer werden sollte - alle physikalischen Gesetze über Strahlung und Gase deuten auf das genaue Gegenteil hin!
+>
+> Es ist zwar richtig, dass CO2 wie ein (schlechter) Spiegel wirkt und einige Strahlung vom Erdboden
+> wieder dorthin zurückwirft.  Aber der Effekt gilt eben auch umgekehrt mit der Sonnenstrahlung,
+> d. h. CO2 reflektiert diese genauso.  Und die Sonne strahlt nunmal hundertfach stärker als der Erdboden.
+> also müsste CO2 mehr Wärmestrahlung der Sonne fernhalten als es Wärmestrahlung vom Erdboden zurückhält,
+> CO2 wirkt also abkühlend ..  (Indes dürfte dieser Effekt so gering sein, dass er keinerlei richtige Rolle spielt.)
+>
+> CO2 mag einen anderen Effekt haben.  Aber eben auf keinen Fall den, der allseits behauptet wird.
