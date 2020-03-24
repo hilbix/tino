@@ -852,8 +852,8 @@ Ein notwendiges Korrektiv.  Nichts anderes.
 Gut so.  Endlich.  Und lernt was draus.  Indes, ich glaub's eher nicht.
 Das wäre nämlich unmenschlich.
 
-Denn wenn wir eines aus der Geschichte der Menschen gelernt haben ist es,
-dass die Menschen aus der Geschichte nichts lernen.
+**Denn wenn wir eines aus der Geschichte der Menschen gelernt haben ist es,
+dass die Menschen aus der Geschichte nichts lernen.**
 
 Gelernt wird nur dann, wenn Menschen reihenweise krepieren.  So wie an Corona.
 Aber dann lernen auch nur die Gernerationen, die direkt betroffen sind.
@@ -862,16 +862,21 @@ gehen wieder ganz von vorne los.
 
 Warum ist der Mensch nur so?  Warum wurde der Zivilschutz nach dem 2. Weltkrieg zerstört?
 Warum gibt es im Handy keinen Notruf mehr, jedenfalls ohne SIM-Karte?
-Wer lies zu, dass das funktionierende Festnetz durch Internettelefonie zerstört wurde
-(wir erinnern uns:  Kein Strom, großflächige Überschemmungen, aber der alte Rappelkasten
+Wer ließ zu, dass das funktionierende Festnetz durch Internettelefonie zerstört wurde?
+(Wir erinnern uns:  Kein Strom, großflächige Überschemmungen, aber der alte Rappelkasten
 funktionierte über Wochen einwandfrei!  Und wer wusste wie, konnte aus jedem Kofferradio
 ein funktioniertendes Telefon basteln - jedenfalls eines mit dem man um Hilfe rufen konnte.)
 
-Wo bitte ist diese alte Tugend geblieben, Dinge zu schaffen, die auch in einer richrigen
-Katastrophe problemlos weiterfunktionieren?  Ich meine in einer richtigen Katastrophe
-und nicht so etwas wie Corona, das nur uns belastet, aber nicht unsere technische Infrastruktur.
+Wo bitte ist diese alte Tugend geblieben, Dinge zu schaffen, die auch in einer echten
+Katastrophe problemlos weiterfunktionieren?  Ich meine in einer so echt richtigen Katastrophe
+und nicht so ein Warmduscher-Corona, was nur uns belastet, aber nicht unsere technische Infrastruktur.
 
 Muss erst ein größerer Solar Flare mit einer anderen echten Katastrophe zusammentreffen,
 damit ein Umdenken eintritt?
 
-Vermutlich leider ja.
+Vermutlich leider ja.  Also, haltet Popcorn bereit und den Bunsenbrenner.
+Denn irgendwann erholt sich die Sonne und dann kommt der Solar Flare vor dem Herrn.
+
+> Fun Fact:  Und mit dem Solar Flare ist der menschengemachte Klimawandel dann auch Geschichte.
+>
+> Aber nee, eigentlich überhaupt nicht witzig.
