@@ -524,3 +524,354 @@ welches dann für dDoS gekapert werden kann.  Aber das ist eine vollkommen ander
 > Und jetzt stelle Dir mal vor, was passiert, wenn das Streaming von Netflix bewusst abklemmt wird,
 > aber das von Youtube angelassen wird weil das die Firmen für's Streaming nutzen.
 > Das dürfte dann die nukleare Variante einer Schadensersatzexplosion sein.
+
+## Und der Hirnschiss geht weiter
+
+[Wie lange hält das Netz dem Quarantäne-Ansturm noch stand?](https://www.welt.de/wirtschaft/article206634609/Streaming-in-Corona-Zeiten-Das-Internet-aechzt-unter-dem-Quarantaene-Ansturm.html)
+
+Kurze Antwort: **Wenn wir nichts ändern dann weit länger als Corona.**
+
+Lange Antwort:
+
+- Das DeCIX ist der größte Internetknoten der Welt.  Punkt.
+- Beim DeCIX gibt es nicht einmal den Ansatz eines Kapazitätsengpasses.
+- Die durchschnittliche Auslastung der Anschlüsse dort beträgt um die 40%!
+  - Das ist ein hervorragender Wert, nämlich genau der Pi-Mal-Daumenwert, bei dem ein Netzie seinen Anschluss haben will
+  - Weniger ist zu geringe Auslastung.  Und wird dieser Wert ständig übertroffen, dann wird es Zeit, nachzurüsten.
+  - Das galt schon in den 1980ern und gilt auch während Corona.
+- Die Gesamtanschlusskapazität vom DeCIX beträgt 45 TBit/s.  Das ist der Stand von 2018!
+- Die Gesamttraffic derzeit übersteigt im Peak nicht einmal 9 TBit/s, das sind also gerade mal 20% der Gesamtleistung 2018.
+  - Auch dies ist ein hervorragender Wert, denn wenn ständig mehr als 40% erreicht wird .. das hatten wir oben schon.
+
+Also mal klargestellt:
+
+Wenn der größte aller großen Internetknoten, also schlicht der größte überhaupt, wenn dieser absolut Null und gar kein Problem kennt, dann gibt es kein Problem.  Das haben sich die Schreiberlinge und irgendwelche nichtscheckenden Volldeppen nur ausgedacht, um in der Krise für andere nichtscheckende Idioten eine Weitsicht beweisen zu können.
+
+Da ist aber nichts.  Das ist nur reiner Humbug.  Nicht die Bits und Bytes wert mit denen das geschrieben wurde.
+
+> Natürlich kann es Engpässe geben.  Aber daran ist dann nicht Corona schuld, sondern die ISPs.
+>
+> Das Mobilfunknetz zum Beispiel.  Die Schweiz hat da offensichtlich Probleme.  Aber nur,
+> weil dort Festnetzanschlüsse rar sind.  Das ist in Deutschland vollkommen anders!
+>
+> Ja, das Mobilfunknetz in D ist ebenfalls überlastet.  Aber nicht wegen Internet, sondern einfach weil zu viel
+> mobil telefoniert wird.  Da hilft nicht die Bohne irgendwelche Bandbreiten zu reduzieren.  Da hilft nur,
+> dass die Faulen Säcke mal aufstehen und endlich das nachrüsten, was sie verkauft haben!
+>
+> Was in der Krise natürlich Müll ist.  Aber wer seine Hausaufgaben eben nicht machen wollte,
+> der hat halt leider das Nachsehen wenn man kontrolliert, ob sie es getan haben.
+>
+> Ja, es gibt durchaus Engpässe, für die niemand etwas kann.  Hier in Aystetten z. B. steht in der Gemarkung
+> kein Sendeturm der T.  Warum?  Weil die Gemeinde das so will.  Da kann die T nix dafür.  Oder doch?
+> Die anderen haben nämlich hier Türme, nur eben auf Privathäusern, da kann die Gemeinde nix dagegen machen.
+>
+> Das kann man nun gut oder schlecht finden, also dass da irgendwer sich einen Funkturm auf Dach nageln kann,
+> und niemand kann etwas dagegen tun.  Die Kehrseite ist dann halt, dass entweder die T richtig oder falsch handelt.
+> Das beurteile ich nicht, nehme es zur Kenntnis und akzeptiere die Dinge.  Auf beiden Seiten.  Deshalb auch kein
+> Vorwurf von mir, im Gegenteil, jede Strategie hat Vor- und Nachteile.
+>
+> Aber wegen vereinzelter lokaler Engpässe die ganze Welt in Schutzhaft nehmen?
+> Das ist richtig, wenn es um Corona geht.  Wir müssen da die schwächsten schützen.
+> Aber im Internet ist das anders.  Wer eine schwache Internetleitung hat, wer ein schwaches Mobilfunknetz hat,
+> der weiß das schon vorher und muss nicht geschützt werden.  Niemand streamt Netflix über GPRS.
+>
+> Das Problem löst sich also wirklich ganz von selbst.  **Es gibt einfach kein Problem.**
+
+Wenn also jemand über langsames Internet mosert, ist entweder der ISP schuld, weil der nicht hält was er verkauft,
+oder es kommt die falsche Technik zum Einsatz.  Natürlich kann auch sein, dass man am falschen Fleck wohnt,
+aber dann war die Situation auch schon vor Corona beschissen.
+
+In allen Fällen gibt es aber eine recht probate Abhilfe:  Man wechselt den Provider.
+
+Ja, stimmt, kann sein dass das etwas mehr Geld kostet.  Ach ja, warum nur?  Könnte das irgendeinen vernünftigen
+Grund haben?  Oder fällt euch dazu wirklich nichts ein?  OMFG Herr, Himmel, Hirn usw. YKWIM
+
+Und weil's so schön ist, hier ein "kleiner Peak".  Soll nur verdeutlichen, wie weit so ein Knoten unterhalb seiner Möglichkeiten bleibt.  Jetzt, hier, heute, mitten in der Krise.
+
+![Upps, ein minimaler Glitch](corona-traffic_MUC-1year-1170-400.png)
+
+Also, Don't Panic.  Wenn es irgendwo eng wird, dann mit Billigjeans bei Tedi. (Und ja, ich weiß dass das nicht Tedi ist, aber ich mache hier doch keine Schleichwerbung für Bangladeshausbeuter!)
+
+Und jetzt mal etwas konkrete Kritik an dem Artikel:
+
+> Wie lange hält das Netz dem Quarantäne-Ansturm noch stand?
+
+Was für eine vollkommen abwegige Frage?  Was für eine verdramatisierung der Situation!  Richtig müsste die Überschrift heißen:
+
+**Trotz Corona nur die üblichen Probleme im Internet.**
+
+> "Und der Internet-Router glüht"
+
+Quark!  Wenn es Internetkapazitätsengpässe gibt, passiert genau das Gegenteil!  Dann hat der Router weniger zu tun!
+
+Indes, genau so ist es.  Der Router hat derzeit deutlich mehr zu tun als sonst, und das bedeutet ja schon, es gibt kein Problem!
+
+> "Die Telekommunikationsinfrastruktur ist die technische Grundlage dafür, halbwegs Normalität im Alltag zu erhalten"
+
+Richtig.  Die Telekommunikationsinfrastruktur hat ein Problem.  Weil die in den letzten 20 Jahren vollkommen verblödet weiterentwickelt wurde (Beispiel? ISDN wurde abgeschaltet!  Oder dass der Festnetzanschluss in der Schweiz unmodern ist.  Usw.).  Aber was hat das alles bitte mit dem Internet zu tun?
+
+Das sind zwei total verschiedene Netze.  Das eine ist ein Echtzeitkommunikationsmittel (Telekommunikation) mit klaren Latenzvorgaben und niedrigen Bitfehlerraten, das andere ist ein beliebig drittlatenzbehaftetes paketvermitteltes P2P-Netzwerk (Internet) das vollständig auf Unreliable Transport aufbaut, da jederzeit an jedem Router nach Gutdünken Pakete verworfen werden dürfen (genauer: Sogar müssen).
+
+Ja, abernatürlichkannmanVoIPüberInternetmachen.  Natürlich kann man so einen grob fahrlässigen Scheiß tun.  **Aber dass das eine mehr als nur absolut bescheuerte Idee ist, das wissen wir seit mindestens dem letzten Jahrtausend!**
+
+Sprich:  Wer jetzt meint, beides (Telefonie und Internet) in einen Topf werfen zu können und über denselben Kamm zu scheren, der zeigt nicht nur, dass er von der Materie keinerlei Ahnung hat, nee, der outet sich auch noch als Loser der auf die falschen Versprechen der großen Telcos voll reingefallen ist.
+
+> Ällebätsch, Doofdödel, kapier's endlich:  Du hast nicht nur gar keine Ahnung, sondern laberst auch noch den allergrößten Schwachsinn nach, seitdem Nero Rom angezündet hat.  Ach, was sage ich, vermutlich seit das Feuer entdeckt wurde.  Oder noch davor, die Keule, mit der wir die friedlichen Neandertaler ausgerottet haben.
+
+Streaming?  Das ist tatsächlich besser im Internet aufgehoben.  Wozu da knappe gute Echtzeitkommunikationsfrequenzen
+für opfern wenn das mit Fountaincodes auch wunderbar über paketfehlerbehaftete Leitungen geht?
+Oh, das machen wir gar nicht, weil Multicast so selten ist?  Vollkommen egal.  Streaming erlaubt Buffering,
+Netflix erlaubt es beispielsweise **die meisten Filme zu 100% zu buffern**.  Sie nennen das zwar Download,
+aber das hat soviel mit Download zu tun wie die Jungfrau mit dem Kinde.  Denn Download ist etwas vollkommen anderes.
+
+Also: Streaming **ist** die klare, vorhergedachte Domäne des Internet.  Auch wenn sie heute aufgrund der brutalen
+verfügbaren Überkapazitäten total beknackt umgesetzt wurde.  Das ändert ja nix.
+
+Aber Telekommunikation ist es eben nicht!  Das ist eine Vergewaltigung eines Netzes das dafür überhaupt nie
+designet wurde.  Dafür haben wir die X-Protokolle und so Dinge wie Sonet/SDH.  Aber nicht IP!
+
+JaabernatürlichkönnenwirEchtzeitkommunikationüberIP.  Im eigenen geswitchten Netz.  In dem ich die Policy bestimme.
+Absolut 0 Problemo.  Eine VoIP-Telefonanlage ist nur endgeil.  Habe ich schon seit dem letzten Jahrtausend
+(bis dann ISDN abgeschaltet wurde, und plopp war sie nimmer sinnvoll, denn gerade die ISDN-Seite war das coolste da).
+
+**Und, wozu erblöden sich nun alle?**
+
+Bashen auf das natürliche Streaming zugunsten der martialischen Vergewaltigung (Echtzeitkommunikation).
+
+> Nagut, jeder wie er lustig ist.  Ihr Idioten!  Oh, nein, sorry, muss ich zurücknehmen.
+> Das wäre ja eine Beleidigung.  Für die Idioten.  Idioten kommen auf keine derartig abartige Ideen.
+> Dafür braucht es unbedingt Sharholder Value!
+
+Zurück zum Text:
+
+> "bislang hält sie der Krisenlast einigermaßen stand."
+
+Einigermaßen?  Hä?  In welchem Universum lebst Du?  Das DeCIX verzeichnet mal gerade einen Anstieg von 10%,
+im Peak!  Das ist so etwas von total nebensächlich, dass man es eigentlich nicht einmal erwähnen muss.  Denn diese 10%
+wären ohne Corona auch noch dieses Jahr erreicht worden.  Das ist lediglich wenige Wochen(!) vorweggenommene Progression.
+
+Und, hättet ihr im Oktober denselben Schwachsinn geschrieben wie heute?  Nee .. wäre euch nicht einmal aufgefallen!
+
+> "ihre Breitbandanschlüsse deutlich langsamer Daten liefern als gewohnt."
+
+Wie typisch!  Natürlich finden Leute das.
+Das bietet keinerlei [Kausalzusammenhang](https://www.youtube.com/watch?v=MFMS8P-Flig)
+und ist ein zu erwartender [Bias](https://www.youtube.com/watch?v=1AJBcyI_u0U).
+
+Denn er widerspricht sich mal wieder.  "deutlich".  Öhm, deutlich?  Was steht da denn weiter:
+
+> - "Gut 500 Nutzer"
+> - "56 Prozent der Anschlüsse die vertraglich vereinbarte Leistung"
+> - "27 Prozent" "erreichen aber mindestens 50 Prozent des Nominaltempos"
+> womit sie übrigens ebenfalls die vereinbarte Leistung erreichen, denn diese lieg bei 50% des verkauften Tempos
+> - "der Rest meldet Übertragungsraten deutlich darunter"
+
+Klar, an allem muss Corona *jetzt* dran schuld sein.  Gerade am Abend.  Weil da so unendlich viele Firmen da Homeoffice fahren.  Klar doch.  Total logisch, echt jetzt!
+
+Gerade angesichts der alles anderen als repräsentativen Menge der gefragten Leute ist da für mich da überhaupt
+nichts deutlich, außer dass solche Aussagen weniger als nichts wert sind.  Sie sind polemisch, polarisierend,
+wissenschaftlich unhaltbar und destruktiv.  16% der Anschlüsse schnarchen?  Bei unseren Billigprovidern
+muss das leider sehr normal genannt werden!  Denn Corona ist sicher nicht daran schuld, dass diese Spackos
+ihre Hausaufgaben niemals gemacht haben, rein nach dem Prinzip Hoffnung.  Sollte Corona daran tatsächlich
+schuld sein, dann kann man eigentlich nur gratulieren, dass jetzt der Schmu dadurch auffliegt ..
+
+> "Der Anbieter Speedtest.net meldet europaweit Leitungen am Limit"
+
+Ja, macht er das?  Wie?  Mit Leitungsmessungen?  Oh!  Wer ruft denn speedtest.net auf?  Die ohne Probleme oder die mit?
+Ah ja, wow.  Echt nicht schlecht so ein Helm!
+
+> "Laut Telekom Italia stieg das Verkehrsvolumen im Netz teils um mehr als 70 Prozent"
+
+Wow. Echt jetzt?  Das glaube ich sogar!  Und?  Hat Telekom Italia ebenfalls irgendwelche Engpässe gemeldet?
+Nein, haben sie natürlich nicht, da würden sie sich ja hübsch als totale Loser outen,
+die ihren Job nicht verstehen!  Im Gegenteil, sie freuen sich über den Mehrtraffic,
+denn mehr Traffic bedeutet mehr verkaufte Leitungskapazitäten und damit mehr Einnahmen!
+
+(Mit Transit verdient man kein Geld.  Das verdient man mit Leitungen und Anschlussleistung!
+Nein, ich muss da nicht nachlesen oder schauen ob ich Unrecht habe.  Entweder habe ich
+Recht oder die Telekom Italia sind Dumpfbacken.  Kann ich mir einfach nicht vorstellen!)
+
+Nochmals zum Mitdenken.  Folgendes sind die ungeschriebenen goldenen Regeln die jeder Netzie einhält.
+Warum?  Erfahrung, basierend auf 40 Jahren Interneterfahrung:
+
+- Eine Leitung sollte 40% Auslastung im Mittel haben.
+- Eine Leitung sollte keine Peaks viel größer als 50% haben.
+- Wenn eine Leitung das übersteigt, dann muss man nachrüsten.
+
+Rechnen wir also: 75% von 40% sind 30%.  Damit erreichen die Leitungen jetzt also 70% und im Peak immer noch unter 85%.
+
+Oh, wow, ich erzittere ob dieser minimalen freien Restkapazität von 15% selbst im Peak.
+Das ist ja jetzt wirklich der Weltuntergang, oder?
+
+Natürlich nicht!  Und natürlich dürfen sie sich nicht auf die faule Haut legen und müssen jetzt nachrüsten.
+Das bedeutet, dass man beim Carrier einfach die nächste Leitungsdicke ordert, der das im digitalen Config ändert
+und schon hat man die doppelte Datenrate.  Oh, dann ist die Leitungsauslastung wieder bei .. tusch .. leicht
+unter 40% und im Peak etwas unter 50%, also genau wie es sein soll!
+
+Ja, in modernen Netzen wie heute ist das meistens nur eine Stellschraube, ein einfacher Parameter.  Da muss
+kein Bagger anrücken, da muss man nichts großartig tun, nö, es wird einfach die Interfacegeschwindigkeit
+hochgedreht.  (Fun Fact:  Die springt meist Faktor 2,5 - half - und dann 4 - full -.
+Aufgrund Redundanz hüpfen bei Faktor 4 nur ein Interface, bei Faktor 2,5 beide.
+Und nur wenn man saublöd war, dann hat man veräumt das Interface rechtzeitig hochzuschrauben.
+Dann muss halt die Redundanz dran glauben und man macht Bonding bis man es schafft,
+das Interface auszutauschen.  Und ach ja, soetwas geht OHNE echte Downtime im laufenden Betrieb,
+einzig kurzzeitig schlechterer Service - deshalb legt man soetwas in die frühen Morgenstunden, wenn
+ein halbes Interface ausreicht ..)
+
+Übrigens ist die Telekom Italia selbst Carrier.  Wow, also müssen die tatsächlich evtl. den eh schon im Oktober
+geplanten Austausch (bei den steigenden Datenraten im Interet und einer Auslastung von 40% muss dieses
+Jahr noch ein Upgrade anstehen!) vom Leitungsupgrade halt ein halbes Jahr vorziehen.  Das mag natürlich zu Zeiten
+von Corona unpassend sein, aber wenn das ein Konzern ist, und bei der Telecom Italia gehe ich mal davon aus,
+dass sie einer sind, dann planen die den Upgrade schon über 1 Jahr (die planen also bereits die zwei Upgrades
+nächstes Jahr!) und die Materialien dafür liegen schon rum, nur der Trupp ist halt noch nicht losgezogen es zu tun
+(warum?  Material ist billig.  Leute sind teuer.  Also hat man immer genug Material, um die Leute stets voll
+auszulasten.  Wer das nicht kann der hat sein Business nicht im Griff - international tätige Telcos die ihr
+Business nicht im Griff haben dürfte es nicht geben, jedenfalls nicht lange ..).
+
+> "Lage ist sehr stabil"
+
+Na bitte, geht's noch deutlicher?  Wieso dann die reißerische Überschrift und all die unsinnige Relativierung?
+Um irgendwo ein Skandälchen zu finden das nur in der reinen Einbildung existiert?
+
+> "DeCix" "10 Prozent mehr als üblich"
+
+Wie ich schrieb, schon in der 2. Jahreshälfte hätten wir das auch ohne Corona erreicht,
+das ist schlicht gar nichts.  Eher etwas das man sehr freudig aufnimmt:  Es funktioniert alles perfektestens.
+Eigentlich muss man dafür soger einen Hyperlativ verwenden, weil der Superlativ nicht ausreicht:
+
+**Gut gemacht, DeCix, ihr versteht einfach euer Handwerk!** Das kann man glaube ich gar nicht oft genug wiederholen.
+Allen Ortens bricht operative Hektik aus, und ihr könnt euch beruhigt zurücklehnen.  Denn selbst wenn ihr jetzt
+die Hände in den Schoß legt und 2 Jahre lang Däumchen dreht seid ihr für einfach alles gerüstet,
+was da in der Zeit gegen euch geschmissen werden könnte.
+
+Aber nein, natürlich werdet ihr es nicht tun sondern ihr müsst euch jetzt der veränderten Zukunft widmen!
+Ab 2021 werden wohl vermehrt Firmen hinzukommen, die ihre Telearbeit verbessern wollen.
+Der Telco- und ISP-Anteil sinkt also stark (gibt es überhaupt welche die fehlen?  Selbst die zickige
+T ist ja inzwischen bei euch) im Vergleich zu den großen Firmenkunden ..  Eine echte Herausforderung,
+denn der Service soll ja nicht degradieren, und solche Flöhe zu hüten ist einfach unnötiger Aufwand ..
+
+> "Videokonferenzen" "50 Prozent zu"
+
+Was bei 10% mehr Peak deutlich zeigt, dass die unter Ferner liefen sind.  Aber richtig, die Anforderung
+bei Videokonferenzen sind eine andere als bei "normalem" Traffic, weil die quasi-Echtzeit sind.
+
+Für eine geswitchte Infrastruktur (wie das DeCix) ist Echtzeit übrigens keinerlei Thema (jedenfalls
+so lange kein Port überbucht ist).  Das Thema haben die Kopfrouter, die am DeCIX angeschlossen sind,
+und ggf. das auf die schmalbandigeren Leitungen oder zu schwach ausgelegte Firmeninfrastruktur treffen ..
+
+> Fun Fact:  Bei der LHM ist .. hm, nee, sorry .. solche Kundeninternas tritt man als Dienstleister nicht breit ;)
+
+Nichts anderes habe ich von der Telekom erwartet:
+
+> "die Lage ist sehr stabil“, kommentierte ein Telekom-Sprecher"
+
+Und wäre ich gehässig wäre würde ich hinzufügen "Wenn's selbst bei der T so ist, dann gibt's einfach kein Problem"!
+Aber glücklicherweise bin ich nicht so.  Soll heißen:  Das, was die T sagt ist kein Schönreden oder gefärbt.
+Das kann ich voll und ganz nachvollziehen, so liegen einfach die Tatsachen, ob man nun will oder nicht!
+
+Glaubt mir, gäbe es nur eine klitzekleine Möglichkeit irgendwie auf die Tränendrüse zu drücken,
+die T würde das tun.  Aber so wie die Lage ist ergibt sich da einfach gar nix.
+Außerdem dürfte der Typ wohl einer vom Lagekontrollzentrum der T gewesen sein.  Und die sprechen Tacheles.
+(Sagen wir mal so: Egal was bei der T - strukturell - schiefgeht, ihr Lagekontrollzentrum hält dagegen.
+Ich weiß nicht ob andere ISPs eine ähnlich aufgehängte Abteilung haben, aber jedes Mal wenn bei der T
+sich unerwartet plötzlich was Sinnvolles tut, hat stets dieses Lagekontrollzentrum seine Finger im Spiel.)
+
+> "Allerdings zeigen Nachbarländer"
+
+Jo, die lieben Nachbarn.  Wir schimpfen immer auf dieses rückständige Deutschland.  Und stimmt auch.
+**Breitband, Nachhaltigkeit, Gewinne.  Choose 2.**  Vielleicht ist dann der deutsche Weg doch nicht so blöd?
+Denn auf Gewinne können börsennotierte Unternehmen nun einmal nicht verzichten.
+
+> "Fortnite und Microsoft Teams überlastet"
+
+Hehe möchte ich meinen.  So etwas wie Fortnite richtig zu skalieren ist halt ehrlich eine Raketenwissenschaft.
+Kein Scherz.  Massive Multiplayer ist, was derzeit eben nicht skaliert.
+
+Und Microsoft Teams?  Nun, daran sieht man, so einfach ist das mit der Cloud dann doch wohl nicht.
+Scaling ist mit Google Cloud und AWS halt doch noch viel einfacher als mit Azure.
+
+Beispiel Cloudfront, die strukturell einfach jeder beliebigen DDoS-Attacke standhalten können.
+Dafür ist die vorwiegend auf Windows ausgerichtete Azure-Plattform schlicht zu klein.
+Das kann die vielleicht in 5 Jahren ab, aber jetzt noch nicht ..
+Babys drückt man einfach keine entsicherten Granaten in die Hand.
+
+> Fun Fact: Hätte Microsoft die Telekom-Cloud nicht abgeschafft stünden sie jetzt deutlich besser da.
+>
+> Fazit: Achte auf Deine Wünsche, sie haben sich gerade erfüllt .. *breites Grinsen*
+
+Oder anders gesagt:  Microsoft ist selber schuld, und Fortnite mag ein geiles Spiel sein,
+sie losen aber in Sachen Skalierung trotzdem ab.  Dabei hätten beide die Kapazitäten gehabt,
+es rechtzeitig richtig zu machen.  Das sind also rein hausgemachte Probleme, 6, setzen!
+
+> "Wie die Anbieter auf eine Überlast reagieren könnten, zeigt die Schweiz"
+
+Nein.  Die Schweiz zeigt da gar nichts.  Das sind schweizer Anieter, die jetzt schlicht
+mit Erschrecken feststellen, dass sie ihr Netz hoffnungslos überprovisioniert haben.
+
+> "Die Schweizer Regierung droht andernfalls mit einer Abschaltung von Streamingdiensten."
+
+Nein.  Die Schweiz schaltet da gar nichts ab.  Wenn, dann tun das die Provider.
+
+Leute Leute Leute.  Man kann die Fakten zwar irgendwie verdrehen, aber auch wirklich alles
+aber auch wirklich bei jedem Bit total falschrum darzustellen, geht's noch?
+
+Die Schweizer Regierung springt da den wichtigsten schweizer Providern in die Bresche,
+um deren Versäumnisse der letzten Jahrzehnte(!) nicht auf das Land durchschlagen zu lassen.
+
+Das hätte einen Aufschrei erzeugen müssen wie "Schweizer spinnen!  Corona beschädigt
+Netzneutralität" (obwohl das genauso falsch wäre wie die andere Überschrift).
+
+Lasst sie ruhig Netflix abschalten, das wird nämlich nicht reichen.  Damit die Leute nicht
+ausweichen muss man auch Youtube, Vimeo, Vevo, Twitch usw. abschalten!  Und dann weichen
+die Leute auf illegale Videoportale und Piratebay/Bittorrent aus.  Und wenn sie auch das
+Zensieren, schlägt die Stunde von Overlaynetzwerken wie I2P und ToR!
+
+Datenratenreduktion reicht auch nicht.  Reduziere 25% und die Leute konsumieren 30% mehr,
+geht ja jetzt besser dank gesenkter Datenrate!
+
+Nein, ihr habt jetzt ein Problem.  Löst es gefälligst.  Die Suppe habt ihr euch nämlich
+selbst eingebrockt.  Ausbaden müssen es jetzt die gelackmeierten Nutzer.  Die, die evtl.
+ohne Streaming dastehen, oder ohne Videokonferenz, oder beides!
+
+Also, lasst mich rekapitulieren:
+
+- Ein eher kleines Land,
+- mit unbedeutend wenig Bürgern, jedenfalls verglichen mit der Welt,
+- das über Jahrzehnte seine eigenen strukturellen Probleme herangezüchtet hat,
+- hat jetzt ein Problem, weil wegen Corona ihr Netz überlastet wird.
+
+Wow.  Die Schweizer sind echt zu bedauern dass sie von ihren Telcos derart in die Scheiße geritten wurden.
+Und ich denke, das wird noch ein ziemliches Nachspiel in der Schweiz haben.
+
+Aber daran ist jetzt nicht Corona schuld.  Corona deckt nur den Schmu auf.
+Die jahrzehntelange Misswirtschaft.  Als sich die Leute gegenseitig auf die Schultern klopften
+und sich besser wähnten, statt anzupacken und wirklich mal mit Sinn und Verstand dranzugehen.
+
+Ein notwendiges Korrektiv.  Nichts anderes.
+
+Gut so.  Endlich.  Und lernt was draus.  Indes, ich glaub's eher nicht.
+Das wäre nämlich unmenschlich.
+
+Denn wenn wir eines aus der Geschichte der Menschen gelernt haben ist es,
+dass die Menschen aus der Geschichte nichts lernen.
+
+Gelernt wird nur dann, wenn Menschen reihenweise krepieren.  So wie an Corona.
+Aber dann lernen auch nur die Gernerationen, die direkt betroffen sind.
+Nur wenige Generationen später ist alles vergessen, und dieselben Fehler
+gehen wieder ganz von vorne los.
+
+Warum ist der Mensch nur so?  Warum wurde der Zivilschutz nach dem 2. Weltkrieg zerstört?
+Warum gibt es im Handy keinen Notruf mehr, jedenfalls ohne SIM-Karte?
+Wer lies zu, dass das funktionierende Festnetz durch Internettelefonie zerstört wurde
+(wir erinnern uns:  Kein Strom, großflächige Überschemmungen, aber der alte Rappelkasten
+funktionierte über Wochen einwandfrei!  Und wer wusste wie, konnte aus jedem Kofferradio
+ein funktioniertendes Telefon basteln - jedenfalls eines mit dem man um Hilfe rufen konnte.)
+
+Wo bitte ist diese alte Tugend geblieben, Dinge zu schaffen, die auch in einer richrigen
+Katastrophe problemlos weiterfunktionieren?  Ich meine in einer richtigen Katastrophe
+und nicht so etwas wie Corona, das nur uns belastet, aber nicht unsere technische Infrastruktur.
+
+Muss erst ein größerer Solar Flare mit einer anderen echten Katastrophe zusammentreffen,
+damit ein Umdenken eintritt?
+
+Vermutlich leider ja.
