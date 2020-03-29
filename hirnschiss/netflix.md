@@ -31,9 +31,12 @@ Frage?  Wie schützt man den wichtigsten Computer den man hat?
 > 
 > Warum?  Der Rechner ist wichtig.  Aber von ihm hängen ja keine Leben ab.
 > Der rein physikalische Zugangsschutz, also dass er sich in einem Haus befindet das eine Haustür hat,
-> reichen mir zur Sicherheit aus.
+> reichen mir zur Sicherheit aus.  Denn wer bis zu der Kiste vordringen kann, der kann sie auch mitnehmen.
 >
-> Die Systeme, die bei mir missionskritisch sind, die sind deutlich besser geschützt.
+> Einen Rechner gegen eine Mitnahmeattacke zu sichern, das ist ein nichttriviales Vorhaben.
+> Den Aufwand habe ich mir gespart.  Also braucht es auch keine Loginsicherheit.
+>
+> Nur missionskritische Systeme sind bei mir deutlich besser geschützt.
 
 In der Serie haben sie aber eine ganz neue Form der Computersicherheit erfunden:
 Die der unendlichdimensionalen Negativsicherheit.  Also die, die nicht nur nicht vorhanden ist,
