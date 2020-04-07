@@ -2,6 +2,232 @@
 
 # Gedanken zu Corona
 
+Wenn man [sich die Graphen so ansieht](https://www.worldometers.info/coronavirus/) ist die Welt auf einem guten Weg.
+Jedenfalls ansgesichts der Katastrophe die hätte eintreten können.
+
+- Hätte die WHO nicht so lange gezögert die Pandemie auszusprechen,
+- hätten vor allem die USA schneller gehandelt,
+- hätten die Länder mit entsprechender Ausrüstung frühzeitig vorgesorgt,
+- hätte man alle Menschen frühzeitig mit einem medizinisch wirksamen Mundschutz ausstatten können,
+- hätte man die Reisebeschränkungen (nicht: Grenzschließungen) und Shutdowns schon im Januar verordnet,
+- mehr als die Hälfte der durch Corona verursachten Toten hätten letztendlich verhindert werden können.
+
+Somit ist **die allseits kaputte Politik der größte Massenmörder der Gegenwart**.  Anders kann man es nicht ausdrücken.
+
+> Allerdings werden wir das nur im Rückblick erfahren, wenn wir wagen, diese Frage jemals zu stellen.
+
+Nur damit wirklich gar kein Zweifel aufkommt:
+
+Corona können wir erst besiegen, wenn wir eine Impfung haben.  Eine Impfung, die mindestens 70% *aller* Menschen erreicht.
+
+Das bedeutet es müssen über 6 Milliarden Impfdosen hergestellt werden.  Das bedeutet, wir brauchen
+**eine weltweiten Produktion von über 1 Million Impfdosen pro Stunde**.  Bei Kosten von ca. 25 EUR
+pro Impfdosis bedeutet das **Kosten von über 1/2 Milliarde EUR pro Tag**, und das für über ein halbes Jahr!
+Sprich, wir sprechen hier alleine von Gesamtkosten von mehr als 100 Milliarden EUR.
+Ohne die weiteren wirtschaftlichen Schäden die Corona ausgelöst hat.
+
+Die Impfung reduziert die Kosten übrigens erheblich, wenn man bedenkt, dass ein Corona-Test 59 EUR kostet.
+Und bitte immer auch an die 3. Welt denken, die über die Hälfte (fast 2/3) der Impfdosen benötigt, aber die Kosten
+auf keinen Fall auch nur ansatzweise dafür bezahlen kann.  Sprich, das muss unter Entwicklungshilfe laufen.
+
+Und das werden wir nicht aus Altruismus tun.  Das hat zu unser aller Wohl, aus reinem egoistischen Eigennutz geschehen!
+Sprich, wir zahlen hier 100 EUR für die Impfung hierzulande und schicken dann 3 weitere Impfdosen kostenlos in die 3. Welt.
+So muss der Hase laufen.  Alles andere wäre Schwachsinn hoch Unendlich!
+
+Trotzdem verringern sich auch bei 100 EUR die Kosten.
+Bei wem der Corona-Test positiv ist, der braucht noch viele weitere Tests.
+Und bei wem der Corona-Test negativ ausfällt, tja, der bekommt irgendwann Corona und braucht ja wieder einen Test.
+
+> Wir sprechen hier also über eine Belastung der Krankenkassen von ca. 10 Milliarden EUR in 2021 alleine für die Impfungen!
+
+Übrigens steht noch nicht fest ob eine einmalige Corona-Impfung ausreicht oder nicht doch regelmäßig aufgefrischt werden muss.
+
+> So wie es aussieht wird es eine regemäßige Nachimpfung notwendig werden.
+> Denn auch Corona verändert sich.  Zwar langsamer als Grippe, aber auch Covid19 entwickelt neue Stämme.
+
+Ach ja, wir brauchen hochwertige Impfstoffe.  Impfstoffe, die wenig Nebenwirkungen haben.
+
+Wenn die Lösung problematischer ist als das Problem, dann behält man besser das Problem.
+In diesem Fall wäre eine "kontrollierte Durchseuchung" der Bevölkerung mit Corona sinnvoller als eine Massenimpfung.
+
+
+## 2020-04-07
+
+Folgendes schreibe ich aus Deutschland, aus dem Land der Glückseeligen:
+
+- Wir haben die 2-meisten Tests auf der Erde (nach den USA, die jetzt mit rohger brutaler Kraft das Versäumte nachzuholen versuchen - was bei Pandemien nur leider so nicht funktioniert, das kann ihnen jeder Mathematiker leicht vorrechnen).
+  Das liegt vor allem daran, was ich schon schrieb:  Deutschland ist flächendeckend mit hochwertigen Labors ausgestattet.
+  Tests sind zwar teuer und aufwendig.  Aber wir können zusätzliche Kapazitäten kurzfristig hochfahren.
+
+- Wir haben hier recht moderate Todeszahlen.  Für Deutschland sind die ungeheuerlich.  Verglichen mit dem Rest der Welt sind die eher verschwindend.  Insbesondere haben wir aber auch eine vollkommen andere Altersverteilung als andere Länder in denen hauptsächlich Alte krepieren!
+
+- Und ich bin in Bayern, die mit dem frühesten und härtesten Lockdown und der damit verbundenen glimpflichsten Entwicklung.
+
+- Deutschland ist außerdem eines der wenigen Länder (ich kenne kein anderes), das Coronapatienten zur Behandlung aufnimmt.  
+  Aber auch das tun wir nicht aus reinem Altruismus.  Gerade in einer Pandemie ist es gut, zu sehen, wie die Einrichtungen
+  mit den Kapazitäten klarkommen, und zwar auf eine Weise die man bei Bedarf nachsteuern kann.  So ergeben sich verlässliche
+  und vor allem belastbare Zahlen, mit denen man rechtzeitig planen kann, und das Personal ist auch an die neue Situation
+  frühzeitig gewöhnt und hat Zeit sich auf den veränderten Stress einzustellen, lange bevor die Lage unkontrollierbar wird.
+  Das vermeidet Behandlungsfehler und rettet Leben - nicht nur ggf. die der aufgenommenen Patienten, sondern auch Deutsche!
+
+> Wer viel testet hat auch hohe Zahlen.  In sofern verwundert die verhältnismäßig niedrige Todesrate nicht.
+> Und Quarantänemaßnahmen sowie Schutz des medizinischen Personals kann man nur dann ordentlich durchführen,
+> wenn man verlässlich testet.  Und in Sturheit in solchen Dingen ist Deutschland nun einmal schwer zu überbieten.
+>
+> Außerdem haben wir einen echt unfairen Vorteil:  Wir haben hier das RKI und die Charite in unserem Land.
+> Zwei Institute von Weltruf die beide stetig dasselbe predigen.
+> Da hat die Politik einfach keine Chance großartig Mist zu bauen.
+
+Akute Situation den Zahlen nach:
+
+- Den Zahlen aus China erscheinen mir nicht korrekt zu sein.  Deshalb sage ich dazu nichts weiter.
+
+- Südkorea hat die Krise inzwischen unter Kontrolle.  Sprich:  Die Krise ist nicht beendet, aber sie ist in einer stabilen Situation.  Was sie dort tun, das tun sie richtig, und das muss auch weiter so bleiben, bis die Impfung bereitsteht.  
+  Interessant ist die Geschwindigkeit mit der Südkorea die Krise bewältigt hat.  Das mag aber mit der Nähe zu China
+  zu tun haben.  Oder die Südkoreaner sind einfach vernünftigere Menschen ..
+
+- Der Iran ist auf dem besten Weg als zweiter (China zähle ich nicht) die Krise unter Kontrolle zu bringen.  Der Iran.  Der Staat, den wir hier irgendwie immer gerne verteufeln.  **Gut gemacht, Iran!**  Muss man einfach sagen.  Regime hin oder her, behaupter Krisenstaat hin oder her.  Die Entwicklung der Zahlen im Iran zeigen ein gutes Bild.
+
+- Italien hat laut der Angaben gerade den Faktor 1 erreicht.  Also 1 Corona-Patient steckt nur noch 1 weiteren an und nimmer 3.  Damit ist die Krise noch gerade nicht überwunden, sprich, alle Maßnahmen müssen weiter in Kraft bleiben genau so wie sie sind.  Bei der hohen Zahl an Infektionen in Italien ist das immer noch keine wirklich gute Nachricht, aber wenigestens eine gute Entwicklung.  Wenn jetzt nicht der Wahnsinn ausbricht kann man erwarten, dass Italien in 2 Wochen die Krise unter ebenfalls Kontrolle hat.
+
+- Spanien steckt momentan noch am Anfang derselben Entwicklung wie in Italien.  Aufgrund der Lesson Learned besteht aber Hoffnung, dass es dort nicht auf dem gleichhohen üblen Niveau zum Stehen kommt wie in Italien.  Jedenfalls wenn Spanien Hilfe bekommt.  Ohne Hilfe?  Spanien hat einfach zu spät reagiert, genauso wie Italien.  Ohne massive Hilfe wird das in Spanien noch sehr übel.  Italien kann man keinen wirklichen Vorwurf machen.  Die hat es vollkommen unvorbereitet, quasi als Erste hier in Europa erwischt.  Spanien hingegen hätte rechtzeitig reagieren können.  Haben sie nur leider nicht.  Das ändert aber nichts daran, dass sich Europa bitte solidarisch verhalten soll - den erste Schock sollten wir alle ja inzwischen überwunden haben.
+
+Meine Prognose:
+
+- In den USA wütet Corona.  Während New York so langsam den Peak erreicht haben dürfte, wird es den gesamten April dauern,
+  bis sich die Lage in den USA stabilisiert.  Ich schätze über 100000 Tote in den USA wurden alleine dadurch verursacht,
+  dass sie 3 Wochen zu spät mit ihren Maßnahmen anfingen.  Es gibt einfach nichts schlimmeres als ein exponentielles Wachstum.
+  New York hat das zu spät erkannt.  Und der Rest der USA war ja noch langsamer.
+
+- Im Juli dürfte die Krise weltweit in einen stabilen Zustand kommen.
+  - Wenn die Leute so lange durchhalten.
+  - Wenn sich alle Länder weiterhin äußerst vernünftig verhalten.
+  - Wenn es in nicht irgendwo (z. B. Afrika) aufgrund von fehlgeleiteter Politik sowie Unwissenheit zu einer explosiven Epidemie kommt.
+  - Und das, obwohl die Südhalbkugel auf den Winter zusteuert.  Südlich vom Äquator leben einfach weniger Menschen,
+    die gehen in die Statistik also entsprechend weniger ein.
+
+- Alle Experten warnen schon jetzt davor, dass im Herbst Corona wieder aufflammen wird.  Dem schließe ich mich an.
+
+Das bedeutet:
+
+Da die Wahrscheinlichkeiten einfach nicht hergeben, dass wir bis Weihnachten einen ausreichenden Impfschutz aufbauen können,
+brauchen wir den Lockdown also bis ins nächste Jahr!
+
+Das bedeutet nicht, dass wir die Zügel nicht etwas lockern dürfen.  Also:
+
+- Die Quarantäne für Coronapatienten bleibt.
+
+- Die Beschränkung für Krankenhäuser und Altenheime bleibt.  
+  Besuch ist nur noch in umfassender Schutzbekleidung zulässig.
+
+- Generelle Mundschutzpflicht.  
+  Eigentlich falsch, das ist ja kein Mundschutz/Atemschutz sondern Fremdschutzpflicht.
+
+- Alle Geschäfte dürfen wieder öffnen.  Allerdings gilt:  
+  - So wenig Läden wie möglich betreten
+  - Einen Laden möglichst nicht öfter als 1 Mal pro Woche aufsuchen
+  - Nur einzeln einkaufen, Abstand von mindestens 1,5m, und Beschränkung der Menschen pro Laden.
+
+- Partys bleiben weiterhin verboten
+
+Das öffentliche Leben darf wieder etwas anziehen, aber:
+
+- Treffen unter Freunden mit bis zu 4 Personen plus max. 8 Kindern unter 16 Jahren werden wieder erlaubt
+
+- Spielplätze werden wieder geöffnet.
+  Dort dürfen sich aber nur bis zu 4 Kinder (Personen unter 16 Jahren) sowie max. 4 Aufsichtspersonen (16+) aufhalten.
+
+- Sportplätze werden wieder geöffnet.  
+  Bis zu 4 Erwachsene (Doppel) sind pro Tennisplatz zulässig.  Oder 1 Trainer und 4 Kinder.  
+  Fußball wird wieder erlaubt, aber nur mit der Minimalzahl und pro Bank darf nur 1 Spieler sitzen (Abstand 2m zum nächsten).
+
+- Bordelle dürfen wieder öffnen.  Max. 3er sind erlaubt.  Kunden sind getrennt abzufertigen, keine Aufenthaltsräume.  
+  Und keine Massenveranstaltungen wie Swingerclubs.
+
+- Universitäten und Schulen bleiben geschlossen.  Alternativ:
+  Max. 10 Personen pro Klasse/Kurs.
+  2m Abstand zwischen den Personen zzgl. umfangreicher Schutzmaßnahmen wie Klarsichtwände und geregelter Luftführung.
+
+- Alle Massenveranstaltungen bleiben weiterhin verboten.  Vor allem Kinos müssen weiterhin geschlossen bleiben.  
+  Veranstaltungen bis 10 Personen können unter Auflagen gestattet werden.
+
+- Es besteht bis auf weiteres auch ein Demonstrationsverbot,
+  außer die Teilnehmer halten einen Mindestabstand von 2m zueinander und tragen alle Mundschutz oder Schutzkleidung.
+
+- Restaurants und Betriebskantinen bleiben ebenfalls weiterhin geschlossen.   
+  Außer die Restaurants und Betriebskantinen werden zur reinen Essensausgabe umfunktioniert.
+  Das bedeutet max. 5 Personen dürfen die Kantine gleichzeitig betreten und das Ausgabepersonal trägt Schutzkleidung.
+
+- Meetings von mehr als 4 Personen im gleichen Raum sind verboten.
+
+- Fahrgemeinschaften sind grundsätzlich zulässig sofern es sich dabei immer um dieselben Personen handelt.  
+  Fahrgemeinschaften sind bei den Ordnungsämtern mit Namen der Personen einzureichen und dürfen max. 1 Mal pro Fahrzeug pro Monat geändert werden.
+
+- Großraumbüros sind unzulässig.  Diese sind per Trockenbau in einzelne Büros mit getrennter Luftzufuhr zu teilen.  
+  In jedem Büro dürfen sich zu jeder Zeit max. 2 Personen dauerhaft zzgl. 1 Person (Besucher) vorübergehend aufhalten.  
+  Faustformel:  Raumgröße in qm geteilt durch 10 ergibt die Anzahl der dauerhaft zulässigen Personen.  Ab 2 wird abgerundet.
+  Die Anzahl der Besucher ist die Anzahl der daueraft zulässigen Personen halbiert mit Aufrundung.
+
+- Der ÖNV wird so geregelt, dass sich pro 4 Sitzplätze max. 1 Fahrgast aufhalten darf (Abstand mindestens 1 Stuhlreihe).  
+  In den vorderen 2 Reihen hinter dem Fahrer darf niemand sitzen (außer Ordnungskräfte in Schutzkleidung).
+  Die vorderere Fahrertür wird nicht verwendet.  Keine Ausgabe von Fahrscheinen.
+  An Haltestellen ohne Fahrscheinautomat darf ohne Fahrschein zugestiegen werden.  Fahrscheinpflicht erst ab
+  Haltestellen mit Fahrscheinautomat.  Gibt es keine ausreichend langen Halt an einer Haltestelle mit Fahrscheinautomat,
+  darf bis zur nächsten Möglichkeit einen Fahrschein zu erhalten kostenlos weitergefahren werden.  
+  Es gilt zusätzlich Handschuhpflicht.  Zutritt ohne Handschuhe ist unzulässig.  Stehplätze sind unzulässig.  
+  Busse und Bahnen werden an jeder Endhaltestelle desinfiziert.  Desinfizierte Sitzplätze bekommen Papierüberzüge.  
+  Jeder Fahrgast nimmt den Überzug weg.  Sitzplätze ohne Überzug dürfen dann nicht mehr verwendet werden.  
+  Für die Durchsetzung ist das Beförderungsunternehmen haftbar.  
+  Pro Verstoß 10000 EUR Strafe für das Unternehmen, 100 EUR davon geht an den Melder (Handyvideo).  
+  Also: 5 Personen halten das nicht ein und das Unternehmen schreitet nicht ein:  50000 EUR, davon gehen 500 EUR an den Melder.  
+  Dazu kommen die Strafen der 5 Personen von bis zu 20000 EUR je Person falls diese ermittelt werden können.  
+  (Zu Deutsch:  In jedem Bus/Bahnwagen fahren 2 Ordnungskräfte mit die auch die Desinfektion übernehmen.)
+
+- Sammeltaxis sind verboten.  
+  In einem Taxi dürfen nur zusammengehörige Fahrgäste (Familie, oder enge Bekannte) mitgenommen werden.  
+  Im Zweifel müssen mehrere Taxis farhren.
+
+Von dieser Regel darf in folgender Form abgewichen werden:
+
+Diese Regelungen gelten nicht für Gruppen, die eine 3-wöchige Quarantäne hinter sich haben und durch
+entsprechende Maßnahmen mit sonst niemand anderem in Kontakt gekommen sein können (direkt oder über
+Luftzirkulation indirekt) der mit Corona infiziert sein konnte.  Am Anfang und am Ende muss ein
+außerdem Coronatest durchgeführt worden sein der negativ ist, ansonsten gehen alle Teilnehmer
+von der Quarantäne in eine verlängerte Quarantäne.
+
+Alle verbrauchten Güter und alles, womit sie in Berührung gekommen sind, darf seit Beginn der Quarantäne
+ebenfalls nicht mit anderen Menschen in Kontakt oder Nähe gekommen sein.
+Die Teilnehmer dieser Gruppe unterliegen dann keinen Beschränkungen untereinander, und dürfen sich so lange
+beliebig verhalten, wie sie nicht mit möglicherweie kontaminierten anderen Personen oder Dingen in Kontakt kommen.
+
+Umgekehrt gilt das auch, d. h. man darf sich in der Gruppe schon ab dem ersten Tag der Quarantäne beliebig verhalten,
+wenn man sich eben hinterher in eine mindestens 3-wöchige Quarantäne begibt und dies entsprechend angekündigt wurde.
+
+Anders gesagt:  Swingerpartys auf Kreuzfahrtschiffen sind erlaubt, so lange die Kreuzfahrtschiffe danach
+3 Wochen lang in Quarantäne selbständig überleben können zzgl. der evtl.en Zeit einer verlängerten Quarantäne.
+Das gilt auch und gerade für den Fall, dass an Bord eine Seuche wie Corona ausbricht oder ein anderweitiger
+medizinischer Notfall auftritt - also keine Hilfe von außen, keine Medikamente, keine Unterstützung, nichts.
+Wird doch Unterstützung notwendig, gilt vom Veranstalter/Eigner eine Schadensersatzpflicht
+von 1 Mio EUR pro Tag pro Teilnehmer der Unterstützung braucht, und zwar an die unterstütztende Organisation/Land.  
+Im Fall einer Seuche braucht jeder Teilnehmer Unterstützung, im Fall eines Herzinfarktes halt nur Betroffene.  
+Wird die Unterstützung nicht rechtzeitig angefordert, verdoppelt sich der Schadensersatz je Tag für jeden Tag,
+an dem die Unterstützung nicht angefordert wurde.  Im Zweifel gilt dabei der Tag,
+an dem die Quarantäne hätte begonnen werden müssen, also der Tag, an dem die Teilnehmer zusammenkamen.
+
+> Das ist jedenfalls meine Empfehlung.  Mit entsprechender Versicherung und medizinischer Betreuung können so
+> weiterhin Kreuzfahrten angeboten werden.  Allerdings halt ohne Landaufenthalte und mindestens 3 Wochen lang.
+> Und die Leute können nur dann von Bord, wenn kein Corona oder eine andere Seuche ausbrach.
+>
+> Aber das wissen die Leute ja dann alles vorher, können also hinterher nicht irgendwie überrascht tun.
+>
+> Wenn dann Menschen wegen mangelnder medizinischer Versorgung umkommen, wird gegen den Veranstalter
+> ein Prozess wegen Mordes eingeleitet.  Denn es handelt sich um Mord, er ist für die Situation verantwortlich
+> und hätte ja Unterstützung anfordern können.  Für die 1 Mio pro Tag zzgl. 2 Mio pro Tag die er zu spät reagiert.
+>
+> Das mit den 2 Mio dient dazu, dass die Versicherungen, die ja den Schaden zahlen müssen,
+> entsprechende Vorgaben bekommen um die Sache frühzeitig abzudecken.
+
+
 ## Großer gigantischer Mist, Bayern
 
 > IANAL!
