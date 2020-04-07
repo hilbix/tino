@@ -127,6 +127,11 @@ Das bedeutet nicht, dass wir die Zügel nicht etwas lockern dürfen.  Also:
   Der Mundschutz darf nur zum Essen abgenommen werden, in diesem Fall muss man sich aber alleine im Raum befinden,
   außer man befindet sich natürlich zuhause.
 
+- Arbeitgeber müssen ihren Angestellten ausreichend Mundschutz zur Verfügung stellen.  
+  Das gilt auch für den Arbeitsweg.  Im Zweifel also 3 Einmal-Mundschütze pro Tag (office, gehen, kommen nächster Tag).  
+  Arbeitnehmer, für die kein ausreichender Mundschutz zur Verfügung steht, müssen Homeoffice machen oder werden
+  unter Bezahlung der vollen Bezüge so lange freigestellt bis ausreichend Mundschutz verfügbar ist.
+
 - Alle Geschäfte dürfen wieder öffnen.  Allerdings gilt:  
   - So wenig Läden wie möglich betreten
   - Einen Laden möglichst nicht öfter als 1 Mal pro Woche aufsuchen
