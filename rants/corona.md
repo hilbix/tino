@@ -121,7 +121,11 @@ Das bedeutet nicht, dass wir die Zügel nicht etwas lockern dürfen.  Also:
   Besuch ist nur noch in umfassender Schutzbekleidung zulässig.
 
 - Generelle Mundschutzpflicht.  
-  Eigentlich falsch, das ist ja kein Mundschutz/Atemschutz sondern Fremdschutzpflicht.
+  Eigentlich falsch, das ist ja kein Mundschutz/Atemschutz sondern Fremdschutzpflicht.  
+  Diese gilt überall, außer zuhause.  Also auch auf der Arbeit oder im öffentlichen Bereich oder öffentlicher Toilette.  
+  Kein nachschminken der Lippen auf öffentlichen Toiletten!  
+  Der Mundschutz darf nur zum Essen abgenommen werden, in diesem Fall muss man sich aber alleine im Raum befinden,
+  außer man befindet sich natürlich zuhause.
 
 - Alle Geschäfte dürfen wieder öffnen.  Allerdings gilt:  
   - So wenig Läden wie möglich betreten
