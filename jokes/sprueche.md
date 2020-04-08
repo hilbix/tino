@@ -47,3 +47,5 @@
 - 2020-01-27 [in Abwesenheit eines Maxwellschen Dämons entkommt nichts dem 2. Fundamentalsatz der Thermodynamik](https://www.heise.de/forum/heise-Security/News-Kommentare/Emotet-IT-Totalschaden-beim-Kammergericht-Berlin/Dagegen/posting-36011734/show/)
 
 - 2020-03-10 Das mag jetzt etwas infantil klingen, aber am Anfang jeder Politik steht immer ein Arsch. (Po.....)
+
+- 2020-04-07 Die Demokratie erholt sich wieder.  Ein Toter nicht.  (Zum Thema COVID19 und Einschränkung der Grundrechte aufgrund keines Gesetzes.)
