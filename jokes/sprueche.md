@@ -49,3 +49,5 @@
 - 2020-03-10 Das mag jetzt etwas infantil klingen, aber am Anfang jeder Politik steht immer ein Arsch. (Po.....)
 
 - 2020-04-07 Die Demokratie erholt sich wieder.  Ein Toter nicht.  (Zum Thema COVID19 und Einschränkung der Grundrechte aufgrund keines Gesetzes.)
+
+- 2020-04-09 [I dislike `Z` because I'm German.](https://stackoverflow.com/a/4809893/490291)
