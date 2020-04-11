@@ -7,14 +7,80 @@ EOF
 
 rm -f /var/lib/apt/lists/partial/*
 
+find /etc -name '*.*-dist'
+
+echo
+# Do the interactive thing right at the beginning:
+#
+# Ask for permission to purge no more needed packages.
+# Config is kept by etckeeper, so there really is no need to keep any clutter.
+
+p=()
+IFS=$'\n' read -rd '' -a p < <(apt-get -s autoremove | sed -n 's/^Remv \(.*\) \[.*$/\1/p')
+[ 0 = "${#p[@]}" ] || apt-get purge "${p[@]}"
+
+
+# Now do the real update tasks
+
 apt-get autoclean
 apt-get update
 apt-get upgrade
 
+# Finally list of processes still accessing old files
+# You can use "needrestart", however this helps, too.
+
+declare -A list	# must be outside function due to bash BUG: delare -g -A list
+delmaps()
+{
+local b x ok
+
+list=()
+
+ok=false
+while read -r b b x x x x
+do
+	# ignore shared memory segments
+	case "$b" in
+	???s)	continue;;
+	esac
+
+	# ignore some other places
+	x="${x%' (deleted)'}"
+	case "$x" in
+#	(*.tmp)	continue;;
+#	(/dev/*)	continue;;
+#	(/tmp/*)	continue;;
+	(/etc/*)	continue;;
+	(/home/*)	continue;;
+#	(/run/user/*)	continue;;
+	(*/icon-theme.cache)	continue;;
+	(/var/lib/lightdm/.config/*)	continue;;
+	(*/schemas/gschemas.compiled)	continue;;
+
+# following are relevant:
+
+	(*/lib/*)	;;
+	(*)		list["$x"]=1;;
+	esac
+	ok=:
+done < <(fgrep -s '(deleted)' "$1/maps")
+
+$ok
+}
+
+echo
+
 for a in /proc/[0-9]*
 do
-	grep -v /dev/zero "$a/maps" | fgrep -v /tmp/ | fgrep -q deleted &&
-	echo "${a#/proc/} $(basename "$(readlink -m "$a/exe")")"
+	delmaps "$a" || continue
+	printf '%q %q' "${a#/proc/}" "$(basename -- "$(readlink -m -- "$a/exe")")"
+	[ 0 = "${#list[@]}" ] || printf ' %q' "${!list[@]}"
+	printf '\n'
 done | sort -k2
 
+echo
+
+# And: find still present dist-data
+
 find /etc -name '*.*-dist'
+
