@@ -51,3 +51,5 @@
 - 2020-04-07 Die Demokratie erholt sich wieder.  Ein Toter nicht.  (Zum Thema COVID19 und Einschränkung der Grundrechte aufgrund keines Gesetzes.)
 
 - 2020-04-09 [I dislike `Z` because I'm German.](https://stackoverflow.com/a/4809893/490291)
+
+- 2020-04-15 [Alle wichtigen Änderungen in der Menschheitsgeschichte sind seit jeher mit Massengräbern verbunden](https://github.com/hilbix/tino/blame/77fa93658ef3312c2222856e34c98632f252f66d/klimaluege/handlungsl%C3%BCge.md#L335)
