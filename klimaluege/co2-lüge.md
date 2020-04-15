@@ -242,6 +242,7 @@ Die Behauptung, es gäbe einen menschengemachten CO2-Anstieg, ist eine Lüge.
 Richtig ist, dass
 
 - es einen CO2-Anstieg gibt.
+- es einen Klimawandel gibt.
 - wir mit dessen Folgen leben müssen.
 - wir nicht tatenlos zusehen dürfen.
 
