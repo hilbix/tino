@@ -603,8 +603,17 @@ Indes bei Coolar:  Totale Fehlanzeige.  So kann ich gar nichts nachvollziehen.  
 > Die Aussage aber, dass man mit Verdunstung ca. 10 Grad gegenüber der Umgebung abkühlen kann,
 > das Prinzip ist schon lange bekannt.  [Nicht erst seit dem Tonkrugkühler](https://de.wikipedia.org/wiki/Tonkrugk%C3%BChler).
 >
-> Ob Evaptainers real ist, das kann ich nicht beurteilen, denn von denen hat man auch schon fast 3 Jahre nix mehr gehört ..
-
+> Ob Evaptainers real ist, das kann ich nicht beurteilen, denn von denen hat man auch schon fast 3 Jahre nix mehr gehört,
+> aber zumindest ist die Umsetzung des Ganzen in ein funktionierendes vertriebsfertiges Produkt absolut nachvollziehbar:
+>
+> - Es gibt leichte und flexible stark wärmeisolierende Materialien (auch wenn diese sehr teuer sind)
+> - Es gibt extrem wasseraufnahmefähige Materialien
+> - Und das Ganze muss man nur in eine gefällige Form bringen
+> - Prototypen lassen sich daraus mit etwas Handarbeit und einem günstigen 3D-Drucker herstellen.
+> - Und wie man so etwas dann hochskaliert, dafür gibt es Business-Angels.
+>
+> Das einzige, was ich hier nicht sehe sind schnell realisierbare hohe Absatzmargen bei äußerst geringem Risiko,
+> weshalb sich bisher vermutlich auch noch niemand gefunden hat, das zu finanzieren.
 
 # Hinweis
 
