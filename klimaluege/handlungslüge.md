@@ -265,10 +265,14 @@ Ungefähr aber so ergeht es uns mit der Erde:
 Wir haben vor langem schon einen falschen Kurs eingeschlagen.  Und diesen so nachhaltig festzementiert,
 dass wir einfach nimmer schnell mal aus der Spur hüpfen können.
 
+> Ich schrieb das vor Corona!
+
 Aus diesem Grund wäre es wichtig, uns darauf zu konzentrieren, in Zukunft den richtigen Weg einzuschlagen.
 Aber nur im Rahmen des Möglichen!
 
 Dazu müssen wir die Möglichkeiten überhaupt mal erkennen.  Reale Möglichkeiten, frei von Wunschdenken!
+
+> Und Corona hat gezeigt, dass auch politisch deutlich mehr möglich ist als jeder vorher dachte!
 
 Wenn wir jetzt eine Empfehlung zum Handeln aussprechen, dann verdeckt das die Tatsache,
 dass wir eigentlich gar nicht wissen, was wir tun müssen.  Denn wir wissen nicht einmal alles,
@@ -276,6 +280,8 @@ was wir tun können!  Es ist sogar noch schlimmer, von dem, was wir wissen, dass
 wissen wir nicht einmal, ob es irgendeinen Sinn hat, dies zu tun!
 
 Genau deshalb belügen wir uns selbst.  Nämlich dass wir Handeln können!
+
+> Gilt auch und gerade für Corona!  Corona hat uns zum Handeln gezwungen.  Wir haben nicht agiert, sondern lediglich reagiert.
 
 wichtiger ist deshalb, dass wir uns nicht weiterhin selbst belügen.  Und aufgrund von Lügen handeln.
 Dann wird die Handlung nämlich selbst zur Lüge.  Zur Lüge, mit der wir uns selbst belügen.
@@ -293,6 +299,10 @@ Dann wird die Handlung nämlich selbst zur Lüge.  Zur Lüge, mit der wir uns se
 - Aber belügen uns bitte nimmer selbst!
 
 - Und tun wir das, ohne den Ast abzusägen, auf dem wir sitzen.
+
+> In diesem Sinne muss man Corona geradezu ein Heilmittel betrachten.
+>
+> Denn durch den Shutdown wurden sehr viele Fragen dazu urplötzlich quasi von selbst beantwortet.
 
 Es hat keinen Sinn, unsere Wirtschaft in Klump zu hauen, nur weil sie zuviel CO2 ausstößt.
 Genausowenig wie es nicht sinnvoll ist, den Autofahrer zu gängeln, nur weil die Luftgrenzwerte
@@ -314,3 +324,12 @@ Hört bitte damit auf, zu lügen, dass wir noch etwas tun können,
 und fangt an, ehrlich zu sagen, dass uns jetzt nur noch das Prinzip Hoffnung leitet.
 
 [Danke für die Beachtung aller Sicherheitsmaßnahmen](https://de.wikipedia.org/wiki/Dark_Star_(Film))
+
+> Leider reicht eine einmalige Pandemie wie Corona nicht aus.  Der Mensch lernt ja nicht.
+>
+> Aus diesem Grund brauchen wir so etwas wie Corona in ständig widerkehrender Weise.
+> Damit der Mensch ständig auf das richtige Verhalten trainiert bleibt.
+>
+> Ja, das hört sich ungeheuerlich an.  Ist es auch.  Aber das ist die Natur der Menschen:
+>
+> Alle wichtigen Änderungen in der Menschheitsgeschichte sind seit jeher mit Massengräbern verbunden.
