@@ -451,6 +451,160 @@ Denn am Anfang stehen die von mir beschriebenen Berechnungen.
 
 **Und dieser Anfang, der fehlt!**
 
+# Update 2020-04-15
+
+http://coolar.co/news/coolar-field-test-on-tenerife-successful/
+
+Heute habe ich mal wieder nachgesehen und weiteres wunderhübsches Marketing-Blah-Blah auf deren Webseite gefunden.
+
+Ein "erfolgreicher" Test auf Teneriffa.  Und dazu ein Bild, das mir die Tränen in die Augen treibt.  Vor zynischem Lachen.
+
+> Komisch komisch.  Irgendwie hören sich diese tollen Ankündigungen auf deren Webseite immer so an wie die Ankündigungen
+> von Elon Musk hinsichtlich Tesla.  Elon Musk, das Phänomen, das es wohl als erster Mensch geschafft hat,
+> der nicht einmal etwas sagen muss um Lügen zu verbreiten, es reicht, dass er atmet.
+>
+> Allerdings dürfte an den Lügen von Elon deutlich mehr dran sein, als an dem, was ich bei coolar.de lese.
+
+Also, was ist da zu lesen?  Sie haben bei über 35 Grad einen Kühlschrank rein mit Solarthermie betrieben,
+der seinen Inhalt unter 8 Grad hielt.
+
+Dass das geht, das bezweifle ich ja nicht.  Doch wozu brauche ich da eigentlich Solarthermie?
+
+Ich habe einen moderne Tiefkühlschrank im Keller.  Der hält ohne Strom seine -18 Grad weit über 1 Tag lang!
+Ich habe ihn sogar so eingestellt, dass er, ohne Strom, vermutlich 1 Woche durchhält!
+
+Und was lesen wir auf der Seite bei coolar.de?  Nix von Relevanz.  Alle wichtigen Daten, die man braucht,
+um so eine Meldung ernst zu nehmen, die fehlen selbstverständlich:
+
+- Anfangstemperatur des Kühlschranks, also bevor er in Betrieb genommen wurde
+- Temperaturverlauf über den Tag
+- Thermische Kühlleistung die erreicht wurde
+
+Und es gibt davon sogar ein Bild.  Wait, what?  Ein Bild?  Nur eines?  Keine Bilderstrecke vom Aufbau usw.?
+Oder ein Funktionsdiagramm?  Oder ein Video?
+
+Oh, doch, auf Youtube [findet sich dann ein Video](https://www.youtube.com/watch?v=8gbbL2XVpQY) das dann sehr enttäuscht.
+
+Das Video zeigt nichts wirklich Neues, außer dieser kleinen Toploader-Gefriertruhe,
+an die einige offensichtlich aus einem normalen Baumarkt stammenden Teile provisorisch angeflanscht
+und das ganze dann mit angetackerten Blechen verkleidet wurde.
+
+Für eine Unternehmung, das schon 5 Jahre rumbastelt, echt enttäuschend.
+
+> Wie ich schrieb, jeder unprofessionelle Filmset baut da bessere Props.
+> Gut, Props auf einem Filmset müssen nicht funktionieren.
+> Aber von dem was ich sehe und höre kann ich nicht entnehmen,
+> ob es nur funktioniert oder so funktioniert, wie es funktionieren muss?
+>
+> Sind da bei [0:50](https://youtu.be/8gbbL2XVpQY?t=50) Stromkabel zu sehen?
+> Also nach Niederdruckschläuchen sieht mir das einfach nicht aus ..
+> (Im Kühlteil von Coolar muss Niederdruck herrschen, im Kühlfach hingegen ist Normaldruck,
+> sonst kann ich ja nix reinlegen.)
+>
+> Sofern er wirklich [elektroniklos arbeitet](https://youtu.be/8gbbL2XVpQY?t=24) wie behauptet,
+> müssen das wohl Messkabel und keine Steuerkabel sein.  Selten habe ich derart dicke Messkabel gesehen!
+> USB getriebene Temperaturfühler oder magnetgetriebene Schalter sehen für mich jedenfalls anders aus ..
+
+Interessant ist, dass ich bisher so kleine Toploader-Gefriertruhen nicht auf dem Schirm hatte!
+
+Also habe ich gleich mal nach so etwas mit A+++ gesucht - und wurde nicht fündig.
+Was ich aber fand war die ungefähre Wandstärke, die so ein Gerät haben muss.
+Und welch wunder - das von Coolar hat augenscheinlich eine viel zu geringe Wandstärke.
+
+Bei "nachhaltig" muss ich aber immer unweigerlich an "maximal" denken.
+Warum setzten die bei ihrem Prototypen denn nicht auf bessere Dämmung?
+Was soll ich bitte mit den Messdaten anfangen, wenn ich weiß,
+dass ich nicht die optimale Technik eingesetzt habe?
+
+Für ein reines "ja, das geht" reicht das zwar vielleicht aus, aber heute müssen wir doch schon deutlich weiter sein,
+es geht nicht mehr um "das geht", sondern "was können wir wirklich erreichen"!
+Bekanntermaßen untaugliche Basistechnik bringt mich da keinen Mikrometer weiter!
+
+Das ist nur dann logisch, wenn es nicht darum geht sondern um reines Blendwerk.
+
+> In Zeiten von Corona muss man die zusätzlichen Vorräte für die mögliche Quarantänemaßnahme
+> von über 2 Wochen ja irgendwo lagern.  Da käme so ein zusätzliches 90l-Gefrierteil gerade recht.
+
+Apropos Blendwerk.  Gucken wir mal auf das Bild.  Na, fällt es nur mir auf?
+
+Der Kühlschrank steht in einem in Folie umgebenen Gestell.
+
+Worauf ich raus will?  Na, wie öffnet man einen Kühlschrank, der nicht zugänglich ist?
+
+Will mir also hier jemand ernsthaft erklären, ein Test sei erfolgreich, wenn man das Gerät während des Tests gar nie geöffnet wurde?  Sprich, da wurden keine Dinge reingelegt und entnommen und runtergekühlt?  Das Teil hat also nur die Temperatur unter 8 Grad halten müssen?  Bei gerade mal 35 Grad Umgebungstemperatur?
+
+Also das schafft mein Gefrierschrank über 1 Woche lang ohne Stromzufuhr.
+
+Sprich:
+
+Alles, aber auch wirklich alles, was ich von diesem "erfolgreichen" Test zu sehen bekomme,
+ergibt hinten und vorne keinen Sinn.  Ein erfolgreicher Test sieht für mich so aus:
+
+- Das Gerät wird in einer Hütte aufgestellt
+- In dieser herrschen 45 Grad am Tag und mindestens 20 Grad in der Nacht.
+- Ich lasse das Gerät seine Innentemperatur auf 5 Grad abkühlen und notiere die Zeit
+- Dann lege ich da 10 kg Zeug rein das 8 Grad hat
+- Dann lasse ich das Ding diese auf 5 Grad abkühlen und notiere die Zeit
+- Jede Stunde tagsüber öffne und schließe ich die Klappe einmal für 10s
+- Jedes Mal lege ich 100ml Flüssigkeit mit 37 Grad rein (das stellt Urinproben nach)
+- Dieser Test geht über 4 Wochen
+- Und in diesem 4 Wochen müssen mindestens 7 bewölkte schwüle Tage liegen
+
+Wenn die Kombination diesen Test übersteht,
+dann sind meine Bedenken immer noch lange nicht ausgeräumt,
+aber dann könnte man anfangen(!) zu Reden.
+
+Wenn dieser Test zu hart klingt, hier ein anderes Szenario:
+
+> Schon vor weit über 1000 Jahren hatten Menschen entdeckt, dass man aus Lehmziegeln ein
+> hohes Gebäude so errichten konnte, dass man 8 Grad im inneren hat,
+> wenn man die Wände feucht hielt.  Ich nenne das Ding mal Kühlbau, fand aber leider
+> keinerlei Link mehr dazu.  (Habe das in irgendeinem Youtube-Video mal einen Bericht darüber gesehen.)
+
+- Man stellt das den Kühlschrank in einen Kühlbau.
+- In diesem muss der Kühlschrank dann die Inhalte auf max. 5 Grad halten
+- Und zwar bei täglicher mehrfacher Beanspruchung des Kühlschranks
+- und wöchtentlichem Komplettaustausch des Inhalts
+- über 1 Jahr lang.
+
+Solch einen Kühlbau, also etwas, das 8 Grad erreicht, kann man so gut wie überall auf der Erde erreichen.
+Entweder geht man in die Tiefe wo der Erdboden konstant 8 Grad hat, oder man errichtet eben einen solchen Kühlbau.
+
+Der Kühlschrank von Coolar ist dann der Teil, mit dem man auf die 4 Grad kommt.
+Ich vereinfache den Test indem ich max. 5 Grad zulasse.
+
+Die Kühlung muss ohne Eingriff des Menschen (d. h. unabhängig von Entnahmen und Einlegen)
+erfolgen können.  Was ich außerdem zulasse ist, dass alles,
+was eingelegt ist, bereits vorher auf die dort vorherrschenden 8 Grad heruntergekühlt wurde
+(z. B. indem man sie entsprechend verpackt in einem dort befindlichen Wasserbecken eintaucht
+und so schnell auf die Umgebungstemperatur herunterkühlt.)
+
+Was NICHT passieren darf ist, dass der Kühlschrank durch seinen Wärmetauscher
+(im Bild ist dieser Heizkörper gut zu sehen) die Innentemperatur des Kühlbaus hochtreibt,
+denn die Kühlleistung des Kühlbaus wird vollständig weiter benötigt.
+Die Hitze muss also irgendwo außen bezogen und abgegeben werden.
+
+Das jedenfalls wäre, was ich als Hinweis, dass das Konzept überhaupt funktioniert,
+akzeptieren würde.  Allerdings natürlich nur für den Anfang.
+
+Jeder Kühlschrank, den ich im Handel kaufe, hat eine Kühlleistung.
+Diese kann gerne in Watt (Joule/Zeit) angegeben werden.
+
+Bei Coolar würde ich eine entsprechende Beispielsrechnung bei einer bestimmten
+mittleren Sonneneinstrahlung erwarten.  Einmal bei klarem und einmal bei bedecktem Himmel.
+
+Das alles ist keine Raketenwissenschaft.  Etwas, das man als Ingenieur mit der Zeit, in der man sich mit einem solchen Thema intensiv beschäftigt, unweigerlich mal zusammengetragen haben muss.  Etwas, von dem ich erwarte, dass es ein innovatives Startup veröffentlicht.
+
+Indes bei Coolar:  Totale Fehlanzeige.  So kann ich gar nichts nachvollziehen.  So kann ich nur darauf vertrauen, was ich finden und überschlagsweise berechnen kann.  Und dass ist, **dass das alles sehr wahrscheinlich thermodynamischer Unsinn ist**.  Ich lasse mich mit klaren Zahlen und Fakten gerne vom Gegenteil überzeugen, so lange das für mich keine Kosten verursacht und ich diese Fakten auch physikalisch-mathematisch nachvollziehen kann.
+
+> Um nicht nur negativ rüberzukommen: http://www.evaptainers.com/
+>
+> Was die schreiben scheint alles wahr zu sein.  Allerdings kämpfen die auch mit einem fertigen Produkt.
+> Die Aussage aber, dass man mit Verdunstung ca. 10 Grad gegenüber der Umgebung abkühlen kann,
+> das Prinzip ist schon lange bekannt.  [Nicht erst seit dem Tonkrugkühler](https://de.wikipedia.org/wiki/Tonkrugk%C3%BChler).
+>
+> Ob Evaptainers real ist, das kann ich nicht beurteilen, denn von denen hat man auch schon fast 3 Jahre nix mehr gehört ..
+
 
 # Hinweis
 
