@@ -507,3 +507,5 @@ Aber eines muss eigentlich inzwischen der dümmste erkannt haben:
 So, wie wir die letzten 50 Jahre gewirtschaftet haben, so geht es einfach nicht weiter.
 
 In diesem Sinne:  **Veränderung tut gut, denn Veränderung tut not!**
+
+> Und dann kam Cornona und hat die Karten neu gemischt.  Hoffentlich spielen wir das Blatt ordentlich aus!
