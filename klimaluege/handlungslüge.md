@@ -65,7 +65,7 @@ Ein hoch auf die Grundrechte der Menschen!
   Hast Du den Geist eines Menschen versklavt, hast Du auch dessen Körper versklavt.
   
 - Banken und das liebe Kapital.  Menschen verschulden sich, und werden dann passenderweise auch als
-  Sklave der Banken bezeichnet.  Und genau das sind sie dann auch.
+  **Sklave der Banken** bezeichnet.  Und genau das sind sie dann auch.
   
   Aber dabei belassen wir es nicht einmal mehr.  Jeder Mensch muss über ein Bankkonto verfügen.
   Denn Sozialleistungen können wir uns nicht mehr auszahlen lassen.  Ja, richtig gelesen,
@@ -108,6 +108,46 @@ Ein hoch auf die Grundrechte der Menschen!
 
   Und dann behaupten wir, die Skaverei sei abgeschafft.  Lachhaft!
   So extrem kann sich nur der Mensch selbst belügen.
+
+**Notruf per Handy nur noch für absolut Reiche!**
+
+- Ja, richtig gelesen.  In Deutschland können, absolut gesehen, nur noch reiche Menschen den Notruf auf dem Handy wählen.
+  Sage nicht ich, das ist ein unbezwingbares Ergebnis der allgemeinen Logik.
+  
+- Wir haben eine Definition, was ein armer Mensch ist.  Und wir eine Definition, was Reichtum ist.
+  Der Rest ist Grundschulmathematik.
+  
+Also rechnen wir mal.  Es gibt da verschiedene Definitionen, ich nehme den Mainstream aus Wikipedia:
+  
+- [Die absolute Armutsgrenze liegt laut der Weltbank bei etwas unter 2€](https://de.wikipedia.org/wiki/Armutsgrenze#Absolute_Armutsgrenze)
+  
+- [Armut wird gem. WHO definiert als jemand, der 50% des Netto Äquivalenzeinkommens hat](https://de.wikipedia.org/wiki/Armutsgrenze#Relative_Armutsgrenzen)
+  
+- [Reich wird jemand definiert, der 300% mehr hat als normal](https://de.wikipedia.org/wiki/Reichtumsforschung)
+  
+- Damit liegt die absolute Reichtumsgrenze entprechend beim 8-fachen der absoluten Armutsgrenze, also bei mehr als 16€/Tag.
+  - Nur mal so zum Verständnis, dass wir hier wirklich in einem absolut reichen Land leben.  
+    Das entspricht einem Durchschnittseinkommen von 5840€ Netto im Jahr oder ca. 486€/Monat.  
+    Ja, ein 450-EUR-Jobber hierzulande ist, pauschalisiert über alle Menschen, geradezu absolut reich.
+
+- 486€/Monat berechnet auf 20 Arbeitstage ergibt ca. 24 EUR pro Arbeitstag.  Das sind 150 Minuten Arbeit bei Mindestlohn.
+
+- Den Notruf kann man hierzulande vom Handy aus nur noch mit einer aktiven SIM-Karte anrufen.
+
+- Bei den Preisen hierzulande, auch Prepaid wegen der Mindestaufladung pro Jahr, können sich das menschen, die nicht absolut reich sind, eigentlich nicht mehr leisten. 
+
+- q.e.d. den Notruf gibt es hierzulande nur noch für absolut Reiche.
+
+Sorry, auch wenn ihr es nicht wahrhaben wollt:
+
+**Diese Aussage mag unsinnig und äußerst unbequem anmuten,
+ist aber Ergebnis der allgemeinen gültigen Logik,
+welches man eben nicht wegdiskutieren kann.**
+
+Selbstverständlich wird das jeder anders sehen und jeder wird das wegdiskutieren.
+Der Mensch handelt eben nie logisch, sondern emotional, also aus einer rein egoistischen Motivation heraus.
+[Aber das ist ja nichts Neues](https://de.wikipedia.org/wiki/Egoismus#Definitionen)
+
 
 # Der Mensch belügt sich selbst
 
