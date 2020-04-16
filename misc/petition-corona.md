@@ -15,7 +15,7 @@ Bitte bleiben Sie dabei und stoppen Sie die massive Risikoerhöhung der Coronave
 Um das Anliegen verständlich zu formulieren bietet Ihr Kontaktforumular leider zu wenig Platz, weshalb ich es auf mein Blog
 ausgelagert habe:
 
-https://github.com/hilbix/tino/blob/master/misc/petition-corona.md
+github.com/hilbix/tino/blob/master/misc/petition-corona.md
 
 Mit freundlichen Grüßen und vielen Dank,
 
