@@ -137,7 +137,7 @@ Man gibt ihnen, was sie meinen kaufen zu müssen!
 Dasselbe hilft ebenfalls den vernünftig handelnden Personen, die lieber seltener einkaufen würden,
 dafür aber entsprechend größere Mengen.
 
-So kann man die Ausbreitungsgeschwindigeit von Corona sehr effektiv weiter beschränken!
+So kann man die Ausbreitungsgeschwindigkeit von Corona sehr effektiv weiter beschränken!
 
 Abgabenbeschränkungen fördern hingegen auf beiden Seiten das falsche Verhalten,
 also sowohl bei den vernünftig Handelnden wie besonders den unvernünftig Handelnden!
