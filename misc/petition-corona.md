@@ -81,12 +81,12 @@ Und das, wenn augenscheinlich ausreichende Mengen im Laden vorhanden sind!?!
 
 Und wie ist das denn mit den Flüchtlingsheimen?  Wie glücklich wäre Bayern darüber, wenn sich dort
 Corona explosionsartig verbreitet?  Und nur, weil die Leute dort gezwungen werden,
-reihenweise ausschzuwärmen und einzeln einzukaufen, statt dass wie bisher einzelne Mitbewohner
+reihenweise ausschzuwärmen und einzeln einzukaufen, statt dass wie bisher ein einzelner Mitbewohner
 für 20 Leute gleichzeitig einkauft?  Aber dieser bekommt dann nur 2 Dosen?
 
 Wie erklären Sie das einem Flüchtling?  Jemandem, der vielleicht noch gebrochen Deutsch spricht?
 Dessen Integration am Anfang steht und plötzlich vor der abstrusen Situation steht,
-dass genug Ware vorhanden wäre, aber just er das nicht mehr kaufen darf?
+dass genug Ware vorhanden wäre, aber subjektiv gesehen just er das nicht mehr kaufen darf?
 Und wie erklärt ihm das die aus Tschechien stammende Jungverkäuferin, die selbst nur gebrochen
 Deutsch spricht und gerade ihren ersten Tag hat nachdem sie wegen Corona eingestellt wurde?
 
