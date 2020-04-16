@@ -20,6 +20,7 @@ https://github.com/hilbix/tino/blob/master/misc/petition-corona.md
 Mit freundlichen Grüßen und vielen Dank,
 
 Valentin Hilbig
+
 ----------------------------------------------------------------------------
 
 Sehr geehrter Ministerpräsident,
