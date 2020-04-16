@@ -104,8 +104,8 @@ oder er akzeptiert die Meldung beim Ordnungsamt und kauft soviel ein,
 wie er meint zu brauchen.  Das Ordnungsamt kann diesen Einkauf dann bei Bedarf überprüfen.
 (Das hält die Schlange der Einkaufenden nur kurz auf, vermutlich kürzer als die entstehenden Diskussionen.)
 
-Und die Läden haben ebenfalls die Wahl, ob sie sich Abgabenbeschränkung antun und damit diese Meldepflicht,
-oder sich der eingebildeten Peinlichkeit leerer Regale auszusetzen weil etwas weggehamstert wurde.
+Und die Läden haben ebenfalls die Wahl, ob sie sich die Abgabenbeschränkung antun und damit diese Meldepflicht,
+oder sich weiter lieber der eingebildeten Peinlichkeit leerer Regale aussetzen, weil evtl. etwas weggehamstert wurde.
 
 Die Ausweise können durch das Ordnungsamt leicht korreliert werden (das geht in Heimarbeit)
 und man kann ggf. nachhaken, warum da jemand palettenweise Klopapier,
