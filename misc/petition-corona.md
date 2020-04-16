@@ -101,7 +101,7 @@ Dann hat jeder die freie Wahl:
 
 Entweder er kauft soviel ein, wie der Laden verkaufen will,
 oder er akzeptiert die Meldung beim Ordnungsamt und kauft soviel ein,
-wie er meint zu brauchen.  Das Ordnungsamt kann diesen Einkauf dann bei Bedarf überrprüfen.
+wie er meint zu brauchen.  Das Ordnungsamt kann diesen Einkauf dann bei Bedarf überprüfen.
 (Das hält die Schlange der Einkaufenden nur kurz auf, vermutlich kürzer als die entstehenden Diskussionen.)
 
 Und die Läden haben ebenfalls die Wahl, ob sie sich Abgabenbeschränkung antun und damit diese Meldepflicht,
