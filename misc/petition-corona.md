@@ -2,7 +2,7 @@ Da das [Kontaktformular der Staatskanzlei](https://www.bayern.de/staatsregierung
 nicht ausreichend Platz hat um ein Anliegen vollständig und verständlich zu formulieren, habe ich den eigentlichen Text hierher
 ausgelagert und in meiner Nachricht auf diesen Text hier verwiesen.
 
-> Fun Fact:  Das Formular behauptet, man kann keine [Links](https://de.wikipedia.org/wiki/Link) eingeben.  Habe ich nicht gemacht.  Das, was ich eingab, nennt sich [URL](https://de.wikipedia.org/wiki/Uniform_Resource_Locator).  Das musste ich zwar ohne `https://` tun, sonst meldete das Formular einen Captcha-Fehler (WTF?), aber so wie unten ging es dann.
+> Fun Fact:  Das Formular behauptet, man kann keine [Links](https://de.wikipedia.org/wiki/Link) eingeben.  Habe ich nicht gemacht.  Das, was ich eingab, nennt sich [URL](https://de.wikipedia.org/wiki/Uniform_Resource_Locator).  Das musste ich zwar ohne `https://` tun, sonst meldete das Formular einen Captcha-Fehler (WTF?), aber so wie unten ging es dann.  Überhaupt:  Wie kann man einen Link in ein reines Textformular eingeben, das also ohne Markup ist?
 
 ----------------------------------------------------------------------------
 
