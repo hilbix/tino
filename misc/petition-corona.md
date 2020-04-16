@@ -90,7 +90,7 @@ dass genug Ware vorhanden wäre, aber subjektiv gesehen just er das nicht mehr k
 Und wie erklärt ihm das die aus Tschechien stammende Jungverkäuferin, die selbst nur gebrochen
 Deutsch spricht und gerade ihren ersten Tag hat nachdem sie wegen Corona eingestellt wurde?
 
-Diesem Totschlagargument (im schrecklich wahren Sinne) "Hamsterkäufe" darf nicht mehr weiter der Weg
+Diesem (im schrecklich wahren Sinne) Totschlagargument "Hamsterkäufe" darf nicht mehr weiter der Weg
 geebnet werden!  Es kann und darf nicht sein, dass die Durchseuchung der Gemeinschaft gefördert wird,
 nur weil es einige unvernünftige Hamsternde gibt!
 
