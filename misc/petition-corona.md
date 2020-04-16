@@ -138,6 +138,7 @@ Dasselbe hilft ebenfalls den vernünftig handelnden Personen, die lieber seltene
 dafür aber entsprechend größere Mengen.
 
 So kann man die Ausbreitungsgeschwindigkeit von Corona sehr effektiv weiter beschränken!
+(Das könnte evtl. sogar die Menge der Kontakte durch die Teilöffnung von Schulen kompensieren.)
 
 Abgabenbeschränkungen fördern hingegen auf beiden Seiten das falsche Verhalten,
 also sowohl bei den vernünftig Handelnden wie besonders den unvernünftig Handelnden!
