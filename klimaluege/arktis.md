@@ -48,7 +48,7 @@ wir könnten daran auch nur irgendetwas ändern.
 - Nein, ich sage nicht, dass es heißer wird, oder dass es kälter wird.  Ich habe keine Ahnung was kommt,
   denn ich bin kein Klimaforscher.  Alle seriösen Klimaforscher werden genau das zugeben, nämlich dass sie aus der
   Erforschung des bisherhigen Klimas nur sehr unzulängliche Zukunftsprognosen erstellen können.
-- Aber ich sage, deutlich und immer wieder, in dieser Klimadebatte schon lange nimmer debattiert.
+- Aber ich sage, deutlich und immer wieder, in dieser Klimadebatte wird schon lange nimmer debattiert.
   Stattdessen wird inzwischen flächendeckend gelogen, dass sich die Balken biegen!
   Und alles, was aus dieser Prämisse herausragt, das wird abgesägt, versenkt, diskreditiert oder umgebracht.
   Warum?  Ich nehme an, so ist der Mensch.  Weiter gucken als bis zum eigenen Tellerrand, vollkommen unmöglich.
