@@ -38,28 +38,7 @@ Preparation:  Check that you can access Machine X from Machine D:
     machine-x$ 
 
 
-## `x11vnc` on the remote machine
-
-On Machine X create an executable script `bin/ssh2vnc.sh`:
-
-```
-machine-d$ ssh machine-x
-machine-x$ mkdir ~/bin
-machine-x$ cat > ~/bin/ssh2vnc.sh <<'EOF'
-exec x11vnc -inetd -ncache 10 -ncache_cr -display :0 2>>~/.ssh2vnc.log
-EOF
-machine-x$ chmod +x ~/bin/ssh2vnc.sh
-machine-x$ exit
-machine-d$ 
-```
-
-This launches `x11vnc` directly as the user and uses the user's X-Credentials.
-
-> So this can be considered secure, as nobody else is able to do so,
-> except the user and people, who can act as the user already.
-
-
-## RFB connection from local machine to remote using `ssh`
+## `x11vnc` connection from local machine to remote using `ssh`
 
 On Machine D create an SSH-Wrapper to Machine X in your `~/.ssh/config` file:
 
@@ -68,10 +47,17 @@ Host vnc-x
         Hostname machine-x
 #       User <your.user>
 #       ProxyCommand ssh jumper -W %h:%p
-        RemoteCommand bin/ssh2vnc.sh
+        RemoteCommand exec x11vnc -inetd -ncache 10 -ncache_cr -display :0 2>>~/.ssh2vnc.log
         ForwardAgent yes
         Compression yes
 ```
+
+This `ssh`-connection directly launches `x11vnc` as the user and uses the user's X-Credentials.
+(Note that the `.ssh2vnc.log` file can be found on Machine X.)
+
+> So this can be considered secure, as nobody else is able to do so,
+> except the user and people, who can act as the user already.
+
 
 Now test, that this connection works, interrupt it with Ctrl+C (`^C` below):
 
