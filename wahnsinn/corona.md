@@ -67,3 +67,172 @@ Die Demokratie erholt sich wieder. Ein Toter nicht.  Die Kurve in Italien ist fa
 
 > Kriese schreibt sich bekanntlich Krise.  Und nein, die Tippsfehler korrigiere ich mal nicht.
 > In diesem Sinne frohe Ostern!
+
+# 2020-04-28
+
+Deutschland lockert die Ausgangsbeschränkung.
+
+**Das ist Wahnsinn.**
+
+Einige Kleinigkeiten wurden verbessert, aber insgesamt sind wir auf einem deutlich schlechteren Kurs as früher.
+
+**Flatten the Curve reicht nicht!**
+
+Ja, wir hier in Deutschland gehören zu den glücklicheren Ländern in Sachen Corona.  Das ist einerseits dem reinen Zufall und außerdem dem deutschen Wesen geschuldet.  Nicht von ungefähr sitzen hierzulande die Betonköpfe in der Politik.  Nicht von ungefähr haben wir hier gleich mehrere Institute die sich mit Infektionskrankheiten, Viren und Pandemien hervorragend auskennen.  Nicht von ungefähr ist die Gesundheitsversorgung in Deutschland immer noch so am Rande dessen, was minimal erforderlich ist, und wurde nicht darüber hinaus ausgedünnt, so wie in den ärmeren europäischen Ländern wie Italien.
+
+Und in Deutschland ist die Infektionsrate derzeit dank des Lockdowns bei 0,3 angekommen und wird laut Schätzungen auf 0,4 steigen.  Grund zur Freude?
+
+Mitnichten!  Diese Infektionsrate ist viel zu hoch als dass wir den Lockdown weiter öffenen können.  Denn bisher traf es mehrheitlich junge Menschen.  Auch von denen sind einige gestorben, [auch ohne Vorerkrankung](https://www.lokalkompass.de/essen-sued/c-lk-gemeinschaft/ein-26-jaehriger-ohne-vorerkrankunen-stirbt-an-corona_a1357017).
+
+Aber auch in Zukunft wird es mehrheitlich ältere Menschen treffen.  Wie z. B. [Conway](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens).
+
+**Wenn wir den Lockdown lockern töten wir unsere Alten und Schwachen!**  Wollen wir das?  Wollen wir das wirklich?
+
+Beim RKI ist folgendes zu lesen:
+
+> In einer Studie wurde – basierend auf 40 Infizierenden/Infizierten-Paaren und unter der Annahme von einem R0 = 2 mathematisch modelliert, dass sich dieses R0 aufteilt auf folgende Beiträge verschiedener Infektionswege: (1) asymptomatische Übertragung: R0 = 0,1 + (2) Übertragung über die Umwelt (z. B. Viren-kontaminierte Oberflächen): R0 = 0,2 + (3) symptomatische Übertragungen: R0 = 0,8 + (4) präsymptomatische Übertragungen: R0 = 0,9. Danach scheinen präsymptomatische Übertragungen eine ganz wesentliche Rolle für die Ausbreitung zu spielen (86). Das hat bedeutende Implikationen für die Analyse des epidemischen Geschehens und der damit verbundene Kontrollmaßnahmen zur Eindämmung der Epidemie. Wenn asymptomatische und präsymptomatische Übertragungen zusammen ein R0 von 1 erreichen, reichen diese beiden schwer identifizierbaren Transmissionswege (ohne Maßnahmen) allein aus, um die Epidemie fortzuführen.
+
+Habt ihr verstanden, was das heißt?  Irgendwer?  Um es hervorzuheben:  **präsymptomatische Übertragungen: R0 = 0,9**
+
+Habt ihr es jetzt verstanden?  Immer noch nicht?  Dann erkläre ich es mal (und nein, ich bin kein Mediziner):
+
+Eine präsymptomatische Übertragungen bedeutet, dass der Großteil der Ansteckung passiert, bevor jemand irgendwelche
+Symptome zeigt.  Bevor jemand überhaupt bemerken kann, dass er infiziert wurde.  Bevor irgendwer irgendetwas wissen kann.
+
+(Mai Thi Nguyen-Kim)[https://youtu.be/3z0gnXgK8Do] spricht davon, dass wir von der Mitigation-Phase wieder zurück in die Containment-Phase kommen.
+
+Ich möchte das mal etwas verständlicher ausdrücken:  Das bedeutet, dass wir aus der Phase des galloppierenden Wahnsinns in die Phase des **kontrollierten Wahnsinns** zurückkehren.
+
+Denn R0(präsymptomatisch) = 0,9 bedeutet genau das:  Wahnsinn.
+
+**Denn die Menschen stecken zum Großteil andere Menschen an, ohne es überhaupt wissen zu können.  Ein derartiges Risiko wissentlich in Kauf zu nehmen, entspricht der Kantschen Definition des Wahnsinns!**
+
+Gehen wir davon aus, dass bei nur 20% der Menschen Corona asymptomatisch verläuft, sie also während ihrer 20-30 Tage andauernden Krankheit ständig andere Menschen infizizieren können ohne es zu wissen, dann funktioniert Containment nicht.
+
+> - Wir wissen derzeit nicht, bei wievielen Menschen Corona asymptomatisch verläuft.
+> - Wir wissen derzeit nicht, welche Ansteckungswege bei Corona ausgeschlossen werden können.
+> - Wir wissen das ja nicht einmal bei AIDS, einer der wohl in diesem Bereich am besten untersuchten Krankheit!
+
+**Bei Corona sind wir zum derzeitigen Stand ausschließlich auf Spekulationen angewiesen.**  Jede Aussage, egal von wem, kann genauso richtig wie falsch sein.  **Deshalb müssen wir alle Aussagen, egal wie unglaubwürdig, in Betracht ziehen** und gemäß der notwendigen Vorsicht entsprechend handeln!
+
+Es hilft auch absolut nicht dagegen zu wettern, ob oder warum oder wodurch entsprechende Informationen zu Corona nicht existieren.  Also selbst wenn man eine Verschwörung in der einen oder anderen Richtung annimmt, also von Allmachtsphantasien der Regierung bis hin zu einem geheimen WDP von China, von irgendwelchen Außerirdischen die die Welt sterilisieren wollen oder sonst etwas.  Alles egal.  Tatsache ist, wir haben die Informationen nicht.  **Alles ist reine Spekulation.**
+
+Alles, was wir lediglich haben, das sind die [gemeldeten Fallzahlen](https://www.worldometers.info/coronavirus/).  Und diese Zahlen alleine sprechen für sich.  **Sie rechtfertigen jegliche Maßnahme!**  Und dazu gehören selbst vorübergehende unrechtsmäßige Eingriffe in die Grundrechte, [wie gerade ein Gericht geurteilt hat](https://www.t-online.de/finanzen/boerse/news/id_87776792/bayern-verwaltungsgericht-kippt-800-quadratmeter-regel-fuer-geschaefte.html):
+
+> Die Richter sehen das wegen der Ungleichbehandlung mit kleineren Läden als Verstoß gegen den Gleichheitsgrundsatz des Grundgesetzes.
+> Das Gericht setzte die Vorschrift wegen der Pandemie-Notlage "ausnahmsweise" nicht außer Kraft
+
+Nochmals zum Verständnis:
+
+- Es liegt ein klarer, harter und unmissverständlicher Verfassungsbruch vor.
+- Trotzdem wird die Maßnahme nicht ausgesetzt.
+
+> Was die Bayerische Staatsregierung deswegen gerade tut ist absolut unverhältnismäßig:
+>
+> "Größere Geschäfte können die Verkaufsflächen auf 800qm verkleinern."  So oder ähnlich tönt es.
+>
+>  Möp, falsch, denn das konnten die Geschäfte ja auch schon vorher!  Sprich, das ist keine Reaktion auf das Urteil, sondern stellt weiterhin einen klaren, unmissverständlichen und harten Verfassungsbruch dar, wie vom Gericht festgestellt.  Denn es gibt weiterhin größere Geschäfte, die öffnen dürfen, ohne ihre Verkaufsfläche zu verkleinern.  Die Ungleichbehandlung wurde somit nicht aufgehoben, das Urteil wurde nicht einmal adressiert, sondern schlicht vollkommen ignoriert.
+>
+> Wenn das nicht vollkommen wahnsinnig ist, dann weiß ich nicht.
+>
+> Und bitte nicht missverstehen.  Das Gericht hat vollkommen richtig gehandelt.  Mit dem Urteil.  Und es nicht auszusetzen.
+>
+> Es ist Bayern, die unverantwortlich handeln.  Aber nicht, weil sie gegen die Verfassung verstoßen,
+> **sondern weil die ausgesprochenen Maßnahmen viel zu lax sind!**
+>
+> 40 Menschen (das sind die ominösen 800qm / 20qm) pro Laden, das ist reiner unverantwortlicher Wahnsinn!
+
+Es gilt:
+
+- Flatten The Curve ist nur der Anlass, aber nicht einmal ansatzweise eine Lösung.
+  - Flatten The Curve reduziert die dadurch induzierten Toten auf rein statistische Werte.
+  - Das ist ungeheuerlich unmenschlich und es nur aus dieser Perspektive zu betrachten stellt reinen ungehemmten Wahnsinn dar.
+- Containment (das ist erst bei R0 deutlich unter 1 möglich) ist absolut notwendig
+  - Aber Containment kann uns nicht retten!
+  - Containment funktioniert nur unter Beibehaltung drastischster Maßnahmen.
+- Der Lockdown ist viel zu lax.
+  - Einige Regelungen sind vollkommener Unsinn, wie die 800qm-Regel.  Diese müssen sinnvollen Regelungen weichen.
+  - 20qm pro Einkaufendem ist ein guter Wert.  25qm wäre mir lieber.
+  - Eine Maximalzahl von 5 Kunden (Kinder eingerechnet) pro Laden pro dauerhaft geöffneter Kasse wäre eine weitere Forderung.
+  - Verbot eines gemeinsamen Einkaufs, außer einzelne Eltern mit Kindern unter 12 Jahren.  Ich sehe nämlich ständig Leute, die zusammen (also mehr als 1 Person) einkaufen gehen, **und genau diese (meist die Männer) halten die Abstände nicht ein!**  Mütter mit 3-4 kleinen Kindern hingegen verhalten sich meist vorbildlich.
+  - Eine strikte Mindestastandsregelung von 2m zwischen Menschen und 4m zwischen den Kassen und 5m von sonstigen Verkaufsstellen.
+  - Abgabenbeschränkungen unter die haushaltsüblichen Mengen müssen als **Gefährdung der Volkgsgesundheit (gleichbedeutend mit Landesverrat)** geahndet werden.  Haushaltsübliche Mengen sind, was eine 10-köpfige Familie in einem Monat verbrauchen kann, auch sofern sie sich nur von einem einzigen Nahrungsmittel ernähren und Vielfraße sind.
+  - Der Mindestabstand von 2m ist **immer einzuhalten** und zwar ohne Außnahme, wenn möglich sogar 3m (sprich: Wer sich anderen so stark nähert, dass er getreten werden kann, der begeht den strafbaren Versuch der gefährlichen Körperverletzung).  Das gilt **auch für das aneinander-vorbeigehen** in Läden und auf Bürgersteigen.  (Sprich:  Wenn   Ggf. ist die Staßenseite zu wechseln.)  Bürgersteige sind in Fahrrichtung zu nutzen (grund: radelnde Kinder, ggf. radeln die Eltern ja auf der Straße mit).
+  - Stehplätze im ÖNV müssen verboten werden.
+  - Im ÖNV muss medizinisch wirksamer Mundschutz vorgeschrieben sein.  Auch möglichst Handschuhpflicht.
+
+Es gibt ernsthaft Menschen, die meinen, dass man die Wirtschaft schützen muss, indem man die Fallzahlen anhand der freien Betten in den Krankenhäusern steuert.
+
+Leute, das ist Wahnsinn.  **Menschen der Wirtschaft zu opfern**, das ist so etwas von Metropolis.  Ihr habt offensichtlich den Schuss nicht gehört, der 1945 abgefeuert wurde und in unserer sozialen Marktwirtschaft endete.  Soziale Marktwirtschaft?  Sagt euch das was?  Habt ihr es verstanden?  Nicht?  Dann erkläre ich es mal:
+
+- Soziale Marktwirtschaft ist nicht frei von staatlichem Eingriff.
+- In der sozialen Martkwirtschaft - **und das ist in [Deutschland so Grundgesetz](https://www.gesetze-im-internet.de/gg/art_14.html)** - ist jeder Unternehmer dem Allgemeinwohl verpflichtet.
+- Um es unmissverständlich klar auszudrücken:  **Das Wohl eines jeden Unternehmers hat hinter dem Allgemeinwohl zurückzustehen.**  Punkt.  Da gibt es nicht den geringsten Zweifel daran.
+  - Wer das nicht einsieht, dem sollte meineserachtens europaweit jegliches Geschäft untersagt werden.  Er hat dann 2 Wochen um in ein Land außerhalb Europas ausreisen, in dem es keine soziale Marktwirtschaft gibt.  Anderenfalls sollte er als Volksverräter weggesperrt werden.  Das Ganze wird einmalig aufgehoben, wenn er zu verstehen gibt, dass er einsieht und verstanden hat, was er falsch machte.  Dann kriegt er eine einzige weitere Chance.  Vergeigt er auch die, war's das.  Keine Gnade.
+
+Und die Maßnahmen sind nicht nur gerechtfertigt oder notwendig, sie sind auch dauerhaft notwendig.
+
+Und zwar so lange, bis Corona überwunden wurde.  Alles andere wäre Wahnsinn.
+
+Wann ist Corona überwunden?
+
+- Entweder, wenn wir die Herdenimmunität erreicht haben.  Bei einem dauerhaften harten Lockdown sind das ca. 15 bis 25 Jahre.
+  - Wobei derzeit noch nicht klar ist, ob Corona überhaupt Herdenimmunität ermöglicht.
+- Oder wenn wir eine Impfung haben
+  - Diese Impfung muss entweder freiwillig genug Menschen erreichen - dann muss sie eine entsprechend hohe Qualität aufweisen
+  - Oder diese Impfung muss (als Novum) obligatorisch werden - dann muss sie eine noch höhere Qualität aufweisen
+  - Mit einer Impfung in ausreichendem Maße ist vor Mitte 2021 nicht zu rechnen
+- Oder wenn wir es schaffen, das Leben so umzugestalten, dass R0 dauerhaft unter 1 gehalten wird.
+  - Das gilt dann nicht nur für Corona
+
+Auf die Herdenimmunität zu pochen ist Wahnsinn.  Entweder haben wir dann eine grassierende Seuche, oder einen endlosen Lockdown.  Beides ist inakzeptabel.  Dazu kommt, dass derzeit niemand überhaupt beweisen kann, dass es bei Corona jemals eine Herdenimmunität gibt.
+
+Das zweite ist Wahnsinn.  Das ist dasselbe wie mit Grippe.  Wie erfolgreich wir in der Grippebekämpfung sind, das wissen wir ja.  Gar nicht.  [Jedes Jahr wieder haben wir Sterbezyklen](https://www.euromomo.eu/) weil sich Krankheiten - insbesondere die Grippe - ausbreiten.  Und, tun wir effektiv etwas dagegen?
+
+Corona könnte jetzt noch dazukommen!  Freilich würde das unser Rentensystem entlasten.  Quasi indirekte Zwangseuthanasie, die besonders Kranke und Alten erwischt.  Vielleicht auch noch behinderte, wie Blinde, die die Abstände ja gar nicht sehen können.  Also all die, die wirtschaftlich wenig für die Gesellschaft beitragen oder das Gesundheitssystem besonders viel kosten.  Dagegen stelle ich die Frage:  Gibt es noch extremeren zynischen vollkommen unmenschlichen Wahnsinn?
+
+Also ist auch der zweite Punkt nicht unbedingt sinnvoll.  Nach der Impfung ist vor der Impfung.  Denn Corona wird nicht der einzige Fall bleiben.  Unsere Welt wird schneller.  Solche Krankheiten werden häufiger werden.  Das ist unabhängig davon, ob Corona jetzt menschengemacht oder natürlich entstanden ist.  Und solange die Verstädterung, Globalisierung und der Reiseverkehr beibehalten wird, können wir gar nicht verhindern, dass Pandemien immer größere Wellen schlagen.  Nichts zu tun und eingedenk einer Corona-Impfung abzuwarten bis das nächste Desaster trifft wäre also reiner Wahnsinn.
+
+Bleibt also nur die Maßnahme Drei.  Die Umgestalung unseres Lebens.
+
+Damit meine ich nicht, dass wir
+
+- der Verstädterung Einhalt gebieten
+- die Globalisierung verbieten
+- den Reiseverkehr gesetzlich einschränken
+
+Denn all das können wir nicht.  Jedenfalls nicht, wenn wir unsere Freiheit behalten wollen.
+
+Was wir brauchen sind Alternativen.
+
+Alternativen zur Verstädterung.  Dass gerade arme Menschen (die sich z. B. kein Auto leisten können) auf dem Land genauso gut und umfassend und bequem versorgt sind wie in der Stadt.  Dass es egal ist ob ich in einem Hochaus in der Stadt oder in einem kleinen Dorf auf dem Land wohne.  Einmal habe ich halt weitere Wege oder nervige Nachbarn.  Aber der Druck in die Stadt umzusiedeln, z. B. weil man sonst regelmäßig 4h eine Richtung zur Arbeit unterwegs ist (z. B. wenn die Bahn blockiert ist), der muss weg!
+
+Alternativen zur Globalisierung.  Stichwort Resilienz.  Es kann nicht sein, dass wir auf die Lieferung von millionen von Atemschutzmasken aus dem Ausland oder dem Unternehmergeist nur einiger weniger nicht-Abzocker angewiesen sind, um an bezahlbare Masken zu kommen.
+
+Alternativen zum Verreisen sollten hingegen nicht notwendig sein.  Konferenzen sind vielleicht weniger wichtig, aber Tourismus ist wichtig.  Genauso, dass sich der Architekt vor-Ort ein Bild macht, das geht einfach nicht virtuell.  Auch wenn wir auch im Ausland von unserem Deutschtum nicht lassen wollen, reisen bildet.  Sollten wir das abschaffen, dann wird diese Welt arm.  Buchstäblich in den Ländern, die auf Tourismus angewiesen sind.  Aber auch bei uns, im Geiste, weil wir uns gar nicht mehr auf andere Völker einstellen müssen.  Was dann entsteht, darauf möchte ich nicht näher eingehen.  Nur soviel:  Tourismus ist gut und wichtig und dass der Mensch heute in wenigen Stunden rund um den Globus reisen kann ist eine der wichtigsten Errungenschaften unserer modernen Freiheit.  Das darf nicht eingeschränkt werden, das muss man hingegen dringend ausbauen!  Aber was wir vielleicht überdenken sollten ist der Massentourismus.  Horden von Menschen die über irgendein Ökosystem herfallen und dies dann nachhaltig verändern - meistens vernichten.
+
+Aber wie sollen wir es ändern?  Durch eine neue gelebte Wirklichkeit!  Eine Wirklichkeit, die sich am Individuum und nicht an der Masse orientiert.  An den einzelnen Menschen, die jetzt voneinander Abstand halten müssen, anstatt Gruppen zu bilden.
+
+Darauf müssen wir das Leben ausrichten.  Und wenn wir uns an den Langsamsten und Schwächsten orientieren, dann haben wir auch genau die Entschleunigung, die dieser Planet braucht.  Die Entschleunigung, die nach Corona beibehalten werden sollte.
+
+Es kann z. B. nicht sein, dass sich die Bevölkerung selbst mit Masken eindecken muss.  1 EUR für so eine Maske entspricht etwa 200% dessen, was jemand bei Hartz-IV am Tag für Sonderausgaben ausgeben kann!  Da man als Hartzler aber auf Sonderangebote angewiesen ist, bedeutet das, man muss wegen der **Abgabenbeschränkung von Aldi** dort jeden Tag einkaufen gehen, braucht also jeden Tag eine solche Einwegmaske.  **So sieht derzeit die Welt aus:  Die Ausgangsbeschränkung in Bayern trifft vor allem die Ärmsten der Gesellschaft am härtesten!**  Diese werden quasi eingekerkert und müssen zusätzliche Zeche zahlen, die sie weder leisten können noch die ihnen jemand ersetzt.
+
+Also:  Maskenpflicht in der Öffentlichkeit ist OK, aber nur wenn es eine kostenlose Standardmaske gibt, die jeder ab dem 7. Lebensjar tragen kann.  Aus Spendeautomaten, die überall jederzeit erreichbar sind.  Die immer ausreichend Masken in allen notwendigen Größen haben.  Wer will, der kann natürlich seine eigene Maske verwenden.
+
+Die Alternative bedeutet: Keine Maskenpflicht.  Es kann und darf nicht sein, dass die Nutzung des Bürgersteigs jetzt hintenherum kostenpflichtig wird!  Dass sich nur noch Reiche leisten können, auf die Straße zu gehen.
+
+Oder der Urlaub.  Mal schnell zum Skifahren gefahren und anschließend sofort in den Karneval und dann mal schnell 100 Leute angesteckt.  Das muss aufhören.  Urlaub ist Urlaub.  Wer in den Urlaub fährt sollte also erst einmal 14 Tage in Quarantäne, dann kommt der Urlaub, gefolgt von wieder 14 Tage Quarantäne.  So dauert ein Urlaub schon mal 2 Monate.
+
+Wo ist das Problem?  Während der Quarantäne kann man ja arbeiten.  Vom Homeoffice aus.  Das geht auch in der Quarantäne vor-Ort im Urlaubsgebiet.  Man muss einfach nur drüber nachdenken.  Und was macht die Putzfrau?  Die macht halt die Quarantänestation sauber.  Man muss sich einfach nur von der Vorstellung lösen dass so etwas undenkbar sein soll.  Weil man hat ja einen Arbeitsplatz, arbeitet für einen Arbeitgeber, und dem steht die Arbeit zu.  Das ist schon lange nimmer so - die ubuquitäre Zeitarbeit ist dafür der unrühmliche Beweis, jede soziale hohe Verantwortung eines jeden Unternehmers wird inzwischen als untragbares Risiko eingestuft (jedenfalls von Banken und Geldgebern).  Das muss sich ändern!
+
+Ein wichtiger Baustein, das zu erreichen, könnte das bedingungslose Grundeinkommen sein.  Wenn sich Hartz-IVler nicht mehr mit einer Behörde um das tägliche Brot streiten müssen, werden diese z. B. frei, um Masken zu verteilen.  Oder für welche gemeinnützigen Tätigkeiten sie sich auch immer entscheiden.  Denn sie sind ja keine Bittsteller mehr.  Sie haben ein bedingungsloses Grundeinkommen, etwas, das die Gesellschaft ihnen zahlt, und das sicher die meisten - ganz freiwillig und ohne Druck - gerne zurückgeben.  Ein modernes Utopia im guten Sinn.
+
+Natürlich kann man ähnliches auch mit vorgehaltener Knarre oder dem drohenden Verhungern lösen.  Mit Polizeistaat, Repression, drakonischen Strafen usw.  Das wäre dann das moderne Utopia im schlechten Sinn.
+
+Die Frage ist einzig nur, was werden wir aus Corona machen:
+
+- Etwas Positives
+- Etwas Negatives
+- Oder lernen wir überhaupt nichts daraus.
+
+Letzteres.  Und ein bisschen Ersteres.  Denn das ist typisch menschlich.  Der übliche urmenschliche Wahnsinn.
