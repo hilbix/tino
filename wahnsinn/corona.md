@@ -236,3 +236,43 @@ Die Frage ist einzig nur, was werden wir aus Corona machen:
 - Oder lernen wir überhaupt nichts daraus.
 
 Letzteres.  Und ein bisschen Ersteres.  Denn das ist typisch menschlich.  Der übliche urmenschliche Wahnsinn.
+
+**Nachtrag** und noch mehr Wahnsinn:
+
+https://www.apotheke-adhoc.de/nachrichten/detail/coronavirus/5-euro-dav-will-abrechnungsklarheit-bis-donnerstag-botendienst/
+
+Weil ein mehrfacher Besuch von Apotheken - also Läden, die für die Bekämpfung von Krankheiten da sind -
+so überaus gefährlich ist, bekommen diese nun eine Entschädigung für Lieferdienste.
+
+Läden wie Aldi - also Läden, die hinsichtlich der Bekämpfung von Krankheiten vollkommen fachfremd sind -,
+dürfen uns aber dazu zwingen, sie mölichst täglich aufzusuchen.  Wie?
+Mit Abgabenbeschränkungen, die so niedrig liegen, dass sie selbst für kleinere Familien schwerlich 1 Tag reichen.
+
+2 Dosen Ravioli darf ich in dem Aldi hier in der Region mitnehmen.  Pro Tag wohlgemerkt.  Das ist dort ungeschriebenes Gesetz.
+Als ich dagegen protestierte, wurde ich von einem Aldi-Angestellten als unvernünftig beschimpft.
+
+Oder der Fall eines Flüchtlings, dem der Kauf von 12 Dosen gehackter Tomaten (im Wert von 6 EUR) verweigert wurde.
+Einer Menge, die sie im Flüchtlingsheim brauchen, um ein Essen für die dortige Gemeinschaft zu kochen.
+
+während also jeder einzelne Besuch der Apotheken, genauer die Verhinderung, der Gesellschaft 5 EUR wert ist,
+wird die **Verbreitung von Corona durch unverantwortliches Handeln der Einzelhändler gefördert**.
+
+Wenn das, was in Deutschland derzeit so abgeht nicht komplet schitzophren ist, dann weiß ich nicht.
+
+> Vor Corona war ich in etwa 2 bis 3 Mal pro Monat bei Aldi und noch seltener in anderen Läden.
+>
+> Jetzt mit Corona bin ich nicht selten gezwungen, 2 Mal pro Woche zu Aldi zu fahren.
+> Außerdem bin ich fast jede Woche in mindestens einem weiteren Laden, weil ich im Aldi nicht mehr
+> die Mengen kaufen darf, die vor Corona keinerlei Problem darstellten.
+>
+> Das ist jetzt nicht ganz so schlimm wie es sich anhört, da ich für jemand anderen jede Woche einkaufen gehe,
+> bin ich sowieso jede Woche sowieso bei Aldi und in einigen anderen Läden.  Aber würde ich bei Aldi die Mengen
+> kaufen dürfen, die ich benötige, es würden sich bei mir etwa 3 Aldibesuche und 4 Besuche anderer Läden vermeiden lassen.
+> Pro Monat, wohlgemerkt.  Das gesparte sind mehr als 1/3 aller meiner möglichen Corona-Expositionen!
+>
+> 2 Mal pro Woche hat aber auch so einen klitzekleinen Vorteil (Vorsicht, Sarkasmus):
+>
+> Klopapier gibt's ja wieder, so kann ich ohne Umwege ca. 7 Packungen pro Monat kaufen, und das trotz
+> striktester Aldischer Einkaufsabgabenbeschränkung ever auf nur 1 Packung Klopapier pro Tag.
+> So steigt er wieder, mein Klopapiervorrat, zwar langsam aber an.  Bei gleichbleibender Kaufmöglichkeit
+> erreich ich so, rein rechnerisch, im August den Stand vom Februar, und im Jahr 2023 den Break-Even.
