@@ -254,10 +254,10 @@ Als ich dagegen protestierte, wurde ich von einem Aldi-Angestellten als unvernü
 Oder der Fall eines Flüchtlings, dem der Kauf von 12 Dosen gehackter Tomaten (im Wert von 6 EUR) verweigert wurde.
 Einer Menge, die sie im Flüchtlingsheim brauchen, um ein Essen für die dortige Gemeinschaft zu kochen.
 
-während also jeder einzelne Besuch der Apotheken, genauer die Verhinderung, der Gesellschaft 5 EUR wert ist,
+Während also jeder einzelne Besuch der Apotheken, genauer die Verhinderung, der Gesellschaft 5 EUR wert ist,
 wird die **Verbreitung von Corona durch unverantwortliches Handeln der Einzelhändler gefördert**.
 
-Wenn das, was in Deutschland derzeit so abgeht nicht komplet schitzophren ist, dann weiß ich nicht.
+Wenn das, was in Deutschland derzeit so abgeht nicht komplet schizophren ist, dann weiß ich wirklich nicht.
 
 > Vor Corona war ich in etwa 2 bis 3 Mal pro Monat bei Aldi und noch seltener in anderen Läden.
 >
@@ -276,3 +276,5 @@ Wenn das, was in Deutschland derzeit so abgeht nicht komplet schitzophren ist, d
 > striktester Aldischer Einkaufsabgabenbeschränkung ever auf nur 1 Packung Klopapier pro Tag.
 > So steigt er wieder, mein Klopapiervorrat, zwar langsam aber an.  Bei gleichbleibender Kaufmöglichkeit
 > erreich ich so, rein rechnerisch, im August den Stand vom Februar, und im Jahr 2023 den Break-Even.
+
+Edit: Ich habe hier bei GH keine Autokorrektur oder Rechtschreibhilfe ;)
