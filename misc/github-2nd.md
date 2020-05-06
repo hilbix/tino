@@ -1,3 +1,42 @@
+Update: You can create Organizations on GitHub.
+
+Apparently some of the GH Apps are able to work on the Orgs independently and only require basic access to the main account.
+Hence you can give them the elevated access rights only on some dummy-organization but keep your main account secure.
+Doing this you can partially archive something like a GH firewall.
+
+AFAICS not all GH Apps can do this.  Some do not treat Orgs independently from your main account, so they always want access to everything on the main account.  It does not help to reduce their access rights on the Orgs, as they already want to have full control over your main account and thus over all of your organizations in parallel, regardless of the access rights you set (as they can change them as they like).  Hence this **not only endangers your main account but all of your Orgs in parallel**, too.  I really have no idea why GH allowes this, but it is as it is.
+
+In GH apparently the GH App is in full charge of the access rights.  Neither you nor GH seem to be allowed to change the access rights afterwards if the App does not allow nor implement this.  As most Apps do not do this, all you can do is to completely revoke the access rights - we already learned the hard way that this then can be already too late anyway -, even if these elevated rights are never needed, because the App should be restricted to one of the Orgs only.  Sorry, GH, this is probably the most stupid way to implement this one can ever imagine.  The right thing to do would be threefold:
+
+- The access rights, an App wants to see.
+- The access rights, an App gets.
+- The access rights which are rerouted to some Org.
+
+This is:
+
+- The App always sees the access rights it wants.  Always.  If it requires 101% control over the account, it sees 101% control over the account.  Period.
+- Then there are the access rights, the App gets.  If the access rights of the App differ with the access rights it gets, this results in access or permission errors returned by the API.
+- However 99% of the Apps would fail in this case.  Because they are badly implemented.  As usual.  Hence the 3rd way would be to reroute the App to some DummyOrg which then acts as the main account.  Hence the App always succeeds, but only affects the DummyOrg and not the main account.  (This is what I call GH Firewall.)  This is not complex stuff, all you need is to allow to choose some Org instead of the main account when some access rights are requested.  So the main account just only is an Org.
+
+> I do not understand, why there are Orgs.  An Org is just some special form of account.  Hence both should be quite the same.
+> But they aren't.  I have no idea, why.  Yes, the problem is, that Orgs do not have some properties an Account has.
+> So to be able to reroute the "main" access rights to the Org means, that some account-dummy-data must be added.
+> This is clumsy.  It is nearly as clumsy as the handling of SSH-Keys.
+>
+> Why is there a difference between Account Keys and Deploy Keys?  Why is there a difference of App access rights and SSH keys?
+> Why isn't there not a way to control, what which access is allowed to, independently if it is some access token,
+> SSH key, App authentication, Oauth, whatever?  Why am I not allowed to change permissions afterwards?
+> All I am allowed is to completely revoke access.  All or nothing.  WTF is this?
+>
+> Said differently:  You are in the desert.  You are thirsty.  All you want is a bottle of water.
+> However everything which you are able to get is either get all water on this planet at once or no water at all.
+> Because it is binary.  All or nothing.  Just a bottle of water isn't implemented as Nobody requires this.
+>
+> Welcome to the postmodern virtual world.  Where Nobody is you.  Where billions of Nobodys do not count.  Sigh.
+
+
+---------------
+
 Update: GitHub told me, that there will be no exception of the 1 account rule.  At least that is what I understood.
 
 Hence, security against excess access right apps cannot be implemented using GitHub alone.
