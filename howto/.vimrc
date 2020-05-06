@@ -6,6 +6,7 @@
 " set nomodelineexpr		" prevent CVE-2019-12735 with modeline (>=vim 8.1.x)
 " set modeline			" enable things like # vim: ft=sh
 
+set swapsync=			" disable sync, huge advantage on ZFS, minor disadvantage
 set secure
 set nomodeline			" disable modeline, see CVE-2019-12735
 " use securemodelines instead of insecure modeline
@@ -40,6 +41,7 @@ match MySHOW /\(\t\)\|\(\s\s*$\)/
 
 " TAB is 8, it always has been and always will be.  Right?
 set ts=8 sw=8 noet ai ru fo=cqrt ls=2 shm=at
+map Q :q<CR>
 
 " Easy make: "M" to "make" and jump to first error, ESC+M to "make clean"
 nnoremap M :silent make\|redraw!\|cw\|silent cc<CR>
