@@ -11,7 +11,7 @@ Das aktuelle ist das vom 2020-05-05, auch bekannt als "EZB-Urteil".
 
 ## Wassn los?
 
-Keine Ahnung.  Aber alle regen sich auf.  Vom Untergang des EUR bis hin zu "BVerfG legt sich EuGH ab".
+Keine Ahnung.  Aber alle regen sich auf.  Vom Untergang des EUR bis hin zu "BVerfG legt sich mit EuGH an".
 Und ähnlicher Schwachsinn ist da zu lesen.  Genauso wie in der Coronakrise, in der jeder Vollhonk mitredet,
 obwohl er nicht einmal ansatzweise begriffen haben kann, wovon er da eigentlich faselt.
 
