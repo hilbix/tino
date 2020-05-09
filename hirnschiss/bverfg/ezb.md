@@ -42,7 +42,7 @@ Nationalität sind, wie auch jeder nichtdeutsche Friedensnobelpreisträger, all 
 straffrei ignorieren.  Dabei brechen sie sie nicht, denn unsrere Verfassung gilt dort einfach nicht.
 Die Verfassung von Deutschland gilt nun einmal nur und ausschließlich für Deutsche.  Punkt aus und Ende.
 
-Sind die EZB oder der EuGH Deutsche?  Irgendwie?  Sicher nicht!  Dieser Gerichtshof ist Europäer und somit Europa verpflichtet.
+Sind die EZB oder der EuGH Deutsche?  Irgendwie?  Sicher nicht!  Beide sind Europäer und somit Europa verpflichtet.
 So wie Deutschland auch.  Aber dadurch unterliegt er nicht der deutschen Verfassung!
 
 Damit hat sich das BVerfG eben genau nicht gegen den EuGH gewandt.
