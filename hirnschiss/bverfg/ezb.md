@@ -35,7 +35,7 @@ Das Urteil des EuGH ist deshalb nicht ausreichend, weil die Kompetenzen der EZB 
 Kommissionen in Europa von den eurpoäischen Verträgen so nicht gedeckt sind.  Jedenfalls nicht so, wie es da
 gemacht wurde.  Die Maßnahmen der EZB im Rahmen der Bundesbank durchzuführen war also ein klarer Verfassunsbruch.
 
-Und wer hat die Verfassung gebrochen?  Die EU?  Wie soll das bitte gehen?  Die EU ist nicht Deutschland!
+Und wer hat die Verfassung gebrochen?  Die EZB?  Wie soll das bitte gehen?  Die EZB ist nicht Deutschland!
 Donald Trump kann unserer Verfassung (eigentlich heißt das Ding Grundgesetz) so oft und so häufig ignorieren,
 wie er will.  Putin, Kim Jong (wieauchimmerderheißt), Chinesen, Iraner, alle Terroristen, die nicht deutscher
 Nationalität sind, wie auch jeder nichtdeutsche Friedensnobelpreisträger, all diese dürfen unser Grundgesetz
