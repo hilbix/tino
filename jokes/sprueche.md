@@ -55,3 +55,5 @@
 - 2020-04-09 [I dislike `Z` because I'm German.](https://stackoverflow.com/a/4809893/490291)
 
 - 2020-04-15 [Alle wichtigen Änderungen in der Menschheitsgeschichte sind seit jeher mit Massengräbern verbunden](https://github.com/hilbix/tino/blame/77fa93658ef3312c2222856e34c98632f252f66d/klimaluege/handlungsl%C3%BCge.md#L335)
+
+- 2020-05-14 [Obscurity by Security](https://www.heise.de/forum/heise-Security/News-Kommentare/Ransomware-TWL-verweigerte-Loesegeldzahlung-Angreifer-leakten-Kundendaten/Und-taeglich-gruesst-das-Murmeltier-Nur-Pseudonymitaet-kann-uns-noch-retten/posting-36667572/show/)
