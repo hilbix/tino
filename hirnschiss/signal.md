@@ -170,3 +170,20 @@ entschuldigt sich bei der Community und erklärt, dass sie so etwas niemals wied
 > es aber stattdessen mit auf den Weg brachten.
 
 Alternativ bleibt mir nur der Umstieg.
+
+# Nachtrag
+
+Eigentlich ist das auch gut so.  Diese Fixierung von Signal auf die Handynummer ist zwar Whatsapp-Einfach
+war mir aber schon immer ein Dorn im Auge.
+
+Zwar gabes 1 Zusatzstern für die Innovation des Protokolls, den musste ich aber wegen der vollkommen
+sinnfreien Implementierung des Messenger selbst wieder abziehen, nämlich wie man sich gegenseitig
+per Kamera autorisiert hat.
+
+Der 2. Abzug war diese Telefonnummerfixierung.   Da ich immer von einer mittleren ("üblichen")
+Bewertung von 3 Sternen ausgehe ergab das dann 2 Sterne.
+
+Richtig umgesetzt könnte Signal aber auch mit Telefonnummer 5 Sterne erreichen.
+Dazu müsste der Messenger deutlich einfacher bedienbar sein und Vorreiter in Sachen Sicherheit.
+
+Naja, stattdessen geht's rückwärts.  Tatsching!
