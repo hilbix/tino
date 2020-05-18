@@ -187,3 +187,34 @@ Richtig umgesetzt könnte Signal aber auch mit Telefonnummer 5 Sterne erreichen.
 Dazu müsste der Messenger deutlich einfacher bedienbar sein und Vorreiter in Sachen Sicherheit.
 
 Naja, stattdessen geht's rückwärts.  Tatsching!
+
+# Gesucht
+
+Gesucht ist ein
+
+- Passwortloser
+- Open Source
+- Kryptomessenger (striktes E2E ohne Escrow)
+- mit gegenseitiger Authentisierung (QR)
+- und Gruppenfunktion (geschlossene und offene Gruppen)
+- der möglichst alle Plattformen unterstützt
+
+Threema habe ich, nur leider taugt der deshalb nicht, weil ich damit niemanden "anchatten" kann.
+
+Ein Nachteil bei Threema ist, dass keine "anonyme" Benachrichtung möglich ist.
+Sprich, ich kann auf meiner (statischen) Homepage keinen Pager anbringen,
+der dann eine Nachricht auf meine Threema-ID schickt.
+
+Beides setzt eine kostenpflichtige Threema-ID des Anderen voraus, und das ist ein No-Go.
+
+Meine Lösung wäre die:
+
+- Der Messenger arbeitet infrastrukturlos, d. h. es werden keine kostentreibende Server benötigt
+- Jeder kann so viele kostenlose IDs erstellen wie er möchte: IP+Timestamp+Serie
+- Nur einer von zwei Kommunikationspartnern benötigt eine bezahlte ID.
+- Jede bezahlte ID erlaubt, unendlich viele Kommunikationskanäle zu erstellen
+- Jeder Kommunikationskanal erlaubt 10 Teilnehmer je teilnehmender bezahlter ID.
+- Jede bezahlte ID erlaubt, eine öffentliche Gruppe zu erstellen (die der ID).
+- Man kann zur Verbesserung der eigenen Kommuikaton eigene Server mieten und die dem Netzwerk dedizieren.
+
+Anywhere?
