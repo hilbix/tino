@@ -78,7 +78,7 @@ then
 	echo
 	cat "$OUT"
 else
-	python3 "$@" 2> >(catcherrors "$@") | cat	# cat waits for (catcherrors) to return
+	PYTHONUNBUFFERED=on python3 "$@" 2> >(catcherrors "$@") | cat	# cat waits for (catcherrors) to return
 	ret=${PIPESTATUS[0]}
 	if [ '.-m' = ".$1" ]
 	then
