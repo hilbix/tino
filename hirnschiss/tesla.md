@@ -31,6 +31,83 @@ sowohl von Tesla-Fanboys als auch von Telsa-Gegnern oder Tesla selbst.
 > Ich halte Elon Musk für Scheiße, und diese überträgt sich auf Tesla (und alles andere, das er macht),
 > und es geht mir auch darum, dass Tesla darunter leidet (wie alles andere, das Elon Musk macht).
 
+## FakeNews
+
+### Der weiße Wal^WTurm
+
+Da photoshoppt ein Fanboy auf Twitter einen [Vertex 1](https://www.landmarkdividend.com/our-services/flexgrid/) auf einen runden ungenutzten Sockel eines Tesla-Supercharger-Marktplatz und alle Medien erblöden sich und schreiben darüber einen Sensationsbericht.
+
+> Was die können, das kann ich auch ;)
+
+[Z. B. Chip.](https://efahrer.chip.de/news/geheimnisvoller-turm-taucht-an-tesla-ladestation-auf-jetzt-raetselt-das-internet_102368) Zitat:
+
+> "Geheimnisvoller Turm taucht an Tesla-Ladestation auf: Jetzt rätselt das Internet"
+
+Nein, Leute, das Internet rätselt mitnichten!  Das tut nur ihr in eurer (aus meiner Sicht offensichtlich abartigen) Pipi-Langstrumpf-Welt.  Schon einer der ersten Antworttweets klärt nämlich auf, was da zu sehen ist:
+
+Es ist ein [Vertex V1](https://www.landmarkdividend.com/our-services/flexgrid/).  (Übrigens bitte nicht von der Seite, die bei diesem Link kmomt verwirren lassen.  Das sind alles - jedenfalls für mich - offensichtlich gephotoshoppte Bilder, also reine Demo-Ansichten, wie es aussehen könnte.)
+
+Das auf Twitter gepostete Bild sieht für mich ebenso gephotoshoppt aus.  Unten am Sockel kann man klar durch den Sockel hindurchsehen.  Ja, man sieht die Bäume dahinter durchschimmern!  Der weiße Turm wurde 1 Pixel zu hoch über dem Sockel ins Bild eingefügt!  (Hach, immer dieses superblödes Aliasing an den Layerübergängen, wenn man das nur wegkriegte.)  Jedenfalls so sieht es für mich aus wenn ich mir das Foto genauer ansehe.
+
+WTF?  Der Vertex schwebt in der Luft?  Und steht außerdem auch irgendwie schräg auf dem Sockel?  Fällt das nur mir auf oder bilde ich mir das ein?
+
+Der nächste etwas kräftigere Windhauch müsste das Ding also umwerfen.  Außerdem guckt mal auf die schönen Hochglanzseiten des Herstellers.  Irgendwo ein Sockel da zu sehen?  Nicht?  (Obwohl ein Betonsockel auf einem Parkplatz durchaus sinnvoll ist, sonst wird der Turm beim ersten unvorsichtigen Parkrempler beschädigt.)
+
+Und überhaupt, der Vertex ist dreieckig.  Und bekommt einen runden Sockel.  Ein architektonisches Meisterwerk!  Das Runde muss unters Eckige, oder wie war das nochmal?  Architekt, 6, setzen!
+
+[In einem Antworttweet sieht man](https://mobile.twitter.com/GeorgeW73162217/status/1260342846437101570), wie der Sockel ohne diesen Turm aussieht.  Da sieht man einen Kabelkanal rausstehen und zusätzlich ein paar Stahlschrauben.  Könnten aber auch Moniereisen sein.  Also soll da etwas draufmontiert werden.  Z. B. ein Straßenschild?
+
+Ja, natürlich KANN das Foto durchaus echt sein.  Dann muss man dem Fotographen aber mal deutlich gratulieren.  Denn man muss die Perspektive schon sehr gekonnt falsch wählen, um ein reales Objekt derart unglaubwürdig abzulichten!  Das hat dann für mich deutlich das Geschmäckle, kein Zufall zu sein!
+
+Also ich glaub von dem Bericht schon alleine deshalb nullkommanix.
+
+Aber vollkommen egal ob das Bild nun real ist oder nicht.  Diese Form des Journalismus ist nicht nur höchst zweifelhaft (womit sich Chip bei mir als ernsthafte Quelle zu Teslathemen eindeutig und vollständig für alle Zeit disqualifiziert hat), sondern aus rein objektiven Kriterien ist die Meldung komplette Fake-News:
+
+Ist das Bild ein Fake, dann seid ihr Vollidioten.  Weil ihr einfach so total unreflektiert Fake-News verbreitet.  Es ist ja nicht schwer, anhand des Bilds sofort Zweifel zu bekommen (siehe oben).  Das schreit also nach einer Überprüfung.  Und geht es euch wirklich so schlecht dass ihr da keinen Reporter vor-Ort vorbeischicken könnt, damit dieser mal ein brauchbares Foto schießt?  Niemand auf diesem Planeten kann das?  Nicht?  Oh.  Alleine das spricht schon Bände über den Mangel von Qualität und Professionalität.  (Ich schicke in der Arbeit normalerweise nix rum das ich nicht doppelt überprüft habe.  Und wenn doch, dann schreibe ich dazu, dass es noch nicht komplett verifiziert ist.  Aber was weiß ich schon wie guter Journalismus geht, ich bin ja nur von der IT.)
+
+Ist das Bild hingegen überraschenderweise kein Fake, seid ihr hingegen riesengroße Volldeppen.  Warum?  Weil das Rätsel [zur Zeit eures Post vom 15.5.](https://efahrer.chip.de/news/geheimnisvoller-turm-taucht-an-tesla-ladestation-auf-jetzt-raetselt-das-internet_102368) schon längst [durch einen Tweet am 14.5.](https://mobile.twitter.com/MontrealTesla/status/1261039877828771841) aufgeklärt worden ist.  Voll deppert, gell?  Damit ist auch bekannt, was das Ding, sofern real, können soll und was nicht.  (Fun Fact:  Big Brother is watching you.  Steht jedenfalls so im Prospekt vom Vertex.)
+
+Statt sich also in epischer Breite (habt ihr da eine Vorgabe von Anzahl Worten oder was?) über reine fiktive Gerüchte einiger offensichtlicher Vollhonks auszulassen, oder was auch sonst für kranke Gedanken irgendeinem Tesla-Fanboy durch den Kopf geschossen wurde, als er einen weißen Phallus auf einem Teslaladepark stehen sah, hättet ihr mal versuchen können, bei der objektiven Realität zu bleiben.  Ist das so nicht etwa Grundkurs beim Journalismus?  (Wenn nicht, dann wird's dafür mehr als nur höchste Zeit!)
+
+Ja, aber dann ist ja die schöne Story futsch?  Richtig!  Genau so ist das leider bei erdachten Storys.  Das kann man dann in einer Kolumne verwursten oder ein Streiflicht draus machen, das die krankesten Gerüchte dieser Welt rund um Tesla beleuchtet oder so.  Aber nicht einen normalen Artikel der in meinen Augen eher den Wahrheitsgehalt einer Werbeunterbrechung im Fernsehen hat, aber radikal keinerlei News-Wert an sich darstellt!
+
+> Als Kunstobjekt vielleicht brauchbar.  Kunst soll aufregen.  Journalismus soll abregen.  Darin habt ihr total versagt!
+
+Was mich besonders aufregt ist, dass so etwas von Tech-Magazinen kommt (eines, für das ich sogar schon mal gearbeitet habe).  Gehört Chip jetzt etwa nur noch zur Regenbogenpresse?  Ich dachte immer, Chip sei deutlich seriöser als die Bild-Zeitung.  Aber da muss ich mich wohl mindenstens genauso deutlich geirrt haben.
+
+Wie weit ab vom Schuss muss man sein, so einen Artikel auch nur ernsthaft als News zu verbreiten?  Nein, das zielt nicht auf den Urheber (Journalist möchte ich das nicht nennen) sondern mit voller Breitseite auf den Redakteur, der diesen offensichtlichen Schmu durchließ!
+
+Deshalb:  **Eine Runde Mitleid für alle, die an der Verbreitung dieses Chip-Artikels mitgewirkt haben.**  Sie haben es sich zwar nicht redlich verdient, aber es ist nuneinmal die Pflicht eines jeden Erwachsenen, Minderbemittelten mit Nachsicht zu begegnen.
+
+Aber um mal eine geflügelte Phrase umzudichten: [efahrer.chip.de, ihr seid raus!](https://de.wikipedia.org/wiki/Bernhard_Ho%C3%ABcker).  Ich möchte euch auch nicht den Grund schuldig bleiben:  Weil man euch offensichtlich zu arg ins Hirn geschissen hat, so dass ihr, und das vollkommen unentschuldbar, auch wirklich den allerletzten Mist verbreiten müsst.
+
+> Noch fragen warum das mit der Online-Präsenz der Medienhäuser auf Dauer nichts werden wird?
+>
+> In unserer informationsüberfluteten Zeit müssen Newsportale den Filter darstellen, der die Spreu vom Weizen trennt.
+> Die die relevanten News verbreiten und jeden Müllscheiß aus dem Informationsstrom rausfiltern.
+>
+> Dafür würde ich ggf. sogar etwas zahlen, jedenfalls wenn jemand mit einem ordentlichen Konzept daherkommt,
+> ganz besonders wenn dieses gegen die eigene Filterblase antritt!
+>
+> Qualitätsjournalismus ist dafür gar nicht notwendig.  Es reicht der einfache gesunde Menschenverstand.
+> Also hat weniger mit Journalismus zu tun als mit Psychologie, Philosophie und Geisteswissenschaft.
+>
+> Aber die derzeitige Entwicklung ist genau gegenläufig.  Es wird nicht nur jeder Unsinn verbreitet, nein, man sucht sogar aktiv nach noch mehr Unsinn um die Entropie im News-Umfeld durch die Decke zu jagen.  Hauptsächlich erster.  Je müller desto gut.
+>
+> Dazu kann ich nur eines sagen:  Geht endlich sterben!  Statt das Geld nutzlos ins Internet zu verpulvern,
+> spendet es einfach für einen guten Zweck.  Verschenkt das Geld meinetwegen an die dann arbeitslosen
+> Journalisten, und bitte, platziert diesen Müll bitte irgendwo im Dark Web, aber nimmer bei Google!
+>
+> Oh, ja, richtig, Google.  Die Krake.  Mein News-Aggregator.  Google tut genau das, was ich will!
+> Google kennt meine Vorliebe für Trash, über den ich in meinem Blog dann so richtig übel ablästern kann!
+> My favorite!
+>
+> Allerdings lest ihr hier nicht ganz wahrheitsgetreu, was ich wahrlich zu dem Thema denke.
+> Denn das überschreitet dann jegliche Schmerzgrenze.  Sprich: Was ihr hier seht ist bereits die
+> gefiltertste Form in der ich es gerade noch so eben überhaupt darstellen kann.
+> Ein Schritt weiter und ich wäre mundtot - und eine solche Selbstzensur würde dann mein Grundrecht brechen.
+
+
 ## Fakten
 
 ### Tesla vs. VW
