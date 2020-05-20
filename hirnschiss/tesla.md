@@ -35,7 +35,7 @@ sowohl von Tesla-Fanboys als auch von Telsa-Gegnern oder Tesla selbst.
 
 ### Der weiße Wal^WTurm
 
-Da photoshoppt ein Fanboy auf Twitter einen [Vertex 1](https://www.landmarkdividend.com/our-services/flexgrid/) auf einen runden ungenutzten Sockel eines Tesla-Supercharger-Marktplatz und alle Medien erblöden sich und schreiben darüber einen Sensationsbericht.
+Da photoshoppt ein Fanboy auf Twitter einen [Vertex 1](https://www.landmarkdividend.com/our-services/flexgrid/) auf einen runden ungenutzten Sockel eines Tesla-Supercharger-Marktplatz und (alle?) Medien erblöden sich und schreiben darüber einen Sensationsbericht.
 
 > Was die können, das kann ich auch ;)
 
