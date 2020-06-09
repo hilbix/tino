@@ -4,8 +4,10 @@ Here are examples, why:
 
 ## `umount -l /sys/fs/cgroup` crashes SystemD
 
+```
 SirCloud# reboot                                                                                                                
 A dependency job for reboot.target failed. See 'journalctl -xe' for details.                                                                 
+```
 
 `journalctl -xe` gives us:
 
