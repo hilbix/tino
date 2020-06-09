@@ -79,22 +79,32 @@ See also `man cgrules.conf`
 
 ```
 #<user>		<controllers>		<groups>
-root		*			root
-*		cpu,memory		default
+root		*			default
+*		cpu,memory		all
 ```
 
-This applies the `root` CG to `root` processeses,
-and the `default` control group to all other users.
+This applies the `default` CG to `root` processeses,
+and the `all` control group to all other users.
 
 This is usually what you want.
 
-> It's a bit clumsy, though, as we do not want something like a `root` CG at all.
+> It's a bit clumsy, though, as we need to specify a `root` rule instead of having something like "anything but root".
 >
-> But there is no other way to exclude `root` processes from the `default` CG.
+> But there is no other way to exclude `root` processes from the `all` CG.
 >
-> Also note that you must use the name here, which is clumsy as well, in case you renamed `root` to something else.
+> Also note that you must use the name `root` here, which is clumsy as well,
+> in case you renamed `root` to something else.
 > But (according to documentation) straight forward and clear to understand exact and never to mistaken things like
 > a UserID cannot be used here.  Very bad design whereever you look.  Sigh.
+
+**How CGs are implemented is a big pile of extremely smelly and most ugly mess:**
+
+You cannot use certain names.  For example the `default` CG already is taken by the system.
+Some other CG names like `tasks` or `root` are forbidden as well.  However, all that is not documented at all,
+and if you stumble upon such a name, this leads to some cryptic completely misleading error messages
+in different situations, with no help whatsoever.  And the list of forbidden names might change any time.
+
+You have been warned.
 
 
 ## `/etc/cgconfig.conf`
@@ -118,13 +128,10 @@ into swapping hell for several hours before recovering.)
 `/etc/cgconfig.conf`:
 
 ```
-group root {
-}
-
-group default {
+group all {
   cpu {
-    cpu.cfs_period_us=100ms;
-    cpu.cfs_quota_us=50ms;
+    cpu.cfs_period_us=100000;
+    cpu.cfs_quota_us=50000;
   }
   memory {
     memory.limit_in_bytes = 1500m;
@@ -134,4 +141,22 @@ group default {
 
 Notes:
 
-- `cpu.cfs_period_us=100ms` is the default.
+- `cpu.cfs_period_us=100000` is the default.
+
+
+## After you changed things
+
+There is no command to apply the changes.  At least it is not documented.  Of course not.
+
+Here is how I apply things:
+
+```
+reboot
+```
+
+SIC!  Thanks to SystemD I did not find another way, as SystemD hogs on the CG mount and does not allow us to alter
+anything, besides when the system boots.
+
+If you find a way to apply above files **properly** (this is:  Regardless what you have changed,
+the result is exactly the same as if you did a reboot), then please let me know (Issue on GH here).
+Thanks!
