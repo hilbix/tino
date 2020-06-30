@@ -20,10 +20,10 @@
 > - Der Grundrechtsverstoß ist somit alles andere als ein Einzelfall, sondern stellt (in Form der Hausordnung) sogar mittlerweile eine für den Bundestag gültige Regel dar!
 >
 > Und, ergeht daraus jetzt irgendeine Konsequenz?
-> - Vermutlich genau dieselbe Konsequenz wie gegen Scheuer, der ja fast eine halbe Milliarde unterschlagen hat.  Nämlich überhauptgarkeine.
+> - Vermutlich genau dieselbe Konsequenz wie gegen Scheuer, der ja fast eine halbe Milliarde [veruntreut](https://www.merkur.de/politik/andreas-scheuer-csu-verkehrsminister-pkw-maut-ruecktritt-anzeige-linke-zr-12939304.html) hat.  Nämlich überhauptgarkeine.
 >
 > Hinweis:
-> - Für mich ist Unterschlagung, wenn man Gelder eigenmächtig riskiert, ohne diejenigen darüber zu informieren, die die Hoheit über das Geld haben.
+> - Für mich ist Veruntreuung bzw. Unterschlagung, wenn man Gelder eigenmächtig riskiert, ohne diejenigen darüber zu informieren, die die Hoheit über das Geld haben.
 > - Beispielsweise wenn die Bank die Einlagen der Sparer an der Börse verzockt - getreu dem Motto, hätte ja auch gut gehen können.
 > - Oder hier eben ein Scheuer den haushaltsrelevanten möglichen Schaden dem Haushaltsausschuss vorenthält.
 > - Der Schadensersatz ist ja nicht unerwartet entstanden, und die Höhe stand ja auch nicht zufällig in den Verträgen.
