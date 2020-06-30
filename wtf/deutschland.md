@@ -1,13 +1,12 @@
-https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=27.05.2019&Aktenzeichen=C-508%2F18
+- https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=27.05.2019&Aktenzeichen=C-508%2F18
 
 > EuGH: Deutsche Staatsanwälte sind nicht unabhängig.  Internationale Haftbefehle dürfen sie deshalb nicht ausstellen.
 >
 > FTR: Der EuGH stellt fest, dass der Generalstaatsanwalt von Litauen unabhängig ist und das darf.  
 > Ob das auch auf den deutschen Generalstaatsanwalt zutreffen würde (oder nicht) steht da leider nicht.
 
-https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-polizeiaktion-in-linken-abgeordnetenbuero-war-illegal-a-a697a714-459b-4cbc-8669-89d68a537502
-und
-https://www.tagesspiegel.de/politik/plakate-im-bundestag-schaeuble-darf-nicht-einfach-die-polizei-zum-abhaengen-schicken/25962794.html
+- https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-polizeiaktion-in-linken-abgeordnetenbuero-war-illegal-a-a697a714-459b-4cbc-8669-89d68a537502
+- https://www.tagesspiegel.de/politik/plakate-im-bundestag-schaeuble-darf-nicht-einfach-die-polizei-zum-abhaengen-schicken/25962794.html
 
 > Zitat SPON: "Der Präsident des Deutschen Bundestags [..] habe [..] Artikel 38 des Grundgesetzes verletzt."  Damit ist Wolfgang Schäuble gemeint.  
 > - Wie sich mir das darstellt:  Unser oberster Bundestagshüter schert sich einen Dreck um die Verfassung.
