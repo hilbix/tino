@@ -9,11 +9,15 @@
 - https://www.tagesspiegel.de/politik/plakate-im-bundestag-schaeuble-darf-nicht-einfach-die-polizei-zum-abhaengen-schicken/25962794.html
 
 > Zitat SPON: "Der Präsident des Deutschen Bundestags [..] habe [..] Artikel 38 des Grundgesetzes verletzt."  Damit ist Wolfgang Schäuble gemeint.  
-> - Wie sich mir das darstellt:  Unser oberster Bundestagshüter schert sich einen Dreck um die Verfassung.
+> Wie sich mir das darstellt:
+> - Unser oberster Bundestagshüter schert sich einen Dreck um die Verfassung.
 >
 > Zitat TS: "Hausordnung: Das Anbringen von Aushängen [..] „ausnahmslos nicht gestattet“"  
-> Zitat SPON: "Artikel 38 des Grundgesetzes sichere den Abgeordneten das Recht, die ihnen zugewiesenen Räume ohne Beeinträchtigungen durch Dritte nutzen zu können."
-> - Wie sich mir das darstellt:  Dies stellt genau denselben Grundrechtsverstoß dar.  Auch beim Erlass dieser Hausordnung hat sich unser oberster Bundestagshüter also einen Dreck um unsere Verfassung geschert.
+> Zitat SPON: "Artikel 38 des Grundgesetzes sichere den Abgeordneten das Recht, die ihnen zugewiesenen Räume ohne Beeinträchtigungen durch Dritte nutzen zu können."  
+> Wie sich mir das darstellt:
+> - Dies stellt genau denselben Grundrechtsverstoß dar.
+> - Auch beim Erlass dieser Hausordnung hat sich unser oberster Bundestagshüter also einen Dreck um unsere Verfassung geschert.
+> - Der Grundrechtsverstoß ist somit alles andere als ein Einzelfall, sondern stellt (in Form der Hausordnung) sogar mittlerweile eine für den Bundestag gültige Regel dar!
 >
 > Und, ergeht daraus jetzt irgendeine Konsequenz?
 > - Vermutlich genau dieselbe Konsequenz wie gegen Scheuer, der ja fast eine halbe Milliarde unterschlagen hat.  Nämlich überhauptgarkeine.
@@ -26,3 +30,8 @@
 > - Das kann man also nur als absolut mutwillig und mindestens unzweifelhaft vorsätzlich ansehen, was da gelaufen ist.
 >
 > Aber Konsequenz?  0.  Deutschland und seine Politiker.  Ich sage nur: Pfui!
+>
+> Leute, was ist besser?
+> - Wenn ich (Türkei) mit offenen Karten spiele und die Gesetze schlicht in meinem Sinne so umschreibe, dass ich tun und lassen kann, was ich will?
+> - Oder wenn ich (Deutschland) einfach geltendes Recht ignoriere und unbeirrt treibe, wass ich will?  (Und wenn's rauskommt will ich's nicht gewesen sein.)
+> Bitte dies unabhängig davon beurteilen, ob etwas aus gutem oder bösem Willen geschieht.  Das hängt nämlich ganz vom Betrachter ab.
