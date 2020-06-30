@@ -34,4 +34,5 @@
 > Leute, was ist besser?
 > - Wenn ich (Türkei) mit offenen Karten spiele und die Gesetze schlicht in meinem Sinne so umschreibe, dass ich tun und lassen kann, was ich will?
 > - Oder wenn ich (Deutschland) einfach geltendes Recht ignoriere und unbeirrt treibe, wass ich will?  (Und wenn's rauskommt will ich's nicht gewesen sein.)
+>
 > Bitte dies unabhängig davon beurteilen, ob etwas aus gutem oder bösem Willen geschieht.  Das hängt nämlich ganz vom Betrachter ab.
