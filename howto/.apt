@@ -7,7 +7,8 @@ EOF
 
 rm -f /var/lib/apt/lists/partial/*
 
-find /etc -name '*.*-dist'
+DISTS() { find /etc -name '*.*-dist'; }
+DISTS
 
 echo
 # Do the interactive thing right at the beginning:
@@ -16,7 +17,7 @@ echo
 # Config is kept by etckeeper, so there really is no need to keep any clutter.
 
 p=()
-IFS=$'\n' read -rd '' -a p < <(apt-get -s autoremove | sed -n 's/^Remv \(.*\) \[.*$/\1/p')
+IFS=$'\n' read -rd '' -a p < <(apt-get -s autoremove | sed -n 's/^Remv \([^ ]*\) \[.*$/\1/p')
 [ 0 = "${#p[@]}" ] || apt-get purge "${p[@]}"
 
 
@@ -41,7 +42,7 @@ while read -r b b x x x x
 do
 	# ignore shared memory segments
 	case "$b" in
-	???s)	continue;;
+	(???s)	continue;;
 	esac
 
 	# ignore some other places
@@ -68,7 +69,51 @@ done < <(fgrep -s '(deleted)' "$1/maps")
 $ok
 }
 
+NOTES=''
+ERRS=''
+
+# https://askubuntu.com/q/53364/164798
+fix-dkms()
+{
+KERN=()
+for a in *; do KERN+=("$a"); done
+
+cd /
+
+while read -r m v
+do
+	for k in "${KERN[@]}"
+	do
+		printf '\n##### %q %q %q #####\n\n' "$m" "$v" "$k"
+		for x in 1 2
+		do
+			if	OUT="$(dkms -m "$m" -v "$v" -k "$k" "$@" 2>&1)"
+			then
+				printf -vS 'DKMS:OK %q %q %q\n' "$m" "$v" "$k"
+				NOTES="$NOTES$S"
+				break
+			fi
+			printf -vS 'DKMS:KO=%d %q %q %q\n' "$e" "$m" "$v" "$k"
+			case "$x:$OUT" in
+			(1:*'Please install'*' linux-headers-'*)
+				PACK="${OUT#* linux-headers-}"
+				PACK="${PACK%% *}"
+				apt-get install "linux-headers-$PACK" && continue
+				;;
+			esac
+			ERRS="$ERRS$S"
+			echo "$OUT"
+			echo
+			break
+		done
+	done
+done < <(LC_ALL=C.UTF-8 dkms status | while read -r n v r; do echo "${n%,}" "${v%[:,]}"; done | sort -u)
+}
+
+cd /var/lib/initramfs-tools && fix-dkms install
+
 echo
+echo "$NOTES"
 
 for a in /proc/[0-9]*
 do
@@ -81,6 +126,7 @@ done | sort -k2
 echo
 
 # And: find still present dist-data
+DISTS
 
-find /etc -name '*.*-dist'
+echo "$ERRS"
 
