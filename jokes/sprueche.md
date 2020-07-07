@@ -62,4 +62,4 @@
 
 - 2020-06-25 [Politiker sind der Arsch der Gesellschaft, denn irgendwie muss die Scheiße ja raus](https://github.com/hilbix/tino/blob/master/rants/politik.md)
 
-- 2020-07-07 Docker is as secure as lighting your Christmas Tree with a flamethrower on full power.
+- 2020-07-07 Docker, by default, is as secure as lighting your Christmas Tree with a flamethrower on full power.
