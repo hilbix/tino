@@ -49,7 +49,7 @@ do
 	x="${x%' (deleted)'}"
 	case "$x" in
 #	(*.tmp)	continue;;
-#	(/dev/*)	continue;;
+	(/dev/*)	continue;;
 #	(/tmp/*)	continue;;
 	(/etc/*)	continue;;
 	(/home/*)	continue;;
@@ -111,6 +111,17 @@ done < <(LC_ALL=C.UTF-8 dkms status | while read -r n v r; do echo "${n%,}" "${v
 }
 
 cd /var/lib/initramfs-tools && fix-dkms install
+
+if	[ -x /usr/bin/check-support-status ]
+then	/usr/bin/check-support-status
+else	echo "#MISSING# apt-get install debian-security-support"
+fi
+if	[ -x /usr/bin/ubuntu-security-status ]
+then	/usr/bin/ubuntu-security-status
+elif	[ -x /usr/bin/ubuntu-support-status ]
+then	/usr/bin/ubuntu-support-status
+#else	echo 'Not Ubuntu?'
+fi
 
 echo
 echo "$NOTES"
