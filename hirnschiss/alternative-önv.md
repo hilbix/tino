@@ -515,8 +515,17 @@ So doof sind die Leute einfach nicht.  Wie ich schrieb, Hamsterkäufe vor dem Ve
 all das wird sich sofort etablieren, so lange es keine Alternative gibt.  Ob es die gibt hat nichts mit Vernunft oder Überredung zu tun,
 sondern alleine mit dem Gefühl.  Denn so ist der Mensch.
 
-> Fehlende Buchstaben sind meiner Tastatur geschuldet.  Ich kann mir nicht alle 2 Wochen eine neue Tastatur kaufen,
-> nur weil es inzwischen nur noch Müll gibt!  Früher hielten 10DM-Tastaturen (die mit DIN-Stecker) mit gutem brauchbaren Tastenanschlag 5 Jahre.
-> Heute eine 20 EUR-Tastatur (die darunter haben gar keinen brauchbaren Tastenanschlag mehr) keine 2 Wochen bis sie anfängt zu klemmen oder sonstwas.
+> Fehlende Buchstaben sind meiner Tastatur geschuldet.  Ich kann mir nicht alle 10 Wochen eine neue Tastatur kaufen,
+> nur weil es inzwischen nur noch Müll gibt!  Früher hielten 10DM-Rubberdomes (die mit DIN-Stecker) mit gutem brauchbaren Tastenanschlag 5 Jahre.
+> Heute eine 20 EUR-Tastatur (die darunter haben gar keinen brauchbaren Tastenanschlag mehr) keine 2 Monate, bis sie anfängt zu klemmen oder sonstwas.
 >
-> Ja, früher war DOCH einiges besser.
+> Ja, früher war DOCH einiges besser.  Und nö, 120 EUR-Tastaturen mit Microswitches sind auch keine Alternative mehr.  Die halten auch kein Jahr mehr durch.
+> Die einzelnen Switches halten zwar ca. 10 Jahre durch, aber da sind ja über 50 Stück verbaut!  Bis einer aufgibt dauert es also weniger als 1 Jahr.
+> Früher hielt die Microswitch-Mechanik noch 100 Jahre.  Das erlaubte, dass sie ca. 5 Jahre hielten.  Aber das hielten ja schon die Rubberdomes auch.
+>
+> Und warum ist das so?  Meine Vermutung: Die Tastaturen waren früher verwindungssteif, wegen der Metallplatte unten.  Die gibt es nimmer.
+> Das Plastikgehäuse verbiegt sich also, die Tastenführung verwindet, die "optimierte" Tastenführung wird mechanisch beansprucht
+> und das Plastik hält das nicht aus.  Profit!  (Nicht für den Nutzer, für den Hersteller.)
+>
+> Nagut, wer wenig tippt hat das Problem nicht.  Bei mir kommen aber pro Monat einige millionen Tastenanschläge zusammen.
+> Das muss einfach jede Tastatur aushalten.  Egal für welchen Preis!
