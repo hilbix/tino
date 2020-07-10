@@ -368,3 +368,149 @@ Und so kommt das Geld dann doch wieder rein.
 > Koste es was es wolle (und wenn es das eigene Leben ist).
 >
 > Warum tun sie das?  Weil sie bei eurem ÖNV-Scheiß einfach nicht mitmachen.  Stellt euch schonmal darauf ein.
+
+# Corona Update
+
+Was ich oben schreibe ist nicht nur immer noch wahr, im Geggenteil, es ist sogar noch wichtiger geworden.
+
+Gerade jetzt zu Zeiten von Corona ist folgendes passiert:
+
+- Der ÖNV wurde ausgedünnt, d. h. weniger Busse und Züge
+- Die Preise sind - teils kräftig - gestiegen!  
+  Vollkommen egal ob diese schon in 2019 angekündigt wurden.
+  Corona ist eine Ausnahmesituation auf die man in angemessener Weise zu reagieren hat.
+  Da noch an der Fahrpreiserhöhung weiter festzuhalten zeigt nicht nur die Ignoranz die sich bei dem Thema festgefressen hat.
+  Wer im ÖNV keine hohen Verluste tragen will, der sollte besser die Finger vom ÖNV lassen.
+- Wegen Corona übernimmt der Bund für eine Marginalbeteiligung 100% der Verluste der Lufthansa, damit die nicht pleite geht.  
+  (Die Lufthansa schiebt dabei alle nur möglichen Verluste aufgrund von Fehlentscheidungen der letzten Jahre natürlich auf Corona.)
+- Aber der ÖNV und die Bahn werden vollkommen im Regen stehen gelassen.  
+  Immer noch muss die Bahn die Schiene selbst bezahlen, obwohl das genauso Verkehrsinfrastruktur ist die aus der KFZ-Maut usw. bezahlt werden sollte.  
+  Soviel auch zur Rückverstaatlichung der Bahn!  Die gehört vollständig in Staatshand und müsste allen Ortens massiv gefördert werden, so wie der Asphalt auch.  
+  Und on-top dieser vom Staat bereitgestellten Infrastruktur dürfen dann zusätzliche unabhängige Bahn-Betreibergesellschaften existieren.
+
+Wer zu Corona-Zeiten auf den ÖNV angewiesen war, in dem die notwendigen Abstandsregeln (1 Passagier pro Abteil!) niemals auch nur eingehalten werden konnten,
+(im Gegenteil, die Züge nach München waren wegen ausgefallener Züge einige Zeit lang sogar so überfüllt,
+dass niemand mehr einsteigen konnte, weil einfach kein Platz mehr da war.  Hörensagen, wurde dann aber wohl ab April besser.)
+der war zum Leiden verdammt.  Da haben einige meiner Kollegen ohne eigenes Auto überlegt, ob sie sich nicht irgendwie ein Fahrzeug zulegen können.
+
+> Werden sie wohl nicht tun, weil eine solche Anschaffung einfach noch zu teuer ist, aber abwarten.
+> Bald kommen die ersten stadtintern brauchbaren E-Autos für unter 10KEUR, mit denen man durchaus auch eine höhere Strecke überwinden kann.
+>
+> Apropos: Autozüge mit E-Auto-Lademöglichkeit wären durchaus sinnvoll:
+>
+> - Stadrand München zum Verladebahnhof
+> - Autozug nach Hamburg, man kommt geladen an
+> - Dann innerhalb Hamburg und mit dem Zug wieder zurück
+>
+> Dazu müssten die Autozüge zwischen den Städten natürlich 200km/h+ fahren (d. h. geschlossene Wagons!) und im 15-Minuten-Takt.
+> Nur sehr kurze Aufenthalte in den Städten zum Ab- und Ankoppeln der beladenen Autowagons und weiter geht's.
+>
+> Und nö, nix Benziner.  Das Angebot gilt nur für E-Hybrid + BEV.  Kein Angebot für Benziner.
+>
+> Vermutlich kann man das nicht in den ICE einbauen, aber man kann ja auch 2 ICEs koppeln, warum nicht auch Autozüge?
+>
+> ICE hält an, Autozug klinkt sich kurz ab, baut sich um, klinkt sich an und ICE-Kombi fährt weiter.
+> Dürfte binnen eines Aufenthalts gehen.  Ja, die Bahnhöfe sind dafür nicht vorgesehen.  Aber WTF, das kann doch kein Argument sein!
+>
+> Und der Preis?  Sollte mit dem Preis der eAutos auf der Strecke konurrenzfähig sein.
+>
+> Hint:  Einige Teslas bekommen den Strom ja kostenlos.  Der Konkurrenzpreis ist also der Reifenabrieb auf der Strecke!
+>
+> Ja, sorry, dieser Vergleich ist NICHT unfair.  Es geht nun einmal um Umweltförderung.  Das geht nicht kostenlos.
+> Kostenlos in dem Sinne, dass die Kosten von der Allgemeinheit getragen werden müssen, die der einzelne niemals tragen würde.
+>
+> - Wer ein Stadt-E-Auto hat zahlt keine Mondpreise für einen Autozug, insbesondere bei der Unbequemlichkeit der heutigen Angebote.
+> - Wenn schon Auto greifen die Leute also eher zum reichweitenstarken Hybrid.
+> - Die sind aber so teuer dass es ein Billig-Verbrenner bleiben wird.  Die dann alle hauptsächlich in den Städten rumgurken.
+
+SAGT MAL HABT IHR SIE NOCH ALLE?  SOLL DAS DIE UMWELTSTRATEGIE SEIN?  Wenn die Strategie bei Corona versagt dann war das keine Strategie.
+Das war dann nur eine - offensichtlich komplett unbrauchbare - Taktik!  IHR HABT VOLLSTÄNDIG VERSAGT!
+
+Was soll das bitte dass ihr **die Leute dazu treibt, Hybrid-SUVs oder Verbrenner zu kaufen**, weil das Alternativlos ist?
+
+> Das wird auch bis 2025 nix.  Auch nix bis 2030.  Ab 2040 sage ich mal "vielleicht".
+>
+> Bis wann sollen nochmals die Kimazile erreicht sein? Oh, 2050.  Möp, fail!  Das ist heute schon abzusehen.
+>
+> Oh ja, das Verbrennerverbot.  Was glaubt ihr wohl passiert, wenn ab 2030 die Verbrenner verboten werden?
+>
+> Die Leute hamstern 2029 einen Verbrenner und betreiben den bis weit über 2050 hinaus weiter.  Koste es was es wolle!
+> Das ist wie mit den Hamsterkäufen von Glühbirnen.  Einige Unternehmen werden tageszugelassene Autos einmotten
+> und dann Jahre später noch auf den Markt bringen.  IHR WERDET DAS SEHEN.  DAS IST KEINE WAHRSAGERREI, DAS IST EINE KONSEQUENZ.
+>
+> Man kann die Leute nicht zur Vernunft zwingen.  Man kann sie nicht einmal zur Vernunft erziehen.
+> Man kann die Leute einfach nicht ändern, sondern nur ausrotten.
+> Diese Tatsache wurde eindrucksvoll und vielfach in der Menschheitsgeschichte bewiesen.
+
+Damit die Umweltsache funktioniert müssen FUNKTIONIERENDE Konzepte her.
+
+Ein funktionierendes Konzept wäre die oben beschriebene Kombination von Stadt-eAuto und ÖNV:
+
+- Das Stadt-eAuto ist in der Regel ein Laternenparker.
+- Der Akku hält um die 100km, hat also nur eine Kapazität von 20kWh (vgl. normale Blei-Autobatterie hat ca. 1kWh)
+- Diese Autos brauchen keine AC-Lademöglichkeit, aber einen 3-Phasen-Lader (also genau das Gegenteil dessen, was die Autobauer derzeit verbauen)
+- Bei einer 1qm Solarzelle auf dem Dach würde ich ca. 1km Reichweite (200 Wh) pro Tag erwarten.
+- Diese Autos können bei Aldi usw. (meist kostenlos) mit 3xDC 16A dreiphasig (11 kW) nachgeladen werden.  (4kWh bei ca. 22 Minuten)
+- Nachladen ist oft am Arbeitsplatz möglich, dort aber nur 1xDC 10A (2kW), was aber ausreicht.
+- Solche Autos sollten weniger als 10 KEUR kosten
+- Wichtig ist auch die erlaubte Ladezeit:  Diese dürfen ab 16:00 oder bis 10:00 Uhr und Sa/So ganztägig an der Ladesäule stehen (Also Fr. 16:00 bis Mo 10:00).
+- Längere Strecken bewältigt man bei diesem Auto nicht per AC-Ladung sondern per E-Auto-Zug.
+
+Hinweise:
+
+- Ich habe mit einem Verbrauch von 20kW/100km gerechnet.  Wer sparsam fährt kommt damit auch im Winter 100 km, aber nur wenn eine Wärmepumpe verbaut ist.
+- Die Höchstgeschwindigkeit dieser Fahrzeuge liegt vermutlich bei 120km/h, da kommen sie aber nur ca. 80km weit, im Sommer unter besten Bedingungen.
+- Wenn man mit diesen hinter LKW "surft" dürfte man auf der AB ca. 1h fahren können, bis man 2h lang an die Ladesäule muss.
+- Diese Autos sind also NICHT weitstreckenggeignet und sollen es auch nicht sein.
+- Ohne günstigen E-Auto-Zug aber verkaufen sie sich genau deshalb dann NIEMALS.
+
+Rechnen wir:
+
+- 20kWh kosten ca. 10 EUR.  Wir haben also Betriebskosten von 10 EUR/100km.
+- Eine Bahnfahrt mit dem E-Auto-Zug quer durch Deutschland darf also nicht mehr als 80 EUR kosten.
+- Egal ob 1 oder 5 Personen im Auto sitzen.
+
+Das ist der Preis.  Wer teurer plant hat diese Möglichkeit verworfen.  Die Konsequenz ist:
+
+Es wird dann nur wenige Stadt-eAutos geben und der Benziner wird dominierend bleiben, bis reichweitenstarke "Stadtautos" verfügbar sind.
+
+> "Reichweitenstark" bedeutet wir haben eine Fahrleistung von 1000km pro 8h.
+>
+> Mit einem Verbrenner (um die 30kEUR) schaffte ich regelmäßig 1000km in unter 5h!  Tankstopps sind in den 5h enthalten.
+> Praxistauglichkeit halte ich hingegen schon mit 1000km pro 8h für erreicht, Ladestopps/Tankstopps sind dabei in den 8h enthalten.
+>
+> Heutzutage erreicht wirklich jeder Verbrenner diese 8h für 1000km, das entspricht ja nur einer Durchschnittsgeschwindigkeit von 125km/h.
+>
+> Nur so zum Verständnis:  Die Richtgeschwindigkeit in Deutschland liegt bei 130km/h.  130km/h GPS entsprechen auf den (meisten) Tachos 140km/h.
+> Und da kommt man, mit Tankstopps, eben ca. 125km/h.  Das habe ich mir nicht ausgedacht sondern kann jeder leicht selbst nachvollziehen.
+>
+> Es ist also nicht nur sinnvoll sondern auch angemessen, wenn man dies als Kriterium setzt.
+>
+> Was bedeutet das?  Ein eAuto verbraucht bei 150km/h ca. 40kW/100km.  Bei 40kW nutzbar im Akku hat man alle 2h einen Ladestopp.
+> Bei 8h bedeutet das 3 Ladestopps (man fährt voll los und kommt leer an).  150km/h Durchschnitt sind 6h 10min.
+> Die Ladestopps dürfen also etwas über 1h dauern (Anfahrt/Abfahrt).  Das bedeutet also, man muss mit mindestens 80kW laden können.
+>
+> BEV ereichen das bereits und übertreffen das teilweise schon!  Die Praxistauglichkeit von BEV ist somit gegeben (wenn auch meist erst über 50 kEUR).
+> Nur die Stadt-eAutos gilt das eben nicht.  Sie sind also gegenüber jedem heutigen Verbrenner nicht praxistauglich.
+>
+> Das wären sie trotzdem, wenn es einen eAuto-Zug gäbe.  Weil dann erreichen sie 1000km ebenfalls in unter 8h!
+> (Bei den postulierten 200km/h die der Zug fahren müsste.)
+>
+> Ja, es gibt natürlich Einschränkungen bei den Stadt-eAutos.  Das ist immer so.  Aber das sind Einschränkungen mit denen man sehr leicht leben kann.
+> Aber das ist planbar und verständlich.  Das ist nichts worüber sich Leute sorgen.  Damit leben Menschen ohne Probleme.
+> Denn sie können von München nach Hamburg.  Das ist, was sie können wollen auch wenn sie es niemals im Leben dann tun.
+> Mit dem eAuto-Zug wäre das aber bequemer als mit einem Benzin-Smart auf der Autobahn!  Und das würden die Leute sehen!
+
+Bis es "reichweitenstarke" billige BEVs gibt - vergleichbar mit einem 10 kEUR Verbrenner heute - wird es noch sehr lange dauern.
+Das wird 2030 noch nicht erreicht sein!  Und die Verbrenner dann ab 2030 abzuschaffen ist somit ein Problem,
+weil jemand im Jahr 2031 dann immer noch keinen hat.
+
+Das könnte sich bis 2040 ändern.  Sobald es sich geändert hat, also reichweitenstarke BEV dann für den (bereinigten, also mit heute vergleichbaren)
+Preis von 10 kEUR (bereinigt könnte das dann ca. 20 kEUR sein) bekommt, dann ist alles in Ordnung.  DANN können wir die Verbrenner abschaffen.
+
+Der ÖNV könnte das alles viel früher ermöglichen.  Aber nicht so wie es geplant ist!
+
+Die Leute mit geladener Waffe dazu zu zwingen, keinen Verbrenner zu kaufen ohne vernünftige Alternative, das werden sie nicht hinnehmen.
+So doof sind die Leute einfach nicht.  Wie ich schrieb, Hamsterkäufe vor dem Verbot von Verbrennern, Umgehungen per Importe, usw.,
+all das wird sich sofort etablieren, so lange es keine Alternative gibt.  Ob es die gibt hat nichts mit Vernunft oder Überredung zu tun,
+sondern alleine mit dem Gefühl.  Denn so ist der Mensch.
