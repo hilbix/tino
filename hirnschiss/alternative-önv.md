@@ -514,3 +514,9 @@ Die Leute mit geladener Waffe dazu zu zwingen, keinen Verbrenner zu kaufen ohne 
 So doof sind die Leute einfach nicht.  Wie ich schrieb, Hamsterkäufe vor dem Verbot von Verbrennern, Umgehungen per Importe, usw.,
 all das wird sich sofort etablieren, so lange es keine Alternative gibt.  Ob es die gibt hat nichts mit Vernunft oder Überredung zu tun,
 sondern alleine mit dem Gefühl.  Denn so ist der Mensch.
+
+> Fehlende Buchstaben sind meiner Tastatur geschuldet.  Ich kann mir nicht alle 2 Wochen eine neue Tastatur kaufen,
+> nur weil es inzwischen nur noch Müll gibt!  Früher hielten 10DM-Tastaturen (die mit DIN-Stecker) mit gutem brauchbaren Tastenanschlag 5 Jahre.
+> Heute eine 20 EUR-Tastatur (die darunter haben gar keinen brauchbaren Tastenanschlag mehr) keine 2 Wochen bis sie anfängt zu klemmen oder sonstwas.
+>
+> Ja, früher war DOCH einiges besser.
