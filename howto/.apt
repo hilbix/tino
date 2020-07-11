@@ -80,7 +80,7 @@ for a in *; do KERN+=("$a"); done
 
 cd /
 
-while read -r m v
+while read -ru6 m v
 do
 	for k in "${KERN[@]}"
 	do
@@ -107,7 +107,7 @@ do
 			break
 		done
 	done
-done < <(LC_ALL=C.UTF-8 dkms status | while read -r n v r; do echo "${n%,}" "${v%[:,]}"; done | sort -u)
+done 6< <(LC_ALL=C.UTF-8 dkms status | while read -r n v r; do echo "${n%,}" "${v%[:,]}"; done | sort -u)
 }
 
 cd /var/lib/initramfs-tools && fix-dkms install
