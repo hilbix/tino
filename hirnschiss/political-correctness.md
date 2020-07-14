@@ -201,3 +201,7 @@ Sprich:  Im Namen der Politischen Korrektheit verstoßen wir gegen die Politisch
 Wow, bravo, Applaus Applaus Applaus, echt gut gemacht ihr **Spackos**!  Und ja, dabei bleibe ich, bis zum bitteren Ende!
 
 (Die Politische Korrektheit gegen sich selbst einzusetzen ist eine Art der Gödelisierung.  Ich liebe diesen Ansatz!)
+
+## Updates und anmerkungen
+
+- 2020-07-14 [Ojemineh!](https://www.heise.de/forum/heise-online/Kommentare/White-Hat-und-Black-Hat-Rassismusdebatte-um-Bezeichnungen-fuer-Hacker/Blackhats-Whitehats-aus-Western-sind-ganz-klar-ohne-rassistischen-Hintergrund/posting-37025865/show/)
