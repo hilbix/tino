@@ -422,3 +422,45 @@ Well, I am no cryptonerd, but I came up with following scheme.  Please note me i
 ## T.B.D.
 
 > Here probably is missing a lot more about how to do it
+
+
+# Reality Bytes
+
+Things I have seen to really happen.
+
+## No encryption locally!
+
+If you want to take a quick backups on some removable media like an USB disk, these are better not stored encrypted.
+
+**Because you can better use something like LUKS (an encrypted volume) to protect these.**
+
+An encrypting Backup then is a major burden which only might add errors and the like.
+
+## Multi Mirrors!
+
+The backup system must allow mirroring of backups.  This is a crucial thing.  That is:
+
+- You take a backup on some storage
+- You copy the backup to somewhere else
+- And you want to individually test the correctness of those backups
+
+Why?  Because if something bad happens, and trust me, you only have to wait a bit until something really bad happens for sure,
+you want to be safe.  For reasons noted here you cannot just take 2 backups.  Those might be different!
+
+Why?  Because they are taken on different point in time.  Also it doubles the burden.  Hence the backup must be able to do so.
+
+> BorgBackup fails utterly in this respect.
+
+And no, this cannot be done on yourself and cannot be done by some 3rd party like LVM mirrors.
+
+ZFS mirrors could, perhaps, provide that.  But you don't want to use that.  Better are ZFS sends with a verification phase afterwards before you do the roll-forward of ZFS.
+
+
+## Backups must contain their logs, and keep those longer around than the data itself
+
+Happened today:  Backup tells me, it cannot backup one file.  WTF why?  Well, the heuristics of the Antivirus in background (Yes, I am on Linux)
+detected some anomaly and quarantined the file.
+
+However (using borgbackup) this only showed up in the logs and not in the Backup Archive.  So after several years you won't notice this fact happened.
+
+Also note that these facts should probably stay even after the Archive was pruned, as long as those paths are active.  Because you probably will find the file in the quarantine area of your Antivirus.  (In my case it was an old file checked out from git which triggered the heuristic detection.  Hence a False Postive.)
