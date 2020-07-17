@@ -35,7 +35,7 @@ Clean development environment?
       sudo cp -r /etc/schroot/default /etc/schroot/build
       grep /dev/shm /etc/schroot/sbuild/fstab | sudo tee -a /etc/schroot/build/fstab
 
-- `SESSION=$(schroot -bc build-buster-amd64)` to start a clean working environment
+- `SESSION="$(schroot -bc build-buster-amd64)"` to start a clean working environment
 - `schroot -rc session:$SESSION --` enters this `$SESSION` and stays (virtuall) in the same path.
   - Note: All changes of your `$HOME` will be permanent!  Only the environment is temporary!
 - `schroot -rc session:$SESSION -u root --` to enter this `$SESSION` as `root` (replaces `sudo`)
