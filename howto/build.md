@@ -5,6 +5,7 @@
 Clean build environment?
 
 - See https://wiki.debian.org/mk-sbuild
+  - **WARNING!** You will lose all your edits in the `schroot`s which are based on this.  See below "Clean development environment".
 - `mk-sbuild --vg=vgname buster` (as this unpriviliged user) to create a `schroot` on LVM2 VG `vgname` with Debian Release `buster`
   - **WARNING!**  This adds the User to the `schroot` group, which means, the User can become `root` on the `schroot`s without any password.
   - 5GB for the LV, which becomes the master for the snapshots
@@ -28,6 +29,8 @@ More on `schroot`?
 
 Clean development environment?
 
+- This allows to have `$HOME` mounted in the `schroot`
+  - This way all edits in your `$HOME` based worktree do not vanish if you exit/end the `schroot`
 - Modify the `sbuild` environment to include `$HOME` as follows:
 
       sudo cp /etc/schroot/chroot.d/sbuild-buster-amd64 /etc/schroot/chroot.d/build-buster-amd64
