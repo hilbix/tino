@@ -42,4 +42,4 @@ Skip packages to build?
 
       SKIP_PACKAGES := $(foreach SKIP,$(wildcard debian/*.skip),--no-package=$(basename $(notdir $(SKIP))))
       %:
-      	dh $@ ${SKIP_PACKAGES}
+      	dh $@ $(SKIP_PACKAGES)
