@@ -68,6 +68,6 @@ probe syscall.kill {
 
 Notes:
 
-- `pid()` is a builtin function while `pid` refers to the argument named `pid`.  A bit confusing?
-- The arguments are listed with `stap -L syscall.kill`.  (See above.)
 - Output looks like `kill 15 418881(tmux: server) from  systemd(12762)`
+- [`pid()`](https://sourceware.org/systemtap/man/function::pid.3stap.html) is a builtin function while `pid` refers to the argument named `pid`.  A bit confusing?
+- `syscall.kill name:string pid:long sig:long sig_name:string argstr:string` are the arguments, listed with `stap -L syscall.kill`.  (See above.)
