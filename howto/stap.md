@@ -65,3 +65,9 @@ probe syscall.kill {
     printf("kill %ld %ld(%s) from %s\n", sig, pid, pid2execname(pid), pstrace(pid2task(pid())))
 }
 ```
+
+Notes:
+
+- `pid()` is a builtin function while `pid` refers to the argument named `pid`.  A bit confusing ..
+- The arguments are listed with `stap -L syscall.kill`.  (See above.)
+- Output looks like `kill 15 418881(tmux: server) from  systemd(12762)`
