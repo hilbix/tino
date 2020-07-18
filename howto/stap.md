@@ -53,6 +53,8 @@ Example:
 
 # Example
 
+To run this examples, just save the code to a file and then call `stap file`.
+
 ## `kill.probe`
 
 This lists all `kill`s and where they are coming from:
