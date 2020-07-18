@@ -53,7 +53,7 @@ Example:
 
 # Example
 
-To run this examples, just save the code to a file and then call `stap file`.
+To run an example, just save the code to a file and then call `stap file`.
 
 ## `kill.probe`
 
