@@ -113,4 +113,5 @@ Sorry, aber wenn einem Autor dieses Loch im Plot nicht auffällt, das größer i
 dann tut es mir sehr leid.  Ihr seid mehr als Vollidioten, denn Vollidioten hätten solch einen Scheiß nicht verzapft.
 
 Nochmals zum mitdenken:  Das ist eine innovative Firma für die gute Leute arbeiten.  Leute, die ihren Job verstehen.
-Anders als die Autoren der Serie offensichtlich ..
+Anders als die Autoren der Serie offensichtlich, denn es wäre verdammt noch eins so unheimlich einfach gewesen,
+diesen Bug in der Serie zu beseitigen.  Wenn man Hirn hat zum Denken das nicht nur aus unendlich viel unendlich oft umgerührter Scheiße besteht.
