@@ -12,6 +12,16 @@ For example, how can I see what's going on.  Nope, `dbus-monitor` is not the ans
 
 One question:  Why is the output not in XML or JSON, but something completely incomprehensible.
 
+## Quickies
+
+- `dbus-send --system / org.freedesktop.DBus.Peer.Ping` check if system-bus is available.
+  - Usually always the case with SystemD
+- `dbus-send --session / org.freedesktop.DBus.Peer.Ping` check if session-bus is available.  
+  - The `--session` is the default, so you can leave it away
+  - `$DBUS_SESSION_BUS_ADDRESS` is where the session DBUS is active
+  - Nowadays `$HOME/.dbus/session-bus/` is no more used
+
+
 ## Questions
 
 Is `dbus` complete yet?
@@ -24,6 +34,12 @@ Is `dbus` complete yet?
 Why is something which is under heavy development, far from being stable used for mission critical and security sensible things?
 
 - This question also applies to SystemD
+
+How do you run several desktops in parallel on the same machine dbus-wise?
+
+- Previously these were managed under `~/.dbus/session-bus/` with files which numbered after the display and the host
+- Today it is `/run/user/$UID/bus`
+- What if you want to have 2 or more displays open on the same host as the same user?
 
 
 ## What I need
