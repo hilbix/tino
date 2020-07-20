@@ -32,27 +32,37 @@ parseerrors()
 {
 have=false
 awk '
+function setfile()
+{
+sub(/^[^"]*"/,"");
+f = $0
+sub(/.*",[[:space:]]*line[[:space:]]*/, "");
+gsub(/, in.*$/,"");
+
+gsub(/",.*$/, "", f);
+e = getline x < f;
+close(f);
+
+if (e<0) return;
+
+file  = f;
+line  = $0;
+armed = 1;
+}
 function ok()
 {
 if (!armed) return;
-have=1;
 
-sub(/^[^"]*"/,"",err);
-
-file=err
-
-gsub(/",.*$/, "", file);
-sub(/.*",[[:space:]]*line[[:space:]]*/, "", err);
-gsub(/, in.*$/,"", err);
-
-print "#E#" file "#" err "#" length(d[2]) "#" $0 "#";
+print "#E#" file "#" line "#" length(d[2]) "#" $0 "#";
+armed = 0;
+have  = 1;
 }
 
-/^[^[:space:]]/				{ ok(); armed=0; }
+/^[^[:space:]]/				{ ok() }
 /^Traceback \(most recent call last\):/	{ next }
 
-/^  File/ && $2!~/\/usr\//	{ err=$0; armed=1; delete d; next }
-armed		{ d[armed++]=$0; next }
+/^  File/ && $2!~/\/usr\//		{ setfile(); delete d; next }
+armed					{ d[armed++]=$0; next }
 
 END			{ ok(); exit(have) }
 ' || have=true;
@@ -76,7 +86,7 @@ then
 	echo
 	echo -------------------
 	echo
-	cat "$OUT"
+	tail -30 "$OUT"
 else
 	PYTHONUNBUFFERED=on python3 "$@" 2> >(catcherrors "$@") | cat	# cat waits for (catcherrors) to return
 	ret=${PIPESTATUS[0]}
