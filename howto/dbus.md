@@ -21,6 +21,11 @@ One question:  Why is the output not in XML or JSON, but something completely in
   - `$DBUS_SESSION_BUS_ADDRESS` is where the session DBUS is active
   - Nowadays `$HOME/.dbus/session-bus/` is no more used
 
+## Links
+
+- https://mail.gnome.org/archives/networkmanager-list/2010-January/msg00212.html
+- https://jo-so.de/2017-05/dbus-aufruf.html
+
 
 ## Questions
 
