@@ -5,7 +5,8 @@ Sigh, why do you always have to find out the hard way?  I try to be as concise a
 See also:
 
 - https://sourceware.org/systemtap/wiki/
-- https://sourceware.org/systemtap/man/
+  - https://sourceware.org/systemtap/man/
+  - https://sourceware.org/systemtap/examples/
 - https://wiki.debian.org/SystemTap
 
 ## Getting started
@@ -53,13 +54,16 @@ Example:
 
 # Example
 
-To run an example, just save the code to a file and then run `stap file`.
+To run an example, just save the code to a file and then run `stap file` or `stap -g file`, see the introducing comment.
 
-## `kill.probe`
+## `kill.stp`
 
 This lists all `kill`s and where they are coming from:
 
 ```
+#!/bin/sh
+//bin/true && exec stap "$0"
+
 probe syscall.kill {
   if (sig)
     printf("kill %ld %ld(%s) from %s\n", sig, pid, pid2execname(pid), pstrace(pid2task(pid())))
@@ -72,3 +76,32 @@ Notes:
 - [`pid()`](https://sourceware.org/systemtap/man/function::pid.3stap.html) is a builtin function while `pid` refers to the argument named `pid`.  A bit confusing?
 - `syscall.kill name:string pid:long sig:long sig_name:string argstr:string` are the arguments,  
   listed with `stap -L syscall.kill`.  (See above.)
+
+## `fsync.stp`
+
+Dump `fsync`s going on:
+
+```
+#!/bin/sh
+//bin/true && exec stap "$0"
+
+probe syscall.kill {
+  printf("fsync(%ld) %ld(%s) from %s\n", $fd, pid(), pid2execname(pid()), pstrace(pid2task(pid())))
+}
+```
+
+Suppress `fsync`s of a given process (see above to list names):
+
+```
+#!/bin/bash
+//bin/true && exec stap -g "$0" "${1:-beam.smp}" "${@:2}"
+
+global ok, err;
+
+probe kernel.function("do_fsync") { if (pid2execname(pid()) == @1) try { printf("%ld ", $fd); $fd=-1; ok++; } catch { err++ } }
+probe kernel.function("do_fsync").return { if (pid2execname(pid()) == "beam.smp") try { $return=0; } catch { err++ } }
+
+probe error,end { printf("ok=%ld err=%ld\n", ok, err); }
+```
+
+- `beam.smp` is the Erlang process.  I use this to speed up large CouchDB inserts on slow disks a factor of 100+
