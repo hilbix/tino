@@ -68,6 +68,8 @@ probe syscall.kill {
   if (sig)
     printf("kill %ld %ld(%s) from %s\n", sig, pid, pid2execname(pid), pstrace(pid2task(pid())))
 }
+
+probe begin { printf("list of kill() calls:\n") }
 ```
 
 Notes:
@@ -85,9 +87,8 @@ Dump `fsync`s going on:
 #!/bin/sh
 //bin/true && exec stap "$0"
 
-probe kernel.function("do_fsync") {
-  printf("fsync(%ld) %ld(%s) from %s\n", $fd, pid(), pid2execname(pid()), pstrace(pid2task(pid())))
-}
+probe kernel.function("do_fsync") { printf("fsync(%ld) %ld(%s) from %s\n", $fd, pid(), pid2execname(pid()), pstrace(pid2task(pid()))) }
+probe begin { printf("list of fsync() calls (does not catch 'sync's):\n") }
 ```
 
 Suppress `fsync`s of a given process (see above to list names):
@@ -98,10 +99,11 @@ Suppress `fsync`s of a given process (see above to list names):
 
 global ok, err;
 
-probe kernel.function("do_fsync") { if (pid2execname(pid()) == @1) try { printf("%ld ", $fd); $fd=-1; ok++; } catch { err++ } }
-probe kernel.function("do_fsync").return { if (pid2execname(pid()) == "beam.smp") try { $return=0; } catch { err++ } }
+probe kernel.function("do_fsync") { if (pid2execname(pid()) == @1) try { printf("%ld ", $fd); $fd=-1; ok++ } catch { err++ } }
+probe kernel.function("do_fsync").return { if (pid2execname(pid()) == "beam.smp") try { $return=0 } catch { err++ } }
 
-probe error,end { printf("ok=%ld err=%ld\n", ok, err); }
+probe begin { printf("supressing fsync() from %s (outputs just the suppressed fildes)\n", @1) }
+probe error,end { printf("ok=%ld err=%ld\n", ok, err) }
 ```
 
 - `beam.smp` is the Erlang process.  I use this to speed up large CouchDB inserts on slow disks a factor of 100+
