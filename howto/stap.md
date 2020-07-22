@@ -85,7 +85,7 @@ Dump `fsync`s going on:
 #!/bin/sh
 //bin/true && exec stap "$0"
 
-probe syscall.kill {
+probe kernel.function("do_fsync") {
   printf("fsync(%ld) %ld(%s) from %s\n", $fd, pid(), pid2execname(pid()), pstrace(pid2task(pid())))
 }
 ```
