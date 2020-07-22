@@ -91,7 +91,14 @@ probe kernel.function("do_fsync") { printf("fsync(%ld) %ld(%s) from %s\n", $fd, 
 probe begin { printf("list of fsync() calls (does not catch 'sync's):\n") }
 ```
 
-Suppress `fsync`s of a given process (see above to list names):
+Suppress `fsync`s of a given process name (give the process name on commandline, see above to list names):
+
+- Based on https://sourceware.org/systemtap/examples/io/eatmydata.stp
+- The default name is `beam.smp` which is the Erlang process.  
+  I use this to speed up large CouchDB inserts on slow disks a factor of 100+
+- It is similar of `eatmydata` (which needs a dynamically linked executable), but this here is on kernel level and only is active as long as the probe is active.
+
+> **WARNING!** Suppressing `fsync()` might corrupt data in case of a system crash like a power outage.
 
 ```
 #!/bin/bash
@@ -105,5 +112,3 @@ probe kernel.function("do_fsync").return { if (pid2execname(pid()) == "beam.smp"
 probe begin { printf("supressing fsync() from %s (outputs just the suppressed fildes)\n", @1) }
 probe error,end { printf("ok=%ld err=%ld\n", ok, err) }
 ```
-
-- `beam.smp` is the Erlang process.  I use this to speed up large CouchDB inserts on slow disks a factor of 100+
