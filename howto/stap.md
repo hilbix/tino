@@ -87,7 +87,7 @@ Dump `fsync`s going on:
 #!/bin/sh
 //bin/true && exec stap "$0"
 
-probe kernel.function("do_fsync") { printf("fsync(%ld) %ld(%s) from %s\n", $fd, pid(), pid2execname(pid()), pstrace(pid2task(pid()))) }
+probe kernel.function("do_fsync").return { ns=(gettimeofday_ns() - @entry(gettimeofday_ns())); printf("%4ld.%06ldms fsync(%ld) %ld(%s) from %s\n", ns/1000000, ns%1000000, @entry($fd), pid(), pid2execname(pid()), pstrace(pid2task(pid()))) }
 probe begin { printf("list of fsync() calls (does not catch 'sync's):\n") }
 ```
 
