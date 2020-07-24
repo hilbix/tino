@@ -107,7 +107,7 @@ Suppress `fsync`s of a given process name (give the process name on commandline,
 global ok, err;
 
 probe kernel.function("do_fsync") { if (pid2execname(pid()) == @1) try { printf("%ld ", $fd); $fd=-1; ok++ } catch { err++ } }
-probe kernel.function("do_fsync").return { if (pid2execname(pid()) == "beam.smp") try { $return=0 } catch { err++ } }
+probe kernel.function("do_fsync").return { if (pid2execname(pid()) == @1) try { $return=0 } catch { err++ } }
 
 probe begin { printf("supressing fsync() from %s (outputs just the suppressed fildes)\n", @1) }
 probe error,end { printf("ok=%ld err=%ld\n", ok, err) }
