@@ -124,7 +124,7 @@ But if you extend the lifetime beyond 10 years, you should go for 3072 bits of R
 > This is my recommendation, not a clarification.  I am not liable if things break!
 
 - For development
-- In your backend which is not exposed to the public.
+- In your middleware which is not exposed to the public.
   - That can mean you have some open port which is exposed to the public but secured with some SSL using MiniCA.
 
 ## When not MiniCA?
