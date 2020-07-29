@@ -106,6 +106,8 @@ Certificate:
 [..]
 ```
 
+> Lifetime of a bit more than 2 years is hardcoded on MiniCA!
+
 Do you think RSA 2048 is insecure?  Well, [actually no](https://www.keylength.com/en/4/)?
 
 - RSA 1024 is equivalent to 80 bits of security.  This is no more enough today.  Do not use.
@@ -141,3 +143,32 @@ Well, a good recommended SSL CA setup is:
 - Client and Server Certificates (short term, Key must be considered unsecured)
 
 MiniCA does not offer this.  It is not meant to.
+
+
+## Double Key with Double rotation
+
+My recommendation is not to just update the CERTs, do a full key rotation.
+
+- MiniCA should bot be used in a public facing production frontend.  Because there you need a proper CA setup.
+- In your infrastructure, you usually have clients and servers under full control, so you can do a full key rotation.
+
+That means:
+
+- Completely re-create the CA from scratch and deploy everyting, so a fresh `cacert.crt`, `*.key` and `*.crt`.
+- Perhaps have a fallback setup, such that the client and server can talk to the prevous keys in prallel.
+  - Then double the replacement schedule
+
+Shit happens!  Hence think of following:
+
+- If you cannot make sure that things work out really, use a very long lifetime of the keys.  10 years or more.
+- But beware the Y2038 problem - perhaps do not extend the lifetime until 2038 today.
+- Always use a fallback scenario.  That is, have 2 sets of keys ready which both work.
+  - Then you can replace one of you like.
+
+Note that HaProxy makes it easy to do so.  You can use 2 server listeners with 2 separate certificates and give clients 2 certificates to the 2 different links each (this makes 2 `bind` lines and 4 `server` lines).
+
+Then deploy first client/server pair.  This can be asynchronous on both sides.
+
+When things have stabilized, deploy the other pair.
+
+This is 0 downtime and 0 issue.
