@@ -183,4 +183,4 @@ Why?
 - Also this urges you to implement some neccessary monitoring.
 - With nearly 3 years you should have enough time to fix automation if something breaks the rotation schedule.
 
-> I currently have not set up such an automation yet.
+> I currently have not set up such an automation yet.  So no example here, sorry.
