@@ -25,6 +25,7 @@ vim /etc/haproxy/haproxy.cfg
 ```
 listen	couch
 	bind server.example.com:5984 ssl crt /etc/haproxy/ca/server.pem verify required ca-file /etc/haproxy/ca/cacert.crt
+        mode tcp
 	server couch 127.0.0.1:5984
 ```
 
@@ -39,5 +40,8 @@ vim /etc/haproxy/haproxy.cfg
 ```
 listen	couch
 	bind 127.0.0.1:5984
-	server server.example.com:5984 ssl crt /etc/haproxy/ca/client.pem verify required ca-file /etc/haproxy/ca/cacert.crt
+        mode tcp
+	server couch server.example.com:5984 ssl crt /etc/haproxy/ca/client.pem verify required ca-file /etc/haproxy/ca/cacert.crt
 ```
+
+FYI: This example is to access a remote [CouchDB istance](couchdb.md) in a secure way.
