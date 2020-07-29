@@ -44,4 +44,7 @@ listen	couch
 	server couch server.example.com:5984 ssl crt /etc/haproxy/ca/client.pem verify required ca-file /etc/haproxy/ca/cacert.crt
 ```
 
-FYI: This example is to access a remote [CouchDB istance](couchdb.md) in a secure way.
+Notes:
+
+- This example is to access a remote [CouchDB istance](couchdb.md) in a secure way.
+- MiniCA is not suitable for some sane SSL setup, but here it works.
