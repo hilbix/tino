@@ -8,7 +8,7 @@ Some recipes to HaProxy which are not exactly so straight forward.  Adapt accord
 Secure SSH tunnel between 2 HaProxy instances.
 
 - Problem: Securely access some service on another machine running on localhost only
-- Solution: `localhost -> haproxy (client) -SSL-> haproxy (server) -> localhost`
+- Solution: `localhost -http-> haproxy (client) -SSL-> haproxy (server) -http-> localhost`
 
 On server.example.com:
 
