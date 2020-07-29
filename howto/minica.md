@@ -172,3 +172,13 @@ Then deploy first client/server pair.  This can be asynchronous on both sides.
 When things have stabilized, deploy the other pair.
 
 This is 0 downtime and 0 issue.
+
+## Automate!
+
+Compare LetysEncrypt, this process should be automated and run each 2-3 months.
+
+Why?
+
+- Because this is often enough so that it does not erode away too long.
+- Also this urges you to implement some neccessary monitoring.
+- With nearly 3 years you should have enough time to fix automation if something breaks the rotation schedule.
