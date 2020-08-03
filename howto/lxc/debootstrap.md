@@ -8,9 +8,9 @@ The [documentation](https://wiki.debian.org/LXC) exposes some major issues.
 ### Full access from some untrusted 3rd party
 
 > You are probably very well informed about security nightmares like DockerHub or MavenRegistry.
-> However that such a security nightmare is also built right into LXC via [LXD](https://images.linuxcontainers.org/) was new to me.
+> However it was new to me, that such a security nightmare is also built right into LXC via [LXD](https://images.linuxcontainers.org/).
 >
-> **Never use `lxc -t download`**.  Already the word `download` should ring all of your security warning doorbells!  Right?
+> **Never use `lxc -t download`**.  You have been warned.  Already the word `download` should ring all of your security warning doorbells!  Right?
 
 In case you are allowed to use LXC but are not privileged, it is very likely that you do not have a direct network connectivity.
 In that case you will see following:
