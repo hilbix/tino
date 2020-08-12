@@ -1,6 +1,6 @@
 Gendering in der Sprache ist der vollkommen falsche Ansatz.
 Gendering muss in den Köpfen ansetzen, dann folgt die Sprache vollautomatisch.
-Setzt man stattdessen bei der Sprache an, blockiert man diese Entwicklung, und zwar nachhaltig.
+Setzt man stattdessen bei der Sprache an, blockiert man die Kopfentwicklung, und zwar nachhaltig.
 
 > Nur zur Info: Ich bin eine männliche Hete.
 
