@@ -26,10 +26,10 @@ Wash:
 Rinse:
 
     vim /var/lib/dpkg/info/$PACKAGE.postinst
-    # add some "set -e" or debugging outputs
+    # add some "set -x" or debugging outputs
 
 Repeat!
 
 ## Any questions?
 
-Yes.  Why doesn't `dpkg` have a debug switch to run `postinst` and the like with option `-e` or similar?
+Yes.  Why doesn't `dpkg` have a debug switch to run `postinst` and the like with option `-x` or similar?
