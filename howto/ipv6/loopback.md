@@ -14,6 +14,9 @@ The original design of IPv6 mentioned `::/96` as the IPv4 compatible address spa
 Hence `::1` is `::0.0.0.1` and directly corresponds to `0.0.0.1`.
 
 Nowadays this direct mapping is deprecated (why?), but that leaves us with just a single Loopback address.
+(I found something mentioning, that `::ffff:0:0/96` allows to re-use the ipV4 header checksum unchanged somehow.
+But I did not really understand the motivation at all.
+Any pointer to this out there which explain this in some understandable way?)
 
 > That `0.0.0.0/8` is free and usually not used does not mean that we will not see it becomes used in future if the demand arises.
 >
