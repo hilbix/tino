@@ -1,6 +1,8 @@
 > TL;DR.  In short:
 >
 > `PATH="$PATH:/usr/sbin" fakechroot fakeroot /usr/sbin/debootstrap --variant=minbase buster $TARGETDIR $URLofYourLocalDebianMirror`
+>
+> or use `mmdebstrap` ([I an preparing a repo for this](https://github.com/hilbix/LXC))
 
 # LCX and unprivileged containers
 
@@ -35,8 +37,8 @@ LXC cannot be set up as explained.
 
 Even if [everything is setup properly](https://wiki.debian.org/LXC#Unprivileged_container) with
 
-    sudo sh -c 'echo "kernel.unprivileged_userns_clone=1" > /etc/sysctl.d/80-lxc-userns.conf'
-    sudo sysctl --system
+	sudo sh -c 'echo "kernel.unprivileged_userns_clone=1" > /etc/sysctl.d/80-lxc-userns.conf'
+	sudo sysctl --system
 
 Debian Buster currently exposes [a bug](https://github.com/lxc/lxc/issues/3121)
 in the [code](https://github.com/lxc/lxc/commit/c14ea11dccbfa80021a9b169b94bd86e8b359611#diff-9308db620cfc569a9c2a7e321f741ebd):
@@ -72,3 +74,57 @@ This bug was even hiding [something completely different](https://github.com/lxc
 
 ## debootstrap to the rescue
 
+With following command you are able to bootstrap some Linux:
+
+	PATH="$PATH:/usr/sbin" fakechroot fakeroot /usr/sbin/debootstrap --variant=minbase buster $TARGETDIR $URLofYourLocalDebianMirror
+
+However this is clumsy, as the filesystem information is gone after `fakeroot` returns
+
+- Use `fakeroot -s SAVEFILE1.perms` to save the permissions
+- Use `fakeroot -l SAVEFILE1.perms -s SAVEFILE2.perms` and so on afterwards to read in the old permissions and save the new ones
+
+However I never managed to setup a fully functional LXC container this way until I discovered another tool: `mmdebstrap`
+
+## Better use `mmedbstrap`
+
+On Ubuntu 20.04 this creates a `.tar` file which contains a root filesystem for Ubuntu 20.04:
+
+	mmdebstrap focal focal.tar http://archive.ubuntu.com/ubuntu/
+
+Note that this does not require root permission!  To fill it with things LXC needs you need something like:
+
+	mmdebstrap --include=ifupdown,systemd-sysv focal focal.tar http://archive.ubuntu.com/ubuntu/
+
+However if you want to create Debian containers from Ubuntu you will hit a problem:
+
+```
+$ mmdebstrap buster buster.tar 
+I: automatically chosen mode: unshare
+I: chroot architecture amd64 is equal to the host's architecture
+I: using /tmp/mmdebstrap.FaZqrpnifm as tempdir
+I: running apt-get update...
+done
+Get:1 http://deb.debian.org/debian buster InRelease [122 kB]
+Err:1 http://deb.debian.org/debian buster InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 04EE7237B7D453EC NO_PUBKEY 648ACFD622F3D138 NO_PUBKEY EF0F382A1A7B6500 NO_PUBKEY DCC9EFBF77E11517
+Reading package lists...
+W: GPG error: http://deb.debian.org/debian buster InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 04EE7237B7D453EC NO_PUBKEY 648ACFD622F3D138 NO_PUBKEY EF0F382A1A7B6500 NO_PUBKEY DCC9EFBF77E11517
+E: The repository 'http://deb.debian.org/debian buster InRelease' is not signed.
+E: apt-get update -oAPT::Status-Fd=<$fd> -oDpkg::Use-Pty=false failed
+I: removing tempdir /tmp/mmdebstrap.FaZqrpnifm...
+```
+
+You can fix this:
+
+	sudo install debian-archive-keyring
+	
+	mkdir debian.trust
+	ln -s /usr/share/keyrings/debian-archive-keyring.gpg debian.trust
+	
+	mmdebstrap --include=ifupdown,systemd-sysv --aptopt=Dir::Etc::TrustedParts "\"$(readlink -e debian.trust)/\";") buster buster.tar
+
+This trick also works for other distributions like Devuan, the only question is, where to find the right key?
+
+> You do not want to take unverifiable keys from unsecured websites, right?\
+> And no, HTTPs is not authenticating what you download, it only protects the transport which is not needed for public key information at all,
+> as you need to authenticat such information by other means anyway.
