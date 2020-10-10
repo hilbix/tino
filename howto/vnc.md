@@ -44,12 +44,12 @@ On Machine D create an SSH-Wrapper to Machine X in your `~/.ssh/config` file:
 
 ```
 Host vnc-x
-        Hostname machine-x
-#       User <your.user>
-#       ProxyCommand ssh jumper -W %h:%p
-        RemoteCommand exec x11vnc -inetd -ncache 10 -ncache_cr -display :0 2>>~/.ssh2vnc.log
-        ForwardAgent yes
-        Compression yes
+  Hostname machine-x
+# User <your.user>
+# ProxyCommand ssh jumper -W %h:%p
+  RemoteCommand exec x11vnc -inetd -ncache 10 -ncache_cr -display :0 2>>~/.ssh2vnc.log
+  ForwardAgent yes
+  Compression yes
 ```
 
 This `ssh`-connection directly launches `x11vnc` as the user and uses the user's X-Credentials.
@@ -67,10 +67,30 @@ RFB 003.008
 ^Cmachine-d$ 
 ```
 
+Possible problems:
+
 This needs the `ssh` credentials of the user, which only belong to the user.
 
 > So this can be considered secure as well, as nobody else is able to do so,
 > except the user and people, who can act as the user already.
+
+If you do not see the `RFB 003.008` your `ssh` uses pipes and your `x11vnc` does not work with pipes.
+In that case you need another workaround to transform the piped `stdin` into a `socketpair()`:
+For example use something like
+
+```
+  RemoteCommand exec socat - exec:'x11vnc -inetd -ncache 10 -ncache_cr -display \:0' 2>>~/.ssh2vnc.log
+```
+
+The `\` is needed by `socat` to dequote the `:`, else you will get a weird error message.  It becomes even weirder if you want to check this from commandline:
+
+```
+machine-d$ ssh machine-x "socat - exec:'/usr/bin/x11vnc -inetd -ncache 10 -ncache_cr -display \\:0'" 2>/dev/null
+RFB 003.008
+^Cmachine-d$ 
+```
+
+To see all diagnostic, leave away the `2>/dev/null`.
 
 
 ## `ssvncviewer` to view
@@ -85,6 +105,12 @@ use (1024 must be set to the real height of your screen):
     ssvncviewer -ycrop 1024 "exec=ssh vnc-x"
 
 This possibly needs `ssh` authorization of the user.  You can use `ssh-agent` and `ssh-add -c`.
+
+Security warning:
+
+**Using `ssvncviewer` is insecure** on multiuser machines, as it creates some open port on localhost.
+With the right timing somebody else on the same computer can catch the VNC session instead of you.
+Probably only for a short time, but just a microsecond is enough to cause a lot of harm for attackers.
 
 
 ## use `nc` as alternative to `ssvncviewer`: 
@@ -102,8 +128,9 @@ This differs from implementation to implementation.
 
 Security warning:
 
-Using `netcat` this way **is not very secure** as anybody, who can connect to 127.0.0.1 on Machine D,
-is able to access the VNC port this way.  Note that your browser is such a beast,
+**Using `netcat` this way is insecure** as anybody, who can connect to 127.0.0.1 on Machine D,
+is able to access the VNC port this way.
+
+Note that your browser is such a beast,
 as nothing prevents web pages to contain or access URL `http://127.0.0.1:5901/`.
 (This is not able to open some RFB connection, but triggers the connection which might be undesireable.)
-
