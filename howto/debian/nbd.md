@@ -17,11 +17,12 @@
 ## WTF why?
 
 - I have an LVM image file I want to export residing on zfs-fuse
-- I want to mount the image readonly, such that it is not accidentally destroyed
-- So I do `losetup` from the cloned ZFS snapshot for the image file
-- But this does not work, because **`losetup` exports ZFS files readonly** and LVM requires full write access
+- I want to mount the image readonly, such that it is not accidentally destroyed.
+- But LVM requires full write access if you need a command like `lvchange -a` or `lvreduce --missing`.
+- So I tried `losetup` from a cloned ZFS snapshot of the image file
+- But this fails, because **`losetup` exports ZFS (FUSE) files implicitely readonly**
 
-Complete Fail!  But here comes `nbd` to the rescue.
+Complete Fail!  So this needs `nbd` to the rescue.
 
 But .. I really do not understand what was done to `nbd`.  In the 1990s it was easy to use.
 Today it became a real monster you have to workaround.  WTF!?!  Nothing is straight forward anymore.
@@ -61,6 +62,30 @@ Here are the list of bugs encountered with these dirty little bastards:
   - Then there is nothing more to do.
   - But why is there such an option if it is not implemented?
   - `nbd-client` spits out warnings for really nothing, but in this case .. deaf and mute!
+
+And:
+
+- `nbd-server IP:port` but `nbd-client IP port`.  Lacks symmetry.
+- `nbd-client` allows to connect to Unix Domain Sockets natively.
+- `nbd-server`, however, seems to not support those Unix Domain Sockets directly.
+- `nbd-server` can talk to `STDIN`/`STDOUT` (`inetd`-mode) as the connection.
+  - But `nbd-client` doesn't.
+
+This is what I would expect to be possible (this is not difficult to archive):
+
+    nbd-client /bin/nbd-server -c - file
+
+This is fully autodetectable:
+
+-`nbd-client` sees a path which must be something that exists
+  - if a Unix Domain Socket, this is used
+  - if some executable file, the rest of the commandline are arguments to the command.
+  - In that case a socketpair/pipe-pair is created as `STDIN` for the forked command.
+- `nbd-server` sees a `-` and knows it must run in foreground from `STDIN`
+  - This also disables configuration file if not specified with `-C`
+  - And the `file` now can be a relative path name
+
+Easy and very straight forward.
 
 
 ## Example
