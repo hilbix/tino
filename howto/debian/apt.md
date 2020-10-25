@@ -2,7 +2,7 @@
 
 Some quirks about `apt`
 
-## `apt-key update` does not work
+## `apt-key update` does no more work
 
 Symptom after some debian-buster-minimal install:
 
