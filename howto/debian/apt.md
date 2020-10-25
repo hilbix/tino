@@ -29,10 +29,12 @@ Warning: 'apt-key update' is deprecated and should not be used anymore!
 Note: In your distribution this command is a no-op and can therefore be removed safely.
 ```
 
-It only looks like only 250% of all tutorials about `NO_PUBKEY` in the Internet reference `apt-key update`, hence you disable this command.
+It only looks like only 250% of all tutorials about `apt NO_PUBKEY` in the Internet reference `apt-key update`, hence you disable this command.
 Wohooo!  Very well done!  
 
 > Spoiler: This was sarcasm.
+>
+> Looks like SystemD has gone a bit too viral now, no?
 
 The trick is, to do it as follows now:
 
