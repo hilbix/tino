@@ -29,27 +29,27 @@ Warning: 'apt-key update' is deprecated and should not be used anymore!
 Note: In your distribution this command is a no-op and can therefore be removed safely.
 ```
 
-Wohooo!  Very well done!
+It only looks like only 250% of all tutorials about `NO_PUBKEY` in the Internet reference `apt-key update`, hence you disable this command.
+Wohooo!  Very well done!  
 
 > Spoiler: This was sarcasm.
 
-The trick is, to do it as follows:
+The trick is, to do it as follows now:
 
 ```
-# apt-key add /etc/apt/trusted.gpg.d/*.gpg                                                                                                            
-OK                                                                                                                                                                           
+# apt-key add /etc/apt/trusted.gpg.d/*.gpg
+OK
 ```
 
 Now it works:
 
 ```
-# apt-get update                                                                                                                                      
-Get:1 http://deb.debian.org/debian buster InRelease [121 kB]                                                                                               
-Get:2 http://deb.debian.org/debian buster/main amd64 Packages [7906 kB]                                                                                    
-Get:3 http://deb.debian.org/debian buster/main Translation-en [5968 kB]                                                                                    
-Fetched 14.0 MB in 3s (5563 kB/s)                                                                                                                                            
-Reading package lists... Done                                                                                                                                                
+# apt-get update
+Get:1 http://deb.debian.org/debian buster InRelease [121 kB]
+Get:2 http://deb.debian.org/debian buster/main amd64 Packages [7906 kB]
+Get:3 http://deb.debian.org/debian buster/main Translation-en [5968 kB]
+Fetched 14.0 MB in 3s (5563 kB/s)
+Reading package lists... Done
 ```
 
 A last word to say:  **WTF?!?**
-
