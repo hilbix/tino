@@ -3,6 +3,11 @@
 >
 > So here is how.
 
+TL;DR:
+
+    DEBCONF_DEBUG=developer dpkg -D2 --configure --pending
+
+
 # Debugging Debian `postinst` and similar
 
 > `$PACKAGE` or `${PACKAGE}` stands for the package to debug
@@ -11,6 +16,7 @@
     installed $PACKAGE package post-installation script subprocess returned error exit status 10
 
 And now?
+
 
 ## Debugging steps
 
