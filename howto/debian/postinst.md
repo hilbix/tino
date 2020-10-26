@@ -1,11 +1,11 @@
+TL;DR:
+
+    DEBCONF_DEBUG=developer dpkg -D2 --configure --pending
+
 > WTF?  I could not find any suitable documentation about this matter?!?
 > Only some broken bits of more or less broken parts which do not fit together at all.
 >
 > So here is how.
-
-TL;DR:
-
-    DEBCONF_DEBUG=developer dpkg -D2 --configure --pending
 
 
 # Debugging Debian `postinst` and similar
