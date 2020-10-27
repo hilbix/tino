@@ -1,4 +1,4 @@
-> Die Fritzbox hat einige sehr hilfreiche Möglichkeiten, die gut versteckt wurden.
+> Die FRITZ!Box hat einige sehr hilfreiche Möglichkeiten, die gut versteckt wurden.
 > Jedenfalls fand ich diese nur weil ich irgendwo im Internet über einen Link gestolpert bin
 > und siehe da, das tut tatsächlich.
 >
