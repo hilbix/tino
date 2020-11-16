@@ -19,7 +19,10 @@ Notes:
 - Then see the error output and add `--plugins` accordingly
 - `--plugings` accepts a comma separated list (not documented anywhere)
 
+
 ### Example
+
+`es11.js` source from https://github.com/hilbix/js/tree/es11
 
 ```
 babeljs --presets @babel/preset-env es11.js -o es6.js
