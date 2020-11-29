@@ -51,6 +51,9 @@ nnoremap <Esc>m :silent make clean\|silent make\|redraw!\|cw\|silent cc<CR>
 " #W#path/to/file#line#column#warning message#
 " #E#path/to/file#line#column#error message#
 set efm+=#%t#%f#%l#%c#%m#
+set efm+=#%t#%f#%l##%m#
+set efm+=#%t#%f###%m#
+set efm+=#%t#%f##%c#%m#
 " Jump to prev/next error (on sane keyboards there is a gap between F4 and F5, so easy to reach, spot and use)
 nnoremap <F4> :cprevious<CR>
 nnoremap <F5> :cnext<CR>
