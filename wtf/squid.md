@@ -65,6 +65,6 @@ Connection: keep-alive
 Hash: SHA256
 ```
 
-**`Content-Length: 0`?!?  If Content-Length is 0, then no body must follow, but there is one coming from SQUID.
+**`Content-Length: 0`:***  If Content-Length is 0, then no body must follow, but there is one coming from SQUID.
 
 WTF is going on here?  How can this ever happen?
