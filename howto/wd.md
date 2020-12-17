@@ -299,3 +299,45 @@ sondern verschleiern ja oft (anscheinend) auch noch, ob die Platte überhaupt SM
 
 Dabei ist das doch alles gar nicht notwendig!  Spielt doch einfach mit offenen Karten!
 Dann hätte ich auch gar kein Problem damit, sondern könnte die Technik für mich optimal einsetzen!
+
+
+# Versteht mich bitte nicht falsch
+
+"Unbrauchbar" bedeutet: **Für mich unbrauchbar.**
+
+Das hier ist keine Empfehlung an andere und auch kein Blog sondern ein **für mich und nur mich bestimmter Zettelkasten** in den ich mir - öffentlich halt - alles notiere was mir so einfällt!
+
+Wenn ich also sage "unbrauchbar" bedeutet das nicht, dass ich sage "das kann nichts und niemand gebrauchen".
+
+Die Blues habe ich nur aufgeführt, weil es MICH betrifft, ich also diesen Schrott im Desktop nicht haben will.  Warum?
+
+Weil ich auch auf dem Desktop ZFS verwende:
+
+- Eine Boot-SSD (256 GB) für das Basissystem und SWAP
+- Dazu noch 2 Dekstopplatten (LVM-Mirror) für die Daten
+- LVM über alles
+
+Und der meiste Platz auf den "langsamen" Platten wird für einen ZFS (mirror) genutzt der '/home' bereitstellt!
+
+> Warum?  [BTRF ist immer noch komplett unbrauchbar](https://btrfs.wiki.kernel.org/index.php/Status).
+>
+> Es steht überdeutlich in dem Link:
+>
+> **If any read fails due to an IO error, the delete/replace operation is aborted and the administrator must remove or replace the damaged data before trying again.**
+>
+> Auf gut Bayrisch fällt mir dazu nur eines ein:  Arschoffn odr?
+>
+> Denn das ist genau der Normalfall!  In über 90% der Zeit tauchen bei mir irgendwelche read errors beim Rebuild auf.
+> Da verhält sich sogar das (fast unbrauchbare Mirroring vom) LVM ja deutlich besser als BTRFS!
+>
+> Wenn BTRFS diese kritische Fähigkeit nicht so wie ZFS unterstützt, ist es leider **komplett** unbrauchbar.
+> Warum muss man auch BTRFS nehmen, wenn es etwas gibt, das vollständig und vollkommen problemlos funktioniert?
+>
+> Vgl. ZFS:  Das meldet lapidar die korrupten Dateien, alles andere bleibt aber shiny.
+
+Auf dem Desktop kann ich SMR ebenfalls nicht brauchen.  Jedenfalls diese ganzen akuten SMR-Platten nicht.
+
+Vielleicht klappt es ja mal mit neueren Modellen, die dann vernünftig *funktionieren* und nicht irgendwelche Päuschen einlegen,
+die den IO-Stack zu fatalen Timeouts bringen.
+
+Nein, das ist kein Fehler vom IO-Stack.  Wenn eine Platte nicht binnen 1s ansprechbar ist, dann ist sie **defekt**!
