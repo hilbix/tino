@@ -9,7 +9,9 @@ denn sie verkaufen für einen exakt bestimmten Workload exakt unbrauchbar konstr
 
 WTF?  Damit ich nicht immer irgendwie kompliziert nachgreppen muss, fasse ich hier meine Erkenntnisse zusammen, weil ich das in meinem Zettelkasten auch wieder finde.
 
-- **`EFRX` hat CMR**, das ist die **einzig richtige** Technologie für ZFS NAS
+- **`EFRX` hat CMR**, das ist die **einzig richtige** Technologie für ZFS NAS.  Diese Platten heißen anscheinend jetzt "RED PLUS"
+  - Obwohl .. [anscheinend gibt es Lieferanten](https://www.heise.de/news/WD-Red-Amazon-verkauft-SMR-als-CMR-Festplatten-4798442.html),
+    die statt echter "RED PLUS" auch EFAX verkaufen.
 - **`EFAX` ist SMR**, sind also **komplett unbrauchbar**.
   - Als Archivplatte kann man die vielleicht verwenden, aber nicht für NAS-Technologie für die sie verkauft werden.
   - Bei mir speichert das NAS RANDOM 4KB-Workloads (ZFS) quer über alle Platten,  komplett zufällig und willkürlich, und zwar gigabyteweise.
