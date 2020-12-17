@@ -6,6 +6,10 @@ Da solche Informationen sehr schnell evaporieren, habe ich mir hier die wichtigs
 >
 > - SMR (unbrauchbar) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=6
 > - CMR (sinnvoll) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=8
+>
+> Hinweis: Auf hardwareLUXX befinden sich Tabellen für die weiteren Hersteller Seagate und Toshiba.
+
+Stand 2020-07 **YMMV**
 
 Unbrauchbar (SMR):
 
