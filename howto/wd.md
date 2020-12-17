@@ -1,3 +1,41 @@
+- SMR (unbrauchbar) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=6
+- CMR (sinnvoll) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=8
+
+Da solche Informationen sehr schnell evaporieren, habe ich hier die wichtigsten Infos rauskopiert.
+
+> **!ACHTUNG!** DIESE INFORMATIONEN HABEN KEINE GARANTIE AUF RICHIGKEIT!  WD kann machen was sie wollen und Lieferanten fälschen gerne vollkommen ungehemmt!
+
+Unbrauchbar (SMR):
+
+- WD20EZAZ 5.400 Western Digital Blue 2 TB
+- WD40EZAZ 5.400 Western Digital Blue 4 TB
+- WD60EZAZ 5.400 Western Digital Blue 6 TB
+- WD20EFAX 5.400 Western Digital Red 2 TB
+- WD30EFAX 5.400 Western Digital Red 3 TB
+- WD40EFAX 5.400 Western Digital Red 4 TB
+- WD60EFAX 5.400 Western Digital Red 6 TB
+
+Brauchbar (CMR):
+
+- WD10EFRX 5.400 Western Digital Red Plus 1 TB
+- WD20EFRX 5.400 Western Digital Red Plus 2 TB
+- WD30EFRX 5.400 Western Digital Red Plus 3 TB
+- WD40EFRX 5.400 Western Digital Red Plus 4 TB
+- WD60EFRX 5.400 Western Digital Red Plus 6 TB
+- WD80EFAX 5.400 Western Digital Red 8 TB
+- WD100EFAX 5.400 Western Digital Red 10 TB
+- WD101EFAX 5.400 Western Digital Red Plus 10 TB
+- WD120EFAX 5.400 Western Digital Red Plus 12 TB
+- WD140EFFX 5.400 Western Digital Red Plus 14 TB
+- WD2002FFSX 7.200 Western Digital Red Pro 2 TB
+- WD4003FFBX 7.200 Western Digital Red Pro 4 TB
+- WD6002FFWX 7.200 Western Digital Red Pro 6 TB
+- WD6003FFBX 7.200 Western Digital Red Pro 6 TB
+- WD8003FFBX 7.200 Western Digital Red Pro 8 TB
+- WDW101KFBX 7.200 Western Digital Red Pro 10 TB
+- WD121KFBX 7.200 Western Digital Red Pro 12 TB
+- WD141KFGX 7.200 Western Digital Red Pro 14 TB
+
 # WD
 
 ## Die "richtigen" WD und die falschen
