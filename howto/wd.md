@@ -1,9 +1,11 @@
-- SMR (unbrauchbar) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=6
-- CMR (sinnvoll) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=8
-
-Da solche Informationen sehr schnell evaporieren, habe ich hier die wichtigsten Infos rauskopiert.
+Da solche Informationen sehr schnell evaporieren, habe ich mir hier die wichtigsten Infos hinkopiert.
 
 > **!ACHTUNG!** DIESE INFORMATIONEN HABEN KEINE GARANTIE AUF RICHIGKEIT!  WD kann machen was sie wollen und Lieferanten fälschen gerne vollkommen ungehemmt!
+>
+> Quelle (vielen Dank für diese Zusammenstellung dort):
+>
+> - SMR (unbrauchbar) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=6
+> - CMR (sinnvoll) https://www.hardwareluxx.de/index.php/artikel/hardware/storage/51244-cmr-smr-der-hdd-guide-zu-den-verschiedenen-aufnahmemethoden.html?start=8
 
 Unbrauchbar (SMR):
 
