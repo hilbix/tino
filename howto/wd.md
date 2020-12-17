@@ -334,6 +334,11 @@ Und der meiste Platz auf den "langsamen" Platten wird für einen ZFS (mirror) ge
 > Warum muss man auch BTRFS nehmen, wenn es etwas gibt, das vollständig und vollkommen problemlos funktioniert?
 >
 > Vgl. ZFS:  Das meldet lapidar die korrupten Dateien, alles andere bleibt aber shiny.
+>
+> Außerdem unterstützt ZFS zraid3 (leider kann man den RAID-Level nicht dynamisch wechseln)
+> und SnapRAID sogar 1-6 Redundanzen (dynamisch veränderbar).
+>
+> Und BTRFS?  RAID5? RAID6?  Oh, nein, falsch, all das tut noch nicht.  Auslach!  Sind die doof oder was?
 
 Auf dem Desktop kann ich SMR ebenfalls nicht brauchen.  Jedenfalls diese ganzen akuten SMR-Platten nicht.
 
@@ -343,3 +348,13 @@ die den IO-Stack zu fatalen Timeouts bringen.
 Nein, das ist kein Fehler vom IO-Stack.  
 Von einer modenen Platte erwarte ich eine **Mindestrransaktionsrate von 10 Transaktionen/s!**
 Wenn eine Platte also nicht binnen 1s reagiert, dann ist sie **defekt**!
+
+> BTW, SnapRAID ist nach einem Plattentotalschaden bei mir gerade in einem solchen Rebuild, der noch etwa **12 Tage(!) dauern** wird.
+>
+> Glaubt irgendwer (außer den Entwicklern von BTRFS) auf diesem Planeten, dass die Dinge so lange wirklich garantiert stabil bleiben?
+>
+> Leute, solche Dinge müssen JEDERZEIT UNTERBRECHBAR und JEDERZEIT NEU STARTBAR sein, ohne dabei wieder ganz von vorne anzufangen.
+>
+> Dass dabei WEITERE Probleme auftreten ist eher NORMALZUSTAND.  Das muss man vorhersehen.  Deshalb ist es auch wichtig, Platten zu haben,
+> auf die absoluten verlass ist (außer sie sind defekt).  Platten wie SMR, die in dieser Hinsicht schon quasi-defekt vom Werk kommen,
+> weil sie **im besten Fall gerade mal vielleicht keine Fehler** machen, sind schlicht unbrauchbar!
