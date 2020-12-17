@@ -357,4 +357,6 @@ Wenn eine Platte also nicht binnen 1s reagiert, dann ist sie **defekt**!
 >
 > Dass dabei WEITERE Probleme auftreten ist eher NORMALZUSTAND.  Das muss man vorhersehen.  Deshalb ist es auch wichtig, Platten zu haben,
 > auf die absoluten verlass ist (außer sie sind defekt).  Platten wie SMR, die in dieser Hinsicht schon quasi-defekt vom Werk kommen,
-> weil sie **im besten Fall gerade mal vielleicht keine Fehler** machen, sind schlicht unbrauchbar!
+> weil sie **im besten Fall gerade mal vielleicht keine Probleme verursachen**, sind schlicht unbrauchbar!
+>
+> Denn: Brauchbare Platten sollten im Normalfall keine Probleme verursachen.  Das kann man von SMR halt einfach nicht sagen!
