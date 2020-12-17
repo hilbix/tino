@@ -340,4 +340,6 @@ Auf dem Desktop kann ich SMR ebenfalls nicht brauchen.  Jedenfalls diese ganzen 
 Vielleicht klappt es ja mal mit neueren Modellen, die dann vernünftig *funktionieren* und nicht irgendwelche Päuschen einlegen,
 die den IO-Stack zu fatalen Timeouts bringen.
 
-Nein, das ist kein Fehler vom IO-Stack.  Wenn eine Platte nicht binnen 1s ansprechbar ist, dann ist sie **defekt**!
+Nein, das ist kein Fehler vom IO-Stack.  
+Von einer modenen Platte erwarte ich eine **Mindestrransaktionsrate von 10 Transaktionen/s!**
+Wenn eine Platte also nicht binnen 1s reagiert, dann ist sie **defekt**!
