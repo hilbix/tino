@@ -8,6 +8,8 @@
 >
 > That's exactly the point!  **Thank you very much, Cirrus CI team, for doing it right!**
 
+Example of [`.cirrus.yml`](https://github.com/hilbix/snapraid/blob/cirrus-ci/.cirrus.yml) for `gcc`, Mac and FreBSD, built on trial'n'error with sweat'n'tears
+
 # GitHub Cirrus CI micro HowTo
 
 Unfortunately, Cirrus CI is not self explanatory.  You need documentation.  This tries to sum it up.
