@@ -19,6 +19,8 @@ Everything needs `root` as you are dealing with the kernel directly.
 - `stap-prep`
   - Ubuntu 20.04: This downloads (via `apt`) all needed debug symbols of the currently running kernel
   - **Warning** This puts 5GB+ under `/usr/lib/debug/`.  Per kernel, of course.
+  - Under Debian Buster it tells me that `linux-image-4.19.0-13-amd64-dbgsym` is missing.  
+    That's right, as you need `linux-image-4.19.0-13-amd64-dbg` without `sym`.  WTF?
 - `stap -v -e 'probe oneshot { println("Hello World") }'`
   - This is not instant and takes a while to compile and run.
 
