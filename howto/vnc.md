@@ -67,12 +67,12 @@ RFB 003.008
 ^Cmachine-d$ 
 ```
 
-Possible problems:
-
 This needs the `ssh` credentials of the user, which only belong to the user.
 
 > So this can be considered secure as well, as nobody else is able to do so,
 > except the user and people, who can act as the user already.
+
+Possible problems:
 
 If you do not see the `RFB 003.008` your `ssh` uses pipes and your `x11vnc` does not work with pipes.
 In that case you need another workaround to transform the piped `stdin` into a `socketpair()`:
@@ -91,6 +91,14 @@ RFB 003.008
 ```
 
 To see all diagnostic, leave away the `2>/dev/null`.
+
+If `x11vnc` crashes after a few seconds with "caught XIO error:" I found following workaround (so it seems to be a bug in `x11vnc`):
+
+- Run `x11vnc` with option `-noxinerama`, like this:
+
+  `RemoteCommand socat - exec:'/usr/bin/x11vnc -inetd -ncache 10 -ncache_cr -noxinerama -display \:0' 2>>~/.ssh2vnc.log`
+
+- see also https://forums.freebsd.org/threads/x11vnc-does-not-work-as-it-should-after-upgrade-from-11-to-12-1-version-crashes-every-time-after-2-3-days.73400/
 
 
 ## `ssvncviewer` to view
