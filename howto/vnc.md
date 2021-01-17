@@ -117,7 +117,7 @@ Probably only for a short time, but just a microsecond is enough to cause a lot 
 
 As the "real" `netcat` most often lacks option `-e` (for some unintelligible reason), best is to use the `busybox` variant:
 
-    busybox nc -llp 5901 127.0.0.1 ssh vnc-x
+    busybox nc -llp 5901 127.0.0.1 -e ssh vnc-x
 
 Now you can use your preferred `vncviewer`:
 
