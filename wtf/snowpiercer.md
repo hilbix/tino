@@ -2,7 +2,7 @@
 >
 > Die Macher dieser Serie können offensichtlich nicht rechnen.
 >
-> Denn Passagiere bewegen sich mit über 200 km/h durch den Zug.
+> Denn Passagiere bewegen sich mit über 200 km/h durch den Zug.  Zu Fuß.
 
 
 # Snowpiercer
