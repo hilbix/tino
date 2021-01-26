@@ -114,6 +114,37 @@ Und nein, die verwenden Celsius (S2 E1 7:01), nicht Farhrenheit.
 >
 > Und bei -20 Grad hält man sicher kein eisenummanteltes Gerät in bloßen Händen (wie in S2 E1 7:01 zu sehen)
 
+Das mit der Schneekugel erklärt aber eher genau das Gegenteil.  Auftritt Grönland.  Warum schmelzen da gerade großflächig die Gletscher ab?
+
+Erderwärmung?  Nein, daran glauben nur Schwachköpfe!  Die Erderwärmung reicht dafür nämlich nicht aus.
+Im Gegensatz zur Erderwärmung, von der, trotz globaler Hype, noch niemand bisher zweifelsfrei hat nachweisen können, dass diese menschengemacht ist,
+geschieht das mit der grönländischen Gletscherschmelze eindeutig und zweifelsfrei von Menschenhand.  Die Erderwärmung ist zwar auch ein Faktor,
+denn ohne die wären die Gletscher jetzt nicht am Schmelzpunkt.  Aber von früher wissen wir:  Auch in Zeiten mit wesentlich höheren Erdtemperaturen
+gab es die Grönlandgletscher.  Glaubt man aber den Prognosen, und ich habe da keine Zweifel, hat der Mensch diese jetzt vernichtet.
+
+Wie?  Mit dem, was er am besten kann.  Drecksau sein.  Die Luftverschmutzung hat die Gletscher so eingefärbt, dass die zu viel Sonnenlicht absorbieren.
+Und das bedeutet, sie nehmen zu viel Energie auf und das wiederum bedeutet, sie schmelzen schon früher als sonst.
+
+> DAS hat der Mensch und nur der Mensch verursacht.  Und wie immer, ändern können wir daran nichts, dafür reichen all die Sünden der Vergangenheit aus.
+> Naja, nicht ganz.  Durch unsere akute Klimahysterie geben wir dem Abschmelzungsprozess gerade zusätzlich den Nachbrenner.
+>
+> Hä?  Ja, erst mal Dreck in die Luft blasen und die Gletscher mit brauner Soße übergießen, um dann die Luft zu säubern,
+> so dass nun maximaler Sonnedruck runterknallen kann.  Optimaler menschengemacht geht kaum.
+> Erst ohne Sinn und Verstand oder Gedanken an die Konsequenzen, und anschließend dann mit unheilbarer Borniertheit.
+>
+> Borniert nenne ich, wenn man andere zum Handeln zwingt, obwohl man die vollen unabänderlichen Konsequenzen dieses Tuns
+> nicht einmal ansatzweise überblickt hat oder gewillt ist, sich diese selbst dann einzugestehen, wenn man sie deutlichst vor Augen hat.
+
+Auftritt Snowball.  Äh, wie schmilzt man all den Schnee jetzt ohne irgendeinen Aufwand mit einem No-Brainer?
+
+Genau.  Einfach Dreck machen.  Das, was der Mensch gemäß der gesamten Menschheitsgeschichte am allerbesten beherrscht.  Nach Krieg, natürlich.
+
+> Krieg, Dreck, Sklaverei.  Die Dreifaltigkeit des Menschen.  In dieser Reihenfolge.
+>
+> Oder anders gesagt:  Wenn es das Szenario wirklich geben würde, gäbe es es nicht.
+> All das Weiß so zu verdrecken dass es ein für allemal abschmilzt, dazu braucht nicht einmal irgendeine Anstrengung der Menschheit.
+> Man muss nur erklären, dass die Skisaison jetzt eröffnet ist.  Und schon ist die Sache geritzt.
+
 
 # Inkonsistenzen
 
