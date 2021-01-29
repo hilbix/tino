@@ -1,6 +1,6 @@
 > Leser lesen nur die Überschrift und gehen dann zum nächsten Artikel weiter.  Steht in der Überschrift eine Lüge ist das ein Fall für Lügenpresse.
 >
-> Nein, wenn die Überschrift im Text irgendwo klein richtigestellt wird, sich also der Artikel selbst widerspricht, bleibt es eine Lüge.
+> Wenn die Überschrift im Text irgendwo klein richtigestellt wird, sich also der Artikel selbst widerspricht, bleibt es dennoch eine Lüge.
 
 # Lügenpresse
 
