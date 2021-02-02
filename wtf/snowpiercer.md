@@ -38,7 +38,7 @@ Wenn man sie anhält produziert sie weniger Energie.
 > Mal abgesehen davon, dass das vollkommener Blödsinn ist, denn hätte man so eine Maschine wäre es einfach, die Erde aufzutauen,
 > denn man hat durch solch eine Maschine ja so viel freie Energie wie man will.
 >
-> Und nein, es ist kein Unikat das man nicht nachbauen kann, sonst gäbe es die Dicke Berta nicht.
+> Und nein, es ist kein Unikat das man nicht nachbauen kann, sonst gäbe es die Dicke Alpha nicht.
 
 Auch ist (anscheinend) vollkommen sinnfrei, dass sich der Snowpiercer bewegen muss.
 In welche Himmelsrichtung er das tut ist nämlich vollkommen einerlei
