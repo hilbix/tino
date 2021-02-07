@@ -2,7 +2,7 @@ https://tools.ietf.org/html/rfc8473
 
 # WTF RFC 8473
 
-Endlich gibt es einen Standard, der Authentikation im Web erlaubt.  Er ist in RFC 8471 niedergelegt und wird mit PRF 8473 auf das Web übertragen.
+Endlich gibt es einen Standard, der Authentikation im Web erlaubt.  Er ist in RFC 8471 niedergelegt und wird mit RFC 8473 auf das Web übertragen.
 
 > Öh, haben wir etwas nicht mitbekommen?  Authentikation im Web macht doch offensichtlich jeder?
 >
