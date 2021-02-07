@@ -235,3 +235,11 @@ in diesem Sinne harmlos, dass es nicht ungeschehen passieren kann (z. B. Hinweis
 Es gehört nicht viel dazu, Dinge sicherer zu machen.  Man muss es nur wollen.
 
 > Irgendwie habe ich nur den Eindruck, der wirkliche Wille dazu fehlt allenortens.
+
+# Ach ja, einen habe ich noch
+
+https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/  Was steht da so schön?
+
+> Update 10/18/2018: Google Chrome actually removed Token Binding support in version 70 so you’ll have to be on an older version to see this work in action, or use MS Edge
+
+Alles klar!
