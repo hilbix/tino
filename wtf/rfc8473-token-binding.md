@@ -66,14 +66,14 @@ oder verstehen die eigentliche Problematik nicht die Bohne oder - hoffe ich mal 
 - Kerberos, RADIUS bzw. GSSAPI.  Das funktioniert zwar, braucht aber eine eigene Infrastruktur und funktioniert deshalb nur im eigenen Verbund.
   - Nicht allgemein verwendbar
 
-RFC 8473 könnte doese Misere endlich weitgehend auflösen.  Server und Client tauschen ein authentisches Secret aus, das man nicht fälschen kann.
+RFC 8473 könnte diese Misere endlich weitgehend auflösen.  Server und Client tauschen ein authentisches Secret aus, das man nicht fälschen kann.
 Gelöst über ein einfaches Protokoll, das man dazuklinken kann.  Setzt zwar auf HTTPS mit seinen recht willkürlichen Art der Zertifizierung auf,
 aber das wäre das erste wirklich sinnvolle Feature bei HTTPS das mich überzeugt, warum HTTPS besser ist als HTTP (Merke: HTTPS leistet genau
 nicht das, was ihm immer zugeschrieben wird.  Weil es die Daten nicht autentisiert, sondern nur die Kommunikation zwischen Server und Client.
 Also nur den Transport.  Genauso kann ich den ehrlichen Ahmed fragen, ob alles in Ordnung ist.  HTTPS ermöglich eben genau deshalb
 keine vertrauliche Kommunikation, weil es die Existenz von BlueCoat nicht verhindert.)
 
-Damit authentisiert man zwar nicht den Nutzer, aber den Browser und, wenn richtig gemacht, damit das verwendete Endgerät (Stichwort TPM, auch wenn die
+Mit RFC 8473 authentisiert man zwar nicht den Nutzer, aber den Browser und, wenn richtig gemacht, damit das verwendete Endgerät (Stichwort TPM, auch wenn die
 akuten TPMs nicht als HSM taugen, an dieser Stelle tut sich langsam etwas und hier könnte man ansetzen).  Das ist unendlich mehr als alles, was wir bisher haben.
 Vor allem bringt es die Authentisierung runter auf die Ebene von JavaScript.  (JavaScript darf das Serverzertifikat nicht abfragen,
 hat also keinerlei Zugriff auf TLS selbst.  Deshalb gibt es für JavaScript keinen Weg, eine Gegenstelle zu authentisieren, was absolut schwach ist.)
