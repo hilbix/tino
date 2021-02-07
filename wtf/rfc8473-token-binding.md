@@ -22,7 +22,7 @@ Endlich gibt es einen Standard, der Authentikation im Web erlaubt.  Er ist in RF
 
 Es gibt jetzt [zwar](https://tools.ietf.org/html/rfc8471) [den](https://tools.ietf.org/html/rfc8472) [Standard](https://tools.ietf.org/html/rfc8473),
 [nur](https://docs.google.com/document/d/1Ta3GlT_LrqAOLV217Kutn3B2trvifStxB0CThQ_kk78/edit?pli=1#) [niemand](https://bugs.chromium.org/p/chromium/issues/detail?id=467312)
-(außer Microsoft?) [implementiert](https://www.chromestatus.com/feature/5097603234529280) [ihn](https://bugs.chromium.org/p/chromium/issues/detail?id=596699).
+(außer Microsoft Edge) [implementiert](https://www.chromestatus.com/feature/5097603234529280) [ihn](https://bugs.chromium.org/p/chromium/issues/detail?id=596699).
 
 > Sahnehäubchen:  Der Bug ist geheim.  Ich bekomme jedenfalls "Permission Denied" beim letzten Link.
 
@@ -238,8 +238,33 @@ Es gehört nicht viel dazu, Dinge sicherer zu machen.  Man muss es nur wollen.
 
 # Ach ja, einen habe ich noch
 
-https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/  Was steht da so schön?
+- https://www.sjoerdlangkemper.nl/2017/07/05/prevent-session-hijacking-with-token-binding/ und
+- https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/  Was steht da so schön?
 
 > Update 10/18/2018: Google Chrome actually removed Token Binding support in version 70 so you’ll have to be on an older version to see this work in action, or use MS Edge
 
 Alles klar!
+
+## War auch viel zu einfach
+
+```
+$tokenBindingID = apache_getenv('Sec-Provided-Token-Binding-ID');
+if (isset($tokenBindingID)) {
+  $_SESSION['TokenBindingID'] = $tokenBindingID;
+}
+```
+
+und
+
+```
+if (array_key_exists('TokenBindingID', $_SESSION)) {
+  $tokenBindingID = apache_getenv('Sec-Provided-Token-Binding-ID');
+  if ($_SESSION['TokenBindingID'] != tokenBindingID) {
+    session_abort();
+  }
+}
+```
+
+> Quelle: https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/  Was steht da so schön?
+
+Neneneneneeeee, so was simples auch, wie kann man nur?
