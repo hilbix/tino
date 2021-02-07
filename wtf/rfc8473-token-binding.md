@@ -265,6 +265,7 @@ if (array_key_exists('TokenBindingID', $_SESSION)) {
 }
 ```
 
-> Quelle: https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/  Was steht da so schön?
+> Quelle: https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/
 
-Neneneneneeeee, so was simples auch, wie kann man nur?
+Neneneneneeeee, so was simples auch, wie kann man auch nur daran denken, das Web auf einen derart einfachen Weg um Längen sicherer zu machen?
+Dafür kann es niemals nicht einen Konsens geben.
