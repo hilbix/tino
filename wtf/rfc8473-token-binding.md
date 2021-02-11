@@ -95,7 +95,7 @@ Jedenfalls verspricht das das Protokoll, wenn ich es richtig verstanden habe. (*
 > Andererseits kann ich für 127.0.0.1 kein Zertifikat erhalten, außer ich hacke die ganze PKI-Infrastruktur im Browser (durch ein eigenes
 > Root-Zertifikat, welches dann wiederum weitere Gefahrenpotentiale birgt.  Erhöhen der Sicherheit durch Senken der Sicherheit?  Was soll das bitte darstellen?).
 >
-> Wäre also schön, wenn JavaScript einfach die Out-of-Band information nutzen könnte.  Das wäre mal endlich das erste valide Argument für HTTPS!
+> Wäre also schön, wenn JavaScript einfach die Out-of-Band-Information nutzen könnte.  Das wäre mal endlich das erste valide Argument für HTTPS!
 > Das Token wird das vermutlich leisten, da es ja automatisch invalidiert werden müsste, wenn der Server seine Identität wechselt
 > (also die Domain verlorengeht und von einem Cybersquatter gekapert wird).  Anderenfalls wäre es fehlkonstruiert.  Wäre ja nicht das erste Mal.
 
@@ -106,6 +106,7 @@ aus der dann ein minderwertiges Token hervorgegangen ist.
 Dann, nur dann, hätten wir nicht nur Autorisation (z. B. durch ein Session-Cookie) sondern echte Authentikation.
 Stimmt, nur die Authentikation des jeweiligen Clients und Servers, aber genau darum geht es doch hier in 99% der Fälle.
 Nur sehr selten brauchen wir eine höherwertige Authentikation des Nutzers selbst.
+
 
 ## Das Passwort hat zu gehen
 
@@ -212,6 +213,7 @@ Alternativ kann man das Token nur sehr schwach absichern, z. B. an die IP binden
 Das Problem ist aber, wenn man einem das Token einmal "ausgekommen" ist (gestohlen wurde), ist es sehr schwer einzufangen.
 Das kann nur mit einem "gebundenen" Token Geschichte werden.
 
+
 ## Noch etwas
 
 Es ist sinnvoll, mehrere verschiedene Sicherheitsebenen anzubieten, in die man (ggf. zeitgebunden) wechseln kann.
@@ -230,11 +232,12 @@ Warum?  Eigentlich ist es doch einfach:  Ein Token hat eine aktuelle und eine ma
 - Beides (die erhöhten Rechte sowie die maximale Stufe) können dabei zeitlich beschränkt werden.
 
 Dadurch wäre auch die feindliche Übernahme einer Session (Übernahme des PCs per Baseballschäger gegen den Kopf des Nutzers)
-in diesem Sinne harmlos, dass es nicht ungeschehen passieren kann (z. B. Hinweis der Nutzung der erhöhten Rechte nach Tod des eigentlichen Nutzers).
+in diesem Sinne harmlos, dass es nicht ungesehen passieren kann (z. B. Hinweis der Nutzung der erhöhten Rechte nach Tod des eigentlichen Nutzers).
 
 Es gehört nicht viel dazu, Dinge sicherer zu machen.  Man muss es nur wollen.
 
 > Irgendwie habe ich nur den Eindruck, der wirkliche Wille dazu fehlt allenortens.
+
 
 # Ach ja, einen habe ich noch
 
@@ -268,4 +271,62 @@ if (array_key_exists('TokenBindingID', $_SESSION)) {
 > Quelle: https://hanszandbelt.wordpress.com/2018/10/09/token-binding-specs-are-rfc-deploy-now-with-mod_token_binding/
 
 Neneneneneeeee, so was simples auch, wie kann man auch nur daran denken, das Web auf einen derart einfachen Weg um Längen sicherer zu machen?
-Dafür kann es niemals nicht einen Konsens geben.
+Dafür kann es niemals nicht einen Konsens geben, denn:
+
+- Das funzt ja ganz direkt zwischen Browser und Server, also auch bei abgeschaltetem JavaScript ohne so JavaScript Monster wie für FIDO
+- Es wäre die erste tatsächliche Rechtfertigung dafür, HTTPS zu verwenden
+- Es verhindert, richtig eingesetzt, Passwort-Leaks und somit wie HaveIBeenPwned
+- Es verhindert Phishing, und zwar absolut und effektiv
+- MiddleBoxen wie BlueCoat bekommen ein Problem
+  - Das Problem ist RFC 8743 Sektion 5.3.
+  - BlueCoat muss zwischen TP und TC sitzen und gegenüber TP und TC transparent als Client und gegenüber dem Client transparent als TP und TC auftreten
+  - Dabei muss, im Gegensatz zur TLS-Interception, auch das Protokoll selbst verarbeitet werden
+  - Dabei fällt State-Information an, sprich, die MiddleBox muss sich etwas permanent merken um nich zu schnell aufzufallen
+  - In einem größeren Verbund von Middleboxen (Roaming) muss diese Information an alle Middleboxen synchronisiert werden
+  - Da die MiddleBox aber nicht immer wissen kann, wann der Client die Informationen verwirft, kommt es zur Desynchronisation zwischen Client und MiddleBox
+  - **Das wichtigste erscheint mir aber, was ich oben schrieb:  JavaScript kommt per RFC8473 dann an Informationen zum SSL-Layer heran.**
+    Sprich, wenn eine Middlebox dazugeklinkt wird, bemerkt das JavaScript.  Derzeit ist das nicht der Fall, da alles die Browser unter Kontrolle haben.
+ 
+Sprich, hat ein Tool wie Lavabit ein permanentes Token gesetzt, ähnlich eines [Warrant Canary](https://en.wikipedia.org/wiki/Warrant_canary),
+wird dieses Token instant invalidiert, sobald ein Middlebox dazukommt und versucht den SSL-Pfad zu stehlen.
+
+Da die MiddleBox als Client auftreten muss aber nicht im Besitz des geheimen Schlüssels ist kann sie das Token gegenüber TC nicht validieren und fliegt auf.
+
+Das, denke ich, wird wohl der Grund sein, warum Browser RFC 8743 nicht implementieren und der Bug geheim ist.
+
+Während das WWW vom Cern stammt kommen alle Browser (FF, Chrome, Edge) aus den USA.
+
+- [Dort gibt es die NSL](https://en.wikipedia.org/wiki/National_security_letter)
+- Unterliegt man einer NSL, darf man nicht darüber sprechen.  Das könnte der Grund für die Geheimhaltung des Bugs sein.
+- Eine NSL kann niemanden zwingen, etwas bestimmtes zu tun.  Deshalb gehe ich davon aus, die Browser sind nicht trojanisiert.
+  - Warum?  Weil irgendwer das herausfinden würde.
+  - Sobald der erste es melden würde ist es für andere einfach, die Korrektheit der Aussage mit mathematischer Präzision zu verifizieren.
+  - Da greifen einfach keinerlei Möglichkeiten jemanden zu diskreditieren bevor die Informationen öffentlich werden.
+  - Und solch ein Skandal wäre selbst für Größen wie Google vermutlich der instante weltweite Untergang.
+- Eine NSL kann aber jeden, also auch Google, dazu zwingen, etwas zu unterlassen.
+  - So passiert im [Fall Lavabit](https://en.wikipedia.org/wiki/Lavabit).
+  - Diese Unterlassung geschieht indirekt, indem derjenige per NSL gezwungen wird, Informationen auszuhändigen.
+  - Diese Informationen müssen selbstverständlich im Original, also unverschlüsselt übergeben werden.
+  - Will er das nicht, und davon gehe ich einfach mal aus, muss derjenige also sicherstellen, dass er diese Informationen nicht hat.
+- Außerdem unterliegt Verschlüsselung, auch heute noch, dem Kriegswaffenexportverbot (nicht nur in den USA)
+- Es gibt also gleich mehrere mögliche Ansatzpunkte, wie Amerika amerikanischen Unternehmen eine derartige Technik wie RFC 8743 im Browser untersagen könnte.
+
+Zu behaupten, es wäre so, wäre eine Verschwörungstheorie, solch eine will ich hier nicht starten.  Die Tatsachen aber bleiben:
+
+- RFC 8743 kann MiddleBoxen relativ simpel enttarnen, und das, ohne dass der Nutzer etwas tun oder davon vorher wissen muss.
+  - Das betrifft Hersteller von MiddleBoxen wie BlueCoat, die allesamt in Amerika zu sitzen scheinen
+- Alle effektiv genutzten Browser kommen aus den USA
+  - Es ist keine Verschwörungstheorie zu behaupten, dass es im Interesse von Amerika ist, dass das für immer so bleibt.
+- RFC 8743 wird in den Browser anscheinend nicht umgesetzt.
+  - Obwohl es sofort global äußerst bedeutsame Dinge wie Phishing unmöglich machen würde
+- Auf den Bug, warum RFC 8743 nicht im Browser umgesetzt wird, erhalten normale Leute wie ich keinen Zugriff.
+  - Das kann sehr viele Gründe haben.
+  - Vielleicht bekäme ich ja Zugriff wenn ich wüsste, wie.
+  - Aber warum gibt es dieses Zugriffsproblem?  Täte Google nicht gut daran, derart wichtige Informationen zu veröffentlichen?
+  - **Vielleicht sind die Informationen, die man braucht, um den Grund zu verifizieren öffentlich, ich habe sie nur nicht gefunden.**
+
+Vermutlich gibt es einen guten Grund warum Google die Internas des Bugs nicht veröffentlichen will.
+Sofern jemand etwas herausfindet (Wichtig!  Das man aus frei zugänglichen Quellen verifizieren kann),
+bitte ich darum, mir den Hinweis per "Issue" hier bei GitHub zu melden.
+
+Dafür sind die Issues da.  Danke!
