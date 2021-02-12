@@ -14,7 +14,7 @@ KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes
 ![No trespassing Violators will be shot Survivors will be shot again](img/shot-again.png)
 ([Quelle](https://www.amazon.com/HangTime-Trespassing-Violators-Survivors-Again/dp/B0040UAVOG/))
 
-![Due to price increase on ammo, do not expect a warning shot](img/ammo-prize.png)
+![Due to price increase on ammo, do not expect a warning shot](img/ammo-price.png)
 ([Quelle](https://www.amazon.com/HANGTIME-Warning-Increase-Expect-Design/dp/B008V0FOB6/))
 
 ![Trespassers will be eaten](img/eaten.png)
