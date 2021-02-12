@@ -20,5 +20,5 @@ KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes
 ![Trespassers will be eaten](img/eaten.png)
 ([Quelle](https://mealsandmilemarkers.com/a-photographic-guide-to-gatorland/)) found via Google
 
-![If a man says, he will fix it, HE WILL.  There is no need to remind him every 3 MONTHS](img/.png))
+![If a man says, he will fix it, HE WILL.  There is no need to remind him every 3 MONTHS](img/fix-it.png))
 ([Quelle](https://www.amazon.com/Rogue-River-Tactical-Sarcastic-Repair/dp/B07DT3P1DJ/))
