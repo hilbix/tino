@@ -71,3 +71,5 @@
 - 2020-10-21 Frage an Experten:  Wenn ich einen Covidioten köpfe, isser dann noch ansteckend?
 
 - 2021-01-26 Krieg, Dreck, Sklaverei. Die Dreifaltigkeit des Menschen. In dieser Reihenfolge.
+
+- 2021-02-12 [Please get rid of your OSI Layer 1 and try again!](https://github.com/hilbix/tino/blob/master/wtf/rfc8473-token-binding.md)
