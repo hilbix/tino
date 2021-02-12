@@ -4,7 +4,7 @@
 
 KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes!
 
-![KESL schützt vor Verschlüsselung](./kesl-abhilfe.png)
+![KESL schützt vor Verschlüsselung](img/kesl-abhilfe.png)
 
 ## 2021-02-12 While I am on it
 
