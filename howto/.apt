@@ -118,7 +118,7 @@ then	/usr/bin/check-support-status
 else	echo "#MISSING# apt-get install debian-security-support"
 fi
 if	[ -x /usr/bin/ubuntu-security-status ]
-then	/usr/bin/ubuntu-security-status
+then	MY_MIRROR="$(sed -n 's/^#MIRROR#//p' /etc/apt/sources.list.d/*.list)" /usr/bin/ubuntu-security-status
 elif	[ -x /usr/bin/ubuntu-support-status ]
 then	/usr/bin/ubuntu-support-status
 #else	echo 'Not Ubuntu?'
