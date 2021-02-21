@@ -49,6 +49,7 @@ do
 	x="${x%' (deleted)'}"
 	case "$x" in
 #	(*.tmp)	continue;;
+	(/)		continue;;
 	(/dev/*)	continue;;
 #	(/tmp/*)	continue;;
 	(/etc/*)	continue;;
