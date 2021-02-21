@@ -111,6 +111,34 @@ do
 done 6< <(LC_ALL=C.UTF-8 dkms status | while read -r n v r; do echo "${n%,}" "${v%[:,]}"; done | sort -u)
 }
 
+# Once upon a time I was wondering, where all the precious space in /var/lib/snapd went.
+# Following does the cleanup on manual updates.  Note that
+#	snap set system refresh.retain=3
+# is the default, but cannot be set below 2.  WTF why?  I want it to be 0!
+# BTW: This only removes disabled snaps with newer active versions.
+clean-snaps()
+{
+  [ -x "$1" ] || return
+  "$1" refresh || return
+  local -A SNAP KICK
+  local a
+
+  while read -ru6 name version revision tracking publisher notes
+  do
+	case "$notes" in
+	(disabled|disabled,*|*,disabled|*,disabled,*)	KICK["$name"]="$revision";;
+	(*)						SNAP["$name"]="$revision";;
+	esac
+  done 6< <(LC_ALL=C.UTF-8 /usr/bin/snap list --all)
+  for a in "${!KICK[@]}"
+  do
+	[ -n "${SNAP["$a"]}" ] && snap remove "$a" --revision="${KICK["$a"]}"
+  done
+}
+
+# Cleaning only a single old revision per run should be enough
+clean-snaps /usr/bin/snap
+
 cd /var/lib/initramfs-tools && fix-dkms install
 
 if	[ -x /usr/bin/check-support-status ]
