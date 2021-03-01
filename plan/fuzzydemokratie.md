@@ -275,3 +275,13 @@ Dies ist bei der Fuzzydemokratie gegeben, da diese im Prinzip immer noch die die
 Diese aber so anpasst, dass moderne Verfahren in diese Einzug halten können, ohne dass es zu einem Bruch mit der guten Tradition kommt.
 
 > Das ist jedenfalls, was ich dazu denke.
+
+# Nachtrag
+
+Ein `X` entspricht der Römischen 10 und damit 100%.  Somit ist der Wahlzettel der Fuzzydemokratie mit den heutigen Wahlzetteln kompatibel.
+Wer also keinen Bock darauf hat die Neuerung zu verstehen, der macht einfach weiter, was er bisher immer getan hat, und es funktioniert!
+
+Allerdings werden derzeit ungültige Wahlzettel (solche mit mehr als einem X) gültig, da man ja mehr als 100% seiner Stimme vergeben darf
+(und die dann entsprechend aufgeteilt wird wenn sie mehr als 100% erreicht).
+
+Andere römische Ziffern muss man nicht unterstützung, ein `||` entspricht also 11 (oder 110%).
