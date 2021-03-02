@@ -166,7 +166,7 @@ weil man sonst dem Nutzer die Möglichkeit nimmt, sich der Preisgabe der persone
 > außer halt solche, die einige der Garantien der Altservices zerbrechen, dadurch entweder
 > einen vollkommen neuen Service kreieren würden, oder dieser schlichtweg zum Nachteil aller sterben müsste.
 > Nein, halt, falsch, das wäre mein Vorteil, weil ich den Scheiß nimmer betreiben müsste.
-> Hm, aber warum tue ich das mir an?  Ganz einfach:  Weil ich kann!  Denn wenn die, die es können, es nimmer tun, wer macht es dann?  Na?  Eben!).
+> Hm, aber warum tue ich es dann?  Ganz einfach:  Weil ich kann!  Denn wenn die, die es können, es nimmer tun, wer macht es dann?  Na?  Eben!).
 
 **Anonymizer wie ToR auf der Plattform zu verbieten wäre nach meiner Lesart ein direkter (und harter) Verstoß gegen die DSGVO!**
 
