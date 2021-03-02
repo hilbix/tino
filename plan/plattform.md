@@ -267,7 +267,7 @@ Im Weiteren gehe ich davon aus, dass eine Plattform aus mindestens folgenden URL
 - status.example.com mit einem Statusmonitor für User
   - Hierüber kann man detailliertere Informationen über Störungen usw. verlauten lassen
   - Dies ist eine reine Standseite mit Zusatzinformationnen
-- 
+- **TODO** hier fehlt noch was
 
 ### AAA
 
@@ -512,3 +512,32 @@ bis der jeweilige Fall eintritt, und dann hat man einfache Stellschrauben, an de
 sowie natürliche Eingreifpunkte, an denen man zur Verbessung der Situation sofort ohne weiteren Planungsbedarf ansetzen kann.
 
 Einfach, weil das ganze Setup das gleich von Anfang an hergibt.
+
+Ein paar Stichpunkte als Gedankennotiz für später noch:
+
+- DSGVO Aufklärungspflicht
+  - Es wird sichergestellt, dass es ohne Aufklärung gar nicht weitergegangen sein kann.
+  - Damit ist technisch bewiesen, dass aufgeklärt wurde.
+- DSGVO Zustimmung
+  - Wie behandelt man das und warum sollte man darauf besser verzichten
+  - Büchse der Pandora ist dagegen Kindergarten
+  - Man kann das eigentlich nur mit Nuklearkrieg vergleichen.  Nur wenn man diesen final gewinnen kann, dann kann man die Zustimmungslösung vielleicht verwenden.
+  - Besser also Finger weg.
+- HaProxy und Request-Routing
+  - Wieviele HaProxies hätten Sie denn gern, und darf es auch etwas mehr sein?
+  - HaProxy und Round-Robin
+- HaProxy und TLS-Terminierung
+  - Warum TLS nichts und niemanden wirklich schützt
+- Time based Cookie
+  - Und sein Missbrauch
+  - Skalierung NginX
+  - PHP-FPM
+- Handling der Dreifaltigkeit:  Aktive User, Gute User vs. Angreifer
+  - Was ist überhaupt ein Angriff und kann es das überhaupt geben?
+  - Der Standardbrowser als DoS-Attacke oder: Weihnachten kommt etwas früher wenn der Weihnachtsmann sekündlich klingelt
+  - Was ist eigentlich normal und ab wieviel zehntausend TABs ist man Messy?
+- Wenn die Millisekunde zählt
+  - Wieviele Millionen darf es kosten?
+  - Und warum es inzwischen auch für fast lau geht.
+- Kubernetes
+  - Oder warum man soetwas besser erst gar nicht (für sich selbst) verwendet
