@@ -187,6 +187,8 @@ Wer Anonymizier nutzt kann selbstverständlich zusätzliche Einschränkungen erl
 >
 > Wenn der Eigentümer der Inhalte sich mit solch einem Schmuh wie Geo-IP-Datenbank zufrieden gibt, sollte man ihn lieber links liegen lassen.
 > Das ist nämlich höchst unseriös und widerspricht - nach meiner Lesart - eindeutig der DSGVO (Diskriminierungsverbot).
+>
+> Apropos Diskriminierung.  Ist "links" liegen lassen nicht irgendwie diskriminierend?  Von Rechts wegen .. ach lassen wir das.
 
 
 ### DNS
