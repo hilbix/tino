@@ -135,11 +135,12 @@ weil man sonst dem Nutzer die Möglichkeit nimmt, sich der Preisgabe der persone
 
 > Merke: Personenbezogene Daten wie die IP darf man erst nach Aufklärung verwenden.
 >
-> Es besteht also ein eineutig ausgesprochenes Verbot, die IP zur Aufklärung zu verwenden.
-> Jetzt zu sagen "ja aber ohne IP kann man es im Internet ja nicht anders machen" zeigt,
-> dass man eben nicht gewillt ist, sich an die DSGVO zu halten.
+> Es besteht also ein eindeutig ausgesprochenes Verbot, die IP zur Aufklärung zu verwenden.
+> Jetzt pauschal zu sagen "ja aber ohne IP kann man es im Internet ja nicht anders machen" zeigt,
+> dass man eben nicht gewillt ist, sich an die DSGVO zu halten, weil man es sich entschieden zu einfach macht!
 >
-> Einzig richtig wäre die Aussage:  Besser als wie wir es tun, kann man es technisch nicht umsetzen!
+> Einzig richtig wäre die Aussage:  Besser als wie wir es tun, kann man es technisch unmöglich umsetzen!  
+> (Und dann muss man jederzeit den Beweis führen können, dass es technisch wirklich nicht besser geht!)
 >
 > Das, und nur das, ist IMHO die einzige zulässige Art und Weise, dass man es machen darf.
 >
