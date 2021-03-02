@@ -44,7 +44,7 @@ wird der Datenschutz hinsichtlich IP auf der eigenen Seite damit eingehalten.
 
 > Ohne IP gibt es im Internet allerdings keine Kommunikation
 
-Im Weiteren gehe ich allerdings davon aus, dass man den Loadbalancer selber betreibt, da das Gegenteil meist schlechtere Ergebnisse für den Datenschutz bedeutet.
+Im Weiteren gehe ich davon aus, dass man den Loadbalancer selber betreibt, da das Gegenteil (Datenkrake!) meist schlechtere Ergebnisse für den Datenschutz bedeutet.
 
 > CloudFlare ist eine Datenkrake.  Wer CloudFlare in Deutschland vorschaltet, der muss schon einen guten Grund dafür haben.
 >
