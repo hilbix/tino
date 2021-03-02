@@ -163,8 +163,8 @@ weil man sonst dem Nutzer die Möglichkeit nimmt, sich der Preisgabe der persone
 > aber aufgrund der Art und Weise, wie sie die IP verwenden, jetzt gegen die DSGVO verstoßen,
 > und auch nicht (ohne die Services vollständig zu zerstören) entsprechend angepasst werden können
 > (jedenfalls habe ich mir viel Gedanken gemacht und habe bisher keine Lösung dafür gefunden,
-> außer halt solche, die einige der Garantien der Altservices zerbrechen und dadurch entweder
-> einen vollkommen neuen Service kreiren würden oder schlichtweg zum Nachteil aller sterben müssten).
+> außer halt solche, die einige der Garantien der Altservices zerbrechen, dadurch entweder
+> einen vollkommen neuen Service kreieren würden, oder dieser schlichtweg zum Nachteil aller sterben müsste).
 
 **Anonymizer wie ToR auf der Plattform zu verbieten wäre nach meiner Lesart ein direkter (und harter) Verstoß gegen die DSGVO!**
 
