@@ -298,8 +298,13 @@ Das sind alles nur Stellvertreter einer realen Authentikation, selbst wenn man d
 
 - Technisch kann eigentlich nur der ePerso eine wirkliche Authentikation bereitstellen.
   - Aber auch nur dann, wenn vor-Ort eine entsprechende Infrastruktur vorhanden ist.
+  - Und die gibt es nicht, also auch hier nix authentisch:
+  - Denn wenn ich die ePerso-PIN meiner Mutter kenne, bin ich dann etwa meine Mutter?  Eben nicht!
 - Oder man schickt das Token per Brief mit einer angehängten PostIdent-Überprüfung
   - Das Token darf man dann aber nicht mehrfach verwenden, sonst kann es schon wieder missbraucht werden
+  - Ich vertraue hier mal darauf, dass der Postbote seinen Job ordentlich macht.
+  - Authentizität ohne Vertrauen in andere ist extrem aufwendig und macht so gut wie keiner.
+  - Nicht einmal das Militär kreigt das richtig hin.
 
 Sprich, wenn wir von Authentifikation ausgehen, sprechen wir meisten von einem Stellvertretrermechanismus (also Proxy) bzw. einem Authentikationsprovider.
 
