@@ -131,7 +131,7 @@ Fazit hier:
 Und technisch?
 
 **Technisch darf man die Nutzung von Anonymizern (wie ToR) nicht einschränken**,
-weil man sonst dem Nutzer die Möglichkeit gibt, sich gegen die Preisgabe der personenbezogenen Daten nicht zu entziehen.
+weil man sonst dem Nutzer die Möglichkeit nimmt, sich der Preisgabe der personenbezogenen Daten zu entziehen.
 
 > Merke: Personenbezogene Daten wie die IP darf man erst nach Aufklärung verwenden.
 >
