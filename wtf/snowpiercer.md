@@ -374,4 +374,4 @@ Alles klar!  Echt jetzt, Jungs, da lacht euch jedes Kleinkind aus!  Peekaboo, pe
 >
 > Soviel auch zu akuten Corona-Lockdownlockerungsforderungen.  Welcher Vollhonk fordert das?
 >
-> Ausschließlich alle Menschen, die ich kenne, und fordern genau das Gegenteil, weil sie zum Denken befähigt sind!  YMMV.
+> Ausschließlich alle Menschen, die ich kenne, fordern genau das Gegenteil, weil sie zum Denken befähigt sind!  YMMV.
