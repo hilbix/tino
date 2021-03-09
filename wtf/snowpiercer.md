@@ -369,3 +369,9 @@ Aber .. wie war nochmals das mit dem Licht?  Wie breitet sich Licht nochmals aus
 Ach ja, egal ob man die Kerze links oder rechts ins Fenster stellt, sie steht immer hin zur Kamera.
 
 Alles klar!  Echt jetzt, Jungs, da lacht euch jedes Kleinkind aus!  Peekaboo, peekaboo, PEEKABOO!
+
+> Das einzig sinnvolle an der Szene ist die Annahme, dass über die Hälfte der Menschen pffemsichtliche absolute Vollhonks sind.
+>
+> Soviel auch zu akuten Corona-Lockdownlockerungsforderungen.  Welcher Vollhonk fordert das?
+>
+> Ausschließlich alle Menschen, die ich kenne, und fordern genau das Gegenteil, weil sie zum Denken befähigt sind!  YMMV.
