@@ -370,7 +370,7 @@ Ach ja, egal ob man die Kerze links oder rechts ins Fenster stellt, sie steht im
 
 Alles klar!  Echt jetzt, Jungs, da lacht euch jedes Kleinkind aus!  Peekaboo, peekaboo, PEEKABOO!
 
-> Das einzig sinnvolle an der Szene ist die Annahme, dass über die Hälfte der Menschen pffemsichtliche absolute Vollhonks sind.
+> Das einzig sinnvolle an der Szene ist die Annahme, dass über die Hälfte der Menschen offensichtliche absolute Vollhonks sind.
 >
 > Soviel auch zu akuten Corona-Lockdownlockerungsforderungen.  Welcher Vollhonk fordert das?
 >
