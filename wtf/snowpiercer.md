@@ -368,4 +368,4 @@ Aber .. wie war nochmals das mit dem Licht?  Wie breitet sich Licht nochmals aus
 
 Ach ja, egal ob man die Kerze links oder rechts ins Fenster stellt, sie steht immer hin zur Kamera.
 
-Alles klar!  Echt jetzt, Jungs, da lacht euch jedes Kleinkind aus!  Pickaboo, pickaboo, PICKABOO!
+Alles klar!  Echt jetzt, Jungs, da lacht euch jedes Kleinkind aus!  Peekaboo, peekaboo, PEEKABOO!
