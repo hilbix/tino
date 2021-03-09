@@ -188,10 +188,14 @@ Ein Kälteanzug hat das, wie ein Taucheranzug ebenfalls, hingegen nicht, da herr
 Im Gegensatz zum Taucheranzug, der in einem Kühlmittel (Wasser!) eingesetzt wird, das extrem schnell hohe Energiewerte abtransportieren kann,
 ist Luft ein ziemlich guter Isolator (Luft ist ein Hauptbestandteil der meisten Dämmmaterialien!).
 
-Sprich, wenn Loch, dann dringt da nix ein.  Und da geht auch eher nix raus, außer man Bewegt sich und erzeugt so Luftdruckunterschiede.
+Sprich, wenn Loch, dann dringt da nix ein.  Und da geht auch eher nix raus, außer man bewegt sich und erzeugt so Luftdruckunterschied.
 Ein einfaches Pflaster oder etwas Knetmasse, ja selbst (sofort gefrierendes) Wasser würde in diesem Fall dagegen helfen.
 
 > Sprich, die austretende Körperfeuchtigkeit würde das Loch sofort auf der Oberseite versiegeln.
+>
+> Übrigens, dass das wirklich funktioniert zeigen die Tanks von Wasserstoffautos.  Die durch den
+> Gasaustritt gefrierende Luftfeuchtigkeit reicht aus, um kleinere Löcher, wie den Einschuss einer Pistolenkugel,
+> effektiv abzudichten, selbst wenn das autretende Gas abbrennt.  Kälte ist phänomenal effektiv.
 
 Also so ein Riss ist gar nichts, verglichen zu den anderen Gefahren:
 
@@ -236,14 +240,14 @@ auf keine Fall solche, die Waren für die 1. Klasse produzieren.
 
 Der Scrotch kommt sogar aus C0557 "Night Car".  Dieser ist über 430 Wagons also ca. 28 km vom Ende entfernt.
 Andre Layton überwindet diese Strecke in den 12 Minuten 2 Mal (S2 E1 6:13). 
-**Das entspricht einer einer Geschwindigkeit von 280 km/h.**
+**Das entspricht einer Geschwindigkeit von 280 km/h.**
 
 > Zum Vergleich: Volvos riegeln bei 180 km/h ab.
 >
 > Und selbst wenn die im Zug eingebaute Ubahn funktionieren würde, so schnell ist sie sicher nicht.
 
 
-# S2 E1 8:07 Breite
+## S2 E1 8:07 Breite
 
 > Die Spurweite der Deutschen Bahn beträgt 1435 mm.
 
@@ -273,12 +277,60 @@ Jaja, der Wind.  Wer die Physik kennt, der weiß, dass Wasser besonders ist.  Wa
 Das bedeutet, der Wind kann also keinen Schnee verwehen.  Außerdem sieht man ja immer, dass der Schnee absolut glatt ist.
 Das funktioniert nur, wenn er fällt UND verweht wird.  Ansonsten bilden sich an der Fahrspur links und rechts Berge, also eine eindeutig zu erkennende Spur.
 
+Aber nicht in der Serie.  Logisch!
 
-## S2 E1 41:56
+
+## S2 E1 41:56 Drehbuchphysik
 
 Man kann einen 65 km langen Zug von hinten bremsen und anhalten, und zwar in einer Kurve mit über 90 Grad.
 
 Klar doch, da entgleist überhaupt nix.
 
-Ach ja, und abkoppeln von Wagons, das geht gar nicht.  Ging nur früher, aber natürlich hier nicht.  Alles klar.
+Und: Abkoppeln von Wagons, das geht gar nicht.  Ging nur früher in der Serie vollkommen problemfrei, aber natürlich hier nimmer.  Alles klar!
 
+> Apropos: Wo stehen die abgekoppelten Wagons dann eigentlich auf dem Gleis?  Stimmt, ich vergaß, sobald die Kamera etwas nimmer sieht, dematerialisiert das instant.  Erinnert mich irgendwie an Langoliers, halt nur Optik statt Timeline.
+
+
+## S2 E7 10:50 Wackelpudding
+
+Wie beschissen ist der Snowpiercer eigentlich konstruiert?
+
+Guckt mal da an der Decke.  Das Ding wackelt ja schlimmer als Wackelpudding, katastrophaler als ein Schiff im Sturm!
+Wenn man ein Baby derart wiegt, so wie der Snowpiercer wackelt, hat man das klebrige Ergebnis schneller,
+als man "kotz" sagen kann.  Es lebe die Seekrankheit hoch 4!
+
+Moderne Züge wackeln so gut wie gar nicht.  Das geht so weit, dass der Kaffee in der Kaffeetasse nicht einmal
+mehr Vibrationen anzeigt, geschweige denn irgendwie schwappt!  Aber der Snowpiercer?  Wow, also das nenne ich mal krank.
+
+Komischerweise, um 11:58 (genau hinsehen!) wackelt da nix.  Kurz davor schon, dann nicht, danach wieder.
+Stattdessen dreht die Shakycam ihre runden, dass man denkt, man sitzt auf der Leopardenspur.
+
+Also, Leute, wenn ihr schon unfähig zur Continuity seid,
+dann macht gefälligst aus der Not eine Tugend und entfernt das Shaky aus der Cam.
+Lasst den Snowpiercer (der eine größere Spurweite hat, eine niedrigere Geschwindigkeit
+und eine höhere Tonnage, also deutlich stabiler fahren dürfte als heutige Züge)
+einfach mal in Ruhe seinen Weg ziehen, so wie es ein Zug tun würde wenn es ihn derart geben könnte.
+
+Also von mir gäbe es keine Kritik, wenn da NICHTS wackelt, denn ehrlich, was ist das einzige,
+das bei Filmen noch unendlich deutlicher nervt als ein total verbocktes Drehbuch?
+
+**Richtig, die Shakycam!**  Also kein Wunder dass in Snowpiercer davon kräftigst gebraucht wird.
+Sorry, das lenkt von der absoluten Unfähigkeit der Drehbuchautoren nicht die Bohne ab.  So nicht.
+
+
+## S2 E7 30:30 Gierlanden
+
+> Gierlanden ist hier kein Tippfehler
+
+WTF, ehrlich?  Da hängen seit über 6 Jahren bei dem übelsten Wetter der Welt farbige Girlanden über den Schienen.
+Irgendwo im Nirgendwo?  Einfach so, weil's schee ist?
+
+Und ein paar Meter vom Snowpiercer entfernt bewegen sie sich dann seicht im Wind.  Seicht?  Bei einem vorbeirasenden Zug?
+Ernsthaft?  Hängen die im Vakuum oder was?
+
+Mal abgesehen, dass die niemals so lange überlebt hätten ohne Wartung.
+
+> Apropos Wartung.  Wie länge hält eigentlich der beste Radsatz von einem Zug?
+>
+> Hält der 6 Jahre Dauerbelastung stand?  Ich meine, sind ja nur mindestens 4000 Achsen.
+> Und keine einzige hat da irgendein Problem?  Ernsthaft?  Noch nie etwas von Murphy gehört?
