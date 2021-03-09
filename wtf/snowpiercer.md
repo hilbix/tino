@@ -334,3 +334,32 @@ Mal abgesehen, dass die niemals so lange überlebt hätten ohne Wartung.
 >
 > Hält der 6 Jahre Dauerbelastung stand?  Ich meine, sind ja nur mindestens 4000 Achsen.
 > Und keine einzige hat da irgendein Problem?  Ernsthaft?  Noch nie etwas von Murphy gehört?
+
+
+## S2 E7 43:33 Cool
+
+Diesen Downcircle finde ich cool.  Allerdings die Aufnahme nicht so ganz.
+
+Da an dem Pfeiler sieht man so etwas wie eine Leiter.  Die Sprossen sind ca. 4m auseinander.  Ah, klar.  Riesen.  Oder so.
+
+Trotzdem cool.  Ähnlich falsche Aufnahmen kennt man aus dem Weltraum, wenn man da irgendwelche Kapsel
+und Raumstationen sieht.  Gleichzeitig.  Wenn man bei den Dimensionen etwas sieht, dann sind das nur noch
+stecknadelgroße Punkte.  Die Perspektive gibt einfach nix besseres her.  Egal in welcher Physik.
+
+Aber solche Inkonsistenzen akzeptiere ich.  Film ist Visualsierung.  Wäre blöd wenn man nix sieht.
+
+> Sprich: Das ist zwar falsch, aber richtig.
+>
+> Nur um zu dokumentieren, nicht alles ist Müll.  Manches ist einfach dem Medium geschuldet, das ist akzeptabel.
+
+Naja.  Fast.  Die Brückenkonstruktion ist zwar cool, aber absoluter Bockmist.
+Hach, hätten sie nur so etwas wie einen Ingenieur gefragt.
+Aber das geht nicht, woher soll man so jemanden nur nehmen?
+
+> Öhm, mal eine ketzerische Frage:  Es gibt da so CAD mit Physiksimulation.  Warum nehmt ihr das nicht einfach mal
+> her um solche Szenen zu bauen?  Oder konstruiert ihr das in Minecraft?
+>
+> Übrigens eine tolle Idee!  Minecraft.  Packt den Film einfach in Minecraft.  Dann stimmt plötzlich vieles.
+> Insbesondere das mit der PowerRail.
+>
+> Und das hätte noch weitere Vorteile:  Zombies!
