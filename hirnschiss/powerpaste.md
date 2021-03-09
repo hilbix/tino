@@ -128,7 +128,7 @@ kann man dies auch nicht leicht wegpumpen oder so.  Also muss das auch in die Ka
 
 Wir haben also einen Kartuschenantrieb.  Etwas, das normale Menschen heben können sollten.
 
-Gegen wir mal von 23,7kg einer Kartusche aus.  Gehen wir davon aus, die hat sonst kein Gewicht,
+Gehen wir mal von 23,7kg einer Kartusche aus.  Gehen wir davon aus, die hat sonst kein Gewicht,
 also alls Gewicht können wir voll für Materialien verbrauchen.
 
 Dann enthält die Kartusche am Ende 10kg der Paste und 13,7kg Wasser.
