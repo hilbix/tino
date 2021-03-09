@@ -1,6 +1,6 @@
 # Powerpaste: Zukunft der Mobilität
 
-Oh welch Hype!  Das Fraunhofer-Instutut hat die Powerpaste vorgestellt.
+Oh welch Hype!  Das Fraunhofer-Institut hat die Powerpaste vorgestellt.
 
 - Alter Wein in alten Schläuchen.  Jedenfalls weitgehend, selbst Wikipedia hat uralte Artikel zu MgH2 und Mg(OH)2 und deren Nutzbarkeit
 - Und sie wollen eine Produktion von 4t pro Jahr dafür aufbauen.  Mal schnell nachgerechnet reicht die so hergestellte Energiemenge nicht einmal aus, um 1 Jahr von Augsburg nach München zu pendeln.
