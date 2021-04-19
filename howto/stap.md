@@ -114,3 +114,184 @@ probe kernel.function("do_fsync").return { if (pid2execname(pid()) == @1) try { 
 probe begin { printf("supressing fsync() from %s (outputs just the suppressed fildes)\n", @1) }
 probe error,end { printf("ok=%ld err=%ld\n", ok, err) }
 ```
+
+## Ubuntu 20.04
+
+```
+$ cat /etc/apt/sources.list.d/20.04.list 
+
+  deb     http://de.archive.ubuntu.com/ubuntu/	focal		main restricted multiverse universe
+  deb-src http://de.archive.ubuntu.com/ubuntu/	focal		main restricted multiverse universe
+  deb     http://de.archive.ubuntu.com/ubuntu/	focal-updates	main restricted multiverse universe
+  deb-src http://de.archive.ubuntu.com/ubuntu/	focal-updates	main restricted multiverse universe
+  deb     http://de.archive.ubuntu.com/ubuntu/	focal-backports	main restricted multiverse universe
+  deb-src http://de.archive.ubuntu.com/ubuntu/	focal-backports	main restricted multiverse universe
+
+  deb     http://security.ubuntu.com/ubuntu/	focal-security	main restricted multiverse universe
+  deb-src http://security.ubuntu.com/ubuntu/	focal-security	main restricted multiverse universe
+
+  deb     http://ddebs.ubuntu.com		focal		main restricted multiverse universe
+  deb     http://ddebs.ubuntu.com		focal-updates	main restricted multiverse universe
+  deb     http://ddebs.ubuntu.com		focal-proposed	main restricted multiverse universe
+
+# deb     http://de.archive.ubuntu.com/ubuntu/	focal-proposed	main restricted multiverse universe
+# deb-src http://de.archive.ubuntu.com/ubuntu/	focal-proposed	main restricted multiverse universe
+
+```
+
+```
+$ sudo du -sh /usr/lib/debug
+7.1G	/usr/lib/debug
+```
+
+```
+$ dpkg -l *-dbgsym | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                            Version             Architecture Description
++++-===============================================-===================-============-============================================================
+ii  coreutils-dbgsym                                8.30-3ubuntu2       amd64        debug symbols for coreutils
+ii  linux-image-5.8.0-48-lowlatency-dbgsym          5.8.0-48.54~20.04.1 amd64        Signed kernel image lowlatency
+in  linux-image-unsigned-5.8.0-48-generic-dbgsym    <none>              amd64        (no description available)
+ii  linux-image-unsigned-5.8.0-48-lowlatency-dbgsym 5.8.0-48.54~20.04.1 amd64        Linux kernel debug image for version 5.8.0 on 64 bit x86 SMP
+un  pkg-create-dbgsym                               <none>              <none>       (no description available)
+```
+
+```
+$ dpkg -l *keyring* | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                       Version                     Architecture Description
++++-==========================-===========================-============-========================================================================
+ii  debian-archive-keyring     2019.1ubuntu2               all          GnuPG archive keys of the Debian archive
+ii  debian-keyring             2020.03.24                  all          GnuPG keys of Debian Developers and Maintainers
+ii  gir1.2-gnomekeyring-1.0    3.12.0-1build1              amd64        GNOME keyring services library - introspection data
+ii  gnome-keyring              3.36.0-1ubuntu1             amd64        GNOME keyring services (daemon and tools)
+ii  gnome-keyring-pkcs11:amd64 3.36.0-1ubuntu1             amd64        GNOME keyring module for the PKCS#11 module loading library
+ii  libgnome-keyring-common    3.12.0-1build1              all          GNOME keyring services library - data files
+ii  libgnome-keyring-dev       3.12.0-1build1              amd64        Development files for GNOME keyring service
+ii  libgnome-keyring0:amd64    3.12.0-1build1              amd64        GNOME keyring services library
+ii  libpam-gnome-keyring:amd64 3.36.0-1ubuntu1             amd64        PAM module to unlock the GNOME keyring upon login
+ii  python3-keyring            18.0.1-2ubuntu1             all          store and access your passwords safely - Python 3 version of the package
+ii  python3-keyrings.alt       3.4.0-1                     all          alternate backend implementations for python3-keyring
+ii  signon-keyring-extension   0.6+14.10.20140513-0ubuntu2 amd64        GNOME keyring extension for signond
+un  ubuntu-cloudimage-keyring  <none>                      <none>       (no description available)
+ii  ubuntu-dbgsym-keyring      2020.02.11.4                all          GnuPG keys of the Ubuntu Debug Symbols Archive
+ii  ubuntu-keyring             2020.02.11.4                all          GnuPG keys of the Ubuntu archive
+```
+
+```
+$ uname -a
+Linux medusa 5.4.0-54-lowlatency #60-Ubuntu SMP PREEMPT Fri Nov 6 11:28:21 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+```
+
+- As you can see, an older kernel is still loaded, so `stap` does not work on this computer
+- This is [how Ubuntu Bug 1920640 was fixed](https://bugs.launchpad.net/ubuntu/+source/ubuntu-keyring/+bug/1920640)
+  - See also [my post on AskUbuntu](https://askubuntu.com/q/1325481/164798)
+- Ubuntu has deleted all debug packets signed with the old key
+
+```
+$ uname -r
+5.4.0-54-lowlatency
+
+$ apt-cache policy linux-image-`uname -r`-dbgsym
+N: Unable to locate package linux-image-5.4.0-54-lowlatency-dbgsym
+N: Couldn't find any package by glob 'linux-image-5.4.0-54-lowlatency-dbgsym'
+N: Couldn't find any package by regex 'linux-image-5.4.0-54-lowlatency-dbgsym'
+
+$ apt-cache policy linux-image-5.4.0-54-dbgsym
+N: Unable to locate package linux-image-5.4.0-54-dbgsym
+N: Couldn't find any package by glob 'linux-image-5.4.0-54-dbgsym'
+N: Couldn't find any package by regex 'linux-image-5.4.0-54-dbgsym'
+```
+
+Note that I never had similar problems with Debian (see below).  After reboot of my workstation, I want to boot into Kernel `5.8.0-48`, so `stap` works again.  But who ever reboots Linux?
+
+```
+$ uptime
+ 12:12:45 up 130 days,  7:44, 24 users,  load average: 6.48, 7.31, 6.86
+```
+
+Compare to some other of my busy hosts (that's the uptime I want to see):
+
+```
+$ uptime
+ 12:15:18 up 1061 days, 5 min,  2 users,  load average: 1.03, 1.25, 1.07
+```
+
+Note that I call something "stable" only, if it reaches uptimes `>1000` without problems.  Under load, of course!
+
+
+## Debian 10
+
+```
+$ cat /etc/apt/sources.list.d/debian-10-buster.list
+
+  deb		http://security.debian.org/		buster/updates		main contrib non-free
+  deb-src	http://security.debian.org/		buster/updates		main contrib non-free
+  deb		http://deb.debian.org/debian/		buster			main contrib non-free
+  deb-src	http://deb.debian.org/debian/		buster			main contrib non-free
+  deb		http://deb.debian.org/debian/		buster-updates		main contrib non-free
+  deb-src	http://deb.debian.org/debian/		buster-updates		main contrib non-free
+  deb		http://deb.debian.org/debian/		buster-backports	main contrib non-free
+  deb-src	http://deb.debian.org/debian/		buster-backports	main contrib non-free
+
+  deb		http://deb.debian.org/debian-debug/	buster-debug		main contrib non-free
+  deb		http://deb.debian.org/debian-debug/	buster-backports-debug	main contrib non-free
+  deb		http://deb.debian.org/debian-debug/	buster-proposed-updates-debug	main contrib non-free
+
+```
+
+```
+$ du -sh /usr/lib/debug/
+9.9G	/usr/lib/debug/
+```
+
+```
+$ dpkg -l linux-*-dbg | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                            Version      Architecture Description
++++-===============================-============-============-=============================================
+ii  linux-image-4.19.0-13-amd64-dbg 4.19.160-2   amd64        Debug symbols for linux-image-4.19.0-13-amd64
+ii  linux-image-4.19.0-14-amd64-dbg 4.19.171-2   amd64        Debug symbols for linux-image-4.19.0-14-amd64
+```
+
+```
+$ dpkg -l *keyring* | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                       Version        Architecture Description
++++-==========================-==============-============-===========================================================
+ii  debian-archive-keyring     2019.1+deb10u1 all          GnuPG archive keys of the Debian archive
+ii  debian-keyring             2019.02.25     all          GnuPG keys of Debian Developers and Maintainers
+ii  gir1.2-gnomekeyring-1.0    3.12.0-1+b2    amd64        GNOME keyring services library - introspection data
+ii  gnome-keyring              3.28.2-5       amd64        GNOME keyring services (daemon and tools)
+ii  gnome-keyring-pkcs11:amd64 3.28.2-5       amd64        GNOME keyring module for the PKCS#11 module loading library
+ii  libgnome-keyring-common    3.12.0-1       all          GNOME keyring services library - data files
+ii  libgnome-keyring0:amd64    3.12.0-1+b2    amd64        GNOME keyring services library
+un  libp11-kit-gnome-keyring   <none>         <none>       (no description available)
+ii  libpam-gnome-keyring:amd64 3.28.2-5       amd64        PAM module to unlock the GNOME keyring upon login
+ii  python-keyring             17.1.1-1       all          store and access your passwords safely
+ii  python-keyrings.alt        3.1.1-1        all          alternate backend implementations for python-keyring
+ii  ubuntu-archive-keyring     2018.09.18.1-5 all          GnuPG keys of the Ubuntu archive - transition package
+ii  ubuntu-cloud-keyring       2018.09.18.1-5 all          GnuPG keys of the Ubuntu Cloud Archive
+ii  ubuntu-dbgsym-keyring      2018.09.18.1-5 all          GnuPG keys of the Ubuntu Debug Symbols Archive
+ii  ubuntu-keyring             2018.09.18.1-5 all          GnuPG keys of the Ubuntu archive
+```
+
+```
+$ uname -a
+Linux giganto 4.19.0-14-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64 GNU/Linux
+```
+
+```
+$ uptime
+ 12:19:31 up 37 days,  8:26, 78 users,  load average: 29.59, 32.72, 31.71
+```
+
+Did I say load?
