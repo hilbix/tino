@@ -75,3 +75,5 @@
 - 2021-02-12 [Please get rid of your OSI Layer 1 and try again!](https://github.com/hilbix/tino/blob/master/wtf/rfc8473-token-binding.md)
 
 - 2021-03-26 Tester sind das Bollwerk zwischen Entwicklung und erhoffter Normalität
+
+- 2021-04-22 Das Leben könnte einfach sein .. aber die Software ist dafür noch viel zu kompliziert!
