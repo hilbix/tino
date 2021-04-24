@@ -1,10 +1,9 @@
 # Bilder-Jokes
 
-## 2018-06-08 musste ja mal sein
+## 2021-04-24 Aldis Suchfunktion
 
-KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes!
-
-![KESL schützt vor Verschlüsselung](img/kesl-abhilfe.png)
+![Alles muss raus?  Suche nach gehackten Tomaten findet Toilettensitz](img/aldi-alles-muss-raus.png)
+([Quelle](https://www.aldi-sued.de/de/suchergebnis/produkte.html?search=gehackte+tomaten))
 
 ## 2021-02-12 While I am on it
 
@@ -20,5 +19,12 @@ KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes
 ![Trespassers will be eaten](img/eaten.png)
 ([Quelle](https://mealsandmilemarkers.com/a-photographic-guide-to-gatorland/)) found via Google
 
-![If a man says, he will fix it, HE WILL.  There is no need to remind him every 3 MONTHS](img/fix-it.png))
+![If a man says, he will fix it, HE WILL.  There is no need to remind him every 3 MONTHS](img/fix-it.png)
 ([Quelle](https://www.amazon.com/Rogue-River-Tactical-Sarcastic-Repair/dp/B07DT3P1DJ/))
+
+## 2018-06-08 musste ja mal sein
+
+KESL hilft gegen die allgegenwärtig um sich greifende Seuche:  Verschlüsseltes!
+
+![KESL schützt vor Verschlüsselung](img/kesl-abhilfe.png)
+
