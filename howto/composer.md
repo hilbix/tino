@@ -23,6 +23,20 @@ So, nope, **composer fails in every single aspect of doing it right**.
 
 Hence it is - security wise - a huge pile of ugly shit.
 
+## Caveats
+
+I do not use `composer` coming from some obscure Web URL.  I always only use the variant which comes with the OS.
+
+> Poor you, who use Windows.  However you can use WSL these days.  Do it!
+>
+> But choose wisely.  I stick to [Debian](https://debian.org/).
+> 
+> However I consider [Ubuntu](https://ubuntu.com/) to be ok, too, and perhaps [Devuan](https://devuan.org/).
+>
+> Others like [Arch](https://archlinux.org/) are safe, too, but what I present mostly does not work there (lacking `apt`).
+
+See `make debian` in the `Makefile` below.
+
 
 ## `composer.json`:
 
