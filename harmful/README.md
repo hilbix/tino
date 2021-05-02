@@ -153,5 +153,10 @@ Even that I do not feel responsible, as I was too young and naive at that time, 
 
 Please keep in mind, that I am human.  So I err.
 
-Hence I do not tell you my software is perfect.  But if you find a bug contradicting this principle
-"**do no harm, in any and even the impossible worst situation**" this is a **high level top prio Bug** for me.
+Hence I do not tell you, that my software is perfect or error free.
+
+But if you find a bug contradicting this principle
+"**do no harm, in any and even the impossible worst situation**"
+this is a **high level top prio Bug** for me.
+
+Always.
