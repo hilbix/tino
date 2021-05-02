@@ -139,3 +139,38 @@ And this is not because "we cannot do it".
 It is because of "we can do it but we refuse to do it because we are in the position to decide so".
 
 **That's one of the basic ways on how to hurt others.**
+
+## For the benefit of the reader
+
+We are admins.  So we are in control.  Hene there is a way to disable Snap's autoupdate feature, of course.
+
+However this involves following steps:
+
+- [Disable `snapd` entirely](https://askubuntu.com/a/1269770/164798)
+- When you want to update
+  - Start `snapd`
+  - Do the update
+  - Stop `snapd`
+- When you want to start a Snap
+  - Stop `snapd` from communicating with the outside world
+  - Start `snapd` for a short periode of time
+  - Start the Snap (this needs `snapd`)
+  - Stop `snapd` again
+  - Allow `snapd` to communicate with the outside world
+
+However this is like shooting in the foot in case you are hungry.
+Because then you get into hospital, which then offers you a meal.
+
+As Snap is now inevitable part of Ubuntu (you won't get updates on Chromium if you refuse to use Snap),
+there is no proper way to evade Snap.  **Hence we have to live with this shit.**
+
+> Trying to evade Snap is like trying to evade Earth.  
+> One can probably leave Earth in the hope to find another Planet with some properly implented Humankind.  
+> But this is not very feasible today.
+>
+> Having said that I must confess:  
+> If somebody offers me a trip to Mars, one way, with the option to be able to properly live my life there,
+> up to my inevitable death (without a premature end of life due to being abandoned or similar)
+> I would **immediately** accept this offer, even if it's a bit risky!  (This is not a joke.  It's an offer!)
+>
+> (Note that my weigth is 120kg plus freight.  So yes, I am expensive.)
