@@ -150,3 +150,8 @@ Even that I do not feel responsible, as I was too young and naive at that time, 
 > - And the company I worked for at that time.
 >
 > But I swear, everything I write here is true.  True according to my perhaps failing memory.  But true.
+
+Please keep in mind, that I am human.  So I err.
+
+Hence I do not tell you my software is perfect.  But if you find a bug contradicting this principle
+"**do no harm, in any and even the impossible worst situation**" this is a **high level top prio Bug** for me.
