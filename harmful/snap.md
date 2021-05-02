@@ -136,7 +136,8 @@ And there is no design principle hurting anybody.  If something is considered us
 
 In contrast to Snap, where the "enforce update, always, no questions asked, no control possible" is hurting others.  Already.
 And this is not because "we cannot do it".  
-It is because of "we can do it but we refuse to do it because we are in the position to decide so".
+It is because of "[we can do it but we refuse to do it because we are in the position to decide so](https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707)".
+
 
 **That's one of the basic ways on how to hurt others.**
 
@@ -158,7 +159,7 @@ However this involves following steps:
   - Stop `snapd` again
   - Allow `snapd` to communicate with the outside world
 
-However this is like shooting in the foot in case you are hungry.
+However this is like shooting yourself in your foot in case you are hungry.
 Because then you get into hospital, which then offers you a meal.
 
 As Snap is now inevitable part of Ubuntu (you won't get updates on Chromium if you refuse to use Snap),
