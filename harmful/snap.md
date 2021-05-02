@@ -98,3 +98,44 @@ Hence **Snap fails to implement the "prevent to kill people by design" principle
 Or in other words:  **Snap must be considered harmful** as Snap might kill people.
 
 q.e.d.
+
+# Postdictum
+
+At the beginning, I wrote that Snap is very badly designed.
+
+This is not only by the lack of design principle to not hurt others.  It is also because it forgets about the need
+of at least 25 years of computing.
+
+> Note that they share this property with SystemD.  SystemD implements a lot of advanced things.
+>
+> However it completely forgets about the needs of the last 25 years (at least).
+
+For example what you cannot do with Snap the easy way:
+
+- Get rid of no more used stuff.
+  - Compare `git`.  As in `git` there is some automatic Garbage Collection built into Snap.
+  - However unlike `git` you cannot enforce the Garbage Collection.  Snap always keeps a trail of garbage.  Always.
+  - And there is no way to get rid of this [except by reinventing the wheel](../howto/.apt) on yourself.
+- Kill processes which are under Snap's control
+  - Unlike Linux Containers and `schroot`, Snap offers no way to stop all processes of a certain Snap.
+  - I really have no idea why they do not implement that, as again, you can implement that on your own.
+  - But it is error prone and depends heavily on the target architecture.  So it needs to be a feature of Snap!  But isn't.
+
+> This list probably is incomplete.
+>
+> But everything above can be found elsewhere long before Snap.
+> All of this are principles which must be accounted for if you create a new package manager.
+> Else it is just waste.  Something creating grief and hurt.
+
+If you do something new, you need to do it properly.  For example `git`.  It did something new, and it did it properly.
+
+You may be loving `git` or hating it.  But you cannot evade the fact that it did everything properly.
+And there is no design principle hurting anybody.  If something is considered useful to others, it will become part of `git`.
+
+> For example, under the hood `git` contains advanced tree algorithms like Traveling Salesman.
+
+In contrast to Snap, where the "enforce update, always, no questions asked, no control possible" is hurting others.  Already.
+And this is not because "we cannot do it".  
+It is because of "we can do it but we refuse to do it because we are in the position to decide so".
+
+**That's one of the basic ways on how to hurt others.**
