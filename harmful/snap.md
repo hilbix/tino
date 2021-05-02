@@ -164,13 +164,19 @@ Because then you get into hospital, which then offers you a meal.
 As Snap is now inevitable part of Ubuntu (you won't get updates on Chromium if you refuse to use Snap),
 there is no proper way to evade Snap.  **Hence we have to live with this shit.**
 
-> Trying to evade Snap is like trying to evade Earth.  
-> One can probably leave Earth in the hope to find another Planet with some properly implented Humankind.  
-> But this is not very feasible today.
->
+> Like we have to live with SystemD.
+> 
+> Except that living with SystemD is a lot more easy,
+> because some parts of SystemD are better designed then there was before.  Parts.  Not everything!  
+> But with Snap I cannot see anything better designed than others.  It's just different.  But no better.
+
+Trying to evade Snap is like trying to evade Earth.  
+One can probably leave Earth in the hope to find another Planet with some properly implented Humankind.  
+But this is not very feasible today.
+
 > Having said that I must confess:  
 > If somebody offers me a trip to Mars, one way, with the option to be able to properly live my life there,
 > up to my inevitable death (without a premature end of life due to being abandoned or similar)
 > I would **immediately** accept this offer, even if it's a bit risky!  (This is not a joke.  It's an offer!)
 >
-> (Note that my weigth is 120kg plus freight.  So yes, I am expensive.)
+> (Note that my weigth is 120kg plus, excluding freight.  So yes, I am expensive.)
