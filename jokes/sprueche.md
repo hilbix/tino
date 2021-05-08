@@ -77,3 +77,5 @@
 - 2021-03-26 Tester sind das Bollwerk zwischen Entwicklung und erhoffter Normalität
 
 - 2021-04-22 Das Leben könnte einfach sein .. aber die Software ist dafür noch viel zu kompliziert!
+
+- 2021-05-08 Mit dem Lockdown halte ich es wie mit meinem Penis.  Länger, härter und mit maximalem Umfang, das kommt einfach besser!
