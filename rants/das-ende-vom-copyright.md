@@ -9,7 +9,7 @@ Ich gehe davon aus, der jeweilige Mensch selbst!
 Deshalb ein einfaches Gedankenexperiment:
 
 - Ich transkribiere ein mit Copyright versehenes Stück Software in einen Raptorcode
-- Ich transkribiere diesen Raptorcode in ein (inaktives) Chromosom
+- Ich transkribiere diesen [Raptorcode](https://en.wikipedia.org/wiki/Raptor_code) zu einem (inaktiven) Chromosom
 - Ich füge dieses Chromosom in die DNS eines Spermiums ein, so, dass es lebensfähig bleibt
 - Ich zeuge damit ein Kind
 - Anschließend sequenziere ich die DNS des Kindes wieder und lese so dieses Chromosom aus
@@ -72,3 +72,16 @@ Dass etwas dem Gesetz nach illegal ist, war noch niemals ein Hinderungsgrund, da
 
 [Auf diesem Planeten ist es Recht, Kinder auszubeuten](https://www.welthungerhilfe.de/welternaehrung/rubriken/wirtschaft-menschenrechte/hoehere-kakaopreise-gegen-illegale-kinderarbeit/).
 Wieso sollte das für illegale Machenschaften dann nicht billig sein?
+
+# Fakten
+
+- Der Mensch hat 27 Chromosomen
+- Das Genom eines Menschen umfasst ca. 1,3 GB
+- Somit trägt ein Chromosom ca. 48 MB
+- Per Raptorcode dürfte man ca. 16 MB pro Chromosom (Dual auf beide Chromatiten) sicher speichen können.
+- Richtig gemacht (es müssen sich zwei mit dem zusätzlichen Chromsom paaren) dürfte der Code sogar Generationen überdauern.
+- Es wird zwar nur ein Chromatid weitergegeben, aber in Generation 0 sind ja beiden Chromatiden identisch.
+- In Generation 2 kommt es dann zum Mix.  Dank Raptorcodes sind aber so verlorene Gensequenzen kompensierbar!
+
+Ich weiß nicht, was passiert, wenn sich Mehr-Chromosomen-Träger mit Weniger-Chromosomen-Trägern paaren.
+Vermutlich klappt das dann ja nicht, was die Reinerhaltung der DNS sogar fördert!
