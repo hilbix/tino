@@ -94,7 +94,7 @@ do
 				NOTES="$NOTES$S"
 				break
 			fi
-			printf -vS 'DKMS:KO=%d %q %q %q\n' "$e" "$m" "$v" "$k"
+			printf -vS 'DKMS:KO=%d %q %q %q\n' "$?" "$m" "$v" "$k"
 			case "$x:$OUT" in
 			(1:*'Please install'*' linux-headers-'*)
 				PACK="${OUT#* linux-headers-}"
