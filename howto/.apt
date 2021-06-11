@@ -129,10 +129,10 @@ clean-snaps()
 	(disabled|disabled,*|*,disabled|*,disabled,*)	KICK["$name"]="$revision";;
 	(*)						SNAP["$name"]="$revision";;
 	esac
-  done 6< <(LC_ALL=C.UTF-8 /usr/bin/snap list --all)
+  done 6< <(LC_ALL=C.UTF-8 "$1" list --all)
   for a in "${!KICK[@]}"
   do
-	[ -n "${SNAP["$a"]}" ] && snap remove "$a" --revision="${KICK["$a"]}"
+	[ -n "${SNAP["$a"]}" ] && "$1" remove "$a" --revision="${KICK["$a"]}"
   done
 }
 
