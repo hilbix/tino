@@ -4,7 +4,7 @@ Und was hat das jetzt bitte mit KI zu tun?
 
 KI hin, KI her,  
 KI Marketingebrabbel das lieb ich sehr.  
-KI steht drauf und ist auch KI drin,  
+KI steht drauf und ist auch drin,  
 So des Maketingfuzzies liebst Gesinn.
 
 Und wenn sie nicht gestorben sind,  
