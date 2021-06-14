@@ -1,22 +1,23 @@
 > Von https://www.heise.de/forum/heise-online/Kommentare/IT-Sicherheit-Wenn-KI-gegen-KI-kaempft/Und-was-hat-das-jetzt-bitte-mit-KI-zu-tun/posting-39077445/show/
 
 Und was hat das jetzt bitte mit KI zu tun?
-KI hin, KI her,
-KI Marketingebrabbel das lieb ich sehr.
-KI steht drauf und ist auch KI drin,
+
+KI hin, KI her,  
+KI Marketingebrabbel das lieb ich sehr.  
+KI steht drauf und ist auch KI drin,  
 So des Maketingfuzzies liebst Gesinn.
 
-Und wenn sie nicht gestorben sind,
-dann wird demnächst noch jedes Kind
-gar glauben die Mär von der KI,
+Und wenn sie nicht gestorben sind,  
+dann wird demnächst noch jedes Kind  
+gar glauben die Mär von der KI,  
 aber wahr, das wird sie nie!
 
-Marketinggeschwurbel glaubt besser nicht,
-denn das, was ihr vom Einkauf kriegt,
-das wird nicht einmal ansatzweise
+Marketinggeschwurbel glaubt besser nicht,  
+denn das, was ihr vom Einkauf kriegt,  
+das wird nicht einmal ansatzweise  
 das tun was schrieb da Heise.
 
-Als Dichter bin ich nicht daheim,
+Als Dichter bin ich nicht daheim,  
 so geht's nun weiter ohne Reim.
 
 Sorry, aber was ich da lesen muss ist IMHO kompletter Unsinn. Dumpfes Marketinggeschwurbel, und offensichtlich viele Leute, die voll darauf hereingefallen sind.
