@@ -171,3 +171,58 @@ DIR="$(mktemp -d)"
 cp /usr/share/keyrings/debian-archive-keyring.gpg "$DIR/"
 mmdebstrap --aptopt="Dir::Etc::TrustedParts \"$DIR/\";" buster "$TARGET"
 ```
+
+# How to verify keys?
+
+Don't try this yourself.
+
+If you ever try to grok this, you'd rather think about start running down the middle marker of a busy street at rush hour, blindfolded, yelling, and naked.  Trust me, that's a far better experience than to try to understand how GPG works when it comes to verify a key to find out you can trust it.
+
+> It should be easy, right?  Nope, wasn't implemented in the last 24 years.  And don't have hope for the next 24 years!
+
+The only thing is that there is somebody you trust, and this one verifies it for you.  However if you are not in the lucky situation to directly know this one, you probably end up on how to trust the key of the one you trust.  Wash, rinse, repeat.  Deadklock.
+
+The sad thing is that the small world phenomenon does not work here.  Keys are usually only signed once.  Hence there is no signing mesh, it's a short signing chain, which suddenly breaks.
+
+The only thing you can rely on is, that if you trusted a key in the passt, you can - probably - trust it in the future, too.  And you can prove this relationship.
+
+> So it's not completely futile.
+
+But there is the bootstrapping problem:  How to trust the key the first time.
+
+## Best property: Time
+
+If you do not happen to directly know somebody trustworthy who can verify the key for you, and usually you don't, the probably best solution to the problem is time.  Just dig down into the Internet and try to find when a key first arrived.
+
+> Well, you probably have to trust Google and GitHub and some others like archive.org or mirrors on Universities, too.  But it is unlikely that they all will cheat on you.
+>
+> But don't trust Keyservers.  Keyservers are connected and if one is infected, the infection can spread easily.  Information there is not trustworthy.
+> They are like a phone book where anybody can enter anything and nobody even cares.
+>
+> Well, wrong.  [They care.  But cannot help.](https://www.heise.de/security/meldung/Angriff-auf-PGP-Keyserver-demonstriert-hoffnugslose-Situation-4458354.html)
+
+So what you can do is:
+
+- Look at the oldest key you can find and read, if something is compromized.  If not, it is probably is safe.
+- Then follow the evolution of the key up to the current time and see, what happened to the key.
+- If you then find some trustworthy source in the process, fine, then things got better.  But if not, you still get a good idea about the key's history.
+- Then, at the end, you must decide if you can trust the latest variant of the key or not.
+
+> Do not forget all the common problems here which erase from RSA.  An old RSA 2048 bit key might got already broken thanks to it's age.
+> But that's quite unlikely today.  In 2030 things can look quite different, or, with some breakthrough on Quantum Computing, 2025 can become dangerous already.
+>
+> Note that RSA 4096 does not buy us much time, so it is not worth to think about it.
+> First, factoring the double number of bits does not mean you need double the time,
+> but even worse Quantum Computing will expose the usual exponential growth.
+> So if Quantum Bits double in 3 years, RSA 4096 will be broken 3 years after RSA 2048.
+> Or even less.
+>
+> So we need quantum safe PKI in the next couple of years, or everything is lost.
+>
+> Read: **They already have taken too long to create usable crypto.  So they will lose everything archived in the last 30 years!**
+
+## Sorry, I have to stop here
+
+I first must manage all the other insanity before I can come back to this here.
+
+
