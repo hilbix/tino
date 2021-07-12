@@ -54,8 +54,6 @@ Now the key is:
 
 ```
 $ gpg keys.asc.gpg 
-gpg: failed to create temporary file '/root/.gnupg/.#lk0x00005562549d77f0.giganto.3776': Not a directory
-gpg: keyblock resource '/root/.gnupg/pubring.kbx': Not a directory
 gpg: WARNING: no command supplied.  Trying to guess what you mean ...
 pub   rsa8192 2015-01-19 [SC]
       390EF70BB1EA12B2773962950EE62FB37A00258D
