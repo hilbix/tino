@@ -26,7 +26,7 @@ PRO for MongoDB:
 
 PRO for CouchDB:
 
-- CouchDB is real Open Source while MongoDB has no more a Permissive Open Source License
+- CouchDB is real Open Source while MongoDB is lacking any Permissive Open Source License
 - 100% web compatible, so needs no drivers at all
 - Sync Feature on Steroids.
 - PouchDB (even that public linking this way is Nightmare on Security street)
