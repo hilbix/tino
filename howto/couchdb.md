@@ -90,12 +90,12 @@ $ gpg --list-packets keys.asc.gpg
         data: [4095 bits]
 ```
 
-The problem, as you can see, that you cannot trust the key:
+As you can see, the problem is, that you cannot trust the key at all:
 
-- It is not signed by any entity you can trust
-- The **the change happened on 2021-04-25** while the **key is from 2015-01-19**.
+- It is not signed by any entity you trust (usually)
+- The **the change happened on 2021-04-25** while the **key is from 2015-01-19**.  (WTF!?!)
 
-> Why wasn't it used if there is such a key already?
+> Why wasn't this key used in the past when it already existed?
 
 Here is how I verified the key:
 
