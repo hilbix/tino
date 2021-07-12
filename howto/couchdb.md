@@ -1,5 +1,3 @@
-> This is not yet verified, I might miss something
-
 See also:
 
 - [Disable fsync() on to dramatically speed up CouchDB write speed](stap.md)
