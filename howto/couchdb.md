@@ -108,7 +108,7 @@ Here is how I verified the key:
 
 The latter (GitHub) is probably the best source.  However you cannot be fully sure that everything is sound, as not much time has passed since these changes, so perhaps something went wrong unnoticed.
 
-**Except for the wrong** (what they tell you on the web page on how to verify the key is more destructive than helpful) **way to verify the new key** you can [follow the documentation from Apache](https://github.com/apache/couchdb-documentation/blob/3e7273dca604a225d8c74ee21514327f56425405/src/install/unix.rst#enabling-the-apache-couchdb-package-repository) (link goes to the commit for safety, so this might be old information) to install CouchDB.
+**Except for the wrong way** (what they tell you on the web page on how to verify the key is more destructive than helpful) **to verify the new key** you can [follow the documentation from Apache](https://github.com/apache/couchdb-documentation/blob/3e7273dca604a225d8c74ee21514327f56425405/src/install/unix.rst#enabling-the-apache-couchdb-package-repository) (link goes to the commit for safety, so this might be old information) to install CouchDB.
 
 > That's the major problem.  **If you exchange the key you MUST(!) make sure that there is a signature path from the old key to the new one everybody can trust!**
 >
