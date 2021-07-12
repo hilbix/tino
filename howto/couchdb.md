@@ -37,7 +37,7 @@ PRO for CouchDB:
 
 ## Install
 
-The problem boils down how to verify the public key of the Apache Packages, as Apache failed completely to provide some sane upgrade path from previous packages.
+The problem **boils down how to verify the public key** of the Apache Packages, as Apache failed completely to provide some sane upgrade path from previous packages.
 
 Before the key was this:
 
