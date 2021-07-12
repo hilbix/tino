@@ -99,7 +99,7 @@ As you can see, the problem is, that you cannot trust the key at all:
 
 Here is how I verified the key:
 
-- [Googling for the key name](https://startpage.com/sp/search?q=%22The%20Apache%20Software%20Foundation%20%28Package%20repository%20signing%20key%29%20%3Croot@apache.org%3E%22) reveals 2 hots as of today 2021-06-12, one of them is unusable as it is for RPM (and Apache uses a different key to sign RPM)
+- [Googling for the key name](https://startpage.com/sp/search?q=%22The%20Apache%20Software%20Foundation%20%28Package%20repository%20signing%20key%29%20%3Croot@apache.org%3E%22) reveals 2 hits as of today 2021-06-12, one of them is unusable as it is for RPM (and Apache uses a different key to sign RPM)
 - [Googling for 0EE62FB37A00258D](https://startpage.com/sp/search?q=0EE62FB37A00258D) reveals no hit as of today 2021-06-12
 - [Googling for 2B118A5FA15F30B9](https://startpage.com/sp/search?q=2B118A5FA15F30B9) reveals no hit as of today 2021-06-12
 - [Googling for 390EF70BB1EA12B2773962950EE62FB37A00258D](https://startpage.com/sp/search?q=390EF70BB1EA12B2773962950EE62FB37A00258D) reveals 3 hits as of today 2021-06-12
