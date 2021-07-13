@@ -142,8 +142,15 @@ Installing CouchDB on Debian as a standalone node listening on 127.0.0.1 is not 
 Setup leaves the [port of the Erlang-VM](https://github.com/apache/couchdb/issues/2306) alone,
 [opening a dangerous hole](https://erlang.org/doc/reference_manual/distributed.html) into your machine.
 
+> Note: Make sure `/opt/couchdb/etc` is a softlink to `/etc/opt/couchdb`.
+>
+> If not, move it, as `/etc` is meant to be locally writeable, while `/opt` can come from some globally mounted shared and readonly medium.
+>
+> The following assumes that `/etc/opt/couchdb` indeed is `/opt/couchdb/etc` (in older versions of CouchDB I think), too.
+
+
 ```
-cat <<'EOF' | sudo tee -a /opt/couchdb/etc/vm.args
+cat <<'EOF' | sudo tee -a /etc/opt/couchdb/vm.args
 
 # WTF SHUTUP STUPID!
 -kernel inet_dist_use_interface {127,0,0,1}
@@ -151,10 +158,6 @@ cat <<'EOF' | sudo tee -a /opt/couchdb/etc/vm.args
 -kernel inet_dist_listen_max 60001
 EOF
 ```
-
-> Note: Make sure `/opt/couchdb/etc` is a softlink to `/etc/opt/couchdb`.
->
-> If not, move it, as `/etc` is meant to be locally writeable, while `/opt` can come from some globally mounted shared and readonly medium.
 
 
 ## Configuration
