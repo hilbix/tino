@@ -121,6 +121,13 @@ The latter (GitHub) is probably the best source.  However you cannot be fully su
 >
 > If you fail to do so, you are selling SnakeOil, not proper Code Signing!
 
+Here is my config, I wrote the key to `/opt/keys/apache.gpg` because it does not fit good into `/usr` as told by the Apache documentation.  `/opt/keys` currently is a softlink to `/etc/opt/keys/` so it is under control of `etckeeper` until I manage to create a real `/opt/keys/` package for this purpose:
+
+{{{
+$ cat /etc/apt/sources.list.d/couchdb.list
+  deb [signed-by=/opt/keys/apache.gpg] http://192.168.93.8:3142/HTTPS///apache.jfrog.io/artifactory/couchdb-deb/	buster	main
+}}}
+
 
 ## Problems
 
