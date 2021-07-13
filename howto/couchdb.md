@@ -152,6 +152,10 @@ cat <<'EOF' | sudo tee -a /opt/couchdb/etc/vm.args
 EOF
 ```
 
+> Note: Make sure `/opt/couchdb/etc` is a softlink to `/etc/opt/couchdb`.
+>
+> If not, move it, as `/etc` is meant to be locally writeable, while `/opt` can come from some global readonly shared medium.
+
 
 ## Configuration
 
