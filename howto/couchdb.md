@@ -154,7 +154,7 @@ EOF
 
 > Note: Make sure `/opt/couchdb/etc` is a softlink to `/etc/opt/couchdb`.
 >
-> If not, move it, as `/etc` is meant to be locally writeable, while `/opt` can come from some global readonly shared medium.
+> If not, move it, as `/etc` is meant to be locally writeable, while `/opt` can come from some globally mounted shared and readonly medium.
 
 
 ## Configuration
