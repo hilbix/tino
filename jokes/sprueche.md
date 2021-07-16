@@ -81,7 +81,7 @@
 - 2021-05-08 Mit dem Lockdown halte ich es wie mit meinem Penis.  Länger, härter und mit maximalem Umfang, mindestens sooft wie nötig plus ein bisserl mehr, das kommt einfach viel besser!
 
 - 2021-07-16 Meine Definition von "sehr wenig Informationen" ist relativ.
-  - "wenig" ist, wenn ich über etwas gesicherte Informationen habe, diese aber nicht ausreichend, dass man mich zu dem Thema so fragen kann, dass man hinterher soweit informiert ist, dass man niemand anderes mehr fragen muss.
+  - "wenig" ist, wenn ich über etwas gesicherte Informationen habe, diese aber nicht ausreichen, dass man mich zu dem Thema so fragen kann, dass man hinterher soweit informiert ist, dass man niemand anderes mehr fragen muss.
   - "sehr wenige" ist entsprechend, wenn ich weniger Wenn ich weniger als das weiß, aber mehr als "nix", also z.B. auf begründete Spekulationen angewiesen bin, dann ist das halt "sehr wenig".
   - "nichts" ist, wenn ich darüber nur Spekulationen anstellen kann, also z. B. ich nicht gesichert weiß, ob etwas, das ich weiß, richtig oder falsch ist.  (Andere nennen das "Glaube", ich nenne das "Nichts".)
   - "etwas" bedeutet, dass ich nicht nur gesicherte Informationen habe, und diese auch ausreichen, damit man mich zu dem Thema fragen kann.  Allerdings kenne ich keine tieferen Details und es fehlen vielleicht einige Daten, und vielleicht ist auch einiges nicht ganz richtig.
@@ -90,4 +90,4 @@
   - "ausreichend" bedeutet, dass ich alle notwendigen Informationen habe, um etwas allumfassend zu bearbeiten, ohne weitere Informationen zu benötigen.  Es kann aber sein, dass ich doch über Probleme stolpere, die ich noch nicht kenne.
   - "alle" bedeutet, dass ich nicht nur ausreichend Informationen habe, sondern auch weiß, warum diese richtig sind und warum ich sicher bin, dass ich nicht mehr über Probleme stolpern werde, die ich nicht selbst lösen kann.
   - Die Relativität kommt hinzu, wenn man bedenkt, dass es die meisten Menschen hoffnungslos überfordert werden, wenn ich das wenige, das ich weiß, versuche an sie zu vermitteln.  Weil es ihnen bereits mehr als nur zu viel ist.
-  - Beispiel:  Das hier ist "wenig", zu dem Thema hätte ich nämlich noch viel mehr zu sagen ..
+  - Beispiel:  Was hier steht ist zu "wenig", um über das Thema "etwas" informiert zu sein.  Ich hätte dazu nämlich noch viel mehr zu sagen ..
