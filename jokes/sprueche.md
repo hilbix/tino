@@ -79,3 +79,5 @@
 - 2021-04-22 Das Leben könnte einfach sein .. aber die Software ist dafür noch viel zu kompliziert!
 
 - 2021-05-08 Mit dem Lockdown halte ich es wie mit meinem Penis.  Länger, härter und mit maximalem Umfang, mindestens sooft wie nötig plus ein bisserl mehr, das kommt einfach viel besser!
+
+- 2021-07-16 Meine Definition von "sehr wenig" ist relativ.
