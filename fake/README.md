@@ -78,6 +78,7 @@ Folgende Punkte gelten zusätzlich für eine solche Kennzeichung,
 wenn der verkaufte Artikel ein Originalprodukt suggeriert oder anscheinsmäßig suggerieren könnte:
 
 - Der Kunde kann dann das Produkt, ohne Nennung von Gründen, unter Erstattung des vollen Kaufpreises kostenlos zurücksenden.
+  - Dafür hat der Kunde ausreichen Zeit.  Ich würde sagen:  Mindestens 8 Wochen.
 - Diese Rücksendung muss so einfach wie möglich durchzuführen sein, also z. B. in einen beiligenden Briefumschlag stecken und diesen unter Zeugen in den Briefkasten stecken.
 - Der Kunde geht hierbei auch nicht in Vorleistung für die Kosten der Rücksendung oder den Kauf von passendem Verpackungsmaterial.
 - Ein "Nur in Originalverpackung" darf hierbei nicht gefordert werden.
