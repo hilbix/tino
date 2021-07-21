@@ -103,7 +103,7 @@ wenn der verkaufte Artikel ein Originalprodukt suggeriert oder anscheinsmäßig 
   - Ist die Übermittlung der Glaubhaftmachung komplizierter als das Hochladen eines Bildes oder Videos per HTTP-POST auf eine funktionierende Website die ohne JavaScript und ohne Cookies funktioniert, reicht der Hinweis auf das Scheitern der Übermittlung, dass die Erstattung erfolgen muss.
   - In diesem Fall (beim Scheitern der Übermittlung) wird der Verkäufer verantwortlich, die Glaubhaftmachung in seinen Besitz zu bringen.  Die Erstattung darf nicht so lange zurückgehalten werden.
 - **Forderungen aufgrund von Schadensersatz wegen Nichterfüllung bleiben hiervon unberührt.  D. h. die Rücksendung ist kein Rücktritt des Käufers vom Kaufvertrag.**
-  - Sinnvollerweise einigen sich Verkäufer und Käufer darauf, dass beide gemeinschaftlich vom Vertrag ohne weiteren Schadensersatz aufheben, wenn die Rückerstattung vollständig erfolgt ist.
+  - Sinnvollerweise einigen sich Verkäufer und Käufer darauf, den Vertrag ohne weiteren Schadensersatz gemeinschaftlich aufzuheben, sobald die Rückerstattung vollständig erfolgt ist.  (Oder so.  IANAL)
   - Das ist aber nicht garantiert und darf auch nicht in der Kennzeichnung verklausuliert werden.
 
 Dies hier schränkt nicht die Angebotsseite ein, sondern gilt beim Empfang der Ware.
