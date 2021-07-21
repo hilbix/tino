@@ -264,7 +264,7 @@ Beispiel für letzteres Vorgehen:
 Umgang mit dem Fake:
 
 - Ich werde den Fake eher nicht zurückschicken.
-  - Weil damit mache ich mich sonst unter Umständen strafbar, wenn der Fake wiederum in Umlauf bringe.  Das Teil trägt ja jetzt meine DNS und ich bin kein Pirat!
+  - Weil damit mache ich mich sonst unter Umständen strafbar, wenn der Fake wiederum in Umlauf gebracht wird.  Das Teil trägt ja jetzt meine DNS und ich bin kein Pirat!
   - Meine Empfehlung ist, dass der Fake bei mir verbleibt und in mein Eigentum übergeht.
   - [Der private Besitz eines Fake ist IMHO in Deutschland nicht strafbar](https://de.wikipedia.org/wiki/Produktpiraterie#Deutschland)
 - Ich schicken den Fake zurück, wenn ich ihn entsprechend unentfernbar als Fake-Produkt markieren darf.
@@ -276,7 +276,7 @@ Umgang mit dem Fake:
 - Ich lagere das Teil bis zur Abholung durch den Eigentümer.
   - Richtig gelesen, ich bin ja noch kein Eigentümer an einer fremden Sache die mir ungewollt zugeschickt wurde.
   - Ich verlange aber den Eigentümer oder einen explizit Bevollmächtigten, da ich mit ihm ein Wörtchen zu Reden habe.  (Ein Paketbote ist das sicher nicht!)
-  - Durch die Lagerung bei mir entstehen nach 3 Monaten pro Woche 1€ Lagergebühr.
+  - Die Lagerung ist die ersten 3 Monate kostenlos.  Danach berechne ich 1€ pro Woche.
   - Sobald die Lagergebühr den Gegenstandswert überschreiten werde ich den Gegenstand mit meinen Lagerkosten aufrechnen.
   - Achtung: Ein Fake-Produkt hat nicht den Gegenstandswert des Originals!
 - Ich hinterlege das Teil auch gerne (vollkommen kostenlos) bei meiner hiesigen Staatsanwaltschaft zur Abholung.
