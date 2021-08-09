@@ -15,6 +15,8 @@ if filereadable(expand('~/.vim/plugins/securemodelines.vim'))
   " apt-get download vim-scripts && dpkg -x vim-scripts_*_all.deb tmp/
   " cp tmp/usr/share/vim-scripts/plugin/securemodelines.vim ~/.vim/plugins/
   source ~/.vim/plugins/securemodelines.vim
+elseif filereadable('/usr/share/vim-scripts/secure-modelines/plugin/securemodelines.vim')
+  source /usr/share/vim-scripts/secure-modelines/plugin/securemodelines.vim
 else
   " sudo apt-get install vim-scripts
   source /usr/share/vim-scripts/plugin/securemodelines.vim
