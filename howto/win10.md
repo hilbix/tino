@@ -115,7 +115,7 @@ Aber warum schon nach wenigen Sekunden?  Warum nicht 15 Minuten oder 30 Minuten 
 
 Tadaaa.  Nichts hat sich verändert.  Neuer Versuch mit einem anderen Schalter, aber dank der Exkursion auf die Offline-Variante sind wir jetzt schon schlauer:
 
-    C:\>sfc /scannow
+    C:\>sfc /verifyonly
 
     Systemsuche wird gestartet. Dieser Vorgang kann einige Zeit dauern.
 
@@ -143,4 +143,42 @@ Und jetzt steht man vor dem Problem, die Datei `C:\Windows\Logs\CBS\CBS.log` zu 
 
 ## `sfc` Murx 5
 
-T.B.D.
+Ich habe das Logfile `C:\Windows\Logs\CBS\CBS.log` filettiert.  Allerdings war das erzeugte Log durch `/verifyonly` unbrauchbar.
+
+Warum?  **Viel zu viele Fehlerstellen**.  Nicht hunderte.  Tausende.  Also nochmals:
+
+    C:\>sfc /scannow
+
+    Systemsuche wird gestartet. Dieser Vorgang kann einige Zeit dauern.
+
+    Überprüfung der Systemsuche wird gestartet.
+    Überprüfung 23 % abgeschlossen.
+
+    Der Windows-Ressourcenschutz konnte den angeforderten Vorgang nicht ausführen.
+
+Dann die Datei `C:\Windows\Logs\CBS\CBS.log` mit Notepad++ geöffnet.
+
+Und ..
+
+.. erst einmal nix.  Das Logfile hört nicht mit dem eigentlich Fehler auf, sondern läuft noch ellenlang weiter.
+Beim hochscrollen kam aber eine Zeile mit folgender Sequenz auf:
+
+    Cannot repair member file
+
+- In dieser Zeile stand ein Dateiname.  Nur ein Dateiname, kein Pfad oder sowas.
+- Darunter dann `STATUS_FILE_IS_A_DIRECTORY`.  Das kommt zwar häufiger vor, aber hier war es im Zusammenhang mit diesem Fehler.
+
+Was habe ich gemacht?
+
+- Ich habe den angegebenen Namen im gesamten Filesystem (unterhalb von `C:\Windows`) gesucht
+- Und die Stelle identifiziert, in der es ein Verzeichnis war.
+- Dann habe ich das Verzeichnis gelöscht.  (Was nicht so einfach war, es war gegen Modifikationen gut geschützt.)
+
+> Meine Annahme ist, dass da ein Privacy-Tool einen der BigBrother-Services auf die harte Tour abgeschaltet hat.
+>
+> - Also .EXE löschen, Verzeichnis an seiner Stelle erstelle, und das Verzeichnis gegen jegliche Veränderung immunisieren
+
+Das hat dann wohl der Softwareupdate krummgenommen und ist zusammengebrochen.
+
+> Getreu dem Motto: **Wer auf seine Privatsphäre Wert legt, der nimmt besser kein Microsoft!**
+> Denn wenn man das tut, nimmt das einem Microsoft übel!  (Ganz offensichtlich!)
