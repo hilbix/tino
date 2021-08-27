@@ -182,3 +182,20 @@ Das hat dann wohl der Softwareupdate krummgenommen und ist zusammengebrochen.
 
 > Getreu dem Motto: **Wer auf seine Privatsphäre Wert legt, der nimmt besser kein Microsoft!**
 > Denn wenn man das tut, nimmt das einem Microsoft übel!  (Ganz offensichtlich!)
+
+
+## `sfc` Erfolg
+
+    C:\>sfc /scannow
+
+    Systemsuche wird gestartet. Dieser Vorgang kann einige Zeit dauern.
+
+    Überprüfung der Systemsuche wird gestartet.
+    Überprüfung 100 % abgeschlossen.
+
+    Von Windows-Ressourcenschutz wurden beschädigte Dateien gefunden und erfolgreich
+    repariert. Weitere Informationen finden Sie in der Datei "CBS.log" unter "windir\Logs\CBS\CBS.log",
+    z.B. "C:\Windows\Logs\CBS\CBS.log".
+    Hinweis: Bei der Offlinewartung wird die Protokollierung derzeit nicht unterstützt.
+
+> Achtung!  Die Datei wird natürlich bei jedem Lauf überschrieben.  Wenn man also wissen will, was passiert ist, muss man die Datei sofort sichern.
