@@ -5,6 +5,26 @@ wLANs auflisten und Schlüssel im Klartext ausgeben:
     netsh wlan show profile
     netsh wlan show profile "NAME" key=clear
 
+# Zugriffsprobleme
+
+- Die Datei oder der Ordner lassen sich einfach nicht löschen?
+- Das Ändern der Zugriffsrechte funktioniert einfach nicht, weil die Berechtigung zur Änderung der Berechtigung fehlt?
+- Folgendes per `cmd.exe` machen, das man mit Administratorberechtigungen gestartet hat
+
+> **Achtung!**  Wenn die Datei verschlüsselt ist, **wird ihr Inhalt dadurch unwiederbringlich zerstört!**
+
+    takeown /f DATEI-ODER-VERZEICHNIS
+    
+Damit übernimmt man den Besitz der Datei und kann dann die Berechtigung per `explorer.exe` "bequem" anpassen.
+
+- Also "Rechtsklick" auf die Datei
+- `Eigenschaften`
+- `Sicherheit`
+- `Bearbeiten`
+- Und dann sich selbst den `Vollzugriff` geben
+- Anschließend kann man Löschen etc.
+
+
 # Update-Probleme
 
 - https://www.deskmodder.de/wiki/index.php?title=Welche_Log_Datei_bei_Update_Fehler_auslesen_Windows_10
