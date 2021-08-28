@@ -24,9 +24,11 @@ Damit übernimmt man den Besitz der Datei und kann dann die Berechtigung per `ex
 - Und dann sich selbst den `Vollzugriff` geben
 - Anschließend kann man Löschen etc.
 
-
 # Update-Probleme
 
+- https://docs.microsoft.com/de-de/windows-hardware/manufacture/desktop/repair-a-windows-image
+  - Lies: `Dism /Online /Cleanup-Image /CheckHealth`
+  - Außerdem gibt es eine Diagnosemöglichkeit unter "Update und Sicherheit" - "Problembehandlung" (die bei mir aber nur selten etwas bringt)
 - https://www.deskmodder.de/wiki/index.php?title=Welche_Log_Datei_bei_Update_Fehler_auslesen_Windows_10
 
 ## `sfc` Murx 1
