@@ -1,4 +1,4 @@
-> See also (in German): [das-ende-vom-copyright.md](Das Ende vom Copyright ist abzusehen)
+> See also (in German): [Das Ende vom Copyright ist abzusehen](das-ende-vom-copyright.md)
 >
 > This is not a translation and contains independend thoughts.
 
