@@ -16,6 +16,17 @@ Why Baby?  This is due to following observations:
 
 We all probably can agree to this, right?
 
+> In my case above this means, I refuse to accept a Copyright on all software published by me.
+> 
+> Note that I am German, and in Germany the Copyright is done in two distinct laws.
+>
+> - One is called "Urheberrecht" and sets the right of the creator.
+> - The second is called "Verwertungsrecht" which sets the rights of the publisher.
+>
+> This distinction allows to properly do things here in Germany, not falling into the traps below.
+> But the problem with Copyright is, that it tries to combine both, which keeps it beyond repair.
+
+
 ## DNA is a data storage, just like a harddisk or USB-stick.
 
 - We are able today to store any data in DNA.
