@@ -1,6 +1,6 @@
 > See also (in German): [Das Ende vom Copyright ist abzusehen](das-ende-vom-copyright.md)
 >
-> This is not a translation and contains independend thoughts.
+> This here is not a translation and contains independend thoughts.
 
 # Free as a Baby
 
