@@ -46,7 +46,7 @@ All of them!  Without any difference to anybody else on this planet!
 - Without any license, witout any restriction, without any doubt!
 - The grown up baby even has the right to allow others to use its DNA data, unencumbered!
 
-## Humans must not be treted differently
+## Humans must not be treated differently
 
 Others must not be treated differently, neither due to their descent nor ethnic (read: DNA).
 
