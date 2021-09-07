@@ -10,7 +10,7 @@ I always paraphrase my software as
 
 Why Baby?  This is due to following observations:
 
-> This is missing some links yet, sorry, no time.
+> Following is missing some links.  Sorry, no time.
 
 ## I refuse to accept Copyright on babies.
 
