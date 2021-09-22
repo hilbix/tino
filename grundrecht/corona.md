@@ -40,7 +40,7 @@ So, dann hier mal ein ensprechendes klares unmissverständliches und extrem deut
 
 ## Politik mit Überlichtgeschwindigkeit
 
-> Zur Erinnerung:  Überlicht ist in diesem Universum unmöglich, so lange man sich an die gentenden (Natur-)Gesetze hält.
+> Zur Erinnerung:  Überlicht ist in diesem Universum unmöglich, so lange man sich an die geltenden (Natur-)Gesetze hält.
 
 Den Politikern muss man mit Turbokacke ins Hirn geschissen haben, und diese kreist da jetzt offensichtlich mit Überlichtgeschwindigkeit.
 Jeder, der das, was da angedacht ist, auch nur denken kann, erklärt sich damit unmissverständlich und in klarer Weise
