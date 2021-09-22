@@ -403,6 +403,41 @@ In diesem Sinne.  Schimpft über die Impfgegner.  Aber fangt mir bitte nicht an,
 
 'nuff said, out.
 
-> Ja das Ding hier strotzt vor SChreibfehlern.  Habe gerade keine Zeit das gradezuziehen.
-> Wem das nicht gefällt:  Macht einfach einen Pull-Request!  Wozu haben wir GitHub denn sonst?
- 
+Oder nein, sorry, eines fehlt noch:
+
+# Fazit
+
+Also egal wie wir es drehen oder wenden, es ist unmöglich zu entscheiden, wann jemand durch das nicht-geimpft-sein Schaden verursacht.
+
+Genausogut kann er sogar recht haben und durch die Impfung schaden erleiden.  Wer kann das beurteilen?  Niemand!
+
+Die Leute deshalb zu verdammen, weil sie anders denken, das ist viel zu einfach und viel zu naheliegend.
+
+**Ja, man darf gerne auf sie wütend sein!**  Aber das gibt uns trotzdem noch nicht das Recht, ihnen (virtuell) in die Fresse zu hauen
+(sprich sie zu drangsalieren oder am Geldbeutel spüren zu lassen), nur weil wir anderer Meinung sind.
+
+Denn letztendlich ist alles Meinung.  Die Zukunft wird erweisen, wie richtig oder falsch wir lagen.  Wenn wir das zulassen.
+
+Aber hier und heute sehe ich eher die Gefahr, dass die Doktrin übernimmt.  Darin ist Deutschland ja groß.  Doktrinen zu übernehmen,
+strikt zu befolgen und diese kompromisslos umzusetzen.  Armes Deutschland.
+
+In sofern ist es wahrscheinlich für unsere Gemeinschaft sogar gut und richtig, uns mit Andersdenkenden auseinandersetzen zu müssen.
+
+Trotzdem finde ich - mal total pauschalisierend und typisch menschlich ausgedrückt - dass die meisten dieser Querdenker absolut kranke Vollidioten sind.
+
+Das ist einfach meine Empfindung.  Diese Empfindung mag falsch sein und trügen.  Ändert aber nichts daran, dass mein Bauch dieser Meinung ist
+und der Kopf ständig dagegen arbeiten muss.
+
+> Indes, meistens hat mein Bauch Recht.
+
+Wenn das nicht nur mir so geht, ich hoffe, wenigstens der Kopf bleibt rational.  In diesem Sinne:
+
+**Übt Toleranz, auch wenn's verdammt schwer fällt!**  Die Grundrechte ungeimpfter willkürlich weiter einzuschränken (indem man den Druck erhöht)
+sehe ich nicht nur mit Sorge, sondern halte ich nicht nur für unverhältnismäßig sondern für absolut schädlich für dieses, unser Land!
+
+So, und das war's jetzt endgültig für heute.
+
+> Ja das Ding hier strotzt vor SChreibfehlern, Ungereimtheiten und nicht vollständig ausformulierten oder zuendegedachten Gedanken.
+> Habe gerade keine Zeit das gradezuziehen.  Wem das nicht gefällt:  Macht einfach einen Pull-Request!  Wozu haben wir GitHub denn sonst?
+>
+> Wie ich ersten Commit schrieb:  Es musste einfach raus.
