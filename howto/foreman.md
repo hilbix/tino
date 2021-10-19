@@ -60,7 +60,7 @@ Whew.  What a shame.  Here is how I did it:
   - When I realized, that Debian Bullseye is supported, too (documentation did not list that), it was too late and I was with Ubuntu 20.04.3
 - Second, I fixed the hostname as shown in Foreman configuration.
   - Make sure, that the **hostname resolves to the public IP**, not `127.0.1.1`
-  - **This is** probably **an important step!**
+  - If you get it wrong, `forman-installer` will tell you what you did wrong
 
 ```
 vim /etc/hosts
@@ -106,9 +106,12 @@ EOF
 
 ```
 apt-get update && apt-get install foreman-installer
-foreman-installer -i
+foreman-installer
 EOF
 ```
+
+- Warning!  Do not use `forman-installer -i`!
+  - At my side this exposed major problems when used before foreman is really installed!
 
 ## How to verify the keys?
 
