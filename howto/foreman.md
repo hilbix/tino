@@ -57,7 +57,8 @@ Reading through the doc gives several WTFs at once:
 Whew.  What a shame.  Here is how I did it:
 
 - First, I **installed Ubuntu 20.04 LTS live server** into a VM.
-  - When I realized, that Debian Bullseye is supported, too (documentation did not list that), it was too late and I was with Ubuntu 20.04.3
+  - The VM had 2 CPU and 3 GB of RAM.  (2 GB of RAM is not enough for a succesful install.)
+  - When I realized, that Debian Bullseye is already supported, too (documentation did not list that), it was too late.  Hence I go with Ubuntu 20.04.3
 - Second, I fixed the hostname as shown in Foreman configuration.
   - Make sure, that the **hostname resolves to the public IP**, not `127.0.1.1`
   - If you get it wrong, `forman-installer` will tell you what you did wrong
