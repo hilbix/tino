@@ -11,20 +11,29 @@ Whew!  [What a smoke grenade!](https://www.theforeman.org/manuals/3.0/quickstart
 
 > Proper for me, not for you!
 
-## What you find here
+## Goal
 
-- Install Foreman 3.0
-- Apply your SSL certificate (from LetsEncrypt)
+In an **Offline Environment** (like an Intranet, firewalled DMZ or highly protected Extranet):
+
+- Install Foreman
+- Apply SSL certificate from LetsEncrypt
+- (Nothing more yet, as this is where I am now.)
 
 ```
-root@foreman:/# dpkg -l foreman | cat
+root@foreman:/# dpkg -l foreman puppet-agent | cat
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
 |/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
-||/ Name           Version      Architecture Description
-+++-==============-============-============-=================================
-ii  foreman        3.0.0-1      amd64        Systems management web interface
+||/ Name           Version       Architecture Description
++++-==============-=============-============-==============================================================================================================
+ii  foreman        3.0.0-1       amd64        Systems management web interface
+ii  puppet-agent   6.25.0-1focal amd64        The Puppet Agent package contains all of the elements needed to run puppet, including ruby, facter, and hiera.
 ```
+
+- My installation lives in a DMZ with private IPs without a direct nor open nor transparent connetion to the Internet.  Nevertheless I want proper SSL.
+- Hence the SSL certificate is pulled from LE.  This is done with the help of a dummy entry in global DNS and a dummy server which answers just the Challenge.
+- Note that LE (dehydrated) also runs in a DMZ on a separate host, and is only able to contact LE and deploy the certs to the servers (using SFTP).
+- For me this is a bare minimum setup when it comes to security.  I'd never run LE on the server itself nor have Foreman reachable from or talk to the outside.
 
 
 ## Problem
@@ -39,10 +48,20 @@ The result is a security nightmare already at the first step, on how to install 
 
 By unwraping what really matters, you can read here, how to do it with a bit more confidence.
 
+> The problem would not exist if a somewhat current version of Foreman or Puppet would be part of Ubuntu (or Debian etc.).
+> But this is not the case, apparently.  Hence we have a bootstrapping problem here.  Bootstrapping Security, not bootstrapping Foreman!
+> 
+> Such a bootstrapping problem is not new.  In contrast, it is more or less the usual case today if it comes to security.  
+> Compare: The S in IoT stands for Secuity.  I hate it.
+> 
+> said otherwise:  
+> To do things the right and secure way is not enough for me.  I want to be enabled to verify, that I am indeed doing it the right and secure way.  
+> (Verification itself then is just left over as an excercise to the reader.)
+
 
 **WTF why?**
 
-Well, it happens that the old Puppet key expired .. YESTERDAY!  Yes, really!  
+Well, it happens that the old Puppet key expired .. YESTERDAY (when I was starting to write that)!  Yes, really!  
 And, as usual with GPG keys, **there is no secure upgrade path** defined such that you can verify the new key with the old one.
 
 That's why I wrote this!
@@ -51,7 +70,7 @@ That's why I wrote this!
 
 The probability for hitting some expired key is above 100%.  So there is nearly no chance that no key expired yesterday!
 
-Uh?
+> Uh?
 
 Well, simple mathematics:
 
@@ -239,7 +258,7 @@ cd /etc/foreman-installer/scenarios.d
 ~/bin/edit.py foreman-answers.yaml foreman websockets_ssl_cert "\"/etc/letsencrypt/certs/$(hostname -f)/fullchain.pem\""
 chmod 600 foreman-answers.yaml
 foreman-installer
-systemctl restart apache2
+puppet agent --test
 ```
 
 - Nope, my [`edit.py`](foreman/edit.py) is not a solution.  It is just an evil quickhack to overcome my lack of knowledge about some suitable YAML editor for commandline, which must be part of Debian, of course.
@@ -255,6 +274,6 @@ The webservice now serves with the certificate of LE.  Yay!
 > 
 > If you ask me, the makers of Foreman should state the most obvious things and define how to do it portably and properly the right way.
 
-I am just at the beginning.  Foreman is installed.  And give a login prompt.  And that's all.  And **I do not have any clue what comes next**.
+I am just at the beginning.  Foreman is installed.  And gives a login prompt.  And that's all.  And **I do not have any clue what comes next**.
 
 > Perhaps will be continued in case I find the time, solution and mood.
