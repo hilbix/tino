@@ -11,6 +11,21 @@ Whew!  [What a smoke grenade!](https://www.theforeman.org/manuals/3.0/quickstart
 
 > Proper for me, not for you!
 
+## What you find here
+
+- Install Foreman 3.0
+- Apply your SSL certificate (from LetsEncrypt)
+
+```
+root@foreman:/# dpkg -l foreman | cat
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name           Version      Architecture Description
++++-==============-============-============-=================================
+ii  foreman        3.0.0-1      amd64        Systems management web interface
+```
+
 
 ## Problem
 
@@ -139,3 +154,107 @@ But afterwards I was convinced (not: sure) that the keys I used above are likely
 > **Why does nobody sign new keys using the old one on the purpose to authorize the new key?**
 > Well, right, this is only half of what is needed to authenticate (because an old key could be compromized,
 > hence signing an invalid follow-up-key).  But it would be a starter. 
+
+
+## SSL
+
+After the first installation (with the default standard setup!  Everything else failed by me for unknown reason) some settings must be changed.
+
+Here: Enabling SSL.
+
+So you have [an LetsEncrypt certificate for your domain which is used for Foreman](https://github.com/hilbix/tino/blob/master/howto/foreman.md), but nobody tells you, how to install it into Foreman?  WTF why?
+
+> As usual, documentation does not state anything, and searching the whole Internet does not help either.
+>
+> There is documentation, but for an outdated foreman version, which is no more valid for the current one.
+> Also this blog post apparently is wrong, as the files to edit are managed by Puppet.
+> 
+> I really do not get it.  Why don't they tell how it is done?
+
+The documentation of `foreman-installer` does not help either.  Why?  `foreman-installer --full-help`, that's why!  That is not helpful at all, just a list of more than 1000 lines.  More than 1000!  Good luck, probability of success with a lottery ticket of a bazaar is much higher than with such a help.
+
+Definitively, some of the mosst obvious things to do must be explained.  And all explanation of "edit some files" which then might be right or not and might get overwritten later on by some other means does not seem wortwhile.  However it looks like this is the only thing you can find out there.
+
+My strategy for a proper trial and error loop looks like following:
+
+- Edit `/etc/foreman-installer/scenarios.d/foreman-answers.yaml`
+  - Is is under `git` control, thanks to `etckeeper`, right?
+  - And nope, I do not think **that this is a portable way** to be compatible to the future.
+  - However some obscure commandline options to foreman-installer can change incompatibly as well in future.
+  - And commandlines are not under `git` control.  Hence this is even less than a solution for me.
+- Then run `foreman-installer` to apply the changes done to this file
+- Then check the outcome
+
+Sigh!
+
+Following assumes that your **certificates are deployed under `/etc/letsencrypt/certs/$(hostname -f)/`** (which is my recommendation, as this path explains everything on itself, no need for documentation whatsoever.  AFAICS doing things always the most straight forward way is the masterkey to succeess):
+
+- `644` `cert.pem` is the cert
+- `644` `chain.pem` is the chain certificate
+- `644` `fullchain.pem` is `cert.pem` combined with `chain.pem`
+- `640` `privkey.pem` is the private key
+- `640` `privkeyfull.pem` is `privkey.pem` combined with `fullchain.pem`
+- `^^^` those numbers are the permissions owned by `letsencypt`:`letsencrypt`
+
+This is how I do it.  YMMV.
+
+Now [some very outdated documentation suggests](https://theforeman.org/2015/11/foreman-ssl.html) to change following values. `hostname -f` is shown below as `EXAMPLE.COM`:
+
+```
+foreman::ssl: true
+
+puppet::server_foreman_url: 'https://EXAMPLE.COM'
+foreman::servername: 'EXAMPLE.COM'
+foreman::foreman_url: 'https://EXAMPLE.COM'
+
+puppet::server_foreman_ssl_ca: '/etc/letsencrypt/certs/EXAMPLE.COM/chain.pem'
+foreman::server_ssl_key: '/etc/letsencrypt/certs/EXAMPLE.COM/privkey.pem'
+foreman::server_ssl_cert: '/etc/letsencrypt/certs/EXAMPLE.COM/cert.pem'
+foreman::server_ssl_chain: '/etc/letsencrypt/certs/EXAMPLE.COM/chain.pem'
+foreman::websockets_ssl_key: '/etc/letsencrypt/certs/EXAMPLE.COM/privkey.pem'
+foreman::websockets_ssl_cert: '/etc/letsencrypt/certs/EXAMPLE.COM/fullchain.pem'
+```
+
+> Note that this was adapted from the documentation and is in hiera-notation with no trace whatsoever how to apply this notation correctly using hiera.
+> 
+> At my side I was unable to apply this using hiera, probably because I am lacking the correct command skillset due to the docu just states raw incomprehensible info.  (I am new to Puppet, and the Puppet documentation is even worse than foreman's!  Not even a single page explains what the difference is between `foreman::ssl` and `forman.ssl` and why you sometimes see the one and other times the other.)
+
+This assumes that you use the default install with the puppet server served by the host with foreman, too.
+
+If you look a bit more closely into `/etc/foreman-installer/scenarios.d/foreman-answers.yaml`, you will observe following:
+
+- `foreman.ssl` already is `true`
+- `foreman.servername`, `foreman::foreman_url` and `puppet::server_foreman_url` are already set correctly
+- We cannot locate any trace of something like `puppet::server_foreman_ssl_ca` in `foreman-answers.yaml`
+- `foreman.websockets_ssl_key` and `foreman.websockets_ssl_cert` are empty (at my side, as it is unconfigured yet)
+
+Hence this leads to following script (with the help of some suitable [`edit.py`](foreman/edit.py).  It takes `file`, then `path`, then JSON value to write):
+
+```
+cd /etc/foreman-installer/scenarios.d
+~/bin/edit.py foreman-answers.yaml foreman server_ssl_key      "\"/etc/letsencrypt/certs/$(hostname -f)/privkey.pem\""
+~/bin/edit.py foreman-answers.yaml foreman server_ssl_cert     "\"/etc/letsencrypt/certs/$(hostname -f)/cert.pem\""
+~/bin/edit.py foreman-answers.yaml foreman server_ssl_chain    "\"/etc/letsencrypt/certs/$(hostname -f)/chain.pem\""
+~/bin/edit.py foreman-answers.yaml foreman websockets_ssl_key  "\"/etc/letsencrypt/certs/$(hostname -f)/privkey.pem\""
+~/bin/edit.py foreman-answers.yaml foreman websockets_ssl_cert "\"/etc/letsencrypt/certs/$(hostname -f)/fullchain.pem\""
+chmod 600 foreman-answers.yaml
+foreman-installer
+systemctl restart apache2
+```
+
+- Nope, my [`edit.py`](foreman/edit.py) is not a solution.  It is just an evil quickhack to overcome my lack of knowledge about some suitable YAML editor for commandline, which must be part of Debian, of course.
+- Note that I tried Augeas' `augtool` but failed, probably because Augeas does not support YAML?  "Augeas is a configuration editing tool."  Therefor it does not support common configuration files like `.yaml`.  Allright, if this is how our future must looks like, I do not want to be part of it!
+
+## .. and the winner is .. unknown
+
+The webservice now serves with the certificate of LE.  Yay!
+
+> Really, **I do not have the slightest idea if it makes any sense what I am doing here**.
+> 
+> The only thing I know is that all other Blogs/Solutions/etc. out there even make a lot less sense than what I did at my side!
+> 
+> If you ask me, the makers of Foreman should state the most obvious things and define how to do it portably and properly the right way.
+
+I am just at the beginning.  Foreman is installed.  And give a login prompt.  And that's all.  And **I do not have any clue what comes next**.
+
+> Perhaps will be continued in case I find the time, solution and mood.
