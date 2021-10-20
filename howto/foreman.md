@@ -268,7 +268,7 @@ puppet agent --test
 The webservice now serves with the certificate of LE.  Yay!
 
 However I am a bit worried about the fact that I did not update something like `server_foreman_ssl_ca` to the chain certificate of LE.
-This might cause trouble in future when it comes to Puppet.  However I will fix that when I stumble over it.
+This might cause trouble in future when it comes to Puppet.  Bit I (hopefully) will fix that when I stumble over it.
 
 For now, all I have is a bare Foreman's install which waits for being used.
 
