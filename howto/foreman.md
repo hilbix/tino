@@ -144,7 +144,12 @@ apt-get update && apt-get install foreman-installer
 foreman-installer
 ```
 
-- Warning!  Do not use `forman-installer -i`!
+**Important!**
+
+- This prints the "Initial credentials" to login into Foreman.
+  - **Be sure to write credentials down**, as they are no more printed anywhere else or later on!
+  - If you forgot the credentials, use `foreman-rake permissions:reset` (like `foreman-rake permissions:reset username=admin password=FOO`)
+- Do not use `forman-installer -i`!
   - At my side this exposed major problems when used before foreman is really installed!
 
 ## How to verify the keys?
