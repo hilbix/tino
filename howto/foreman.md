@@ -269,8 +269,9 @@ The webservice now serves with the certificate of LE.  Yay!
 
 However I am a bit worried about the fact that I did not update something like `server_foreman_ssl_ca` to the chain certificate of LE.
 This might cause trouble in future when it comes to Puppet.  Bit I (hopefully) will fix that when I stumble over it.
+Also note that the Websocket module is not enabled yet, so I do not know if configuration is correct (using `fullchain.pem` instead of `cert.pem`).
 
-For now, all I have is a bare Foreman's install which waits for being used.
+For now, all I have is a bare Foreman's install which waits for being used.  That's enough for today.
 
 > Really, **I do not have the slightest idea if it makes any sense what I am doing here**.
 > 
