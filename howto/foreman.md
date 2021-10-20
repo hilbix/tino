@@ -16,7 +16,7 @@ Whew!  [What a smoke grenade!](https://www.theforeman.org/manuals/3.0/quickstart
 In an **Offline Environment** (like an Intranet, firewalled DMZ or highly protected Extranet):
 
 - Install Foreman
-- Apply SSL certificate from LetsEncrypt
+- [Apply SSL certificate from LetsEncrypt](https://github.com/hilbix/dehydrated/wiki)
 - (Nothing more yet, as this is where I am now.)
 
 ```
@@ -180,7 +180,7 @@ After the first installation (with the default standard setup!  Everything else 
 
 Here: Enabling SSL.
 
-So you have [an LetsEncrypt certificate for your domain which is used for Foreman](https://github.com/hilbix/tino/blob/master/howto/foreman.md), but nobody tells you, how to install it into Foreman?  WTF why?
+So you have [an LetsEncrypt certificate for your domain which is used for Foreman](https://github.com/hilbix/dehydrated/wiki), but nobody tells you, how to install it into Foreman?  WTF why?
 
 > As usual, documentation does not state anything, and searching the whole Internet does not help either.
 >
