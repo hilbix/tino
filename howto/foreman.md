@@ -142,7 +142,6 @@ EOF
 ```
 apt-get update && apt-get install foreman-installer
 foreman-installer
-EOF
 ```
 
 - Warning!  Do not use `forman-installer -i`!
