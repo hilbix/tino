@@ -180,7 +180,7 @@ After the first installation (with the default standard setup!  Everything else 
 
 Here: Enabling SSL.
 
-So you have [an LetsEncrypt certificate for your domain which is used for Foreman](https://github.com/hilbix/dehydrated/wiki), but nobody tells you, how to install it into Foreman?  WTF why?
+So you have [a LetsEncrypt certificate for your domain which is used for Foreman](https://github.com/hilbix/dehydrated/wiki), but nobody tells you, how to install it into Foreman?  WTF why?
 
 > As usual, documentation does not state anything, and searching the whole Internet does not help either.
 >
