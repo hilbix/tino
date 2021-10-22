@@ -287,3 +287,12 @@ For now, all I have is a bare Foreman's install which waits for being used.  Tha
 So I am just at the beginning.  Foreman is installed.  And gives a login prompt.  And that's all.  And **I do not have any clue what comes next**.
 
 > Perhaps will be continued in case I find the time, solution and mood.
+
+
+# SCRATCH
+
+Unsorted things
+
+```
+foreman-installer --enable-foreman-plugin-remote-execution --enable-foreman-proxy-plugin-remote-execution-ssh
+```
