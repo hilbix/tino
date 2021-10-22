@@ -2,7 +2,215 @@
 
 Was ich brauche, warum ich es brauche und wie ich es brauche.
 
-## Hybrid ist eine eindeutige Verbesserung
+## 2021-10 Update
+
+Was ich 2019 unten schrieb ist weiterhin richtig, aber wir haben heute 2021 und es hat sich viel getan.
+Naja, meine Notwendigkeiten haben sich eher wenig verändert, aber es hat sich trotzdem viel verändert.
+
+### Corona hat die Karten neu gemischt
+
+Vor Corona habe ich pro Jahr ca. 35000 km gependelt mit einem Privatanteil um die 1%.
+
+Durch Corona fahre ich jetzt nur noch ca. 5000 km/Jahr, mit einem stark agestiegenen Privatanteil, da ich die meisten privaten Besorgungen nicht mehr durch einen Schlenker auf der Geschäftsfahrt miterledigen kann.
+
+Steuertechnisch ist dieser Privatanteil ein absoluter Overkill.  Beim Leasingwechsel hatte ich also die Wahl:
+
+- Split auf 2 Fahrzeuge, ein privater Citystromer (billiger kann man ein Auto nicht betreiben) PLUS ein vollausgestatteter Langstreckenbolide (evtl. Hybrid).
+- Oder ein Fauler Kompromiss mit einem Mittelstrecken-BEV (Langstrecke waren da noch nicht verfügbar, oder wenn, dann zu einem untragbaren Preis).
+
+Es wurde letzteres.
+
+### Fauler Kompromiss ID.4
+
+Der ID.4 ist ein Fauler Kompromiss:
+
+- Er fährt nur 160 km/h
+  - Nicht gerade das, was ich mir auf Strecke vorstelle.  Meine gewünschte Reisegeschwindigkeit ist 160km/h-180km/h auf der mittleren Spur, geregelt durch Abstandsradar.
+  - Auf der linken Spur kann ich gerade mal nur mit max. 160 km/h dahinschleichen, das ist höchst unangenehm, hier erwarte ich, auf min. 205km/h beschleunigen zu können (mehr ist besser) um andere nicht zu blockieren.
+  - Ich fahre auf Strecke meistens Nachts auf meist unbeschränkten Autobahnen mit vergleichsweise wenig Verkehr.
+  - Allerdings sind Nachts die Ladepunkte eher frei
+  - Bei 160 km/h geht der Durchschnittsverbrauch auf 30kW/100km hoch, sprich nach etwas mehr als 1h Vollgas muss man nachladen, was extrem ineffizient ist.
+- Fährt man mehr als 150km (eine Richtung mit Autobahn), braucht man zwangsläufig einen Zwischenstopp.
+  - Es wären 250km wenn man am Ziel sinnvoll nachladen könnte, was bisher nicht geht.  Aber auch 250 km sind für Strecke zu wenig.
+  - Früher habe ich einach an den Tagen vor so einer Fahrt vollgetankt, so war die Fahrt ohne Zwischenstopp zu bewältigen.
+  - Tagsüber beim Pendeln fährt man deutlich effizienter als auf Langstrecke, deshalb ist das beim Pendeln eher weniger wichtig.
+- **Beim ID.4 handelt es sich also um ein reines Pendlerauto.**
+  - Der Mittlere Akku reicht für mich für meine Mittlere Pendelstrecke.
+  - Langstrecke ist mit dem mittleren Akku gerade noch unter erträglichen Schmerzen zu bewältigen.
+  - Beim kleinen Akku hätte ich starke Bedenken mit der Langstrecke.
+  - Der große Akku bringt eigentlich nur ein bisschen höheren Komfort auf Langstrecke, wegen der vermutlich höheren Ladeleistung.
+    (Eine signifikante Verringerung der Ladestops ist erst auf großen Langstrecke wie Basel-Berlin oder München-Hamburg zu erwarten.)
+
+Anders gesagt:
+
+- Er pendelt mir etwas zu langsam
+- Und er ist nicht so langstreckentauglich wie ich es gerne hätte
+
+Beides ist aber kompromissfähig.  Sprich, selbst ein Trip quer durch Europa könnte man mit mäßigen Kompfortabstrichen (etwas zu viele Ladestopps die etwas zu lange dauern) mit ihm bewältigen.  Langstrecke stellt bei mir die absolute Ausnahme dar, und gependelt wird, dank Corona, auch nur noch selten.
+
+**Es wäre also Unsinn gewesen, auf meinen Forderungen (unten) zu beharren.**
+
+Ein besserer fauler Kompromiss wäre der ID.3 gewesen (mit dem größten Akku, der dem mittleren beim ID.4 entspricht), der ebenso ausgereicht hätte und günstiger gewesen war.  Nur war er in der minimal notwendigen Austattungslinie (=Vollausstattung mit allen erdenlicken sicherheitrelevanten Assistenzsystemen) noch nicht lieferbar.  Aufgrund seines geringeren Gewichts hätte er auch deutlich mehr Strecke bewältigt.
+
+### Entscheidungsgründe
+
+Naja, zuerst einmal waren folgende Kriterien wichtig, denn Corona hat ja alles verändert:
+
+- Zur Not auch mal ohne zu viele Schmerzen auf Langstrecke fahrbar
+- Pendeln bis 100km (eine Richtung) ist problemlos möglich, ohne die Notwendigkeit woanders als zuhause zu laden
+  - Wenn das Laden zuhause nicht klappt (was deutlich zu häufig vorkommt, z.B. weil ich vergesse, das Ladekabel zu stecken) darf das keine Probleme verursachen!
+  - Das bedeutet, ich muss mit der Restladung noch einmal die Fahrstrecke bewältigen können um mir am Ziel einen Ladepunkt zu suchen
+  - In München bedeutet das: 4h an den Padepunkt und dann umparken, länger als 4h darf man ja nirgends beim Laden stehen
+  - Auto ist dann nach 4h (AC) zwar noch nicht einmal ansatzweise voll, aber das ist wurscht, ich komme wieder heim.
+  - Da die Ladesäulen aber auch gerne mal abbrechen ist das Umparken auch sinnvoll um rechtzeitig zu sehen, ob der Akku genug Ladestand bekommen hat.
+  - Im Normalfall ist also die normale Pendelstrecke auch im Extremfall "Stau im Winter bei Maximalheizung" zu bewältigen.
+  - Im Sonderfall (z. B. "ich habe vergessen zu laden") ist die Chance groß, dass ich, ohne wesentliche Verzögerung noch einmal hinpendeln kann
+  - Das ist alles problemfrei handlebar, damit kann ich also sehr gut leben.
+  - Ach ja, ich vergaß:  Das muss beim empfohlenen Laden auf 80% funktionieren (im harten Winter kann man ja bedarfsweise auf 90% gehen).
+- Bedienbarkeit
+  - schließt Teslas Model 3 aus, dem fehlen unabdingbar essentielle Dinge wie der Wischhebel für den Scheibenwischer
+- Sicherheit
+  - Als Geschäftsauto muss es dem technisch möglichen Stand der aktuellen Sicherheitstechnik entsprechen (Arbeitsrecht!).
+  - Ergo: Vollausstattung mit Abstandsradar, Totwinkelwarner usw.
+  - Das schließt z.B. Teslas Self-Driving-Capability aus (Sorry, aber Self-Driving ohne Redundanz ist wie Bungee ohne Cord)
+- Sitzkomfort in der Serie
+  - Ich habe einen bösen Rücken, da ist der Sitzkompfort nicht Luxus, sondern Voraussetzung
+  - Ich bin da mit VW nicht wirklich zufrieden.  Die Sitze sind da gerade so an der Schmerzgrenze.  (Literal!)
+  - Volvo hat z. B. tadellose Sitze, nur Volvo (inkl. Polestar) hatte zum Bestellzeitpunkt kein bestellbares Modell
+  - Opel mit AGR hat eindeutig die besten Sitze, nur war auch da nix verfügbar
+- Verfügbarkeit
+  - Die Lieferung war 2021, aber die Bestellung war schon 2020, da war die Modellauswahl noch extrem dürftig
+  - Einige Modelle anderer Hersteller wurden zwar vorher lieferbar, waren aber halt nicht bestellbar als 2020 der Bestelltermin zur rechtzeitigen Leasingablöse   notwendig wurde.
+  - Es kam bei VW außerdem zu einem (geringen) Lieferverzug, aber da war aufgrund des festgelegten Leasingende nichts mehr zu ändern
+
+Das waren die reinen Rahmenkriterien.  Aber die Entscheidung, dass es ein BEV werden musste, waren andere.
+
+- Nicht die Umwelt
+  - Das ist ein Geschäftsauto, da geht es ums Business Value.
+  - **Scheiß auf die Umwelt**, denn ich kann mir das nicht leisten!
+  - Bei all meinen Problemen hier habe ich nicht die geringste Möglichkeit, auch nur einen unnötigen Gedanken an die Umwelt zu verschwenden!
+  - Und warum soll ich das machen?  Machen doch schon genug andere!
+  - Ich stehe da auf dem total gegenteiligen Standpunkt:
+  - Nur das Verbrunzen von so günstig wie möglich eingekaufter Energie zwingt die Energieversorger, grün zu werden!
+  - Nur das Kaufen von Produkten mit maximalem Environmentalschaden zwingt die Industrie, umweltfreundlich zu produzieren!
+  - Nur die Produktion von maximal vielem schädlichen Abfall zwingt den Handel zur Nachhaltigkeit!
+  - Nur ein hoher Wasserverbrauch ermöglicht eine gute und günstige Wasserversorgung (z.B. müssen Abwasserleitungen dann nicht mehr mit teurem Trinkwasser durch die Versorger gespült werden).
+  - usw.  **Denkt doch einmal bitte richtig drüber nach!  Wer für Öko einen zusätzlichen Preis bezahlt verkauft sich sinnlos an die Industrie!**  So ändert sich nix!
+  - Ach ja, Essen kaufe ich natürlich möglichst Bio.  Ich bin ja nicht blöd und fresse den industriellen Billigschlamm.  **Öko also nur mit Sinn und Verstand!**
+- Nicht der Preis.
+  - BEV sind nicht günstig.
+  - Aber Günstig ist halt nicht gut, sicher und arbeitsrechtlich zulässig.
+  - **Laut Arbeitsvertrag habe ich ein Anrecht auf einen Geschäftswagen.**  Upps.
+- Nicht die Unterhaltskosten.
+  - Am billigsten im Unterhalt ist nunmal kein Auto.
+  - Für die momentan notwendigen paar Geschäftsfahrten wäre ein günstiges Privatwagenmöhrchen mit Fahrtkostenausgleich deutlich günstiger
+  - Bei den wenigen geschäftlichen Langstreckenfahrten wäre ein tageweiser Umstig vom Privatwagen auf Mietwagen die ökonomisch günstigere Wahl.
+  - Und ein Diesel ist momentan eigentlich in allen Belangen günstiger und flexibler als ein BEV.  (Wenn er wenig gefahen wird.)
+  - Aber warum soll ich mich mit dem Unterhalt eines Privatwagens rumschlagen müssen, wenn es für mich billiger geht?
+- Auch nicht der zufällig schon vorhandene Ladepunkt
+  - Ja, ich habe schon einen (von der Firma mit Strom versorgten) Ladepunkt bei mir zuhause, weil die Entwicklung abzusehen war.
+  - Das ist aber nur eine Erleichterung, kein Entscheidungsgrund.  Genauso täte es ein Hbridfahzeug (mit E-Nummernschild) wie bisher.
+
+Der einzig wirkliche Grund ist, dass **mich in meiner sehr speziellen Situation ein BEV steuerlich günstiger kommt**.
+
+Sprich: Ja, einzig und alleine die Politik ist schuld.  (Hier tragen Steuern mal wirklich ihren Namen zurecht.)
+
+**Für Privatnutzung eines reinen BEV fällt nur 25% Steuer bei der Privatutzung an.**
+
+Das sind bei mir ca. 50 EUR pro Monat, was ich an die Steuer zusätzlich berappe!  So, jetzt findet mal ein Auto für 50 EUR.  Alle Kosten, also inkl. Wartung, Verschleiß, Versicherung, Steuer usw.!
+
+**50 EUR pro Monat fürs Auto.  Flat, also inkl. Wartung und Kilometer egal wohin.  Das muss der Nahverkehr erst einmal schlagen!**
+
+> Nur so nebenbei:
+> 
+> So, wie der öffentliche Nahverkehr heute strukturiert ist, kann er damit nicht einmal konkurrieren, wenn er kostenlos wäre!
+> Dafür ist er einfach zu langsam, zu unbequem, zu unflexibel und in **Zeiten einer grassierenden Pandemie viel zu gefährlich**.
+> 
+> Da zahle ich lieber meiner Gesundheit zuliebe 50 EUR pro Monat an den Staat.  Alles andere wäre Wahnsinn!  
+> (Und ich hoffe im Dezember kann ich die 3. Impfung ergattern und dann alle halbe Jahre wieder.
+> Ohne permanent aufgefrischte Corona-Impfung einzukaufen ist mir in meinem Alter zu gefährlich.)
+
+Und wer jetzt anfängt, Zeter und Mordio zu schreien, weil ja nicht sein darf was bei mir Fakt ist, der will es nicht kapieren!
+**So liegt die Realität und nicht anders!  Denn ist das einzige Kriterium, das zählt:  Was kostet mich die Mobililtät?**
+
+50 EURO.  Das ist der Preis den es zu schlagen gilt.
+
+> Das ist weder Cherrypicking und auch kein Missbrauch vom Gesetz.  Das ist einfaches Kalkül.  Und vom Gesetzgeber IMHO so gewünscht.
+> 
+> Wäre es nicht gewünscht, kann der Gesetzgeber gerne die Eckdaten anpassen:
+>
+> Also, der Gesetzgeber ändert die Steuer so, dass sich teure Geschäftswägen nicht mehr für mich rechnet:
+> 
+> - Für ca. 120 EUR/Monat gibt es inzwischen City-Stromer zu mieten.
+>   - Einige Angebote sind dank Verkauf von CO2-Zertifikaten sogar deutlich drunter, es soll schon die ersten geben, die es kostenlos anbieten.  Hörensagen.
+>   - Da sind IMHO Wartung schon dabei, fehlt also nur noch Versicherung und Strom.
+> - Für geschäftliche Fahrten mit diesem Fahrzeug bekomme ich dann Fahrtkostenersatz.
+>   - Alles mit einem gewerblichen Anteil von über 3% ist gewerblich.  Sage nicht ich, das sagt die Gewerbesteuer.  Also auch alle Fahrten mit gewerblichem Anteil.
+>   - Das senkt die Kosten deutlich, da ich so viel Fahrtkostenzuschuss von der Firma bekommen kann.
+>   - Für die Firma wird das immer noch billiger als jetzt mit meinem Geschäftswagen.  Also Win-Win.
+> - Der Ladepunkt bei mir zuhause wird von der Firma betrieben, der Strom da kostet mich aktuell nichts.
+>   - Evtl. muss ich da den günstigen Firmenstromtarif für den Strom mit der Firma abrechnen.  Ojeh, das spart mir im schlimmsten Fall noch Geld!
+> - Allerdings habe ich sowieso vor, mir eine kaltstartfähige Photovoltaik als Dach über meinem Carpark anzubringen.
+>   - Das können mir weder die Nachbarn noch irgendwelche Bauordnungen verweigern, da solche Umweltprojekte dank EU-Verordnung nicht mehr behindert werden dürfen!
+>   - Und nein, da steckt kein Umweltgedanke dahinter, einfach nur dass ich im Winter ohne Kratzen ins Auto einsteigen kann.  Auch der explodiernede Strompreis.
+>   - Warum Car-Park?  Auf's Haus soll igendwann Solarthermie samt thermischer Zisterne unterm Garten fürs elektrische Heizen per Wärmepumpe um vom teuren Öl loszukommen.
+>   - Zur Zeit rechnet sich das noch nicht, dazu muss der Ölpreis schon auf über das Doppelte steigen, damit sich der verfrühte Umbau amortisiert.
+>   - Allerdings habe ich noch nicht Umweltbonus und Förderungen eingerechnet, aber ich denke, je Näher 2035 rückt desto besser werden die Förderungen, weil wir einfach jedes Ziel derart reißen werden, dass der Staat einfach keine andere Wahl hat als das Füllhorn auszupacken.  Hoffentlich hält die Ölheizung so lange durch.
+>   - Und, falls der Strom ausfällt, bin ich dann mit einem rückspeisefähigen BEV ein paar Tage autark und kann auch elektrisch weiterheizen.
+>   - Längerdauernde Autarkie wäre mit einem kleinen Not-Generator nachrüstbar, der neben Wärme den Strom produziert, um die Wärmepumpe im Winter zu betreiben.
+>   - Wir haben hier einen Wasserturm.  Das Wasser fällt hier also nicht so schnell aus.
+>   - Ggf. gibt es auch noch die Solarthermie-Zisterne im Garten mit einigen Kubikmeter Wasser, nur muss man das zu Trinkwasser aufbereiten
+>   - Und bevor mich hier Hochwasser etc. erreicht, dafür braucht es schon mindstens einen größeren Weltuntergang, Starkregen mit Flutkatastrophe reicht da nicht aus.
+>   - Dass ich eher das Gegenteil eines Preppers bin bedeutet ja nicht, dass man sich keine Möglichkeiten offenhalten sollte.
+> - Die Firma hielte dann vermutlich aber trotzdem weiterhin einen Weitstrecken-Geschäftswagen bereit, damit ich dieses bei Bedarf nutzen kann
+> - Effekt?  **Statt eines Autos stehen dann deren 2 rum.**  Na, das hilft der Umwelt echt dolle, um nicht zu sagen, das hilft nur der Wirtschaft.
+>
+> Der ÖNV wird kostenlos.
+>
+> Interessant.  Hilft aber noch nix.  Ich wohne auf dem Land.  Mit 1 Bus pro Stunde tagsüber am Sonntag sind wir zwar noch auf der glücklichen Seite,
+> aber der letzte Bus fährt genau ein paar Minuten vor Ankunft des Spätzugs ab.  Ist schon seit Jahren so und müssten die mal endlich hinkriegen.
+>
+> Der ÖNV wird nicht nur kostenlos, sondern auch individuell.
+>
+> - Also man ruft an und wird dann in einem angegebenen 15-Minuten-Zeitfenster abgeholt und an den Ort gebracht an den man möchte.  Wie beim Taxi.
+> - Wird deshalb so nicht kommen, das macht ja alle Taxis überflüssig, aber so ein Angebot würde ich annehmen.
+> - Wurscht ob als Einzelfahrgast oder sammeltaxiartig.  Wenn die Fahrt zum und vom Bahnhof nicht länger als die doppelte Zeit dauert die ich mit dem PKW brauche (inkl. Parkplatzsuche), nehme ich das Angebot an.  (Derzeit braucht der Bus die 4-6-fache Zeit.) Das gilt aber nicht für die Gesamtstrecke beim Reisen.
+> - Auch wenn es für mich etwas unbequemer(!) ist, weil ich meine Sachen nicht im Auto lassen kann.  Als Ausgleich muss ich ja nicht selbst fahren.
+> - Ich hätte ja trotzdem bei Bedarf noch vermutlich ein Auto zur Verfügung, denn geschäftlich immer nur mit ÖNV geht nicht (dafür habe ich oft zu viel Geraffel zu transportieren)
+> - Sprich, das ändert an der Umwelt fast nix (Auto ist immer noch da) und hat nur wenig Synergie (statt Einzelautofahrt werden ein paar Strecken verbessert)
+> - Das Problem ist außerdem, dank unserer lahmen Bahn bin ich oft mit dem Auto schneller als der Zug, und dazu noch Punkt-zu-Punkt!
+
+
+### Laden statt tanken
+
+Wer das laden an Ladesäulen mit dem Betanken von Benzinern vergleicht, schwurbelt Unsinn.  Das kann man nicht vergleichen.
+
+Das hat miteinander etwa soviel zu tun wie ein Elefant mit einem Walfisch.  Beides sind Säugetiere, aber leben halt in verschiedenen Environments.
+
+Einen Benziner fährt man nicht leer, sondern betankt ihn eher dann, wenn der Preis an der Tanke gerade billig ist.
+Unpassender Zeitpunkt?  Dann fährt man einfach weiter.
+
+Beim eAuto ist das ganz anders.  Das fährt man so, dass es möglichst leer (unter 10%) an der Ladesäule ankommt.
+Und weiter geht es, wenn man den nächsten sinnvollen Ladestopp bequemstmöglich erreichen kann.  Da ist das Auto meist weit unter 80%.
+Wieviel man laden muss ist abhängig von Witterung, Entfernung, Durschnittsgeschwindigkeit usw., was das Auto aber zuverlässig anzeigt.
+Bei ungünstiger Witterung etc. sind es auch nur 1-2 Minuten, die man später absteckt.
+
+Der ID.4 bietet, mit mittlerem Akku, für Streckenfahrten gerade das Minimum der ergräglichen Ladeleistung.
+
+Er fängt (leer) bei ca. 140 kW/h an und landet bei 50% dann irgendwann bei 100 kW/h.
+Ab da lohnt es sich nicht wirklich mehr ein Auto zu laden.
+Jedenfalls nicht, wenn man Strecke fährt.
+
+Andererseits ist man sehr schnell bei diesen 50%.  Wenn nebenan ein Fastfood ist und man da etwas länger braucht, ist das Auto schon meist mehr als 50% voll.
+
+Übrigens geht man vor der Bestellung auf Toilette, nicht danach.  Der Grund ist, sonst kann man den Toilettengang nicht abrechnen.
+
+Ich versteh's nicht, denn normalerweise gehe ich nach dem Essen auf Toilette.
+
+Aber so ist halt das modern(d)e Deutschland, danach hat sich das Gedärm (=wir?) zu richten.
+
+
+## 2019-08 Hybrid ist eine eindeutige Verbesserung
 
 Ich fahre seit einiger Zeit einen VW Hybrid.  Damit meine ich ein Auto, das ein E-Kennzeichen hat und das halt auch noch mit Benzin fährt.
 
