@@ -15,8 +15,26 @@ GRUB_TERMINAL="console serial"
 ```
 update-grub
 systemctl enable serial-getty@ttyS0.service
+systemctl start  serial-getty@ttyS0.service
 ```
+
+### VM settings
 
 You need to have a serial line configured in your VM:
 
-T.B.D.
+```
+<domain type='kvm'>
+  <devices>
+[..]
+    <serial type='pty'>
+      <target port='0'/>
+    </serial>
+    <console type='pty'>
+      <target type='serial' port='0'/>
+    </console>
+[..]
+  </devices>
+</domain>
+```
+
+Note: I do not know it this suffices.  Perhaps there is a bit more XML configuration needed.
