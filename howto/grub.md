@@ -1,6 +1,6 @@
 # HowTo Grub2
 
-## Console+Serial
+## Console+Serial+KVM
 
 On a VM it is good to have a fallback serial console, to be able to access the console of a VM via commandline (`virsh console $DOMAIN`) as well as via `virt-manager` graphically, just in case.
 
