@@ -14,6 +14,7 @@ GRUB_TERMINAL="console serial"
 
 ```
 update-grub
+systemctl enable serial-getty@ttyS0.service
 ```
 
 You need to have a serial line configured in your VM:
