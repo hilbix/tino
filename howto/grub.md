@@ -2,7 +2,7 @@
 
 ## Console+Serial+KVM
 
-On a VM it is good to have a fallback serial console, to be able to access the console of a VM via commandline (`virsh console $DOMAIN`) as well as via `virt-manager` graphically, just in case.
+On a VM it is good to have a fallback serial console, to be able to access the console of a VM via commandline (`virsh console $VM`) as well as via `virt-manager` graphically, just in case.
 
 `/etc/default/grub`
 
@@ -20,7 +20,7 @@ systemctl start  serial-getty@ttyS0.service
 
 ### VM settings
 
-You need to have a serial line configured in your VM (`virsh edit $DOMAIN`):
+You need to have a serial line configured in your VM (`virsh edit $VM`):
 
 ```
 <domain type='kvm'>
