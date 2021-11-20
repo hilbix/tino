@@ -20,7 +20,7 @@ systemctl start  serial-getty@ttyS0.service
 
 ### VM settings
 
-You need to have a serial line configured in your VM:
+You need to have a serial line configured in your VM (`virsh edit $DOMAIN`):
 
 ```
 <domain type='kvm'>
