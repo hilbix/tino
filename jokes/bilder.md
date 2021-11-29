@@ -1,5 +1,13 @@
 # Bilder-Jokes
 
+## 2021-11-29 Omikron-Covidioten
+
+![Covidioten und die Omikron-Variante](img/covidiots-omikron.png)
+([Quelle](https://11foot8.com/boxtruck-carnage-on-friday-the-13th-at-the-11foot8-bridge/), Screenshot/Edit von mir)
+
+> Ich schreibe "Omikron" bewusst wie in Deutschland, als Honeypot für Grammar-Nazis ;)
+
+
 ## 2021-04-24 Aldis Suchfunktion
 
 ![Alles muss raus?  Suche nach gehackten Tomaten findet Toilettensitz](img/aldi-alles-muss-raus.png)
