@@ -28,7 +28,7 @@ Die Nachteile sind:
   - Bei mir nervt Signal ständig, dass es die PIN verifizieren will.
   - Allerdings funktioniert es weiterhin auch ohne diese Verifikation.  Nervt trotzdem tierisch!
 - Die viel zu komplizierte Bedienung
-  - Stichwort Verifikation der Signal-ID:  Da sollte Signal ständig nerven wenn man die nicht gemacht hat!
+  - Stichwort Verifikation der Signal-ID des Chatpartners:  Da sollte Signal ständig nerven wenn man die nicht gemacht hat!
 - Die Bindung an die Telefonnummer
   - WTF!?!
 
