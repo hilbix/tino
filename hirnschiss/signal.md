@@ -2,6 +2,42 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
+# Vorwort 2021-12-01
+
+Das, was hier steht, sind meine ureigenen militanten Gedanken, die mir bei sowas unwillkürlich kommen.
+
+Selbstverständlich kann jeder, der meine Handynummer hat, mich weiterhin mit Signal anchatten.
+Signal ist immer noch weit besser als unsichere eMail (TLS hilft da wenig, bei mir terminiert die auf Google).
+
+Jedem lege ich deshalb dringendst **Threema** ans Herz, obwohl das inzwischen ein ziemliches Geschmäckle hat,
+weil Threema ständig den Preis erhöht, inzwischen (2021-12-01) kostet es schon 4 EUR (3,99 EUR inkl. MwSt.) im PlayStore!
+**Für so etwas teures will ich eigentlich keine Werbung machen!**
+
+> Die 4 EUR, die Threema kostet, ist eindeutig zu viel, denn arme Menschen können sich das nicht mehr leisten!
+> (Über 10% der Menschen auf diesem Planeten haben weniger als 2 EUR am Tag zur Verfügung!)
+>
+> Das ändert nichts daran, das Threema diesen Preis nur einmalig (zur Erteilug der ID) verlangt.
+>
+> Andererseits macht Threema auch vieles richtig, insbesondere richtiger als Signal.
+
+Der einzige Vorteil von Signal ist, dass es tatsächlich funktioniert und (noch?) kostenlos ist.
+
+Die Nachteile sind:
+
+- Diese bescheuerte PIN. (Vielleicht läuft es inzwischen auch wieder ohne, keine Ahnung!)
+  - Bei mir nervt Signal ständig, dass es die PIN verifizieren will.
+  - Allerdings funktioniert es weiterhin auch ohne diese Verifikation.  Nervt trotzdem tierisch!
+- Die viel zu komplizierte Bedienung
+  - Stichwort Verifikation der Signal-ID:  Da sollte Signal ständig nerven wenn man die nicht gemacht hat!
+- Die Bindung an die Telefonnummer
+  - WTF!?!
+
+Hoffentlich gibt es gibt irgendwann einen brauchbaren würdigen Nachfolger von Signal,
+der vollständig Open-Source ist und prinzipiell ohne zentrale Infrastruktur auskommt
+(Apple und Google werden dann nur genutzt, um Batterie zu sparen), und auch so etwas
+wie eine Handynummer nicht benötigt (hätte ich die Zeit würde ich es ja gerne selbst
+basteln, aber es gibt Wichtigeres zu tun, und bis dahin gibts ja Krücken wie Signal).
+
 
 # Goodbye Signal
 
