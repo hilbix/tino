@@ -91,3 +91,10 @@
   - "alle" bedeutet, dass ich nicht nur ausreichend Informationen habe, sondern auch weiß, warum diese richtig sind und warum ich sicher bin, dass ich nicht mehr über Probleme stolpern werde, die ich nicht selbst lösen kann.
   - Die Relativität kommt hinzu, wenn man bedenkt, dass es die meisten Menschen hoffnungslos überfordert werden, wenn ich das wenige, das ich weiß, versuche an sie zu vermitteln.  Weil es ihnen bereits mehr als nur zu viel ist.
   - Beispiel:  Was hier steht ist zu "wenig", um über das Thema "etwas" informiert zu sein.  Ich hätte dazu nämlich noch viel mehr zu sagen ..
+
+- 2022-01-03 Hey, Humor ist sowas von Dezember!  Jetzt im Januar sollten wir eigentlich schon beim Sarkasmus angekommen sein, damit wir im Februar in den Zynismus starten können.  Denn nur, wenn der im März der Ironie weicht, kann es im April wieder gut werden.  
+  .  
+  .  
+  .  
+  Allerdings startet parallel unser aller Omikron ebenfalls durch.  Es bleibt spannend.
+
