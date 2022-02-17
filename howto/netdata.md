@@ -1,3 +1,5 @@
+**This is not complete yet**
+
 > If you are puzzled, I am using [Hetzner Cloud](https://hetzner.cloud/).
 >
 > This cloud offers private networks like 10.0.0.0 to connect between the machines.
@@ -152,7 +154,7 @@ Two very fundamental things, which are the fundamental part to do monitoring.
 If I ever come around to do that, I probably will tell it here.
 
 
-# Setup
+# Basic Setup
 
 > Sorry, this is not a complete guide for now.
 > Why?
@@ -167,4 +169,261 @@ The setup consists of following parts:
 - 10.0.0.1 is the router and firewall (provided by the Cloud)
 - 10.0.0.2 is the monitoring host (a VM)
 - 10.0.0.3 and above are the other hosts to monitor
+- All VMs are isolated, so cannot directly talk to the Internet
+- All VMs run Debian 11
+- All VMs have full access to a mirror of the authoritative Debian repositories (so `apt` works)
 
+I am talking of the probably most basic setup here.
+
+The services the VMs provide to the Internet still are directly exposed to the Internet.
+There is no Application Level Firewall or something else like an IDS in between.
+So the firewall has big holes.  But it only has holes for the services which are provided to the Intenret.
+
+Hence the VMs must be seen to live in a very low level variant of a basic DMZ.
+It's nothing highly professional, instead it is something that just works.
+
+This setup is less for security but more for proper administration.
+And it is  there to protect me against my own configuration errrors.
+Like something, that just works, because it happen to talk to use some external service I am not aware of.
+If that external service then fails, I might get a problem.
+
+With external services I think of things like Docker and Maven registries.  Or external License services.
+If something needs such things, I want to know it in advance about this fact.
+As I do not want to suddenly detect, that something fails at my side, because something failed elsewhere.
+This is why the Firewall must not allow arbitrary connections from a VM to the Internet.
+
+> This is also why I cannot and will never use something like netdata.cloud.
+> External sevices, especially when free of charge, are an absolute no-go.
+> These either must be On Premise (such that I am responsible)
+> or must be On Contract (such that I can sue them).
+>
+> **Everything else is against the law!**
+>
+> I live in Germany.  The laws I think of are GDPR and Labour Rights (caution: IANAL!).
+> The GDPR means, that all (privacy) data must be kept under control.
+> But you cannot keep data under control without a contract.
+> The Labour Rights mean, that employee data must not cross the Country border.
+>
+> Monitoring might contain privacy and employee data.  You cannot evade that fact!
+>
+> For example, if the number of SSH sessions are counted, this counts when empoyees (Admins) log in.
+> **This is data which is protected by the DSGVO and Labour Rights!**
+>
+> Hence **using external (free) services like NetData is against the law here in Germany**.
+> My interpretation.  IANAL.  YMMV.  **But you have been warned!**
+
+
+## The quick and the dirty
+
+    apt-get install netdata
+    # If you have installed NetData from somewhere else than the Debian repository
+    # DO NOT FORGET to do following afterwards:
+    touch /etc/netdata/.opt-out-from-anonymous-statistics
+
+I really have no idea why NetData does this.  **Their defaults violate the law!**
+To protect you, your company and your customers and your data, always be sure to do this:
+
+    sudo touch /etc/netdata/.opt-out-from-anonymous-statistics
+
+> I really have 0 tolerance for things like this.  This is not even a pirate way.
+> Pirates have even some basic form of honor.  But this just is criminal (in my eyes)
+> and **there is absolutely no excuse to implement things like this**!
+>
+> Luckily Debian is honest and disables such horror by default.  **Thank you Debian Maintainers!**
+> It's a real shame that you have to check for things like this on Open Source upstreams.
+> I'd vote that packages from upstreams doing things like this must be put into `non-free`
+> and be considered and treated like proprietary commercial code (which is Open Source).
+>
+> FYI: `netdata` is in `main`
+>
+> **To all those who do not understand this, here are the facts:**
+>
+> The European Court of Justice has ruled, that, due to the very nature how Germany is organized,
+> the `IP` belongs to privacy data here, which must be protected according to our DSGVO.
+> **Hence it is against the law in Germany, to use the IP, if it is not strictly necessary.**
+> 
+> Transmitting anonymous statistics, like NetData does, is never strictly necessary!
+> **Hence NetData must(!) inform all users using the IP for this purpose.**
+>
+> Note that it is not just enough to pretend to inform the users.
+> You must document that fact (such that it can be proven in Court!), that you, indeed,
+> have informed the user and that the user was, indeed, in a position to read and understand
+> this information properly (you do not need to document, that the user has read and
+> understood the information.  So if the user choses to not read the information that is ok.
+> But this is the choice of the user, not your choice).
+>
+> **Without such a mathematically correct proof, you violate the DSGVO here in Germany!**
+>
+> But .. informing somebody using an IP is impossible without using the IP in Internet.  
+> And .. due to the one way nature of IP packets, you cannot make sure that,
+> AFTER you received an IP, you can, indeed, reach the IP's user to inform that user!
+> So you might not have delivered the information to the user, which is required by the DSGVO
+> to be deliver to the user, which means, you illegally received and used the IP already!
+>
+> **You exactly get it!**  This problem explains, why you cannot use Opt-Out in a context like
+> what NetData does.  It simply always breaks the law.  Not more, not less.  **Opt-Out in the Internet
+> is outlawed, thanks to German Law!**  (Well, not all Opt-Out, but over 99% of the time,
+> as it is very hard, near to impossibility, to lawfully use and implement Opt-Out here in Germany.)
+>
+> This affects everybody in Internet.  If you do not like that, please stay away.
+> Of Opt-Out or the Internet.  Choose your likings.
+
+
+## 10.0.0.x NetData client
+
+The clients are set up minimally.  They all run the probes and forward it to the NetData Host 10.0.0.2.
+
+The main configuration basically switches off everything like the Registry or the Web Interface.  The IPs shown there are chosen such, that they do noir defaults doin case somethingng:
+
+`/etc/netdata/netdata.conf`
+```
+[global]                                                                              
+	run as user = netdata
+	web files owner = root
+	web files group = root
+	bind socket to IP = 127.0.0.1
+	memory mode = none
+
+[health]
+	enabled = no
+
+[web]
+	mode = none
+
+[registry]
+	enabled = no
+```
+
+Following file **is the important part** and says to forward all data to the NetData Host 10.0.0.2:
+
+`/etc/netdata/stream.conf`:
+```
+[stream]
+	enabled = yes
+	destination = 10.0.0.2:19999
+	api key = 00000000-0000-0000-0000-000000000000
+	timeout seconds = 60
+	send charts matching = *
+	buffer size bytes = 1048576
+	reconnect delay seconds = 5
+	initial clock resync iterations = 60
+```
+
+> You do not need to change the `api key`, as we will use `00000000-0000-0000-0000-000000000000` below.
+>
+> Of course you can change and use your own `api key`.
+> However, in a secured setup, where only trusted hosts can connect to the NetData Host,
+> you do not need a sepcial API key.  It is only a source of potential PITA.
+>
+> Beware!  A shared cleartext secret like this cannot be used as a security feature.
+> It only can be used to protect against accidental misconfiguration
+> in case you run several distinct NetData installations.
+>
+> To sum it up: Such an API-Key is generally not needed and a sign for some wrong design goal.
+> Here (probably): NetData requires the API-Key to implement their Cloud service.  Horrible.
+>
+> Please do not get me wrong:  In case you do something publicly, like a CI ([there is a really
+> great one](https://cirrus-ci.com/), then using NetData and NetData Cloud probably is the right thing!
+> Then their service is welcomed!  And if you are some lonely person running your own handful of nodes,
+> then NetData Cloud (probably) comes handy, too!  And, in Future, when Enterprise support for On Premise
+> is offered with a paid plan from NetData, I - really and honestly - wish them a tremendous success!
+>
+> But for all others, I recommend to stay away from the free plan there to keep your own data private!
+> And here the API-Key stays in the way for your solution.  For plain nothing.  That's bad design.
+>
+> Read:  Opening (explicitely) a port and leaving away the API-Key should work out-of-the-box.
+> Protecting this open port can be left to some proper security framework.
+> There are plenty:  Netfilter, HaProxy, SSL client certificates, IPv6 Packet Security, whatever you like.
+> There is really no need to re-invent the wheel within something like NetData, again and again!
+
+Usually, NetData automatically detects all the services which can be monitored.
+
+If not or you want to change something, run:
+
+    sudo /etc/netdata/edit-config
+
+Here you see all builtin NetData probes you can change and configure:
+
+- `charts.d/`
+- `health.d/`
+- `python.d/`
+
+Note that the defaults are usually fine, such that you do not need to configure anything.
+
+
+### Where is the beef?
+
+If you are puzzled where all those API-Keys etc. come from,
+have a look into the directory `~netdata` (the home of the `netdata` user).
+
+  cd ~netdata
+  find . -type f -ls
+
+
+## 10.0.0.2 NetData Host
+
+The host receives all the data from the other machines.  It also provides the Web interface.
+And it keeps the historic data.  Somewhat.  
+And in future, it will do all the postprocessing (like keeping all historic data) at my side, too.
+
+> NetData does not implement a suitable way to keep or view historic data.
+> With historic data I mean 10+ years retention, of course.
+> (Some of my services run over 25 years already!)
+>
+> Currently my NetData host is limited to keep data for around 4 days.
+> All older data is discarded, due to limited resources on the host.
+> And NetData requires a lot of resources to keep all the data!
+
+`/etc/netdata.conf`:
+```
+[global]
+        run as user = netdata
+        web files owner = root
+        web files group = root
+        bind socket to IP = 127.0.0.1
+
+[web]
+        bind to  = 10.0.0.2:19999 127.4.0.1:19999
+
+[registry]
+        enabled = yes
+        registry to announce = http://127.4.0.1:19999
+```
+
+
+# Special notes
+
+Note that most time the defaults of NetData are fine.
+Like for the Mysql module.
+
+But sometimes I change things.  I note them here.  For me, not for you.
+
+
+## PostgreSQL
+
+> You probably do not need to use this configuration.
+> It is not a recommendation, but just something I do.
+
+My PostgreSQL config looks like this:
+
+`/etc/netdata/python.d/postgres.conf`:
+```
+socket:
+    name     : 'local'
+    user     : 'netdata'
+    database : 'postgres'
+```
+
+with following setting for PostgreSQL:
+
+`/etc/postgresql/*/main/pg_hba.conf`:
+```
+local all netdata peer
+```
+
+Why?  I do not want NetData to run as the `postgres` user,
+such that I can see, that NetData got access to PostgreSQL.
+This also leaves the `postgres` user free for other things.
+
+Also, if something breaks (in `pg_hpa.conf`), NetData is locked out,
+such that I can detect it more quickly.
