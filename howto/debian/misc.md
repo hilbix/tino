@@ -9,4 +9,4 @@ Miscellaneous short notes
 
 ## `ss`
 
-- `ss -anp` instead of `lsof -blnP -i -U`
+- [`ss -anp`](https://unix.stackexchange.com/questions/235979/how-do-i-find-out-more-about-socket-files-in-proc-fd/236013#comment1143685_236013) instead of `lsof -blnP -i -U`
