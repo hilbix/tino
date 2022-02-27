@@ -30,7 +30,7 @@ Environment: Standard Ubuntu install, standard terminal
 
 ## Solution
 
-`etc/pulse/default.pa`:
+`/etc/pulse/default.pa`:
 ```
 load-sample-lazy x11-bell /usr/share/sounds/Oxygen-Window-Shade-Up.ogg
 load-module module-x11-bell sample=x11-bell
@@ -38,9 +38,22 @@ load-module module-x11-bell sample=x11-bell
 
 Notes:
 
+- PulseAudio need to be restarted for changes in `/etc/pulse/default.pa`
+  - The manual does not state how to restart PulseAudio, but see below how I restart it from scratch
 - The sample must be long enough to wake up your sound system (which takes 0.3s on my system with HDMI)
-- check it with `pactl play-sample x11-bell`
-- check it again after your Sound System went to sleep, which is completely random at my side
+  - check it with `pactl play-sample x11-bell`
+  - check it again after your Sound System went to sleep, which is completely random at my side
+
+Perhaps you want to reset PulseAudio (drop your User settings) and restart it from scratch.  To do that:
+
+    mv -Tf --backup=t "$HOME/.config/pulse" "$HOME/.config/pulse.old"
+    pulseaudio -k
+    sleep 1
+    sudo killall -9 pulseaudio
+    sleep 2
+    pulseaudio -D
+
+Note that it then comes up in some random state.  **Be sure check correct sound settings afterwards!**
 
 
 ## Recipes **tried but failed**
