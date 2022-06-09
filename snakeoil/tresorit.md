@@ -277,7 +277,7 @@ However this all has a price (for TresorIt):
   - In Germany the IP belongs to the personal data which must not be given to a third party without prior notice
   - I do not know if this happens in case of their encrypted mail system, too, but it is likely, as they are very careless on their homepage already
   - But even worse, TresorIt knows when somebody reads some mail.  Because they do email verification.  This is privacy data which is already protected by the GDPR.
-    And, as it is not necessary at all (I can do it without, so they could do it without) they must use [DSGVO §6.1.f](https://dsgvo-gesetz.de/art-6-dsgvo/), which is a bit questionable and difficult, if your really want to be GDPR compliant (actually I did not find any proper technical way to do it in Germany without violating DSGVO.  YMMV as IANAL).
+    And, as it is not necessary at all (I can do it without, so they could do it without) they must use [DSGVO §6.1.f](https://www.datenschutz-wiki.de/DSGVO:Art_6), which is a bit questionable and difficult, if your really want to be GDPR compliant (actually I did not find any proper technical way to do it in Germany without violating DSGVO.  YMMV as IANAL).
 
 In contrast to Threema, who created some open standard for their product (the client is open source, so you can verify everything yourself)
 the TresorIt webpagage nowhere mentions someting similar.  AFAICS this "seucre" email service probably runs on top of their
