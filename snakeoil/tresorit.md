@@ -59,7 +59,7 @@ For example by embedding youtube video without notifying their users before hand
 Disclaimer:  I did not analyse Tresorit encrypted mail.  I just watched the Video.
 So if I did not understand someting correctly, it's still their fault.
 
-> In case I err, I am not sorrt and I will not apologize.  It's not my fault when Marketing does horrible things.
+> In case I err, I am not sorry and I will not apologize.  It's not my fault when Marketing does horrible things.
 >
 > Also note that I will not analyze things in my free time.  But you can pay me for doing so.
 > But I am not a Cipherpunk.  Only some Mathematician with a bit of interest in PKI.
@@ -83,7 +83,7 @@ Where is the contradiction?
 
 Well, either something is secure .. or it is not.  Where "secure" is something like pregnancy.
 
-Either you are pregnant .. or not.  It my be that you still do not deliver, as pregnancy is not guarantee for a healthy living baby, but most time it should be.
+Either you are pregnant .. or not.  It may be that you still do not deliver, as pregnancy is not guarantee for a healthy living baby, but most time it should be.
 
 That's how I understand "secure".  And often, when Marketing says "secure" it is fake as in "fake pregnancy".  YKWIM.
 
@@ -226,7 +226,7 @@ However it fails because it tries to solve a problem the wrong way.
 The correct way would be:
 
 - Secure inhouse communication (where "inhouse" is the TresorIt ecosystem here, so between all customaers) in a transparent way
-  - This includes no way for TresorIt to offer Key Escrow (like Threema)
+  - This includes no way for TresorIt to offer Key Escrow (like Threema is unable to decrypt messages)
 - Plus secure outside communication
   - Which then comes with some addition burden, that is, the new outside participant first must create some (volatile?) identity in the ecosystem
 
