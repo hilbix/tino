@@ -230,7 +230,7 @@ The correct way would be:
 - Plus secure outside communication
   - Which then comes with some addition burden, that is, the new outside participant first must create some (volatile?) identity in the ecosystem
 
-Hence sending mail to some outside the sytem cannot be as shown.
+Hence sending mail to some outside the system cannot be done as shown in the video, instead perhaps following could do (I do not say this is the best way, it just is what I came up with thinking about it while typing this here):
 
 - You send mail to some third party
 - You get informed, that the mail could not yet be delivered, as the identity of the third party is not yet set up
