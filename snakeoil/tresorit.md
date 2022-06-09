@@ -257,23 +257,27 @@ Now the browser creates an identity.  This identity (public key) is handed over 
 The service makes an email verification to just to be sure.
 Now the identity is added for this mail address and in future communication can take place.
 
-However this all has a price:
+However this all has a price (for TresorIt):
 
 - First, some loss of ease.  As the third party now must be informed, that some local identity is created.
   - In case you erase your data in the browser, the identity gets lost and all further commuication no more works
   - So we need some way to revoke the identity
-- Second, missing open standard.
+- Second, missing Open Standard.
   - To trust all those encryption, everything must be done on open standards
   - Hence there is no way to protect TresorIt from the fact, that their solution of secure mail gets out of their hands
   - So TresorIt just is one Open Source player as all the others.  No Vendor Lockin.
   - However they have the chance to become the market leaders for this standard they have envisioned.
   - But I doubt this is the case here.  If so, the marketing did a very bad job!  Blame them!
-- Third, Vendor Lockin
+- Third, no Vendor Lockin
   - I doubt that you can leave TresorIt behind without leaving behind all of your precious data (like encrypted mails)
   - If I am wrong here, why did I find no word about this on their homepage?
+  - Of course the interest of TresorIt is to keep their customers and do not lose them to some free Open Source project which takes over their work
+  - However in the Crypto area this is a poisoned street.  Either you go Open Source, or you fail.  Because only open standards can be verified.
 - Fourth, they pretend to be GDPR compliant, but AFAICS fail for the DSGVO (which is the GDPR for Germany)
   - In Germany the IP belongs to the personal data which must not be given to a third party without prior notice
   - I do not know if this happens in case of their encrypted mail system, too, but it is likely, as they are very careless on their homepage already
+  - But even worse, TresorIt knows when somebody reads some mail.  Because they do email verification.  This is privacy data which is already protected by the GDPR.
+    And, as it is not necessary at all (I can do it without, so they could do it without) they must use [DSGVO §6.1.f](https://dsgvo-gesetz.de/art-6-dsgvo/), which is a bit questionable and difficult, if your really want to be GDPR compliant (actually I did not find any proper technical way to do it in Germany without violating DSGVO.  YMMV as IANAL).
 
 In contrast to Threema, who created some open standard for their product (the client is open source, so you can verify everything yourself)
 the TresorIt webpagage nowhere mentions someting similar.  AFAICS this "seucre" email service probably runs on top of their
