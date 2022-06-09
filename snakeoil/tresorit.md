@@ -2,7 +2,7 @@
 
 ## WTF why?
 
-I like Thremma ..
+I like Threema ..
 
 - Because their client is Open Source.
 - Because they are doing E2E instant messaging right.
