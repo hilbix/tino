@@ -98,4 +98,6 @@
   .  
   Allerdings startet parallel unser aller Omikron ebenfalls durch.  Es bleibt spannend.
 
-- 2022-07-11 I just [found a bug](https://github.com/hilbix/empty/issues/1) in the empty commit.
+- 2022-06-11 I just [found a bug](https://github.com/hilbix/empty/issues/1) in the empty commit.
+
+- 2022-06-13 Wenn Du neben Dir stehst, bist Du wenigstens in guter Gesellschaft.
