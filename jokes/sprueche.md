@@ -101,3 +101,6 @@
 - 2022-06-11 I just [found a bug](https://github.com/hilbix/empty/issues/1) in the empty commit.
 
 - 2022-06-13 Wenn Du neben Dir stehst, bist Du wenigstens in guter Gesellschaft.
+
+- 2022-06-19 Wozu sind AV-Tools auf Mobilgeräten gut? [Zum Arschretten!](https://www.heise.de/forum/heise-online/Kommentare/Microsoft-baut-Anti-Viren-Loesung-Defender-fuer-Android-iOS-Co-aus/Late-Answer-Zum-Arschretten/posting-41162296/show/)
+
