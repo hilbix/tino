@@ -5,14 +5,14 @@
 This was done with Ubuntu 20.04 LTS.  Probably it works for Debian similarily.
 
 
-# Disable SHIM validation
+# Disable need for driver signing
 
 - See also: <https://askubuntu.com/a/1198351/164798>
 
 My recommended variant for Ubuntu (and hopefully others, too) is to disable the signature verification algorithm in the Kernel.
 
-This is a overengineered needlessly complex designed method, and you probably need to go through it several times until you succeed.
-However you only need to do this a single time, not each time the Kernel is updated.
+The following is an overengineered needlessly complex designed way, and you probably need to go through it several times until you succeed.
+However you only need to succeed a single time, not each time the Kernel is updated .. I hope.
 
 > People always mistake complexity with seurity.
 > They do not understand, that complex things cannot provide any security,
@@ -21,7 +21,7 @@ However you only need to do this a single time, not each time the Kernel is upda
 > This process here just archives one thing:  Stealing your precious lifetime.
 
 
-## Check SecureBoot is enabled
+## Check for SecureBoot
 
 This follows <https://wiki.debian.org/SecureBoot>
 
@@ -41,7 +41,8 @@ you already have appplied this fix.
 
 > MOK stands for Machine Owner Key
 
-Disable validation:
+
+## Disable validation
 
 	mokutil --disable-validation
 
@@ -63,6 +64,9 @@ After reboot:
 - Then a `No`/`Yes` question shows up (on the top of the screen stands something like `Disable secureboot`)
 - Now choose `Reboot`
 
+
+## Check success
+
 Let it boot and then do the verification:
 
 	mokutil --sb-state
@@ -77,9 +81,10 @@ Congratulations.  SecureBoot now is still enabled in BIOS (so that all hardware 
 > This makes no sense to me.  If such a setup is allowed, the construction of SecureBoot lacks any logic.
 
 
-# Use SecureBoot Signing
+# Sign Drivers with MOK
 
-> THIS IS T.B.D. and untested by me, only kept as a reference
+> MOK stands for Machine Owner Key
+
 
 ## Create a key
 
@@ -92,6 +97,10 @@ If you see a key here (`MOK.der`, `MOK.pem`, `MOK.priv`) skip this step and use 
 	openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -outform DER -out MOK.der -days 36500 -subj "/CN=$(hostname -f)/"
 	openssl x509 -inform der -in MOK.der -out MOK.pem
 
+
+---------
+> Sorry, the rest IS T.B.D., because it was untested by me.  Disabling driver signing (see above) helped me out.
+---------
 
 
 # Rants
