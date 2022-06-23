@@ -102,5 +102,7 @@
 
 - 2022-06-13 Wenn Du neben Dir stehst, bist Du wenigstens in guter Gesellschaft.
 
-- 2022-06-19 Wozu sind AV-Tools auf Mobilgeräten gut? [Zum Arschretten!](https://www.heise.de/forum/heise-online/Kommentare/Microsoft-baut-Anti-Viren-Loesung-Defender-fuer-Android-iOS-Co-aus/Late-Answer-Zum-Arschretten/posting-41162296/show/)
+- 2022-06-19 Wozu sind AV-Tools auf Mobilgeräten gut? [Zum Arschretten!](https://www.he2ise.de/forum/heise-online/Kommentare/Microsoft-baut-Anti-Viren-Loesung-Defender-fuer-Android-iOS-Co-aus/Late-Answer-Zum-Arschretten/posting-41162296/show/)
 
+- 2022-06-23 Political Correctness ist für mich eine Zumutung. ([Quelle](https://www.heise.de/forum/heise-online/Kommentare/Strafverfolger-warnen-vor-Erpresser-Mails/Acronyme-wie-RELIGION-schreibt-man-aber-All-Caps/posting-41185658/show/))
+  - Nachsatz zu: RELIGION steht für Religiös Ereifernde Laute Idioten Grundsätzlich Ignorieren Ohne Nachdenken ([Quelle](https://www.heise.de/forum/heise-online/Kommentare/Strafverfolger-warnen-vor-Erpresser-Mails/Acronyme-wie-RELIGION-schreibt-man-aber-All-Caps/posting-41185658/show/))
