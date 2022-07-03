@@ -106,3 +106,5 @@
 
 - 2022-06-23 Political Correctness ist für mich eine Zumutung. ([Quelle](https://www.heise.de/forum/heise-online/Kommentare/Strafverfolger-warnen-vor-Erpresser-Mails/Acronyme-wie-RELIGION-schreibt-man-aber-All-Caps/posting-41185658/show/))
   - Nachsatz zu: RELIGION steht für Religiös Ereifernde Laute Idioten Grundsätzlich Ignorieren Ohne Nachdenken ([Quelle](https://www.heise.de/forum/heise-online/Kommentare/Strafverfolger-warnen-vor-Erpresser-Mails/Acronyme-wie-RELIGION-schreibt-man-aber-All-Caps/posting-41185658/show/))
+
+- 2022-07-03 "Was wünscht Du Dir zu Deinem 55 Geburtstag" werde ich gefragt.  "Ruhe", antworte ich, "einfach nur Ruhe".  Was natürlich vollkommen unmöglich ist, denn es ist ja mein Geburtstag.  In diesem Sinne, wünscht euch nur, was ihr wirklich wollt, sonst geht es wohlmöglich in Erfüllung.
