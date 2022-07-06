@@ -27,6 +27,37 @@ Sagt mal, wem haben sie denn da wieder ins Hirn geschissen?
 Was für einen Schwachsinn muss ich im Zuge von COVID 19 lesen?
 Und was zum Geier fällt den Menschen da eigentlich ein?
 
+## Warnapp
+
+Sagt mal, wem hat man da eigentlich ins Hirn geschissen?
+
+Ich hänge hier seit über 30 Minuten in der Warteschleife um meinen positiven PCR zu registrieren, weil das Testzentrum hier in Augsburg Land mit Tests von EcoCare arbeitet, einer anscheinend vollkommen unfähigen hinterwäldlerischen Firma, die sich an keinerlei Regeln der Vernunft und Anstand hält:
+
+- Keine Integration in die Corona-Warnapp.  Das nach 2 Jahren.  Leute, das ist in Schulnoten schon keine 6 mehr.  Das ist auf dem Level von Terrorismus.
+
+- Eine eigene "App" mit der man eine Übertragung hinbekommen soll.  Leider muss man sich mehr als nur nackt ausziehen um diese App zu installieren.  Bevor sie läuft zieht sie einem die Haut ab.  Anders kann man diese Rechteeskalation, ohne die diese App nicht läuft, nicht verstehen.  Internet + vollZugriff auf alle Daten auf dem Handy.  Na klar.  Wer das erlaubt kann sich auch gleich erschießen gehen lassen.  Solch eine Ungeheuerlichkeit darf sich niemand erlauben.  Das ist nicht nur höchstgefährlicher Größenwahnsinn und dem Datenschutz nicht mehr angemessen, nein, es ist einfach Hirnschiss der schlimmsten aller Sorten.
+
+> Das ist keine Meinung.  Das ist eine Tatsache.  Die ich gerne vor jedem ordentlichen Gericht in Deutschland verteidige und beweise.  Das ist ein absoluter No-Go.  So nicht, Leute.  Unfähigkeit ist dafür übrigens keine Erklärung mehr.  Man muss schon heftig daran arbeiten, und einen komplett verdorbenen Geist haben, um das so zu machen.
+
+Also, 1 Minute Wartezeit in Stoßzeiten halte ich für vetretbar.  2 Minuten sind schon eindeutig zu lang.
+
+Es geht hier um die Gesundheit Deutschlands.  Und einen Vorgang, der absolut unfähig konstruiert ist.  Wozu brauche ich bitte einen Telefonanruf, um etwas in eine App zu integrieren?  Kann ich nicht einfach das PDF von dem vielliecht unfähigsten Testzentrum aller Zeiten über die App hochladen, und das Backoffice erledigt dann den Rest?  Was soll ein VOICECALL da helfen?  Wo ist die Verbindung zur App?  WAS BITTE SOLL DAS?
+
+So kann man soetwas doch nicht implementieren?  Wer hat sich diese komplett hilflos wirkende Konstruktion ausgedacht?
+
+Wenn ich gewzungen bin, etwas zu tun, sind exponierte Wartezeiten bereits eine Ungeheuerlichkeit.  Etwas, das es nicht geben darf.  Denn ich bin ja gezwungen, das zu tun.
+
+Und bei Dingen, wie der **freiwilligen** Mitarbeit beim Warnen vor Corona?  Da muss es noch **schneller** gehen.  Sonst vermiest man den Bürgern jeden Wunsch, noch irgendwas freiwillig für diesen Staat zu tun.
+
+> Momentan sind alle Mitarbeiter im Gespräch, bitte haben Sie noch etwas Geduld.
+>
+> Sollte wohl eher heißen:  "Der Mitarbeiter ist gerade auf dem Klo, bitte warten Sie bis Sie wieder coronafrei sind."
+
+Aber klar doch.  Mehr Mitarbeiter kosten mehr Geld.  Kann man nicht bezahlen.  Das ganze Geld wurde für die Erstellung und Betrieb ausgegeben.  Lieber zahlen wir 100 Milliarden für Waffen aus, die dazu gedacht sind, Menschen zu töten, als auch nur 1 EUR mehr dafür auszugeben, dass evtl. Menschen gerettet werden können.
+
+Dankeschön.  **Diese Menschheit ist nicht mehr zu retten.  Wir brauchen eine neue!**
+
+
 ## Hamstern
 
 Ich hamstere schon seit Menschengedenken.  Sprich, ich habe immer alles haltbare
