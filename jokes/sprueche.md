@@ -108,3 +108,5 @@
   - Nachsatz zu: RELIGION steht für Religiös Ereifernde Laute Idioten Grundsätzlich Ignorieren Ohne Nachdenken ([Quelle](https://www.heise.de/forum/heise-online/Kommentare/Strafverfolger-warnen-vor-Erpresser-Mails/Acronyme-wie-RELIGION-schreibt-man-aber-All-Caps/posting-41185658/show/))
 
 - 2022-07-03 "Was wünscht Du Dir zu Deinem 55 Geburtstag" werde ich gefragt.  "Ruhe", antworte ich, "einfach nur Ruhe".  Was natürlich vollkommen unmöglich ist, denn es ist ja mein Geburtstag.  In diesem Sinne, wünscht euch nur, was ihr wirklich wollt, sonst geht es wohlmöglich in Erfüllung.
+
+- 2022-08-07 According to ISO, no language is `ok` and there is no language for `yes`.  But we have one language which is `ko` and one language for `no`.  Luckily I am German and there is a `ja` language, but this language is not German.  Also Japanese lacks the word for `yes`.  (`Hai` means `affirmative` and not `yes`.  Also `Hai` means `shark` in German and there is neither hai nor no shark languages.  Only [Sharknado](https://www.imdb.com/title/tt2724064/).)
