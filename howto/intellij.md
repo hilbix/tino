@@ -19,7 +19,7 @@ Very well hidden things in IntelliJ Idea
 - Click "Apply"
 - Restart "IntelliJ Idea"
 
-## Keep Bookmarks when switching branches
+## Keep Bookmarks when switching Branches
 
 > !BEWARE!
 >
@@ -33,6 +33,5 @@ Very well hidden things in IntelliJ Idea
 - Expand "Version Control"
 - Select "Confirmation"
 - Scroll down to "Changes"
-- Uncheck 
 - Uncheck "Restore workspace when switching branches"
 - Click "Apply"
