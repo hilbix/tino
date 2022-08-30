@@ -7,7 +7,7 @@
 
 Backups are, basically, a copy of your data.
 
-To be a suitable thing, backups must have following additional properties:
+To be a suitable thing, backups must have following some additional properties over copy:
 
 a) Backups must be more than just complete copies.  A backup, which is taken from something on a machine stored on the same machine, is just a copy and not a backup.
 
@@ -18,6 +18,13 @@ c) Backups must be available.  A backup, which cannot be found or restored when 
 d) Backups must be secure.  A backup, which can be accessed by a 3rd party, are against the law.
 
 e) Backups must be authentic.  A backup, which could be modified after it was taken by some evil force, is just worthless.
+
+f) Backups must be reliable.  A backup must reliably do the work in the background, and handle all recoverable errors by itself.  On unrecoverable errors it must not stop, instead it must provide all neccessary information how to proceed.  These instructions must be clear, easy to understand and safe to use and must not open new riddles to solve for the user.
+
+g) Backups must keep forensic.  A backup must provide detailed information what it did.  Such that you can read it years later.  So there must not be the need to handle everything immediately, instead you can handle it when you have the time to do so.
+
+h) Backups must be easy to monitor.  No trainloads of messages.  A simple  "ok, note, warn, err, fatal"-thing where only "fatal" means, the backup was not taken and "ok" means "only known warnings and acknowledged read errors occurred but nothing new disastrous happened".  Note that "fatal" must be reserved for really fatal situations like "no CPU installed", "no power, so machine was switched off" or "the drive or path to backup is unavailable".  Somthing like "I cannot connect to my backup server" must not be a fatal error, this must be a transient situation from wich the backup automatically can recover.  Also having no connection to the backup service does not mean that the backup cannot be taken, it must be stored locally and be merged into the backup service as soon as this is back up again.
+
 
 
 ## Let's look a bit further on this criterias
@@ -399,7 +406,10 @@ So by using an asymmetrically encrypted transport layer, without keeping file ma
 (everything can be expressed in the metadata of the file, like the file's name),
 we give the attacker no clue on how to decrypt the data.
 
+
 #### How to securly store a NONCE
+
+> THIS IS T.B.D.
 
 Well, I am no cryptonerd, but I came up with following scheme.  Please note me if this can be done better.
 
@@ -407,6 +417,7 @@ Well, I am no cryptonerd, but I came up with following scheme.  Please note me i
 
     i := a[0]
     j := a[i%256
+
 - You prepend a file with 512 bytes.
 - The first byte defines an offset in the first 256 bytes where the second byte is found
 - The next byte
@@ -428,6 +439,7 @@ Well, I am no cryptonerd, but I came up with following scheme.  Please note me i
 
 Things I have seen to really happen.
 
+
 ## No encryption locally!
 
 If you want to take a quick backups on some removable media like an USB disk, these are better not stored encrypted.
@@ -435,6 +447,7 @@ If you want to take a quick backups on some removable media like an USB disk, th
 **Because you can better use something like LUKS (an encrypted volume) to protect these.**
 
 An encrypting Backup then is a major burden which only might add errors and the like.
+
 
 ## Multi Mirrors!
 
@@ -464,3 +477,71 @@ detected some anomaly and quarantined the file.
 However (using borgbackup) this only showed up in the logs and not in the Backup Archive.  So after several years you won't notice this fact happened.
 
 Also note that these facts should probably stay even after the Archive was pruned, as long as those paths are active.  Because you probably will find the file in the quarantine area of your Antivirus.  (In my case it was an old file checked out from git which triggered the heuristic detection.  Hence a False Postive.)
+
+
+## Backup must not not create problems on it's own
+
+2022-08-30 happened today:  `Failed to create/acquire the lock /root/borg/backup/lock.exclusive (timeout).`
+
+This is an absolute no-go.  Either the backup works, or the backup works, or the backup works.
+
+There is absolutely no argument that the backup might crash after it was interrupted in the middle.
+
+The problem was solved with the call to `borg break-lock /root/borg/backup/lock.exclusive`.  Something which not only is unintuitive and a PITA, this exposes a major problem with `borg`:  The backup is not reliable.
+
+What I expect is that in such a case the backup does not give up.  Instead it must continue to do the backup and then start to retry and if that is unavailable, give exact instructions what to do.  The documentation of `borg break-lock` is not only not helpful in that respect, it also creates a new major problem:  No instructions how to use it the safe way.
+
+Here is what they say:
+
+> This command breaks the repository and cache locks. Please use carefully and only while no borg process (on any machine) is trying to access the Cache or the Repository.
+
+"**carefully**"?  Backup carefully?  WTF?
+
+Bombs must be used carefully.  Nitroglycerin must be used carefully.  Candles on Christmas Trees must be used carefully, for example lighting them with a flamethrower probably is a bad idea.
+
+But backups?  Backups handled "carefully"?  Sorry, no way.
+
+If you ever read "carefully" in Backup documentation, run.  Run as fast as you can.  Backups must not be used carefully, they must work even if you are careless.
+
+Backups is a thing you set up and then must be able to forget.  From time to time you should look at it.  Correct.  But there never should be the need to do something "carefully", because Backups are all care you need to do.
+
+So if a backup find a problem, there must be **a clear and best way** to recover from the problem.  With no need to know what you are doing, because this is, what a backup must provide.  The backup must tell you what's going wrong and how to solve it.  And best, on noncritical situations, it allows you to solve it half a year later.
+
+Read:
+
+If Borg cannot get a lock, it must not stop to work.  It must sidestep, do an independent backup with some another lock, and then offer to merge the result.  Or something like that.  It must not stop working and must do the best it can to continue.  Period.
+
+Read:
+
+Bort is no backup solution.  It is a backup problem.
+
+
+# What is missing?
+
+Well, the most important thing about a Backup is Disaster Recovery.
+
+This was not handled here.  Why?  Because you first must be able to handle everything from above.
+
+On top of that you then must be able to define Disaster Recovery.
+
+This is beyond the scope of this document.  But please keep in mind:  A Backup without Disaster Recovery probably is no Backup at all.
+
+## How must a Disaster Recovery look like
+
+Da Disaster Recovery takes following propositions:
+
+- All people involved in setting up the Backup are dead.
+- All information about who, where and how are lost.
+- All you have is full granted access to the backup
+
+Then the backup must provice precise information about everything:
+
+- Where or how to find all the missing pieces of backup data
+- Where to find and how to reinstantiate the encryption keys
+- How to do a bare-bone recovery or how to access all data
+
+This is not a trival task, as encryption keys must be secured.  So there must be a reliable way to reinstantiate them after a Disaster but this way must also be reliable to keep them secure before as long as a single person is alive who wants the keys to stay protected against others.
+
+This probably requires somebody like a notary or fire and disaster proof instructions embedded in multiple locations which are secured from public.
+
+Even that this is a probably most important part of a backup, this is not discussed here.  Sorry.
