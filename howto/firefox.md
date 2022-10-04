@@ -1,5 +1,36 @@
 # Firefox Tricks
 
+## Use Web-Console
+
+In about:config you need to enable
+
+	devtools.chrome.enabled
+
+first, then use
+
+	Strg+Alt+J
+
+to open Web-Console and enter JavaScript on Browser level.
+
+> I really have no idea why such important settings are disabled
+
+Example from <https://stackoverflow.com/a/6579979>
+
+```
+var {AddonManager} = Components.utils.import("resource://gre/modules/AddonManager.jsm", null);
+AddonManager.getAllAddons().then(addons => {
+    for (let addon of addons.filter(addon => addon.type == "extension"))
+        console.log(addon.name, addon.getResourceURI().spec);
+});
+```
+
+which shows at my side, that these shitty new Firefox Snap under Ubuntu ignores
+`/usr/share/mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/`
+which endangers people by downloding possibly trojaned version from the web instead.
+
+> I really have no idea why it was this stupidly implemented.
+
+
 ## Remove close button on all TABs
 
 FF56++ (until Mozilla decides to change it .. again .. and again .. as usual):
