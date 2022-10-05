@@ -58,6 +58,11 @@ So how do you enter an empty cell at the start of the line?
 
 As double `SPC` at the end of a line is already used for `<br/>`, unseen characters already have a meaning in Markdown.
 
+Notes:
+
+- Multiple TABs like `<TAB><TAB>` still make a single cell border.  If you want to render an empty cell, use `<TAB><SPC><TAB>`
+- Spaces around cell borders are silently eaten.  If the `<SPC>` is part of the data, use `\<SPC>` as usual.
+- I do not like the `\<something>` thingie anyway but do not know or found anything better
 
 ### Redundant representation of the same thing
 
