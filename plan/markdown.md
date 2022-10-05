@@ -1,5 +1,6 @@
 > This text is currently far from being completed.  It's just a stub ..
 
+
 # My opinion on Markdown
 
 I like Markdown.  However I do not like all of it.
@@ -9,7 +10,9 @@ However I did not find a good JavaScript driven Markdown implementation which is
 - Extensible
 - And can have features turned off
 
+
 ## Things which should be turned off (or missing)
+
 
 ### Headlines due to 2nd line
 
@@ -20,6 +23,7 @@ Headline
 
 I do not like that.  While I understand why it is there, I do not think it is worthwhile, as I never use it.
 
+
 ### HTML
 
 I do not like HTML tags to be rendered in Markdown.
@@ -27,9 +31,14 @@ I do not like HTML tags to be rendered in Markdown.
 This makes Markdown difficult to render in some non-HTML-environment like VT100 terminals.
 Or say it differently:  Please no MarkUP in MarkDOWN.  Thanks.
 
+
+## Things that should change (or be changeable)
+
+
 ### TABs
 
 TABstops are at 8.  Period.  This is VT100 standard.  And I'll never accept anything else.  Sorry, call me a hardliner there.  I am.
+
 
 ### Tables
 
@@ -49,16 +58,22 @@ So how do you enter an empty cell at the start of the line?
 
 As double `SPC` at the end of a line is already used for `<br/>`, unseen characters already have a meaning in Markdown.
 
+
 ### Redundant representation of the same thing
 
 T.B.D.
 
+
 ### Emphasizes
+
+T.B.D.
 
 
 ### ..
 
 > Here probably some things are missing
+
+T.B.D.
 
 
 ## Extensibility
@@ -66,6 +81,10 @@ T.B.D.
 Markdown is OK for things like short documentation.  However it should be capable of more.
 
 The problem here is:  There is no standard for extending Markdown.  However it would be good to have things like `[[TOC]]` or similar.
+
+
+
+# MORE EDIT HERE
 
 > --------------------
 >
@@ -80,4 +99,4 @@ This is a bit like the definition on how I like MarkDown to look like.
 
 ## Main features
 
-
+T.B.D.
