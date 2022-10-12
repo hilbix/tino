@@ -111,7 +111,8 @@
 
 - 2022-08-07 According to ISO, no language is `ok` and there is no language for `yes`.  But we have one language which is `ko` and one language for `no`.  Luckily I am German and there is a `ja` language, but this language is not German.  Also Japanese lacks the word for `yes`.  (`Hai` means `affirmative` and not `yes`.  Also `Hai` means `shark` in German and there are neither hai nor shark languages.  According to ISO.  But according to IMDB there is [Sharknado](https://www.imdb.com/title/tt2724064/), which is weird.)
 
-- 2022-10-12 Man kann mich nur auf 2 Weisen überzeugen, nämlich mit schlagenden Argumenten.  Wähle!  
-  Spoiler:  
-  Also entweder mittels guten und nachweisbar 100% richtigen Argumenten.  
-  Oder mittels brutalster Misshandlung.
+- 2022-10-12 Man kann mich nur auf 2 Weisen überzeugen, nämlich mit schlagenden Argumenten.  Und wer keine Seite wählt, der wählt automatisch die falsche!
+  - Spoiler:
+  - Also überzeugen mittels guter und nachweisbar richtiger Argumente.
+  - Oder überzeugen mittels brutalster Misshandlung.
+  - Alles andere überzeugt mich einfach nicht.
