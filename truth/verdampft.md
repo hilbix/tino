@@ -2,12 +2,23 @@
 >
 > Eigentlich ging es nur um die Frage, warum die Teile einen Li-Ion-Akku haben statt einer Batterie.  Etwas, das sich anscheinend niemand erklären konnte.
 > Dann aber kam ich ins Schwadronieren.  Hier mein Erguss.  Wie wahr, wie wahr!
+>
+> Für Youtube war der gesamttext wohl zu lang, weshalb es den Post nicht annahm.  "returned error", mehr stand da nicht.  Was auch immer.
+> Deshalb hab eich nur den ersten Teil, gepostet.
+
+--------
 
 Warum Akku statt Batterie?
 
 Ich vermute das liegt an Mathematik und Physik.  Der Grund wird der einfache Innenwiderstand sein.  Ein typischer Lithium-Akku hat 0,1 Ohm bei 3V während eine typische Batterie 0,3 Ohm bei 1,5V hat.  Bei Reihenschaltung von 1,5V-Batterien addiert sich der Innenwiderstand zu 0,6 Ohm.  0,6 Ohm bei 3V ergibt max. 5 Ampere, der Verdampfer kann also nur mit theoretischen 15W arbeiten.  Das ist IMHO zuwenig.  Hingegen kann ein geladener Lithium-Akku 30A abgeben.  Das sinkt bei Entladung vermutlich auf die 20A, die so ein Verdampfer (laut schnellen Recherchen) haben will.  (20A bei 3V ergibt 60W.)
 
 Warum aber werden dann nicht einfach Lithium-Batterien verbaut statt Lithium-Akkus?  IMHO liegt das an 2 Faktoren:  Verfügbarkeit und Bauform.  Lithium-Primärzellen kennen wir alle z.B. vom Autoschlüssel.  Diese haben aber eine zu große Bauform.  Es gibt sie vermutlich auch in kleinerer Knopfzellen-Form, aber, wie man aus dem Auseinanderbau eines Einwegverdampfers sieht, ist das Innenleben des Verfdampfers fest verdrahtet.  Ich gehe einfach mal davon aus, dass es schwieriger ist, auf dem Markt Lithium-Primärzellen günstig in ausreichender Verfügbarkeit und Qualität von ausreichend Anbieteralternativen und in notwendiger Bauform zu erhalten, als einfach auf ubiquitär aus vielfältigen Quellen verfügbare (flexible) Pouchzellen zu setzen.
+
+So, der Rest steht in meinem Blog unter https://github.com/hilbix/tino/edit/master/truth/verdampft.md denn der war Youtube zu lang.
+
+In meinem Pamphlet geht es um den Sinn und Unsinn von Produkten wie Einweg-Verdampfern, warum uns Fridays for Future nicht rettet und den IMHO einzigen möglichen Weg, den Untergang der Menschheit abzuwenden.
+
+--------
 
 Einweg-Verdampfer (als ich heute davon das erste Mal hörte dachte ich: WTF?  Wie pervers ist das denn?  FYI: Ich bin Nichtraucher und kannte bisher nur Mehrweg-Verdampfer von Kollegen) haben gegenüber den Vielweg-Verdampfern einige Vorteile.  Im Handling wie auch in der Herstellung.  Deshalb denke ich, werden wir diese fatale Entwicklung nicht mehr los.  Erstens: Lithium-Akkus sind notorisch kompliziert zu laden.  Überladung vertragen die überhaupt nicht.  Deshalb brauchen sie eine komplizierte Ladeelektronik.  Zweitens: Lässt man die Ladeelektronik und die Buchse weg, sind schon einiges an Cents zu sparen.  Drittens: Auch das Nachfüllen, also einen komplizierten Mechanismus, braucht es nicht.  Viertens: Des Weiteren brauchen wiederverwendbare Verdampfer Wartung.  Man tauscht gerne mal die Verdampfungseinheit aus, da gibt es sogar für verschiedene Stoffe verschiedene Varianten, die dann kompatibel sein müssen etc. bla.  Meinen Kollegen (das war lange vor Covid) konnten darüber gefühlt ewig Gespräche führen.  Sprich:  So ein Mehrweg-Verdampfer ist, verglichen mit den Einweg-Teilen, einfach extrem kompliziert!  In etwa zu vergleichen mit Selbstkochen vs. Pizzalieferung.  Die Pizza kommt quasi von selbst angeflogen, während man, um etwas selbst zu kochen, sich erst mühsam Gedanken machen muss, was man einkauft, um es anschließend auch noch zuzubereiten.  Wer erlegt sich diese Strapazen freiwillig auf, mal von Leuten abgesehen, die gerne kochen oder backen?
 
