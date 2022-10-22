@@ -14,7 +14,7 @@ Ich vermute das liegt an Mathematik und Physik.  Der Grund wird der einfache Inn
 
 Warum aber werden dann nicht einfach Lithium-Batterien verbaut statt Lithium-Akkus?  IMHO liegt das an 2 Faktoren:  Verfügbarkeit und Bauform.  Lithium-Primärzellen kennen wir alle z.B. vom Autoschlüssel.  Diese haben aber eine zu große Bauform.  Es gibt sie vermutlich auch in kleinerer Knopfzellen-Form, aber, wie man aus dem Auseinanderbau eines Einwegverdampfers sieht, ist das Innenleben des Verfdampfers fest verdrahtet.  Ich gehe einfach mal davon aus, dass es schwieriger ist, auf dem Markt Lithium-Primärzellen günstig in ausreichender Verfügbarkeit und Qualität von ausreichend Anbieteralternativen und in notwendiger Bauform zu erhalten, als einfach auf ubiquitär aus vielfältigen Quellen verfügbare (flexible) Pouchzellen zu setzen.
 
-So, der Rest steht in meinem Blog unter https://github.com/hilbix/tino/edit/master/truth/verdampft.md denn der war Youtube zu lang.
+So, der Rest steht in meinem Blog unter https://github.com/hilbix/tino/blob/master/truth/verdampft.md denn der war Youtube zu lang.
 
 In meinem Pamphlet geht es um den Sinn und Unsinn von Produkten wie Einweg-Verdampfern, warum uns Fridays for Future nicht rettet und den IMHO einzigen möglichen Weg, den Untergang der Menschheit abzuwenden.
 
