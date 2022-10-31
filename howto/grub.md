@@ -112,7 +112,9 @@ there is an alternate trick. Just add
 to the Linux commandline.  This boots into `bash` instead of SystemD.
 And you now are back into control.
 
+To boot into the "real" init from `/bin/bash` just run
 
+	exec /sbin/init
 
 
 ## Console+Serial+KVM
