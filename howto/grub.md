@@ -112,9 +112,12 @@ there is an alternate trick. Just add
 to the Linux commandline.  This boots into `bash` instead of SystemD.
 And you now are back into control.
 
-To boot into the "real" init from `/bin/bash` just run
+Things you can do in this `bash`:
 
-	exec /sbin/init
+- `mount -o remount,rw /` to make the root device writable
+- `openvt bash` to create another virtual terminal
+  - Better do not run in the main console, as job control etc. is not available there!
+- `exec /sbin/init` run the "real" init.  This only works from the `bash` which has PID 1.
 
 
 ## Console+Serial+KVM
