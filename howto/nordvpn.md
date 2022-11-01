@@ -1,6 +1,6 @@
 > The perhaps most problematic part of NordVPN is, that they do not offer their App via Microsoft Store.
 >
-> **Under Linux and Androd NordVPN integrates with the OS' standard update mechanisms.  On Windows it does not.  Why?**
+> **Under Linux and Androd NordVPN integrates with the OS' standard update mechanisms.  On Windows they do not.  Why?**
 
 
 # NordVPN
