@@ -16,6 +16,97 @@ GPG is plain unusuable shitty crap.  But we do not have something better.
 >
 > WTF!?!
 
+## Signing fails?
+
+When signing fails there are, at least, 2394230o9320590239420394293840923749023797209374802384239023498239428349823 possibilities why it can go wrong.
+You are in bad company, as zillions of people out there have exactly the same problem.  Trust me.
+
+See also:
+
+- https://github.com/keybase/keybase-issues/issues/2798
+- https://superuser.com/questions/520980/how-to-force-gpg-to-use-console-mode-pinentry-to-prompt-for-passwords
+
+### GnuPG fails because it cannot read the passphrase
+
+Here is what I need to do to get it working (note that I hate the mouse, so I always bring things back to where they belong:  The good old tty):
+
+	apt install pinentry-tty
+	update-alternatives --set pinentry /usr/bin/pinentry-tty
+
+> This probably changes behavior of other programs, too!
+
+Another way is to use in your `.profile`:
+
+	export GPG_TTY=$(tty)
+
+> This probably only affects GPG
+
+
+## Create a key
+
+See also:
+
+- https://alexcabal.com/creating-the-perfect-gpg-keypair
+  - Note that the master signing key is called a subkey there.  Don't get puzzled.
+
+You want to create a key from scratch.  Puzzled due to the zillion of possibilities to do it wrong?  Crying out loud?  You are not alone.  Here is a short note:
+
+	gpg --full-generate-key
+
+> Sorry, I did not find out how to do this noninteractively like with `ssh-keygen`.
+
+- Choose "RSA and RSA".
+  - You should not use DSA because you cannot be sure your local random is good enough, as they already mixed that up in the past.
+  - If GPG offers post quantum asymmetric encryption, probably chose that.  Hopefully this will be available in 2024.
+- For the master key use the maximum RSA bits they offer.
+  - Note that higher does not mean much better.  For each doubled number of bits (which quadruples the calculation time) the key gets only approx. 8 years stronger.
+  - 4096 should be safe until 2035.  Which means - encryption wise - doomsday is next week.
+  - Note that the NSA is probably 10 years ahead of us, hence RSA 4096 can be broken by them in 2025.
+  - But not on a large scale.  I expect that NSA can only break 1 RSA 4096 per month in 2025 with eats up all their ressources.
+  - But this rate doubles each year, so in 2035 NSA can probably break a hundred RSA 4096 per day.
+  - As soon as Quantum Computers reach around 10K Qbits, they will break RSA 4096 within seconds.  And a few hundredthousand of RSA-Keys in parallel.
+  - This can already happen before 2035.  If so, Quantum Computers will reach general availability before 2050, thus breaking DSA and RSA forever.
+- Your master key should never expire.
+  - It's ridiculous, as they will go out of use in the next decade anyway.
+
+The rest should be self explaining.  Next step is important:
+
+
+### Create a backup
+
+	gpg --output revocation.txt --gen-revoke KEY
+	gpg --output secret.txt --export-secret-keys --armor KEY
+
+where `KEY` is the mail address you entered with `gpg --full-generate-key`.
+
+Backup the revocation certificat and secret.txt somewhere.  **Different locations, of course.**
+
+
+### Add a signing subkey!
+
+The master key should be kept safe.  Even that it is Passphrase protected.  As there is only a single passphrase, so typing that in would expose your master key.
+
+> The master key is something like an identity which should not change.
+>
+> I did not find the correct way how to just export subkeys with an new Passphrase.  Why are even the most basic things that difficult with GPG?
+
+	gpg --edit KEY
+
+where `KEY` is the mail address you entered with `gpg --full-generate-key`.
+
+- `addkey`
+- Choose `RSA (sign only)`
+- You can use the default here
+- Validity can be set lower, but I think no expiry is ok here, too
+- `save`
+
+
+### Now create a new keyring with just the subkeys
+
+T.B.D.  (Sorry. timeout)
+
+
+
 ## How to diagnose keys
 
 Use `gpg --list-packets`
