@@ -131,7 +131,7 @@ This will list the gateway you need to route to to reach your intranet.  This wh
 	for net in 192.168.0.0/24;
 	do
 		nordvpn whitelist add subnet "$net";
-		ip r a "$net" via "$(ip -j r l t main match "$net" | jq -n '.[] | .gateway')";
+		ip r a "$net" via "$(ip -j r l t main match "$net" | jq -r '.[] | .gateway')";
 	done
 
 Note that this needs to run at each reboot, as NordVPN does not keep that information across reboots.
