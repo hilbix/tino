@@ -137,3 +137,5 @@ This will list the gateway you need to route to to reach your intranet.  This wh
 Note that this needs to run at each reboot, as NordVPN does not keep that information across reboots.
 
 `crontab` option `@reboot` is your friend.
+
+> Note that I tried to add the routes with NetworkManager, but it did not work.
