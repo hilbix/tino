@@ -42,7 +42,7 @@ Then transfer to some destination you need the missing package, and fix the erro
 	debuild
 
 
-## Situation
+## Example 1: `bup`
 
 - You have Ubuntu 20.04 LTS
 - You want [`bup`](https://github.com/bup/bup) on this
@@ -62,7 +62,7 @@ Well, Debian and `dpkg-buildpackage` to the rescue.
 But how?
 
 
-## First: Get the sauce, Luke!
+### First: Get the sauce, Luke!
 
 Luckily you trust Debian.  Or Ubuntu 22.04 LTS.  Or somethings similar which includes `bup`.
 Hence you have some trusted source.  Get it from there:
@@ -131,7 +131,7 @@ So for everything else below it assume that you are
 	cd build/bup
 
 
-## Compile preparation
+### Compile preparation
 
 The problem is, you are on another machine now with some trusted source which does not fit your system entirely.
 
@@ -202,7 +202,7 @@ dpkg-buildpackage -us -uc -ui -I -i failed
 Now to the fix-and-compile step.
 
 
-## Build package
+### Build package
 
 The next step is to list or auto-install the dependencies:
 
@@ -243,7 +243,7 @@ then you have some leftover from experiments (like `mk-build-deps` without optio
 	rm bup-build-deps_0.32-3_amd64.deb
 
 
-## Install
+### Install
 
 Now, when the build is successful, you probably want to install it.
 
@@ -260,10 +260,10 @@ Just install what you want:
 	sudo dpkg -i bup_0.32-3_amd64.deb
 
 
-# Another example
+## Example 2: `mosh`
 
-- You want to patch `mosh`
-- This is available from <https://github.com/mobile-shell/mosh>
+- You want to install newer version or a patched version of `mosh`
+- `mosh` comes from <https://github.com/mobile-shell/mosh>
 - Luckily, there already is a `debian/` subdirectory
 
 Hence the first thing is to checkout the `git`:
