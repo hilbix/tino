@@ -18,13 +18,25 @@ Prepare the destination to build from source:
 	DEBUILD_LINTIAN_OPTS="-i -I --show-overrides"
 	EOF
 
-	sudo apt install build-essential devscripts equivs
+	sudo apt install build-essential devscripts equivs git-buildpackage
 
 On some trusted current environment, fetch the existing package:
 
 	apt source PACKAGE
+	cd PACKAGE-VERSION
 
-Transfer to some destination you need the missing package, and fix the errors until following succeeds:
+If the source is not available through `apt` but in `git` instead:
+
+	git clone -b master https://github.com/hilbix/mosh.git
+	cd mosh
+	gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch -S
+
+> You can build the package including source, too, but with some other options:
+>
+>     gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch
+
+
+Then transfer to some destination you need the missing package, and fix the errors until following succeeds:
 
 	sudo mk-build-deps -i
 	debuild
