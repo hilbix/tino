@@ -260,6 +260,45 @@ Just install what you want:
 	sudo dpkg -i bup_0.32-3_amd64.deb
 
 
+# Another example
+
+- You want to patch `mosh`
+- This is available from <https://github.com/mobile-shell/mosh>
+- Luckily, there already is a `debian/` subdirectory
+
+Hence the first thing is to checkout the `git`:
+
+	git clone https://github.com/mobile-shell/mosh.git
+
+Then we want to create the Sources
+
+	cd mosh
+	./build-source-package.sh
+	
+This essentially runs following (as usually you won't have this shell script):
+
+	gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch -S
+
+This creates the needed sources, like `apt source` did, so you can use above recipe.
+
+Note that there also is
+
+	./build-package.sh
+
+which essentially runs the same command without `-S`:
+
+	gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch
+
+So this includes the build process of the binary package, however without the `debuild` settings (I think).
+
+Also note that this only works if the build tree is absolutely clean.  So to run it, perhaps following is needed:
+
+> **WARNING!** Following wipes everything which is not checked into `git`!
+
+	git clean -x -f
+
+
+
 ## FLW
 
 It may be that there is more to fix.  This can be complex.
