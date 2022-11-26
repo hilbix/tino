@@ -305,5 +305,5 @@ It may be that there is more to fix.  This can be complex.
 
 However this is beyond the scope of this document.  This here only explains how to build a Debian package from Debian package source when the source stems from somewhere else.
 
-Because I think this is the main use:  Grab a package from some existing Debian etc. distro and implant it into some older or other (Debian based) system.
+Because I think this is the main use:  Grab a package from some existing Debian etc. distro and implant it into some older or other (Debian based) system.  Or checkout an existing Debian package from `git` and compile it.
 
