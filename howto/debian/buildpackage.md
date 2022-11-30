@@ -29,12 +29,21 @@ If the source is not available through `apt` but in `git` instead:
 
 	git clone -b master https://github.com/hilbix/mosh.git
 	cd mosh
-	gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch -S
+	gbp buildpackage --git-debian-branch=master --git-upstream-branch=master --git-upstream-tree=branch -S
 
-> You can build the package including source, too, but with some other options:
+> Be sure that:
 >
->     gbp buildpackage --git-upstream-branch=master --git-upstream-tree=branch
-
+> - If you are on another branch than `master`, then edit both entries (`--git-debian-branch=master` is the default)
+> - Your `debian/changelog` is set correctly, in that case the first line must start with `mosh (`
+> - Your directory is clean as in `st="$(git status --porcellain)" && [ -z "$st" ] && git clean -f -d -x`
+> - If building the source fails for some reason, try to do `rm -f ../mosh_*` to remove the wrong source
+> - be aware that **this is not the recommended way** of doing it with Debian, but it should work for you
+>
+> You can build the package including source, too, if you leave away the `-S`
+>
+>     gbp buildpackage --git-debian-branch=master --git-upstream-branch=master --git-upstream-tree=branch
+>
+> Note that AFAICS this will ignore your `~/.devscripts` as this does not use `debuild`.
 
 Then transfer to some destination you need the missing package, and fix the errors until following succeeds:
 
