@@ -22,22 +22,35 @@ Prepare the destination to build from source:
 
 On some trusted current environment, fetch the existing package:
 
-	apt source PACKAGE
-	cd PACKAGE-VERSION
+	PACKAGE=bup
+	VERSION=0.32
+	apt source "$PACKAGE=$VERSION"
+	cd "$PACKAGE-$VERSION"
+
+> List availables versions use: `apt-cache policy $PACKAGE`
 
 If the source is not available through `apt` but in `git` instead:
 
-	git clone -b master https://github.com/hilbix/mosh.git
-	cd mosh
-	gbp buildpackage --git-debian-branch=master --git-upstream-branch=master --git-upstream-tree=branch -S
+	REPO=https://github.com/mobile-shell
+	PACKAGE=mosh
+	VERSION=1.4.0-1
 
-> Be sure that:
+	git clone -b master "$REPO/$PACKAGE.git"
+	cd "$PACKAGE"
+	BRANCH="$(git rev-parse --abbrev-ref HEAD)" || exit
+	rm -f ../"$PACKAGE"_*
+	gbp buildpackage --git-debian-branch="$BRANCH" --git-upstream-branch="$BRANCH" --git-upstream-tree=branch -S
+
+> From `git` often you will get improper "Quilt" sources.  This is, the version is not native Debian (contains a `-`)
+> but does not contain the patches in `debian/patches` but in `git` instead.  We could fix that, but this is complex.
+> Hence above does not meet the Debian standard for proper packaging!
+> 
+>  Be sure to:
 >
-> - If you are on another branch than `master`, then edit both entries (`--git-debian-branch=master` is the default)
-> - Your `debian/changelog` is set correctly, in that case the first line must start with `mosh (`
-> - Your directory is clean as in `st="$(git status --porcellain)" && [ -z "$st" ] && git clean -f -d -x`
-> - If building the source fails for some reason, try to do `rm -f ../mosh_*` to remove the wrong source
-> - be aware that **this is not the recommended way** of doing it with Debian, but it should work for you
+> - be aware that **this does not create a correct **`../$PACKAGE_*.tar.gz`**.  But it should work for non-source builds.
+> - set `debian/changelog` correctly.  The first line of `changelog` must start with `$PACKAGE ($VERSION) ` (here: `mosh (1.4.0-1) `)
+> - have a clean worktree as in `st="$(git status --porcelain)" && [ -z "$st" ] && git clean -ifdx`
+> - If building the source, this fails for some reason, try to do `rm -f ../${PACKAGE}_*` to remove the wrong source
 >
 > You can build the package including source, too, if you leave away the `-S`
 >
@@ -52,6 +65,9 @@ Then transfer to some destination you need the missing package, and fix the erro
 
 
 ## Example 1: `bup`
+
+	PACKAGE=bup
+	VERSION=0.32
 
 - You have Ubuntu 20.04 LTS
 - You want [`bup`](https://github.com/bup/bup) on this
@@ -271,6 +287,10 @@ Just install what you want:
 
 ## Example 2: `mosh`
 
+	REPO=https://github.com/mobile-shell
+	PACKAGE=mosh
+	VERSION=1.4.0-1
+
 - You want to install newer version or a patched version of `mosh`
 - `mosh` comes from <https://github.com/mobile-shell/mosh>
 - Luckily, there already is a `debian/` subdirectory
@@ -290,6 +310,8 @@ This essentially runs following (as usually you won't have this shell script):
 
 This creates the needed sources, like `apt source` did, so you can use above recipe.
 
+> If this fails, be sure there is no wrong source: `rm -if ../mosh_*`
+
 Note that there also is
 
 	./build-package.sh
@@ -304,7 +326,7 @@ Also note that this only works if the build tree is absolutely clean.  So to run
 
 > **WARNING!** Following wipes everything which is not checked into `git`!
 
-	git clean -x -f
+	git clean -i -xfd
 
 
 
