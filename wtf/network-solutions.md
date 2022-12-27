@@ -16,7 +16,8 @@ meiden Best Practice wie sonst nichts (jedenfalls effizienter als der Teufel das
 
 
 > Catchphrase: NSI, das Symantec der Registrare ..  
-> (Ach ja, stimmt ja, Symantec hatte die auch schon mal gekauft, glaube ich.)
+> (Ach ja, stimmt ja, Symantec hatte die auch schon mal gekauft, glaube ich.)  
+> (Mööp, falsch.  Verisign kaufte NSI um 2000, Symantec kaufte Verisign um 2010.  NSI war da aber schon veräußert.)
 
 
 ## 2022-12-27 frohe Weihnachten auch!
