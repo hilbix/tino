@@ -8,7 +8,8 @@ I really do not understand.  Why is it so complex to explain things?  Or is it o
 
 - `K` show `man` of the word under the cursor
 
-Also read: https://stackoverflow.com/a/1220118/490291
+Also read: <https://stackoverflow.com/a/1220118/490291>
+
 
 ## VIM modeline
 
@@ -18,19 +19,32 @@ Also read: https://stackoverflow.com/a/1220118/490291
 - `:help index` complete keyboard map is in the complete help
 - `:set modeline` to enable modeline, see example `.vimrc`
 
+
 ## `.vimrc`
 
-Here is [my somewhat current `.vimrc`](.vimrc)
+Here is [my somewhat current `.vimrc`](../../../../fix/blob/master/home/vimrc)
+
+> **NEVER TRUST STRANGERS (like me)!**  
+> Always clone, then check and only use your safe copy if everything is sound.  
+> **YOU HAVE BEEN WARNED!**
 
 Install it like this:
 
-	"git" clone https://github.com/hilbix/tino.git "$HOME/git/tino-rants/"
-	"ln" --symbolic --backup=t --relative "$HOME/git/tino-rants/howto/.vimrc" "$HOME/.vimrc"
+	"git" clone https://github.com/hilbix/fix.git "$HOME/git/tino-fix/"
+        "ln" --symbolic --backup=t --relative "$HOME/git/tino-fix/home/vimrc" "$HOME/.vimrc"
+
+or if you dare:
+
+	git clone https://github.com/hilbix/fix.git "$HOME/git/tino-fix/"
+	make -C "$HOME/git/tino-fix"
 
 
 ## errorformat
 
-> In Quick: [see script `python3vim.sh`](python3vim.sh)
+> In Quick: see scripts
+> - [`bash2vim.sh`](../../../../fix/blob/master/bin/bash2vim.sh)
+> - [`node2vim.sh`](../../../../fix/blob/master/bin/node2vim.sh)
+> - [`python3vim.sh`](../../../../fix/blob/master/bin/python3vim.sh)
 >
 > To your `~/.vimrc` add following two lines:
 >
@@ -44,11 +58,13 @@ Install it like this:
 >
 > If you press `M` in `vim` (in normal mode) this quickly jumps to the first reported error.
 >
-> Example `Makefile` using [python3vim.sh](python3vim.sh) to `make love`:
+> Example `Makefile` using [python3vim.sh](../../../../fix/blob/master/bin/python3vim.sh) to `make love`:
 >
 >     .PHONY:	love
 >     love:
 >     	python3vim.sh ./script.py
+>
+> Note that there are TAB characters in it!  Depending on your Browser and GitHub your Clipboard might pick them up or not.
 
 Errorformat comes very handy if you work with `vim`.  For example if you have following in your `.vimrc`
 
