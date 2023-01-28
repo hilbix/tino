@@ -116,3 +116,5 @@
   - Also überzeugen mittels guter und nachweisbar richtiger Argumente.
   - Oder überzeugen mittels brutalster Misshandlung.
   - Alles andere überzeugt mich einfach nicht.
+
+- 2023-01-28 Das Zeichen von Irrsinn ist, etwas immer wieder zu versuchen und ein anderes Ergebnis zu erwarten. Artikel zu editieren habe ich in den ersten 10 Jahren des Bestehens der Wikipedia mehrfach versucht (über 10 Mal). Kein einziger Versuch war auch nur irgendwie im Ansatz erfolgreich. Nicht einmal bei der Korrektur von Tippfehlern. Deshalb beschränke ich meine Beiträge seitdem auf die Diskussion.
