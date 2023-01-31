@@ -8,6 +8,8 @@ Details I should explain, need to understand, find out, etc.
   - [ ] first print
   - [ ] Filament-Buffer
   - [ ] Gear Removal Tool
+- Misc
+  - [ ] No Time Lap Videos on internal models
 - Glossary
   - [ ] Filament-Typen
   - [ ] Filament-Buffer
