@@ -4,7 +4,7 @@ All I know is how to do Computer (like Administration and Programming), Network 
 This here is, where I combine all the bits an pieces I had to put together to get started with the BambuLab X1 Carbon Combo.
 
 
-# BambuLab X1 Carbon Combo WTFAQ
+# This here is somewhat like a BambuLab X1 Carbon Combo WTFAQ
 
 I bought the BambuLab X1 Carbon Combo which is extremely expensive compared to other 3D printers.
 
