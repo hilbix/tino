@@ -1,6 +1,6 @@
 # BambuLab X1 Carbon Combo WTFAQ
 
-## Nur für englischsprachige Nutzer die die Dokumentation lesen und deren Fehler mit Köpfchen umschiffen
+## Der X1 ist nur etwas für englischsprachige Nutzer die die Dokumentation lesen und deren Fehler mit Köpfchen umschiffen
 
 Derzeit (Januar 2023) halte ich es für absolut unmöglich, den 3D-Drucker BambuLab X1 zu betreiben, wenn man Englisch nicht gut versteht.
 
