@@ -3,6 +3,32 @@ All I know is how to do Computer (like Administration and Programming), Network 
 
 This here is, where I combine all the bits an pieces I had to put together to get started with the BambuLab X1 Carbon Combo.
 
+# German warning
+
+I am German and my native language is German, too.
+
+**But do not operate the X1 in another language than English for now.**
+
+- The English documentation already sucks.  
+- But the parts which are transated into German are in a far worse condition!
+  - Some of the translations do not even make any sense!
+
+So to run the X1, you need to use the English setting.  (Perhaps Chinese is ok, too, but I cannot read Chinese.)
+
+> My error was to set the German language.  For the Printer.  And Bambu Studio.
+
+# Linux warning
+
+> I cannot speak for MacOS or Apple parts, as I am Linux, Android, Windows only.
+
+**The X1 is not for Linux for now.**  I did not find any information how to use it properly with Linux.
+
+So here is what I use:
+
+- `Bambu Handy` App on Android 11
+- `Bambu Studio` App on Windows 11
+- 2.4 GHy wLAN for connectivity to the printer
+
 
 # This here is my BambuLab X1 Carbon Combo WTFAQ
 
