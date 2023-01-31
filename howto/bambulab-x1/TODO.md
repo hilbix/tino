@@ -5,22 +5,22 @@
 Details I should explain, need to understand, find out, etc.
 
 - Getting started
-  - first print
-  - Filament-Buffer
-  - Gear Removal Tool
+  - [ ] first print
+  - [ ] Filament-Buffer
+  - [ ] Gear Removal Tool
 - Glossary
-  - Filament-Typen
-  - Filament-Buffer
-  - Teile eines 3D-Printers
+  - [ ] Filament-Typen
+  - [ ] Filament-Buffer
+  - [ ] Teile eines 3D-Printers
 - Software
-  - Slicer
-  - Cloudzwang
-  - FTP
+  - [ ] Slicer
+  - [ ] Cloudzwang
+  - [ ] FTP
 - Drucken
-  - Druckbetten
-  - Reinigung
+  - [ ] Druckbetten
+  - [ ] Reinigung
 - Materialien
-  - Was man wirklich braucht
+  - [ ] Was man wirklich braucht
 - Kosten
-  - Stromverbrauch
-  - Filament
+  - [ ] Stromverbrauch
+  - [ ] Filament
