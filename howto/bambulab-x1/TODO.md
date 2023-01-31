@@ -6,7 +6,7 @@ Details I should explain, need to understand, find out, etc.
 
 - Getting started
   - [ ] first print
-  - [ ] Filament-Buffer
+  - [x] Filament-Buffer
   - [ ] Gear Removal Tool
 - Misc
   - [ ] No Time Lap Videos on internal models
