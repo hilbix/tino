@@ -21,6 +21,7 @@ Die Dokumentation in Englisch ist in einem mehr als nur desolaten Zustand.
 - Viele mögliche (aus meiner Sicht sogar die meisten) Fragen werden nicht oder teils sogar falsch beantwortet.
 - Ohne eine ausführliche Recherche im Internet sind einige Schritte nicht zu bewältigen
 - Wichtige Details sind, wenn sie überhaupt beschrieben sind, so unscheinbar erwähnt, dass man sie gerne übersieht.
+- Die Handy-App (Android) ist derzeit nur in Englisch bzw. Chinesisch.
 
 usw.
 
@@ -32,13 +33,14 @@ aber kann leider auch nich versprechen, dass meine Angaben
 - leicht verständlich
 - auf Deutsch
 
-sind.  Das meiste, was ich hier reintippe ist aus dem Gedächtnis.
+sind.  Das meiste, was ich hier reintippe ist außerdem aus dem Gedächtnis.
 
-Da der BambuLab aus meiner Sicht nur in Englisch betrieben werden kann,
+Da der X1 aus meiner Sicht nur in Englisch betrieben werden kann,
 bedeutet das, dass ich mich immer nur auf die Englische Benutzerführung usw. beziehe
 und alle anderen Seiten auf Englisch halte.
 
 Sofern es sich nur auf "Deutsch" bezieht, befindet es sich auf dieser Seite.
+
 
 ## WTFAQ
 
