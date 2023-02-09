@@ -142,7 +142,7 @@ However, as usual, you cannot see what is going on behind the scenes.
 
 ## Windows 11
 
-Sorry, I did not manage to get it working.  It always fails.
+> Sorry, I did not manage to get it working.  It still fails with code 0x80070043
 
 Things done:
 
