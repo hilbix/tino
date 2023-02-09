@@ -5,7 +5,7 @@ WebDAV is a filesystem which works with many clients.
 > But I did not manage to get it running with Windows 11
 
 
-## Server with SVN
+## Linux Server with SVN
 
 There is some interesting package:
 
@@ -147,7 +147,7 @@ Sorry, I did not manage to get it working.  It always fails.
 Things done:
 
 - Service "WebClient" crashed and needed a restart
-- `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters\BasicAuthLevel` is set to 2 already
+- `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters\BasicAuthLevel` is set to `2` already
 
 Still does not work.
 
@@ -162,21 +162,29 @@ For example:
 - Wat if connection break during the transfer etc.?
 - How to limit upload speed.
 
-And so on.  There should be some program/output which shows you the progress of the interface to WebDAV and kees you informed.
+And so on.  There should be some program/output which shows you the progress of the interface to WebDAV and keeps you informed.
 
 But there isn't.
+
+> Also zillions of such user processes should be able to run in parallel with distinct incompatible options, each,
+> without any requirement for the admin to approve all those mounts.
 
 So what I perhaps do:
 
 - Look for some suitable FUSE module in Python
-- Use that via WSL under Windows
+- Mount this into WSL under Windows
+- And let Windows access it from the outside
 
 Note that it might be because I want to run WebDAV with SVN without any credentials,
-and everything (including Windows) pretend that some must be there.
+and everything (including Windows) pretend that some authentication must be there.
 
 WTF why?
 
 I really do not get it.  This all is completely false sense of security.
+
+> If puzzled, read why Windows requires you to use SSL.  Because the password else is transmitted unencrypted.
+> Which is not needed at all if there is no password at all.  So this is the completely wrong way of reasoning!  
+> (If a password is in the way, the default should be to leave it away instead of requiring transport level encryption for just plain everything!  But if you are a nail, you must neglect the existence of screws .. or something like that.)
 
 **If you need access control, implement it on top of WebDAV, not below!**
 Authorization is good, but
