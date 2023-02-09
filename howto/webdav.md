@@ -190,6 +190,6 @@ I really do not get it.  This all is completely false sense of security.
 Authorization is good, but
 
 - it must stay an option
-- and it must work without builtin Authentication, too.
+- and it must work without re-inventing your own builtin Authentication, too.
 
 So for me the burden of builtin mandatory authentication as a requirement for WebDAV is a major Bug.
