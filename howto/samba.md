@@ -1,6 +1,7 @@
-# Short SAMBA howto
+# Public Writeable Data Store with Samba
 
 The steps to create a public writeable samba share is not straight forward.
+
 
 ## Install
 
