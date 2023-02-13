@@ -51,13 +51,16 @@ Well, in my Intranet I want to have a public writable file share.
 - No passwords
 - Writable over any standard
 
-This fileshare is backed by SVN base WebDAV.  SVN is able to bring back all files and all intermediate versions of a file.
+This fileshare is backed by SVN based WebDAV.  SVN is able to bring back all files and all intermediate versions of a file.
 
 > This is mainly not to protect against vandals, it is to protect against vandalism .. from software bugs.  But also vandals and similar.
 
 The problem is, that Windows apparently dislikes WebDAV (I did not get it to mount).  Hence I need another way.  This is Samba.
 
 > Perhaps this is because WebDAV is not served via HTTPS.  I am in my Intranet.  I do not need encryption or trust.
+> 
+> Or official Certificates.  Because Windows rejects non-official certificates.
+> (You can add your own Trust-Root to the cert storem, but this is like opening a can of worms, and detect, that it was Pandora's box instead!)
 
 This way it works as follows:
 
