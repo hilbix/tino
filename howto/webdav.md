@@ -17,6 +17,17 @@ The interesting part here is, that it comes with Autoversioning.
 
 Hence even if it is anonymously writable, no harm can be done as I always have the full history.
 
+
+### Notes
+
+If you have some proxies in front of Apache, be sure to configure big enough data sizes to allow WebDAV-Clients to store bigger files.
+
+- NginX needs something like `client_max_body_size 1G;`
+  - It can go in the top of your file in `/etc/nginx/sites-enabled/`, right before `server {`.
+- According to the Apache Manual `The "normal" LimitRequestBody directive has no effect on DAV requests.`
+  - Hence you do not need to change anything in Apache itself
+
+
 ### Apache
 
 > This is not really complete
