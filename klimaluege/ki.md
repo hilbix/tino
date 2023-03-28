@@ -167,4 +167,145 @@ Ab jetzt kommt die KI ins Spiel.
 
 ### 2040
 
-T.B.D.
+Wie sieht dasselbe Szenario im Jahr 2040 aus?
+
+Der Grafiker wird am Sonntagabend um 20:00 Uhr angerufen, dass morgen um 9:00 Uhr beim Meeting ein erster Entwurf für die Brochure erwartet wird.
+
+Kein Problem.  Der Grafiker arbeite inzwischen von Zuhause.  Nach 3 Stunden KI-gestützter Recherche hat er bereits
+einen ersten Entwurf der Brocure fertig.  Zur Sicherheit erzeugt er noch 2 weitere Varianten.  Auf seinem 3D-Drucker
+zuhause druckt er die Mappen aus, passend zu der vom Kunden vermutlich gewünschen Haptik, und geht dann gegen 2 Uhr ins Bett.
+
+Zum Meeting ist er dann rechtzeitig wieder Online.  Entsprechende Änderungen werden besprochen.
+Dabei ändert sich das gesamte Konzept.  Außerdem wird bei dem Meeting der Text weitgehend finalisiert.
+Auch dies geschieht wieder mit der Hilfe von KIs.
+
+Am Nachmittag hat der Grafiker die Änderungen eingearbeitet.  Das Meeting verläuft positiv, der Kunde ist soweit zufrieden.
+
+In der Nacht laufen dann die entsprechenden KI-basierten Acceptance-Tests bei den gewünschten Zielgruppen ab.
+Das ergebnis wird am nächsten Tag beim vormittaglichen Meeting besprochen.  Die Änderungen müssen entsprechend
+eingearbeitet werden.  Was der Grafiker wiederum bis zum Nachmittag erledigt.  Anschließend wiederum die Acceptance-Tests.
+
+Am Mittwoch gibt es nur noch minimale Änderungen.  Neben der KI-basierten Studien wurden auch vereinzelte haptische
+Tests gemacht, was nochmals das Material und etwas die Farbgebung beeinflusst.  Wenig Arbeit für den Grafiker,
+der die Zeit in den Feinschliff der Bruchuren steckt.  Wie immer gibt es 3 leicht abweichende Varianten,
+von denen noch keine finalisiert ist, hinzu kommt die semiautomatische Übersetzung der Brochuren in die
+Hauptzielsprachen der Welt.  Am Nachmittag wird dann die voraussichtliche Brochurenvariante ausgewählt,
+auf die dann die "echten" Zielgruppentests angewendet wird.  Dies geschieht parallel in verschiedenen Regionen der
+Welt durch spezialisierte Abteilungen beim Kunden.
+
+Am Donnerstag Abend sind diese schnellen Tests abgeschlossen und die vorläifigen Ergebnisse ausgewertet.
+Der Kunde gibt grünes Licht für eine der Brochuren.
+
+Am Freitag finalisiert der Grafiker dann nochmals die Mappe, stimmt alles mit dem Kunden ab und schickt
+die fertigen Druckunterlagen an den Kunden.  Die Mappen werden nicht mehr normal gedruckt, sondern
+on-Demand in den entsprechenden Offices gedruckt wenn sie gebraucht werden.
+
+All dies geschieht immer in Begleitung von entsprechenden Cloud-basierten KIs, anders wäre die Geschwindigkeit
+gar nicht zu erreichen.
+
+Aber: Kein Arbeitsplatz mehr, alles geht in elektronischer Form, Print on-Demand, klingt doch gut für den Fußabdruck!
+
+Im Gegenteil.  Nicht nur der Grafiker hat einen Hochleistungsdrucker, der die Brochure in 3D und passender Haptik
+ausdrucken kann.  Ein ähnlicher Drucker steht beim Kunden.  Und all seinen Dependancen rund um die Welt.
+Überall dort wird die Mappe in vorläufiger Version mehrfach neu ausgedruckt.
+
+> Gegenüber dem früheren Offsetdruck ist außerdem der on-Demand Druck wesentlich ineffizienter
+> und erzeugt auch einen höheren Fußabdruck.  Aber das ist schlecht vergleichbar, da ja nur noch
+> gedruckt werden muss, was man wirklich braucht.
+> 
+> Aber dies wird in diesem Beispiel hier gar nicht mit-bewertet.
+> Denn es geht hier um den Fußabdruck des Vorgangs der Erstellung der Brochure.
+
+Insgesamt wird ein klitzekleinwenig Fußabdruck gegenüber 2020 eingespart.  Z.B. bei der Teilname an den Meetings.
+Dagegen steht aber der Energiehunger der cloudbasierten KIs, die hier tagelang genutzt wurden.
+
+KI ist nicht gleich KI.  Es gibt diverse KIs.
+
+Die KIs, die der Grafiker nutzt, arbeiten mit sprach- und grafikorientierten Modellen,
+dazu kommen die Datenarchive in denen sich das ursprüngliche Bildmaterial sowie
+Beschreibungen des Ressorts befindet.  Letztere fallen aber eher nicht mehr ins Gewicht.
+Die vom Grafiker genutzten KIs arbeiten mit einem enormen Aufwand in der Cloud,
+verwenden aber nur intermittierende Abfrageprozesse, denn sie müssen sich hier der
+Geschwindigkeit des Menschen anpassen.
+
+Technisch aber verbraucht das trotzdem eine enorme Menge an Energie, verglichen mit dem Energieverbrauch von 2020.
+
+Dazu kommen die KIs, die die Akzeptanztests für das Marketing simulieren.  Diese haben einen
+geringeren Aufwand als die KIs die der Grafiker nutzt, sind aber spezialisiert und lassen die
+Simulation mehrere Stunden in der Nacht laufen.  Der Ressourcenverbrauch hier ist nicht minderdrastisch.
+
+Und dazu kommen die vielen gedruckten Varianten sowie die wesentlich aufwendigere Technik,
+die der Grafiker unter anderem zuhause bereithält.
+
+Insgesmat schätze ich wiederum, dass der Fußabdruck sich gegenüber 2020 verdreifacht hat.  Für die Erstellung der Brochure.
+
+> Ich habe das konservativ gerechnet.  Tatsächlich gehe ich davon aus, dass die KIs den Stromverbrauch von
+> Bitcoin locker um das mehrfache in den Schatten stellen werden.  Oder anders gesagt:
+> Evtl. werden wir Elektroheizungen in Zukunft durch KI-Rechenknoten ersetzen,
+> so dass die gesamte Heizleistung des Planeten sozusagen als Abfallprodukt der KI angesehen werden kann.
+> Allerdings werden wir so nur ca. 10% der durch KIs hergestellten Heizleistung nutzen können,
+> da die KIs derart viel mehr Energie verwenden werden als wir an Wärme benötigen.
+
+Da der Grafiker in 3 Monaten jetzt bereits 12 Mappen erstellen kann errechnet sich also ein
+Environmentaler Fußabdruck von `3 * 3 * 12` gegenüber 1980, oder knapp einen Faktor von über 100.
+
+Und was ich hier für den Grafiker beschreibe ist ein recht typischer Fall bei vielen,
+wenn nicht sogar den meisten computergestützen Büro-Arbeitsplätzen.
+
+> Die kreativen Branchen sehen derzeit ja eine Gefahr für ihren Arbeitsplatz durch die KIs.
+> Ich denke allerdings, dass die Branche durch die KIs eine riesige Chance bei der Effizienzsteigerung haben wird.
+>
+> Für das Klima alleredings ist diese Auswirkung selbstredend verheerend.
+>
+> Wir haben also die Wahl:
+> - Entweder die Welt geht unter, weil die Leute durch KIs alle arbeitslos werden,
+> - oder die Welt geht unter, weil sie durch die KIs den Hitzetod erleidet.
+>
+> Wenn sich in den nöächsten Jahren in der Wirtschaft nicht deutlich etwas ändert gibt es keinen Mittelweg.
+> Die Frage ist nicht, ob der Untergang kommt, sondern nur welche der Varianten wir verursachen.
+
+
+## Die Klimalüge
+
+Im Jahr 2020 hatten wir nur den 10-fachen Fußabdruck gegenüber 19880 zu kompensieren.  Eine Aufgabe die
+uns bereits überfordern drüfte, aber noch im Rahmen bleibt.
+
+Im Jahr 2040 wird es bereits der 100-fache Fußabdruck gegenüber 1980 zu kompensieren sein.
+Dank KI.
+
+Und wie man sieht beschleunigt sich alles.  Der Faktor, der früher 40 Jahre dauerte, dauert dann nur noch 20 Jahre.
+
+> Wie es weitergeht weiß ich nicht.  Es ist eher unwahrscheinlich, dass das so weitergeht, also wir 2050 einen
+> Faktor von 1000 erwarten müssen.  Ich gehe davon aus, dass uns bereits der Faktor 100 ausreichend den
+> Garaus machen wird, so dass im günstigen Fall eine Änderung eintritt, im ungüstigen Fall der Zusammenbruch.
+
+## Fazit
+
+Die Gefahr, die von KIs ausgeht, liegen meineserachtens nicht dort, wo sie Stephen Hawking sah.
+
+Die Gefahr, die ich von KIs kommend sehe, ist ihr indirekter Einfluss auf unseren Arbeitsmarkt.
+
+- Einerseits werden die KIs die Effizienz der Büroabreiter ins unermessliche Steigern
+- Andererseits werden, wenn sich nichts ändert, die KIs dabei einen unermesslich hohen Energieverbrauch in Rechenzentren verursachen.
+
+In sofern muss ich etwas ändern.
+
+- Entweder der Energieverbrauch der KIs wird drastisch gesenkt - was ich eher für unwahrscheinlich halte -
+- oder der Einsatz von KIs wird limitiert - was ich ebenso für wenig wahrscheinlich halte -
+- oder der Arbeitsmarkt ändert sich freiwillig drastisch - was ich nicht glaube -
+- oder der Arbeitsmarkt ändert sich notgedrungen.
+
+Letzeres dürfte sein, was wir 2040 sehen werden.  Ob das ein Fluch oder ein Segen ist kann ich nicht sagen.
+
+Ob wir auf eine Massenarbeitslosigkeit zusteuern oder die wenige Arbeit, die noch bleibt, gerecht verteilen,
+das werden wir noch sehen.  Immer vorausgeseetzt, wir können ausreichend Energie für all die KIs bereitstellen.
+
+Oder wir bekämpfen lieber doch den Klimawandel und tun nicht nur so.  Anzeichen dafür kann ich aber nicht erkennen.
+
+Und das nenne ich die Klimalüge:
+
+- Ständig über das Klima zu reden,
+- überall so tun als täte man etwas
+- aber genau das Gegenteil in die Wege leiten.
+
+Die Entwicklung der KIs in der Zukunft ist nur eines der Beispiel dafür.
