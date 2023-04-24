@@ -1,5 +1,29 @@
 # Firefox Tricks
 
+## Unsolved
+
+### Let FF ESR stay aliave
+
+My FF ESR permanently crashes.  Even if completely idle.
+I am still looking for a solution.
+
+### Restore windows as they were after restart
+
+I have 5 virtual desktops on 3+ monitors.
+Chrome restores the windows and their position (nearly) perfectly
+(it just wrongly calculates their size, but not their position).
+
+However if FF restarts, it does not open the windows where they were,
+but instead somewhere else.   And where is completely unpredictable.
+
+
+## Disable Firefox Account
+
+	about:config?filter=identity.fxaccounts.enabled
+
+Toggle to `false`
+
+
 ## Use Web-Console
 
 In about:config you need to enable
