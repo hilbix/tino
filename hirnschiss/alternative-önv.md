@@ -16,6 +16,8 @@
 > Trotzdem haben wir ein riesen Schwein, dass China die akute Pandemie ausgebrütet hat.
 > Denn es hätte weit schlimmer kommen können, z. B. eine aus Hyderabad (Indien) ..
 
+Ach ja, siehe unten, das 49-EUR-Ticket verbessert nichts, es macht die Situation noch katastrophaler.
+
 
 # Hirnschiss ÖNV
 
@@ -529,3 +531,189 @@ sondern alleine mit dem Gefühl.  Denn so ist der Mensch.
 >
 > Nagut, wer wenig tippt hat das Problem nicht.  Bei mir kommen aber pro Monat einige millionen Tastenanschläge zusammen.
 > Das muss einfach jede Tastatur aushalten.  Egal für welchen Preis!
+
+
+## Auftritt 49-EUR-Ticket
+
+Jetzt haben wir es, das 49-EUR-Ticket.  Und alles wird gut ..
+
+.. nicht.
+
+Im Gegenteil.  Erstens ist das noch keine Dauereinrichtung, sondern wird in ein paar Jahren nochmals evaluiert.  Weil die Kosten und so.  Mächtig schwerer Fehler.
+
+Denn wer jetzt auf das 49-EUR-Ticket setzt kann in einigen Jahren dann komplett im Regen stehen.  Sieht so vernünftige Planung aus?
+
+Definitiv nicht.  Wer vernünftig plant, plant jetzt gerade erst recht ein Auto ein.  Wieso?  Weil das der Imperativ des gesunden Menschenverstandes ist.
+
+Wir haben es alle erlebt, die letzten Jahre, mit dem Hüh und dem Hott und dem Hin und dem Her und dem Shutdown oder nicht oder nur in Teilen und jeder wie er will und und und und und.
+
+> Nichts gegen den Lockdown!  Weil niemand wissen konnte ob der Lockdown notwendig ist oder nicht war **der Lockdown war richtig!**, auch und gerade wenn jetzt festegestellt wird, dass er teilweise unnötig war.  Oder auch nicht.  So genau weiß das noch niemand.  Es gibt zwar Studien zu Hauf, aber was genau davon auch noch in 10 Jahren Bestand haben wird oder sich in den nächsten Pandemien (wir brauchen noch 2-3 um das zu lernen!) als sinnvoll herausstellt oder nicht, das kann heute keiner Sagen, sondern wird das Ergebnis der zukünftigen Versuche sein!  
+> Wogegen ich mich wende ist nicht der Lockdown, sondern das drumherum.  Wie die Politiker rumeierten, wie sie ihr Fähnchen in den Wind hingen, ihre Meinung ständig dem Mainstream anpassten und dabei sogar neue orthogonale Winkel fanden um die sie sich mehrfach um 90 und 180 Grad drehen konnten.  Insbesondere unserer bayerischer Landesfürst sei hier erwähnt.  **Das, was die Politik da ablieferte, war eine Katastrophe weit schlimmer als COVID!** Denn diese Politikunfähigkeit ist leider auch endemisch, ganz wie Corona, aber im Unterschied zu Corona wird das mit der Politik deutlich mehr Tote produzieren als es Corona jemals könnte.  Und ja, ich meine das literal, weil **Menschen krepieren.  Das tun sie bereits heute, täglich, auf dem Mittelmehr.**  
+> Aber das ist ja typisch in der Menschheitsgeschichte: "Jegliche änderung basiert ausschließlich auf Massengräbern."  (Lies: Bevor die Anzahl der Toten nicht untragbar wurde, hat sich bisher noch niemals etwas geändert.  Manchmal auch dann nicht.)
+
+Und jetzt kommt das 49-EUR-Ticket.
+
+- total teuer (9 EUR fand ich schon grenszwertig)
+- total umständlich (Abo-Modell)
+- total unbrauchbar (Fahrad/Rollermitnahme?  Familien?)
+- total unbenutzbar (Landbevölkerung.  Strecken.  Nahverkehr unmöglich gemacht)
+- total kinderfeindlich (Familien mit mehreren Kindern können sich für die Kinder kein eigenes Ticket leisten)
+- total menschenfeindlich (Behinderte)
+
+Würde ich auf das Ticket umsteigen?  Unwahrscheinlich.  Nicht einmal dann wenn ich mir kein Auto leisten kann.  Weil wenn ich mir kein Auto leisten kann, kann ich mir auch keine 49 EUR pro Monat leisten.
+
+Mal ein paar Details:
+
+- Dort, wo keine Nahverkehrsverbindungen vorhanden sind, also der Nahverkehr durch Fernzüge abgebildet wird, darf man mit Nahverkehrstickets fahren, aber nicht mit dem 49-EUR-Ticket
+- Familien, die mit Familentickets unterwegs sind, fahren deutlich günstiger mit einem Nahverkehrsticket als mit dem 49-EUR-Ticket, da jeder über 6 Jahren ein solches braucht, für Familien aber oft ein einziges Ticket ausreicht.  Haben die Eltern also beide ein 49-EUR-Ticket und wollen mit ihren Kindern mal einen Ausflug machen, kostet das extra, da die Kinder mit ihren Schülerkarten ja nicht mitfahren dürften und 49 EUR für 3 Kinder einfach zu teuer wird, da ist ein Nachverkehrticket für 50 EUR das die Eltern und die Kinder abbildet deutlich billiger.  **Kinderfeindliches Detuschland**, anders kann man das nicht bezeichnen.
+- Das Ticket gilt nur für den Nahverkehr.  Wer also vom Süden in den Norden möchte ist mehr als 24h unterwegs.  Mit dem Auto kein Problem, aber was ist mit Leuten die öfters pendeln müssen?  Wie sollen die bitte umsteigen?
+- Es ist nicht geregelt, wie man Fahrräder, Roller oder Kinderwägen mitnehmen kann.
+- Es ist nicht einmal geregelt, dass man überall Scooter mitgnehmen kann (das sind die per Akku angetriebenen Teile von Senioren und ggf. Behinderten).
+
+Es mag ja so sein, dass das alles "Ausnahmefälle" sind.  Familien mit Kindern sind ja tatsächlich die Ausnahme.  Aber sollten sie das auch von staats-wegen sein?  Ich denke nicht!  Familien mit Kindern muss die Teilhabe erleichtert werden, denn Kinder sind es, die unsere Rente finanzieren werden müssen.  **Menschen ohne Kinder sind somit schmarotzer, die der Staat abstrafen müsste!**  Aber genau das Gegenteil geschieht!  Genauso wie die "Ausnahmefälle".  Es fehlt nicht viel und jeder gehört der einen oder anderen Ausnahme an.  Nein, so wird das nicht.  Wir brauchen eine holistische Herangehenweise, ohne Ausnahmen, so dass jeder Bürger gleich behandelt wird.  Steht auch so mi GG.  Aber nee, "Herkunft" ist nicht der Wohnort und "Abstammung" meint nicht Familie.  Ja, was denn sonst?
+
+Wer wird im Nahverkehr denn benachteiligt?  Na, z.B. Leute mit Kinderwägen.  Oder Behinderte.  Im Bevörderungsgesetz steht, dass diese nicht zusteigen dürfen, wenn die entsprechenden dafür vorgesehenen Freiflächen anderweitig belegt sind.  Ein Nichtbehinderter dürfte in der gleichen Situation aber zusteigen.  **Das ist keine Gleichbehandlung sondern klipp und klare nicht wegdiskutierbare Diskriminierung!**  ÖPNV, heute, live und in Farbe.  (Was da zu tun ist?  Na, dennen muss dann ein Taxi gestellt werden!  Oh ja, die Kosten.  Klar doch, Menschenrecht darf ja nichts kosten.  Sieht man wie gut das mit dem echt auf Leben, täglich im Mittelmeer.)
+
+### Zwischenfazit
+
+Ohne eine entsprechende **Beförderungspflicht** im Zusammenhang mit dem 49-EUR-Ticket in dem bundesweit klipp und klar die Regeln festgeschrieben werden was man mitnehmen können muss, ist dieses Ticket lediglich ein äußerst schwacher Anfang.  Es kommt nur denjenigen zugute, die
+
+- zufällig in einem Ballungsgebit mit ordentlichem ÖPNV wohnen und das Ticket brauchen
+- die sich sonst nichts leisten können
+
+### Aber
+
+Tatsächlich wird die Situation oftmals verschlimmbessert.
+
+Beispiel Job-Ticket:
+
+Bisher konnte der Arbeitnehmer damit pendeln.  Außerhalb der Zeit aber konnte er oft seine Familie oder Freunde mitnehmen.  Das ändert sich nun wenn der Arbeitgeber dieses auf das 49-EUR-Ticket umstellt.  Zwar kann der Arbeitnehmer dann deutschlandweit fahren, das nutzt ihm aber nur, wenn er absolut alleine wohnt und niemals auch nur Gruppenausflüge machen will.  Oder anders gesagt:  Er muss sich ein Auto zulegen um wieder dieselben Möglichkeiten zu haben.  Evtl. fährt er sogar mit Pendlerpauschale usw. dann billiger ..
+
+Beispiel Pendlerticket:
+
+Man hat nun die Wahl.  Das alte Nahverkehrsticket oder das 49-EUR-Ticket.  Ist doch gut, oder?  Mit dem 49-EUR-Ticket spart man, hat aber halt kleinere Einschränkungen (siehe Jobticket), oder man bleibt beim Nahverkehrsticket.
+Äh, kleiner Denkfehler hier.  Während das 49-EUR-Ticket seinen festen Preis hat, ist das beim Nahverkehrsticket nicht so.  Die regulären Ticketpreise sind in den letzten Jahren geradezu explodiert.  Und das werden sie weiterhin tun!  Denn diese Preise sind ja die Rechtfertigung für den Zuschuss.  Also wer jetzt glaubt, dass sich irgendwas im ÖPNV verbessern würde wegen 49-EUR-Ticket, der irrt gewaltig.  Erst einmal wird es schlechter.  Dann noch viel teurer.  Und dann, so um 2035, wenn dann das 49-EUR-Ticket noch existiert, erst dann kann es besser werden.
+
+Warum?  Na, fragt einfach mal nach!  Alles, was bis 2025 geplant war, wurde bis 2035 verschoben.  Und alles, was bis 2040 geplant war, ist schon bis 2075 verschoben (oder so.  Ich lamentiere das aus dem Kopf, die genauen Jahreszahlen können abweichen, der Kontext stimmt aber leider).  Warum?  Mangel!  Das, was wir brauchen, um das bereitzustellen, was wir brauchen, das kann früher nicht bereitgestellt werden.  Lies:  Wir schaffen nicht einmal in absehbarer Zeit die Voraussetzung dafür zu schaffen, um umzusetzen, was heute notwendig wäre!  Und wenn man jetzt der FDP glaubt, wird der Markt das regeln.  Angebot und Nachfrage.  Wir wissen, was das für die Preise bedeutet.  (Spoiler:  Nachbrenner für die Preisexplosion)  Außerdem, weiß keiner ob die Planungen auf Basis des Prinzip Hoffnung überhaupt realistisch sind.
+
+Beispiel Umsteiger:
+
+Wenn ich einen Servicetermin in München habe, kostet mich das Ticket dahin, hin und zurück, ca. 30 EUR.  Wenn ich also einen einzigen Termin alle Jubeljahre habe, lohnt isch das 49-EUR-Ticket nicht.
+Aber das tut es auch nicht, wenn ich 2 solche Termine binnen eines Monats habe.  Das ist komplett logisch.
+Denn die Vorarbeit für das 49-EUR-Ticket ist enorm.  Ich muss es erst beantragen, kann es also nicht erst kurz vor Fahrtantritt beantragen.  Oft weiß ich aber 1h vor Fahrtantritt noch gar nicht, dass ich einen Termin habe!
+Das ist die moderne Arbeitswelt.  Es ergibt sich etwas, und dann muss man reagieren können.
+
+Also bleibt beim ersten Mal nur das Auto.  Beim zweiten Mal könnte man mit der Bahn fahren, aber das ist zu teuer.  Das Dritte Mal aber ist evtl. bereits zu spät, d. h. ich kann nicht jetzt das Ticket beantragen, dann beim 2. Mal damit fahren und beim 3. Mal, weil es da schon abgelaufen ist (das Abo-Modell macht die Sache auch noch komplizierter, aber nur geringfügig).  Dazu kommt dass sich Termine gerne verschieben, also weiß ich gar nicht, ob sich das Ticket lohnt.
+
+Fahre ich also mit der Bahn?  Auf kurzer Strecke nur, wenn ich wo hin muss, wo ich nicht parken kann (das ist seltener als selten der Fall), oder wo ich schneller mit der Bahn bin als mit dem Auto (das ist z.B. der Fall wenn ich ins Zentrum von München muss.  Wobei, ich fahre dann mit dem Auto zum ersten Bahnhof, weil ich da gut parken kann und der Bus über 20 Minuten länger braucht, ohne Wartezeit.  Immerhin, wenn alles pünktlich ist, fährt der Zug 5 Minuten nach dem Bus.  Wenn.  Besser ich gucke auf die Verspätungsanzeige vom Zug und fahre mit dem Auto passend los).
+
+Auf langer Strecke kann ich sowieso das 49-EUR-Ticket nicht nutzen.  Da hangle ich mich halt von Schnellladesäule zu Schnellladesäule (ich habe ein Elektroauto, das in 25 Minuten ca. 150 km mit Autobahngeschwindigkeit nachladen kann, das reicht so bis zur übernächsten Schnellladesäule, ich schaffe so mit Zwischenhalt eine Durschschnittsgeschwindigkeit knapp über 90, und wenn ich mit vollem Akku losfahre und leer ankommen kann werden es so sogar 100km/h.  Ja, das ist nicht üppig, mit meinem A2 schaffte ich 150km/h, aber hey, ich werde auch älter).  Strecken bis 400 km sind so gar kein Problem (einmal Zwischenladen), aber ich käme auch recht zügig quer durch Deutschland.  Tür zu tür meist etwa in der halben Zeit, die ich mit dem ÖPNV bräuchte, Staus und Laden eingerechnet, und freilich verglichen mit teurem Fernverkehr.  Per Nahverkehr wären es eher Faktor 3 bis 4.
+
+Bräuchte der ÖPNV, Tür zu Tür gerechnet, nur maximal doppelt so lange wie mit dem Auto, wäre genauso flexibel (ich kann also immer jede Form Gepäck mitnehmen das auch in mein Auto passt) und fährt häufig genug damit man spontan los kann (und das ist bei mir manchmal Sonntag Nacht), und wäre dann dem Bequemlichkeits- und Zeitverlust finanziell angemessen (kostet also nur halb soviel wie ein Auto) dann könnte ich - vielleicht - umsteigen.
+
+Tagsüber an Wochentagen fährt bei mir der Bus alle 30 Minuten.  Das ist fast schon ausreichend für einen Umstieg.  Aber an Feiertagen und Sonntagen und vor allem Nachts ist das untragbar.  Da gibt es Lücken von 3-4h.  Das macht die Nutzung unmöglich.  1h ist schon mehr als grenzwertig.  Also tagsüber 20 Minunten und nachts 30 Minuten, damit könnte ich mich anfreunden.  Aber dann bitte nicht nur hier bei mir, in dem Tal der Glückseligen, sondern bitte auch draußen hinter dem ADW, denn wenn ich dorthin muss, dann will ich auch dorthin fahren können.
+
+Und dann wäre da noch die Zukunft:
+
+> Ich schreibe dies alles bereits eingedenk der selbstfahrenden Fahrzeuge.  Von denen ich vermutlich sehr schnell
+> eines haben werde, weil ich dann bereits über 60 bin, und hey, das Unfallrisiko steigt dann.  
+> Gemeint sind nicht nur Selbstfahrer auf Autobahnen, sondern besonders innerorts und auf Landstraßen!
+> Diese müssen aber noch nicht vollautonom (Stufe 5) sein, also ohne Fahrer fahren können.
+> Sprich: Ich habe einen Führerschein, das Auto fährt aber die meiste Zeit selbst.
+
+Sobald PKW vollautonom unterwegs sein dürfen (WayMo kann das übrigens schon heute, darf es aber noch nicht.  Tesla kann das nicht einmal ansatzweise und wird das bis 2030 nicht können) ändert sich das mit dem ÖPNV drastisch.
+
+Das erwarte ich ab ca. 2040.
+
+Und genau das ist ein Problem.  Denkt einfach mal nach.  In den Ämtern sitzen keine Idioten.  Die wissen auch, was auf sie zukommt.  Das ist denen vermutlich deutlich klarer, als Journalisten oder allen anderen, die darüber schreiben (ja, selbst mir).
+
+Diese Beamten arbeiten nachhaltig.  Mit viel zu geringen Budgets.  Und haben einen Job zu erledigen.
+
+Genau das werden sie machen.  Den Job "erledigen".  Wenn eine Stadt nun so viele Busse ordert, wie sie brauchen, um ein sinnvolles Konzept des ÖPNV bis in die Ecken des Landkreises bereitzustellen, also inkl. Fahrern usw., dann kostet das die ein Vermögen.  Und welche Busse können sie kaufen?
+
+Umweltfreundliche Busse?  In welchen Stückzahlen?  Woher bitte kommen die auf einmal?  Batterieelektrisch scheidet aus, weil viel zu wenig Infrastruktur, um sie alle zu laden.  Erdgas (so wie in Augsburg, wo ich lebe)?  Möglich.  Aber dafür braucht es die Infrastruktur, die nur wenige Städte haben.  Und dann das Personal.
+
+Und das dann nur für die nächsten 15 bis 20 Jahre, denn dann wird sich alles komplett ändern.  In der Zwischenzeit kommen vermutlich auch Flugtaxis auf.  Das sind quasiautonom fliegende Passagierkabinen.  Hört sich teuer an, ist es aber ganz und gar nicht.  Denn ohne Pilot lässt sich solch eine Flotte günstig remote managen.  Und viel teurer als der Betrieb eines (heutigen Verbrenner-)Taxis ist das auch nicht, eher günstiger, da es weniger Unfälle, Ausfälle und Wartung geben wird.  Dagegen stehen die BEV-Taxis, die deutlich höhere Standzeiten haben, weil sie laden müssen. Laden während warten ist nicht, dafür existiert nicht einmal ein Konzept.  Ganz anders bei autonomen Flugtaxis, die regeln das selbst, irgendwo auf der grünen Wiese, denn sie breuchen keine Straße dahin.
+
+Also, was sollen die Städte bitte machen?  Ihren ÖPNV ausbauen und dann in 20 Jahren verschrotten?
+
+In der Stadt mit Straßenbahnen ist das etwas vollkommen anderes.  Oder wenn die Stadt schon die Infrastruktur hat (Erdgasbusse, etc.) die man (ab-)nutzen kann.  Aber eine Infrastruktur heute aufzubauen um sie dann in 20 Jahren wieder langsam in die Tonne zu klopfen, das ist nicht sinnvoll.  Solge Maßnahmen müssen längerfristig laufen!
+
+Bleiben also nur vorübergehende normale Busse.  Die dann vermutlich dieseln.  Leicht hybridisiert.  Aber sonst nix.
+Und in 20 Jahren sind die immer noch kein Alteisen, aber das geht gerade noch so.
+
+Und wieviele schafft man sich an?  Sicher nicht genug.  Das lohnt nicht.  SOndern gerade so viele, dass es gerade noch so geht.  Also zu wenige für einen ÖPNV, wie es die Leute brauchen, die umsteigen könnten, wenn das Angebot wirklich für sie nutzbar wäre.
+
+Allgemein:
+
+Ja, natürlich wird das 49-EUR-Ticket langsam die Leute zum Umstieg bewegen.  Das würde aber auch ohne passieren, nur etwas, aber nicht bedeutend, langsamer.
+
+Für einen guten ÖPNV braucht es vor allem ein gutes Konzept.  Und das werden wir bekommen, dann, wenn autonome Fahrzeuge der Standard werden.  Was schneller passieren kann als man denkt.  Oder langsamer.  Hängt von der Zukunft ab.  Und niemand, wirklich niemand, kann hier heute schon verlässliche Informationen zu verkünden.  Es kommt so, wie es kommt.
+
+Wahrscheinlich ab 2040, würde ich sage.  Mit 60%.   Mit 10% früher.  Mit 20% später.  Mit 10% nie.
+Klar dürfte sein, das Verbrenner-Aus wird ab 2030 den Druck auf die Entwicklung autonomer Fahrzeuge erhöhen.
+Unabhängig, ob es da schon neue Batteriekonzepte mit Reichweiten um 1000 km gibt.
+
+Daran schuld sind die Laternenparker:
+
+- Leute, die sich kein teures Auto leisten können oder wollen
+- Die keinen eigenen Stellplatz haben
+- Und für die das dauernde Nachladen ein Problem darstellt
+
+Das dürften ca. 50% der Autokäufer sein.
+
+Klar könnten die umsteigen auf ÖPNV.  Aber dafür gibt es zu viele Hinderungsgründe:
+
+- Das Angebot vom ÖPNV wird genau dann wenn es gebraucht wird nicht mithalten, siehe Planung oben
+- Pendelzeiten, die sich durch den Umstieg mindestens verdoppeln, stehen dagegen
+- Die, die umsteigen können, haben das längst getan
+- Und die Autohersteller wollen Fahrzeuge verkaufen
+
+Gerade den letzten Punkt darf man nicht unterschätzen.  Keine Automobilfirma investiert 3-stellige Milliardenbeträge in die Umstrukturierung, um hinterher weniger Gewinn zu machen, weil der Absatz wegbricht.  Die Konkurrenzsituation ist auch unschlagbar gut:
+
+- Wieviel steckt der ÖPNV in die Werbung und Entwicklung neuer Produkte, verglichen mit der Automobilindustrie?
+- Und wer produziert eigentlich die Fahrzeuge für den ÖPNV auf der Straße?
+
+Bock, Gärtner, Schachmatt.  Der ÖPNV kann nur verlieren.  Außer die Politik macht Verhinderungsgesetze.
+
+Das wäre das erste Mal in Deutschland, dass eine Lobby, die so stark ist wie die der Automobilindustrie, sich nicht durchsetzen kann.  Sprich:  Es gibt überhaupt keine Frage, ob der ÖPNV jemals auch nur in die Konkurrenzsituation mit dem Automobil kommt!  Hierzulande unmöglich, selbst wenn man ihn kostenlos macht!  So etwas entspring allenfalls den feuchten Träumen irgendwelcher total verpeilter Umweltfanatiker.  Denn Fanatiker muss man sein, um die Realitäten zu leugnen.
+
+> Ich schreibe nur die traurige Wahrheit.  Denn deutlich mehr erfolgreiche Umweltfanatik täte diesem Planeten gut!  Wird nur nicht fruchten.  Kann nicht fruchten.  Dazu entwickelt sich die Menschheit zu träge.  Und dazu erzählt die Politik zu viel Lügen.  Über alles und jeden.  Und die Hofberichtserstattung unserer deutschen Presse tut ihr übriges.
+
+### Fazit
+
+Das 49-EUR-Ticket wirkt zwar wie ein kurzfristiger Booster, der aber auf lange Sicht die Situation des ÖPNV eher verschlechtert.  Wegen all dem, was die Zukunft bringt und nicht zuletzt wegen der leidigen Frage der Finanzierung.
+
+Es löst auch keine Probleme, außer derjenigen, die sich den ÖPNV gar nicht leisten könnten.  Das sind aber homöopatisch wenige.
+
+Das 49-EUR-Ticket ist zu teuer um als Geschenk an die arme Bevölkerung zu gelten.  Und auf dem Land verbessert sich auch nur wenig.  Einzig profitiert, wer schon heute ein Ticket hat, das teurer ist, und der mit den Einschränkungen des neuen Tickets leben kann.  Das dürfte ein Großteil der 49-EUR-Ticketkäufer ausmachen!
+
+Aufgrund des Preises können einige Leute jetzt früher umsteigen.  Das hätten sie in den meisten Fällen aber sowieso irgendwann tun müssen.  Diese Zahl wird selbstverständlich nicht herausgerechnet, und so wird das 49-EUR-Ticket als Selbstläufer um Erfolg gekrönt.  **Eine der herausragendsten Fähigkeiten des Menschen ist, sich selbst zu belügen.  Und was ihn vom Tier unterscheidet ist, dass er seine eigenen Lügen irgendwann wirklich glaubt!**
+
+Kurzfristig mag es deshalb erscheinen, dass das 40-EUR-Ticket etwas verbessert.
+
+Mittelfristig aber wird sich Ernüchterung einstellen, sofern man das zulässt.
+
+Und langfristig wird sich heraustellen, dass das 49-EUR-Ticket eher Nachteile provoziert hat als Vorteile.  So steigt z.B. die Ungleichbehandlung der Menschen in Stadt vs. Land (dort ist das 49-EUR-Ticket eben kein Ersatz für das Auto).
+
+### Ausblick
+
+Die Nachteile vom 49-EUR-Ticket kann man ausbügeln.
+
+- Indem man es dem normalen Nahverkehrsticket gleichstellt, also Familienmitnahme ermöglicht
+- Wenn der Nahverkehrszug verspätung hat muss das Ticket auch in Fernzügen auf gleicher Strecke gelten
+- Und das Fahren in Fernzügen, die den Nahverkehr bestreiten, muss ebenso erlaubt sein
+- Außerdem muss eine Beförderungsgarantie für Fahrräder, Roller, Kinderwägen, Scooter und Rollstühlen etc. hinzu kommen, um das deutschlandweite Chaos zu beseitigen
+- Die Mitnahme eines Haustiers pro Ticket sollte auch erlaubt sein - aber nur in der Form in der/sofern Haustiere befördert werden dürfen
+- Evtl. Übertragbarkeit in der Familie und näherer Verwandschaft/Bekanntschaft zulassen
+- Vor allem das Abo-Modell streichen
+- Und das Ticket bis mindestens 2040 garantieren (zu einem garantiert nicht höheren Preis)
+
+Dann könnte man noch das "erhöhte Beförderungsentgelt" (das IMHO sowieso eine unzulässige Gebühr darstellt) durch das 49-EUR-Ticket ersetzen, d. h. wer keine Karte kriegt das Ticket verpasst.  Punkt, aus und Ende.
+
+Und außerdem sollte man die Kosten deutlich senken.  Es muss runter auf maximal 32 EUR, besser weniger.
+Und den halben Preis für Kinder unter 18 Jahren sowie Studenten bis max. 25.
+
+Evtl. sollte man das Ticket außerdem der KFZ-Steuer aufschlagen, d. h. diese um max. 384 EUR erhöhen.  Damit hat dann jeder Halter ein Ticket kostenlos, das er beliebig auf andere übertragen kann (sonst hat der Vater 3 Tickets, der Anhang aber 0).  Wenn diese Erhöhung ein Problem darstellt, hey, einfach durch die Autolobby feststellen, um wieviel man die Steuer erhöhen kann, teilt das durch 12 und schon hat man den Preis für ein reguläres 49-EUR-Ticket!
+
+> Nur zur Klarstellung:  Das Ticket wendet sich nicht nur an Deutsche, sondern jeden Menschen.
