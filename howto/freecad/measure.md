@@ -8,7 +8,9 @@ You are in Sketcher and want to measure the distance between two points.
 
 ![ComboView displays calculated measurements](https://github.com/hilbix/tino/assets/994093/865a17fe-fb98-4df3-92a8-f766c434b6f0)
 
-What does this do:
+-----------------
+
+What following does:
 
 - It attaches the two points of a measurement onto some point on the sketch
   - So if the point changes it's position, the measurement becomes updated, too
@@ -16,6 +18,8 @@ What does this do:
   - This way you can see it in ComboView
   - This way you can see the value of the Measurement from Sketcher, too
 - You do not have to worry about if you have positioned the Measurement correctly
+
+-----------------
 
 Step 1: Add some random measurement
 
