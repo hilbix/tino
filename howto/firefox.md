@@ -19,9 +19,22 @@ but instead somewhere else.   And where is completely unpredictable.
 
 ## Disable Firefox Account
 
-	about:config?filter=identity.fxaccounts.enabled
+Open `about:config` and toggle `identity.fxaccounts.enabled` to `false`
 
-Toggle to `false`
+
+## Debug extensions
+
+Debugging is very well hidden:
+
+Open `about:debugging#/runtime/this-firefox`, then click on `Inspect` on the extension.
+
+> The following might be outdated:
+
+**But wait**, there is more, because things are still hidden!
+
+Open `about:config` and set `extensions.sdk.console.logLevel` to `all`
+
+This allows `console.log()` to show up in the console.
 
 
 ## Use Web-Console
