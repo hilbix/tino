@@ -192,7 +192,7 @@ but this does not necessarily is true the same way for embedding.
 > It is like Promises (AKA Futures) in JavaScript, where you only have a single
 > execution thread.  But here, JavaScript is not as easy to embed as Python.
 >
-> Hence all those mighty programs as OpenCAD or QGIS run a Python interpreter below.
+> Hence all those mighty programs like OpenCAD or QGIS run a Python interpreter for a good reason.
 
 So if you use those higher level software, this is a good cause to learn Python.
 
