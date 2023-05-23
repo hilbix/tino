@@ -72,7 +72,7 @@ You can even [run VMs inside your browser](https://bellard.org/jslinux/)
 
 So JavaScript is definitiviely useful.  And if you only want to learn and use
 a single language (you always should use more, but ..), you probably will
-get far more successful with JavaScript than other languages.
+get far more successful with JavaScript than any other single language.
 
 I bet (but I never bet) in 100 years from now, if you live long enough,
 you will still be able to sucessfully use JavaScript for your projects.
