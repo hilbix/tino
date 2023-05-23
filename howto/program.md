@@ -10,7 +10,7 @@ This is not about which language to learn to do theoretically studies about prog
 > Probably only C would be on this list, too, for plain historic purpose.
 >
 > **So if you scientifically want to learn programming,
-> not ment primarily for your everydays use,
+> not meant primarily for your everydays use,
 > but perhaps for some specific sofware like QGIS or OpenCAD,
 > then Python is the best language to start with.**
 >
