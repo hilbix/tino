@@ -131,7 +131,8 @@ But ..
   
 - All Linux distributions support `bash`.  I never found one, which does not
   include `bash` by default.  `ksh` or others like `csh` might be missing.
-  But not `bash`
+  But not `bash`  (YMMV, some HP-UX come with `ksh` instead of `bash`,
+  as they are too old.  FYI `ksh` and `bash` differ only in a few things.)
 
 - `bash` has many useful additional features to make it you default shell,
   like `.bash_aliases`.  It makes it more easy to keep things on a
