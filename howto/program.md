@@ -165,7 +165,7 @@ But I do not recommend to put your learning effort into these at the first step.
 
 #### Python
 
-If you use GIS, you use Python.  May programs have a Python interpreter built in
+If you use GIS, you use Python.  Many programs have a Python interpreter built in
 at the low level like OpenCAD.
 
 This is because Pyhon is an ideal language for embedding in code,
