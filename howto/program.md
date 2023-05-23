@@ -132,7 +132,11 @@ Strictly speaking this is not a programming language at all but a scripting lang
 > But there is not much of a difference of scripting and programming.
 > As well as interpeters and compilation.  YMMV but everything is the same idiom for me.
 
-But why bash?  Because if you know `bash` you also know `dash` which is the
+And Bourne shell syntax sux.  Therfor `bash` sux as well.
+
+So why bash?
+
+Because if you know `bash` you also know `dash` which is the
 standard shell of Debian.  However `bash` has some additional helpful features
 which are lacking in `dash`.
 
