@@ -105,7 +105,8 @@ you will still be able to sucessfully use C for your projects.
 
 ### Third Language: `bash`
 
-Or to be more precise: [Bourne-Again shell variant](https://de.wikipedia.org/wiki/Bash_(Shell))
+Or to be more precise: [Bourne-Again Shell](https://de.wikipedia.org/wiki/Bash_(Shell))
+which is a variant of the standard Unix Bourne Shell.
 
 `bash` is not a language, but a shell.  A shell is some interpreter,
 which is commonly referred to as "command line".
