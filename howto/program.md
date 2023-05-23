@@ -7,7 +7,7 @@ Here is my opinion about how to program.
 This is not about which language to learn to do theoretically studies about programming languages.
 
 > This would be something completely different.
-> Probably only C would be on this list, for plain historic purpose.
+> Probably only C would be on this list, too, for plain historic purpose.
 >
 > **So if you scientifically want to learn programming,
 > not ment primarily for your everydays use,
