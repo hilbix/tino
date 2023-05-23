@@ -148,8 +148,8 @@ And with Windows 11 you can run Linux programs seamlessly on the same
 desktop with Windows programs.
 
 And for this it is good to know the Standard Linux Shell.  Which is a
-Bourne Shell.  `bash` is only one variant, `dash` another.  But lacking
-all the bashisms, I recommend `bash`.
+Bourne Shell.  `bash` is only one variant, `dash` another lacking
+all the bashisms.  So I recommend `bash`.
 
 I bet (but I never bet) in 100 years from now, if you live long enough,
 you will still be able to sucessfully use `bash` from commandline.
