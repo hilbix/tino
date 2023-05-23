@@ -85,6 +85,14 @@ And at last, JavaScript is now available as Scripting language of NginX.
 (I really have no ide why you ever want to use that, but this might come handy.)
 Also it is integral and very powerful part of Apache's CouchDB database.  
 
+> With both you can sucessfully run Web services.
+>
+> - NginX as a reliable web server.
+> - And CouchDB as powerful NoSQL backend database. 
+>
+> But beware.  Doing it successfully is not as easy as it looks like.
+> If it judy works very well does not mean, you properly secured it against attacks.
+
 
 ## Second language: C
 
