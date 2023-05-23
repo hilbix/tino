@@ -91,7 +91,7 @@ Also it is integral and very powerful part of Apache's CouchDB database.
 > - And CouchDB as powerful NoSQL backend database. 
 >
 > But beware.  Doing it successfully is not as easy as it looks like.
-> If it judy works very well does not mean, you properly secured it against attacks.
+> If it just works very well does not mean, you properly secured it against attacks.
 
 
 ## Second language: C
