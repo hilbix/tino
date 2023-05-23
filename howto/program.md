@@ -81,10 +81,9 @@ you will still be able to sucessfully use JavaScript for your projects.
 > Adobe Air/Flex/Flash/Actionscript
 > are ECMA Script variants very similar to JavaScript.
 
-And at last, JavaScript is now available as Scripting language of NginX,
-and is integral part of Apache's CouchDB database.  
-I really have no ide why you ever want to use that,
-but hey, this all is available.
+And at last, JavaScript is now available as Scripting language of NginX.
+(I really have no ide why you ever want to use that, but this might come handy.)
+Also it is integral and very powerful part of Apache's CouchDB database.  
 
 
 ## Second language: C
