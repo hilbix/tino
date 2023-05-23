@@ -2,7 +2,7 @@
 
 Here is my opinion about how to program.
 
-## What programming languages to learn?
+# What programming languages to learn?
 
 This is not about which language to learn to do theoretically studies about programming languages.
 
@@ -21,7 +21,7 @@ This is entirely about, what programming language to learn to do
 program something in real life.
 
 
-### Core Programming Languages
+## Core Programming Languages
 
 Here is the list of the 3 Programming Languages I recommend to learn.
 Start with the first and then eventually the others.
@@ -41,7 +41,7 @@ task with the use all of only these exact languages.
 > For those, see Honorable Mention below.
 
 
-#### First language: JavaScript
+## First language: JavaScript
 
 JavaScript sux.  But it does not suck a lot.  There are some very picky
 things in JavaScript, especially automatic type coercion and some antique
@@ -77,8 +77,12 @@ get far more successful with JavaScript than any other single language.
 I bet (but I never bet) in 100 years from now, if you live long enough,
 you will still be able to sucessfully use JavaScript for your projects.
 
+> Also note, that eScript (the language of Oracle CRM) and
+> Adobe Air/Flex/Flash/Actionscript
+> are ECMA Script variants very similar to JavaScript.
 
-#### Second language: C
+
+## Second language: C
 
 C sux.  Because C is so low level.  It has error prone pointer arithmetic.
 If you do C, you need to know what you are doing.
@@ -103,7 +107,7 @@ I bet (but I never bet) in 100 years from now, if you live long enough,
 you will still be able to sucessfully use C for your projects.
 
 
-### Third Language: `bash`
+## Third Language: `bash`
 
 Or to be more precise: [Bourne-Again Shell](https://de.wikipedia.org/wiki/Bash_(Shell))
 which is a variant of the standard Unix Bourne Shell.
@@ -156,14 +160,14 @@ you will still be able to sucessfully use `bash` from commandline.
 
 
 
-### Honorable mention
+# Honorable mention
 
 These are programming languages, you will certainly see on your journey.
 
 But I do not recommend to put your learning effort into these at the first step.
 
 
-#### Python
+## Python
 
 If you use GIS, you use Python.  Many programs have a Python interpreter built in
 at the low level like OpenCAD.
@@ -217,7 +221,7 @@ or you have some specific software which uses Python as embedded interpreter,
 then Python is probably the best language to start with.**
 
 
-#### Java
+## Java
 
 You own a Mobile Phone?  Then this probably runs Java code.  Android still does.
 
@@ -278,7 +282,48 @@ offer the advantage.
 > As Sun Microsystems always was good for Open Source (remember OpenSolaris and ZFS).
 
 
-#### Assembler (AKA Machine code)
+## PHP
+
+PHP is a language mainly used for web services.  Theoretically it is a full featured
+language capable to do all things, but practically you won't want to do this.
+
+PHP has some really awful constructs which gives the least expected result.
+Thins includes:
+
+- Surprising similarities of strings and numbers.  (BTW, JavaScript is very close to that!)
+- Surprising operator precedence on `x ? y : z`.
+- No proper way to handle errors after they occurred (recommendation: `die()` on any error and check everything before, so no errors can show up)
+- All library functions inherit problems found in the standard C implementation
+- Introduction of new bugs of standard functions which later were declared standard (i.E. Posix regexp)
+- Nearly no security for externally provided data
+- Dangerous basic standard things (like `require`) in case an URL happens instead of a filename (read again:  You must check everything in advance)
+- and so on
+
+If you are able to escape all those pitfalls, you can wriite very performant backends with PHP
+thanks to `php-fpm` or successors like `hhvm` (even that it no more supports PHP).
+
+Entire Facebook was written in PHP, so if it scales for Facebook, you should not get into trouble
+(provided you are an as good programmer as those at Facebook).
+
+So PHP definitively has it's use and it is good to know PHP good enough to change
+and secure all those enourmous amount of PHP code out there.
+
+But ..
+
+.. this needs a high level of knowledge, a deep understanding of PHP and the right attitude
+to keep things safe with PHP.
+
+With somewhat more complex code you usually will fail.  And you will fail badly.  You have been warned.
+
+However there is nothing against if if you create small, secure, proven scripts which utilize PHP.
+Thanks to the standard embedding within Apache (or `php-fpm` with NginX)
+**it is relatively easy to quickly write some Middleware scripts**,
+and at this point it is probably more versatile than others.
+
+Hence it is good to understand PHP, but it is not a language, I can recommend to be learned as the first language.
+
+
+## Assembler (AKA Machine code)
 
 Staying on top of Assembler is a bigger burden.  As each CPU has it's own variant.
 And new CPUs come up frequently these days.
@@ -300,14 +345,14 @@ For today it probably is enough to understand how Assembler works,
 to be able to dig deeper and optimize problems near hardware level.
 
 
-### Future possible languages to learn
+# Future possible languages to learn
 
 Perhaps in a few years some additional languages will show up which you should learn.
 
 Here is what might show up.
 
 
-#### AI Language
+## AI Language
 
 AI is emerging.  Currently we only see the very first start.
 
@@ -332,7 +377,7 @@ A set of rules which the AI then will fulfill.
 But I really have no idea.
 
 
-#### Quantum Language
+## Quantum Language
 
 Quantum Computing still is Science Fiction.  When the Transistor emerged,
 we already knew how to successfully combine millions of them.  Then problem
@@ -370,7 +415,7 @@ Because it will be based on some completely different thinking model
 as current programming languages.
 
 
-#### GPU language
+## GPU language
 
 There is some hardware, is more and more common.  These are GPUs.
 
@@ -409,4 +454,139 @@ the capabilities.
 
 You won't do it with all the other languages mentioned here.  Because they
 lack nearly everything which is needed to use all that features efficiently.
+
+
+# Why not ..
+
+Why not another language.  Like `go`.  Or `rust`.  Or some of the other gazillion of languages out there.
+
+
+## Perl
+
+I hate Perl.
+
+> This probably is the only programming language I hate.
+
+Do not get me wrong, I know Perl very well.  I know it too good to not hate it.
+
+Perl is extremely powerful.  And it has some interesting automatic polymorphisms.
+
+But that exactly is the problem:
+
+If you write Perl code, after some days you will never going to understand your problem at the first glance again.
+(YMMV, but only if you have some idetical brain where you can exactly re-invent the thoughts you had when you wrote the Perl code.)
+
+This is due to the enourmouse freedom on how to express a single thing in Perl in code.  Other languages have, say 5, variants, but Perl gives you thousands.
+Literally.  Already for such a simple thing as `1+1`.  And you do not need artificial contests to do it.
+
+> Read: You can write good code in Perl, of course.  But over the time you will detect, that your code starts to become garbage.  For this we can only blame the language itself.
+
+Perl erodes.  I once had the problem that suddenly a Perl script failed after some upgrade.  The fix was quick and easy (for me, not for others, as I wrote: I know perl very well),
+and after adding `use utf8;` the Perl code continued to work perfectly.
+
+But this shows the nature of Perl.  Things behave erratic, just because there is no clear upgrade vision of Perl.  They hack things into the language as they seem fit.
+This is not always a bad thing.  But with Perl you won't be safe.
+
+In 100 years from now, understanding your old Perl scripts will be so complex, that rewriting them from scratch probably is more easy.  You have been warned.
+
+
+## Rust
+
+I do not know Rust good enough to tell you anything about it, so I cannot include it.
+
+> But I doubt it can replace one of the 3 languages I have chosen as the core languages.
+
+But all I read sounds interesting and good.  Those people behind Rust apparently had a vision.
+
+Another interesting part is, that Rust can compile to C which then compiles to machine code.
+So it offers the speed of C with type safety and less burden.
+
+> In the future Rust probably will be directly compiled.  But that's nothing pro or con Rust.
+
+So if you want to look into interesting languages, Rust is definitively a candidate.
+
+However, if Rust prevails and nobody comes up with something better than it,
+then in 100 years, then you will be able to sucessfully use Rust for your projects.
+
+But I am not sure, that Rust will not get some successor.
+
+
+## go
+
+The `go` language has it's benefits.
+
+- It is modern and stable
+- Network and thread enabled
+- and can create direct machine code
+
+However I was unable to even compile a single origram of it, like the example.
+
+Why?
+
+Because I always test things in an offline way.  So it must work without networking at all, too.
+
+And `go` failed for me because the includes were not available.
+
+This is a definitive no go.  Even that things might get cached, if you reset your work and start over with it things suddenly fail .. because some external resource vanished.
+
+This feature is built into the language.  Hence the language is to blame for this.  And I do blame.
+
+> Why is this critical?
+>
+> Because we already have a very good and proven feature which offers all and everything `go` does with this external includes.
+> (There are even other languages like JavaScript which offer similar methodology, however these are usually not a language core feature which is advertised.)
+>
+> If you are puzzled, I refer to `git` and `git submodules`.  With `git` you can safely do things in 100 years you did today (provided that the SHA1 is not broken).
+>
+> It is right, that you can do with `go` the same way.  But much more difficult.  And nobody lives it this way, while `git` only allows you do use this feature securely.
+>
+> So if it works with `git` you know you are safe.  However if it works with `go` you first have to check things thoroughly, that you are safe to do it in 100 years from now, too.
+
+Languages which are advertise insecure features and thus **urge you to learn the wrong lifestyle by default, are dangerous**.
+
+Besides of that `go` is very cool.  Just too cool.  You have been warned.
+
+
+## LUA
+
+LUA is cool.  It is nearly the perfect language to embed.  This is why it was the first language available in HaProxy.
+
+> If you want some Load Balancer, [look at HaProxy](https://haproxy.org).
+> This is just some piece of software which reaches out to perfection.  Some indispensable absolutely reliable piece of workhorse.
+
+If you need a small, easy to embed ultra-fast and reliable scripting language, which also offers OO paradigms out of the box,
+then you probably end up with LUA.
+
+LUA is not only used in hyper-stable products like HaProxy, it also is used in games and similar, due to it's minimal size predictable execution characteristics.
+
+> Therea are perhaps smaller embedded languages, but these usually come to a price (not money, feature-wise).
+
+But in everyday's life I did not see LUA a lot.  Often the Interpreter is not even installed.  Hence I cannot recommend to learn LUA as on of the first languages.
+
+
+## TCL/tk
+
+TCL is a special purpose language.  It's old and hence reliable.  And `tk` offers some basic graphic context.  It's part of most Linux distributions,
+as it is often used from UI scripting.
+
+But that's all there is.  It is very special purpose (my view), hence I do not recommend it as the first language(s) to learn.
+
+
+## Bacic
+
+If you own something like the good old C64 (or some other Commodore computer), then Basic comes into mind.
+
+And very well, Basic is so simple, that the C code of a very basic [Basic Interpreter](https://github.com/ioccc-src/winner/blob/master/1990/dds.c) fits into 1536 bytes,
+as well as the [Basic Compiler](https://github.com/ioccc-src/winner/blob/master/1991/dds.c) fits into even less 1133 bytes.
+
+However Basic must be considererd too basic these days.  OTOH the builtin VBA for office automation of Microsoft Office comes very handy, too.
+But this is no more needed, as nowadays, Microsoft Office can be extended using JavaScript as well.
+
+This, again, points to JavaScript.
+
+
+## Here be Dragons
+
+Certainly here are many languages missing.  There are [so many out there](https://en.wikipedia.org/wiki/List_of_programming_languages),
+that it would take too long to just look at all of them.
 
