@@ -37,7 +37,7 @@ Below I will explain it in more detail:
 Because 100 years from now, you will be able to successfully complete a programming
 task with the use all of only these exact languages.
 
-> I do not say that you can use this language everywhere.
+> I do not say that you can use this language just everywhere out of the box.
 > For those, see Honorable Mention below.
 
 
