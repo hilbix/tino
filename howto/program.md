@@ -182,7 +182,7 @@ but this does not necessarily is true the same way for embedding.
 > For the first look this looks bad.  Because you cannot reach more than
 > single core speed that way.
 >
-> But this is not, what Python does.  It more acts like a scheduler.
+> But this is not, what Python does when embedded.  There it more acts like a scheduler.
 > And a scheduler needs to be single core, because writing a parallelized scheduler
 > is .. a PITA.  You will get many awful problems with parallel execution.
 >
