@@ -204,7 +204,7 @@ about what is most Pythonic or not.
 
 And most times Python also fulfills the "most expected result" pattern.
 
-> Most expected by those who deely stuck in Python,
+> Most expected by those who dived deeply into Python,
 > not perhaps you when you start learning it.
 >
 > However it often is very enlighting to understand, why something
