@@ -31,7 +31,8 @@ Below I will explain it in more detail:
   - You have access to a Browser?  Then you are ready to program in JavaScript.
 - C
   - You own a Computer?  Then this can only be started thanks to C.
-- tell you, why.
+- `bash`
+  - and the commandline is yours.
 
 Because 100 years from now, you will be able to successfully complete a programming
 task with the use all of only these exact languages.
