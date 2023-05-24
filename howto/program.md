@@ -1,3 +1,5 @@
+> Korrektur: Das Biest heißt FreeCAD, nicht OpenCAD.
+
 # How To Program
 
 Here is my opinion about how to program.
@@ -11,7 +13,7 @@ This is not about which language to learn to do theoretically studies about prog
 >
 > **So if you scientifically want to learn programming,
 > not meant primarily for your everydays use,
-> but perhaps for some specific sofware like QGIS or OpenCAD,
+> but perhaps for some specific sofware like QGIS or FreeCAD,
 > then Python is the best language to start with.**
 >
 > However if you just want to be able to program just everything and everywhere,
@@ -186,7 +188,7 @@ But I do not recommend to put your learning effort into these at the first step.
 ## Python
 
 If you use GIS, you use Python.  Many programs have a Python interpreter built in
-at the low level like OpenCAD.
+at the low level like FreeCAD.
 
 This is because Pyhon is an ideal language for embedding in code,
 and Python code always looks a bit like reference code.
@@ -212,7 +214,7 @@ but this does not necessarily is true the same way for embedding.
 > It is like Promises (AKA Futures) in JavaScript, where you only have a single
 > execution thread.  But here, JavaScript is not as easy to embed as Python.
 >
-> Hence all those mighty programs like OpenCAD or QGIS run a Python interpreter for a good reason.
+> Hence all those mighty programs like FreeCAD or QGIS run a Python interpreter for a good reason.
 
 So if you use those higher level software, this is a good cause to learn Python.
 
