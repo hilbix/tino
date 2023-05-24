@@ -190,10 +190,53 @@ Nicht viel.
 
 **Das wäre zum Wohle aller.**
 
-Und den Rest der Aktion heute, das müssen jetzt halt die Gerichte klären.  Mal wieder.
-Und das wird sich vermutlich noch jahrelang hinziehen.
+Denn in meinen Augen handelt es sich hierbei um klaren Polizeimissbraucht.
+
+- Einen Missbrauch durch diejenigen, die die Strafanzeigen gestellt haben.
+- Der Polizei, die danach (vielleicht etwas übereifrig, aber dafür habe ich Verständnis) handeln musste, ist kein Vorwurf zu machen
+- Und denjenigen, die den Polizeieinsatz zu verantworten haben, ist auf lange Sicht eigentlich zu danken
+- Denn jetzt kann alles auch juristisch aufgearbeitet werden
+- Es ist zwar schade, dass es so laufen muss, aber meistens kommt dabei letztendlich etwas höchst sinnvolles raus
+- Bisher jedenfalls.
+
+Denn wie kam es denn sonst zu §20a GG?
+
+- War es die Jurisdiktion (AKA Politik)?  Nein!
+- War es die Exekutive (AKA Polizei)?  Nein.  Die sind gar nicht in der Position, Gesetze zu machen.  Sie setzen sie nur durch, und das ist auch gut so.
+- Es war unser oberstes Gericht.
+
+> Schäm Dich, Politik!
+
+Und den Rest der Aktion heute, das müssen jetzt halt die Gerichte klären.  Mal wieder.  
+Und das wird sich vermutlich noch jahrelang hinziehen.  
 Und so lange die Aufklärung des Ganzen unseren demokratischen Prinzipien folgt,
-bin zuversichtlich, dass daraus unserem Staat auf Dauer kein Schaden entsteht.
+bin ich äußerst zuversichtlich, dass daraus unserem Staat auf Dauer kein Schaden entsteht.
+
+Aber ich habe mit den Aktivisten wenig Mitleid.  Ihr wusstet, was auf euch zukommen kann.  Und ihr seid sehenden Auges dieses Risiko eingegangen.
+
+Schade, dass ihr Recht habt.  Ich wünschte es wäre anders und irgendjemand könnte euch endlich mal Lügen strafen.
+
+Kann nicht geschehen.  Nicht in diesem Universum.  Das ist ein menschengemachtes Naturgesetz.
+Wir könnten das ändern.  Aber das wäre gegen die menschliche Natur.
+
+Aber eine Hoffnung habe ich noch:
+
+Seit jeher sind entscheidende Veränderungen in der Menschheitsgeschichte mit Massengräbern verbunden.
+Es wäre das erste Mal in unserer Geschichte, wenn ihr die Revolution unblutig schaffen würdet.
+
+Die Chance ist da.  Aber ein weiteres Naturgesetz wird das verhinden.
+
+Denn die Menschliche Geschichte ist auch die Geschichte des Scheiterns.
+Die Existenz des Menschen gründet sogar ganz und gar auf diesem Prinzip.
+Es garantierte uns bisher die Existenz und Vorherschaft auf diesem Planten.
+
+> Eine vernünftige Evolution hätte den Menschen verhindert.
+> Aber die Evolution ist nicht vernünftig.
+> Wiederum eines dieses Scheiterns.
+
+Oder anders gesagt:  Ich hege nur sehr sehr wenig Hoffnung.
+
+In diesem Sinne:  Frohes scheitern!  Der Scheiterhaufen wartet ..
 
 
 # Streiflicht "Klimadiktatur"
