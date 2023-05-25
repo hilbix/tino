@@ -893,10 +893,10 @@ Wenn man über eine Wärmepumpe mit Raumluftgebläse (oder wie die Dinger heiße
 dann sind die wesentlich effizienter und der Raum ist viel schneller warm als mit Heizlüfter oder Radiator.
 
 So ein Heizlüfter kann maximal knapp 3 kW abgeben.  Eine gute effiziente Wärmepumpe schafft mit 2 kW elektrischer Energie
-hingegen eine Heizleistung von 6 bis 8 kW, gerade jetzt in der Übergangszeit.
+hingegen eine Heizleistung von 6 bis 10 kW, gerade jetzt in der Übergangszeit.
 
 > Da eine professionelle zentrale Wärmepumpe aber dreiphasig an den Strom angeschlossen werden kann,
-> kann die durchaus mit 11 kW betrieben werden, was dann einer Heizleistung von über 50 kW entspricht.
+> kann die durchaus mit 11 kW betrieben werden, was dann einer Heizleistung von 40-50 kW entsprechen kann.
 > Das wäre die Heizleistung eines starken Brenners einer Ölheizung, die aber sofort für den einen Raum,
 > den man heizen will, vollständig zur Verfügung steht.
 >
