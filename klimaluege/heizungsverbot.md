@@ -794,6 +794,69 @@ Aber rein zum verheizen ist Öl einfach zu schade.
 Deshalb sollte man sich auf keinen Fall mehr eine Ölheizung zulegen.  Selbst wenn man das Öl nicht kaufen muss.
 
 
+### Fernwärme
+
+WTF?!?  Fernwärme?  Wieso steht hier was von Fernwärme?
+
+Weil ich empfehle, diese zu meiden, wenn es denn nur geht.
+
+Warum?
+
+Weil es vermutlich keine teurere Art zu heizen gibt.
+
+Der Gasmarkt ist liberalisiert.  Der Strommarkt ist liberalisiert.  Der Ölmarkt ist es seit jeher.  Selbst bei Pellets kann ich frei wählen, von wem ich kaufe.
+
+Bei Fernwärme ist das anders.  Der Anbieter diktiert den Preis.  Punkt aus und fertig.
+
+Teurer als bei Fernwärme kann man die kWh Energie nicht kaufen.  YMMV, aber das ist, was ich aus den Tarifen entnehme.  Und was soll man schon dagegen machen?
+
+Wenn ich das richtig sehe, gibt es sogar Viertel, da muss man die Fernwärme abnehmen.  Man darf also keine andere Heizung einbauen als Fernwärme!
+
+Aber Klimaanlagen darf man doch wohl einbauen, oder?  Denn Fernkälte, davon habe ich noch nie gehört.
+Genau das würde ich da dann tun.  Eine Klimaanlage, die zufällig halt auch heizen kann.  Die ist nur wenig teurer als eine, die nur kühlt.
+
+Und dann mal schnell mit der spitzen Feder nachgerechnet.  Als Ergebnis dürfte rauskommen, dass erst unter -5 Grad Außentemperatur Fernwärme gegenüber Strom billiger wird.
+Und wie oft im Jahr haben wir solche Temperaturen?
+
+Ich hoffe, dass der Fernwärmeanbieter einen nicht zwingen kann, noch mehr zu heizen, wenn man es schon wohlig warm hat.  Das wäre total widersinnig.
+
+> Ich betreibe z.B. Server in einem Zimmer.  Das erreicht selbst im Winter bei -10 Grad draußen eine Temperatur von 27 Grad.  Ohne dass ich heize.
+> Also Tür auf und schon werden die anschließenden Räume durch die Server mitgeheizt - übrigens ein Grund warum ich nur 1000 Liter Öl im Jahr brauche -
+> fragt nicht nach der Stromrechnung, ich fahre außerdem auch Elektroauto.
+>
+> Wäre ich nun zwangsweise an Fernwärme angeschlossen, kann es ja wohl nicht sein, dass ich die Räume zusätzlich zwangsweise mit Fernwärme heizen müsste,
+> wo die doch sowieso schon eher zu heiß werden!
+>
+> Und warum die Räume ohne Fernwärme warm sind, das geht den Fernwärmeanbieter einen feuchten Kehrricht an!
+
+Also Fernwärme halte ich für eine der schlechteren Heizarten.
+
+Hängt allerdings stark davon ab, wie die Fernwärme entsteht und wieviel sie kostet.
+
+- Kommt die wie in Island aus heißen Quellen, also Erdwärme?  Nichts dagegen einzuwenden!  Aber gibt es das außerhalb von Island?
+- Stammt die aus einer Müllverbrennungsanlage?  Finde ich bereits als falsch.  Müll sollte man recyclen, nicht verbrennen.  Und was passiert, wenn das Kraftwerk mal ausfällt?
+- Stammt die aus Prozessabwärme, die sonst einfach so verpuffen würde?  Irgendwie seltsam, Fernwärme braucht man nur im Winter, was passiert im Sommer?
+  - Allerdings gibt es hier ziemlich clevere Konzepte.
+  - Z.B. kann die Prozesswärme im Sommer in einem (abgedeckten) See gespeichert werden, und im Winter wird diese dem See dann wieder entzogen.
+  - Das Konzept sollte dann aber für den einzelnen deutlich günstiger ausfallen als mit Wärmepumpe.  Sonst macht man etwas falsch!
+- Wir die aus kleinen Kraftwerken hergestellt?  Dann kann mal eines ausfallen ohne ein Problem.  Aber was verfeuern die?  Das sind doch sicher keine Wasser- oder Windkraftwerke!
+
+Also außer in Spezialfällen kann ich Fernwärme beim besten Willen nichts abgewinnen.  Ich würde sogar sagen, meistens ist die vermutlich eher umweltschädlich, und noch schlimmer, der einzelne kann da überhaupt nichts dran ändern.  Friss oder stirb.
+
+> Indes, wenn man keine Wahl hat, hat man eh keine Wahl.  Da stellt sich die Gretchenfrage "Heizung" ja gar nicht.
+>
+> Wenn das Viertel optional mit Fernwärme versorgt ist, kann es allerdings sein, dass die Gestehungkosten für die Heizung recht gering sind.
+> Und der lästige Austausch der Heizung alle paar Dekaden entfällt auch.
+> Zusammen mit einem weiteren Wärmekonzept wie Warmwasserwärmepumpe und heizenden Luft-Wärmepumpen einzelner Zimmer, kann dabei schon ein tragbares Konzept rauskommen.
+
+Ich jedenfalls würde erst einmal versuchen, ohne Fernwärme eine auf Dauer günstigere Heizart zu wählen.
+Alleine schon um Abhängigkeiten zu vermeiden.
+
+Als Fallback, für den Fall der Fälle wenn etwas anderes klemmt, wäre Fernwärme dann willkommen.  Darf dann aber nicht zu hohe Grundkosten haben.
+Wenn ich mir für die Kosten von 2 Jahren Fernwärme-nicht-Nutzung ein ganzes heizendes Klimagerät kaufen kann inkl. 1 Monat Stromkosten wenn ich den Raum zur Sauna mache,
+wären mir die Grundkosten der Fernwärme zu hoch.
+
+
 ### Kachelöfen, Kamine und ähnliches
 
 Ein Kachelofen mag schön sein.  Ist aber ein antikes Ding.  Es verbrennt unkontrolliert Dinge, wie Holz, Öl oder sonst was.
