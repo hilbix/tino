@@ -1,6 +1,6 @@
 > I did not manage to get it running on Android yet.
 >
-> However it works for OpneVPN under Linux.
+> However it works for Open under Linux.
 
 
 # FastestVPN
@@ -12,6 +12,25 @@ Why?  Because it costs less than 1 year NordVPN.
 I note it here because many of the things were not able to see before my purchase.
 
 > I am OK with what I got.  Because I did not expect much for barely the price of a dinner for two.
+
+## TL;DR
+
+- Cheap lifetime plan includes 10 devices (if you get the discount)
+- Has only a handful servers
+- Offers only a few protocols, but these work with standard clients (so no special app needed)
+- Uses plain username/password for authentication of clients (no tokens)
+- Works with OpenVPN UDP (other protocols not tested)
+- No port mapping
+- No hole punching (for things like WebRTC)
+- Download speed can reach my wire speed (100 MBit/s, but this was not thoroghly tested)
+
+Untested:
+
+- Security of the used algorithms
+- Real speed
+- Availability
+- Stability
+- Geo presence
 
 
 ## Lifetime?
@@ -136,7 +155,7 @@ Downsides:
   - 35 IPSec
   - 35 OpenConnect
   - 59 servers in total worldwide
-  - I counted more servers alone in Denmark for another VPN provider
+  - For another VPN provider I counted more servers in Denmark alone
   - Other VPN providers have 100 times as much servers worldwide
 - [Unclear usage policy](https://fastestvpn.com/terms-of-service)
   - Very broken German language (I am German).  I try to pharaphrase what I understood.
@@ -166,7 +185,7 @@ Downsides:
 > If you are an EU citizen and using an US server,
 > US law may force you to enter data,
 > because you come from an US IP.
-> However it can be unlawful to export this data from the EU,
+> However it can be unlawful to export this data from the EU.
 >
 > (For example, US law requires you to enter your ZIP code.  Which is protected data according to GDPR in EU.)
 >
@@ -178,7 +197,7 @@ Upside:
 - Price.  47 EUR/lifetime paid via Credit Card
 - 10 concurrent logins/devices
 - No APP needed
-- Many other protocols
+- All their free protocols are good documented
 
 
 ## What VPN protocol to use?
@@ -233,15 +252,19 @@ Background: UDP port forwarding can be implemented different ways:
   - This is what FastestVPN does
   - Prevents hole punching, hence needs TURN servers
 
-use different UDP ports for different destinations.  From a security perspective this is better,
 
-
-## You get what you pay for?
+## Do you get what you pay for?
 
 I do not know what you expect.
 
 - If I get only 1 year, this is expensive, due to the few (and therefor slow) servers
 - However if I get 10 years VPN, then this 47 EUR are cheap
+
+So AFAICS the discounted lifetime plan is pretty cheap.  But we will see how this works out in 5 years or so from now.
+
+> As I only do allowed things, like scrapins, I cannot violate their terms.
+>
+> Note that all search engines do scraping.  So this cannot be an illegal activity and, therefor in Germany, cannot be prohibited.
 
 
 ## Example
