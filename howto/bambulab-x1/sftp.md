@@ -34,3 +34,17 @@ but I am apparently too dumb to understand how this can be archived with lftp, s
 
 > Read: As always the documentation does not tell you how to handle the most common case
 > "self-signed-certs" properly.  Perhaps because there is none?
+
+Alternatively:
+
+	lftp -e 'set ssl:verify-certificate no' "ftps://bblp:$ACCESSCODE@$PRINTERIP/"
+
+Or (**not recommended**) disable SSL verification entirely:
+
+	echo set ssl:verify-certificate no >> ~/.lftprc
+
+then
+
+ 	lftp "ftps://bblp:$ACCESSCODE@$PRINTERIP/"
+
+> This is **not recommended**, as this disables verification for all connections!
