@@ -43,6 +43,13 @@ Or (**not recommended**) disable SSL verification entirely:
 
 	echo set ssl:verify-certificate no >> ~/.lftprc
 
+> There are two possible locations of this file:
+>
+> - `~/.lftprc` (which takes precedence)
+> - `~/.lftp/rc`
+>
+> I only note this here, because there is no manual for `lftp` on my system. YMMV
+
 then
 
  	lftp "ftps://bblp:$ACCESSCODE@$PRINTERIP/"
