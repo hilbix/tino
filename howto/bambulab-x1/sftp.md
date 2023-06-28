@@ -54,4 +54,4 @@ then
 
  	lftp "ftps://bblp:$ACCESSCODE@$PRINTERIP/"
 
-> This is **not recommended**, as this disables verification for all connections!
+> Changing the `rc` is **not recommended**, as this disables verification for all connections!
