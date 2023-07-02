@@ -7,6 +7,210 @@ Corona Home Office Welcome.
 
 VNC is nice.  However it is a PITA if it needs to be set up or the connection breaks.
 
+# Remmina to Windows via JumpHost
+
+> As of today the best thing I found to enable communication between 2 machines which cannot connect to each other is to use `ssh` with tunnels and JumpHosts.
+> But this is a very clumsy and insecure (MitM) way and a constant source of SPoF, so in future we should get rid of them and thereby even improve security.
+> I am working on this, ..
+
+Machine D: Local machine with your Mouse and Keyboard
+- Machine D has no direct connection to Machine X but can `ssh` into Machine G
+- This machine is a single user machine
+- You have `root` access or some way to install all needed additional packages
+
+Machine W: Windows 11
+- Machine W has no direct connection to Machine D but can `ssh` into Machine G
+- Install UltraVNC onto the machine
+- Full admin rights to configure windows firewall
+- `machine-w-debian` running Debian with WSL 2
+  - With WSL1 it is simpler, as WSL1 and Windows share the same IP stack
+  - You can use Ubuntu or anything else
+- Why not windows native ssh?
+  - I do not think Windows ssh is worthwhile
+  - Under Win 10 port forwarding did not work as expected, I never tried with Win 11
+
+Machine G: Gateway between D and X
+- This allows incoming `ssh` connections
+
+Preparation: Check that you can access Machine G from Machine D:
+
+    machine-d$ ssh machine-g
+    machine-g$ 
+
+Preparation: Check that you can access Machine G from Machine W from WSL:
+
+    machine-w-debian$ ssh machine-g
+    machine-g$ 
+
+Preparation: Check the IP addresses:
+
+    machine-w-debian$ ip r s
+    default via 172.22.64.1 dev eth0 proto kernel 
+    172.22.64.0/20 dev eth0 proto kernel scope link src 172.22.67.252 
+
+    machine-w-debian$ ping machine-w
+    PING machine-w (172.22.64.1) 56(84) bytes of data.
+    ^C
+    --- black ping statistics ---
+    3 packets transmitted, 0 received, 100% packet loss, time 2077ms
+
+- `172.22.64.1` is the host
+- `172.22.64.0/20` is the WSL subnet used
+  - The IP of the VM is `172.22.67.252`, but this is allowed to change
+- `machine-w` sucessfully resolves to `172.22.64.1`
+- It is normal that you cannot `ping` the host IP from WSL2.
+
+> If you see different IPs, adapt accordingly.
+
+## Basic required configuration
+
+### Windows `machine-w`:
+
+- Install and start UltraVNC
+- Admin Properties:
+  - VNC Password: `.`
+  - uncheck: none portable password
+  - uncheck: Enable JavaViewer
+  - uncheck: LoopbackOnly
+  - for safety: check: Authentication required for server initiated connections
+  - select Advanced: When Last Client Disconnects: Do Nothing
+  - select Advanced: Multi viewer connections: Disconnect all existing connections
+  - check Advanced: Remove Wallpaper while connected
+  - check Advanced: prevent screensaver
+  - deselect Advanced: File Transfer: Enable
+- Properties (usually need no change)
+  - check: Poll Full Screen ( Ultra Fast )
+
+Open `wf.msc` at "Eingehende Regeln" (sorry my Windows is German, so I do not know the english terms) create "Neue Regel...":
+
+- Allgemein:
+  - Name: uVNC
+  - check: Aktiviert
+  - select: Aktion: Verbindung zulassen
+- Programme und Dienste: (unchanged)
+- Remotecomputer: (unchanged)
+- Remotebenutzer: (unchanged)
+- Lokale Prinzipale: (unchanged)
+- Erweitert: )probably unchanged)
+  - check: Domäne
+  - check: Privat
+  - check: Öffentlich
+- Protokolle und Ports:
+  - Protokilltyp: TCP
+  - Lokaler Port: Bestimmte Ports: 5900
+  - Remote-Port: Alle Ports
+- Bereich:
+  - Select: Lokale IP-Adresse: Diese IP-Adressen
+  - Select: Remote IP-Adresse: Diese IP-Adressen
+  - Add: Lokale IP-Adresse: Diese IP-Adresse order dieses Subnetz: `172.22.64.1` (from `ip r s` above)
+  - Add: Remote IP-Adresse: Diese IP-Adresse order dieses Subnetz: `172.22.64.0/20` (from `ip r s` above)
+
+> I do not know if this is secure or not.  But I doubt.
+> - We need above settings to be able to connect from WSL 2 to uVNC
+>   - Chose a secure password of uVNC
+>   - However a password alone is a weak protection
+> - We should restrict uVNC to the WSL interface.  But we can only restrict this to IP addresses which is less secure.
+> - Also I do not grok Windows Firewall as it has gazillions of other rules and I really have not the slightest idea how it applies this rules
+>   - There might be something else which I do not know to open uVNC to the public.
+
+
+## `ssh` settings
+
+```
+machine-w-debian$ cat ~/.ssh/config
+Include ~/.ssh/config.d/*.conf
+
+Host machine-g
+	RemoteForward 127.0.0.1:2022 127.0.0.1:22
+	ServerAliveInterval 30
+	ServerAliveCountMax 5
+```
+
+```
+machine-d$ cat ~/.ssh/config
+Include ~/.ssh/config.d/*.conf
+
+Host machine-g
+	ServerAliveInterval 30
+	ServerAliveCountMax 5
+
+Host machine-w machine-w-debian
+	ProxyCommand ssh machine-g -W 127.0.0.1:2022
+```
+
+
+### Tests
+
+    machine-d$ ssh machine-w
+    machine-w-debian$ 
+    
+    machine-w-debian$ ping machine-w
+    PING machine-w (172.22.64.1) 56(84) bytes of data.
+    ^C
+    --- black ping statistics ---
+    3 packets transmitted, 0 received, 100% packet loss, time 2077ms
+
+    machine-d$ ssh machine-w-debian -W machine-w:5900
+    RFB 003.008
+
+    machine-d$ ssh machine-w -W machine-w:5900
+    RFB 003.008
+
+It is OK that you cannot `ping` the host `machine-w` from WSL 2 `machine-w-debian`.
+The important part here is, that the IP address is resolved.
+
+### Remmina
+
+- Name: `machine-w`
+- Protocol: Remmina VNC Plugin
+- Basic:
+  - Server: `machine-w`
+  - User password: `.`
+  - Quality: Best (slowest)
+- SSH Tunnel:
+  - Enable SSH tunnel
+  - Same server at port 22
+  - Authentication type: Public key (automatic)
+
+## Automate WSL
+
+When WSL 2 starts, it should start a local `ssh`.  This most simply can be archived with `cron`:
+
+`/etc/wsl.conf`:
+```
+[boot]
+command = /etc/init.d/cron start
+```
+
+```
+machine-w-debian$ sudo crontab -e <<EOF
+@reboot	/etc/init.d/ssh start
+EOF
+```
+
+This way `sshd` automatically starts in background when you open a WSL 2 terminal.  (So you do not need SystemD or other complex things.)
+
+## Automate the tunnel
+
+**Important!** After WSL starts, you must run
+
+    machine-w-debian$ ssh -o ExitOnForwardFailure=yes machine-g
+
+to open the `ssh` tunnel connection which is used by `machine-d` via `machine-g`.
+
+- Do this your favorite way on the machine
+  - You can try with `cron` for this, but I never tested that, because [I have my own way to automate things like that](https://github.com/hilbix/ptybuffer/blob/master/script/autostart.sh)
+
+Also I found no good way to start WSL 2 when you start Windows, sorry.
+
+- Note that if it fails, it should be gracefully be restarted, too.
+- This incapability (of me) to (properly) autostart things on machine start is my major obstacle to use Windows as a Server
+  - Note that the main obstacle is that I have to enter some credentials.  Credentials (like passwords) change quite too frequently.
+  - Hence this must work independently from password changes.  I never found a way on Windows to archive that (except running without passwords at all).
+
+
+# `x11vnc` via `ssh` and `ssvncviewer`
+
 This here fully automates this in following sense:
 
 - Gives you VNC access to your already running remote X-Window session
@@ -18,15 +222,12 @@ This here fully automates this in following sense:
 
 Also this should be easy enough such that you can set it up yourself even with minor Linux knowledge.
 
-
-# Automatic VNC via SSH
-
 Machine D: Local machine with your Mouse and Keyboard
 - This machine is a single user machine
 - You have `root` access or some way to install all needed additional packages
 
 Machine X: Machine with the display you want to see
-- x11vnc is installed or accessible
+- `x11vnc` is installed or accessible
 - You have `ssh` access to the machine using a public key
 - X-Window session with your user logged in
 - You do not need `root` access
