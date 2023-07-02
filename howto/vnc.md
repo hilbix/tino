@@ -29,7 +29,16 @@ Machine W: Windows 11
   - I do not think Windows ssh is worthwhile
   - Under Win 10 port forwarding did not work as expected, I never tried with Win 11
 
-Machine G: Gateway between D and X
+> Usually you do not want WSL2 nor the host to be reachable from the outside.
+>
+> Hence Machine D cannot connect to Machine W nor the VM there.  For this we do it backwards:
+> - WSL2 opens a connection to Machine G and there offers a tunnel back to it's `sshd`
+>   - This is more secure than opening the `ssh` port itself.
+> - Machine D then uses that tunnel on Machine G to connect to the `sshd` on WSL2
+>   - This connection then is used to open a connection to the VNC server running on the host
+>   - This is more secure than opening the VNC server port (or some other remote management) to the public
+
+Machine G: Gateway between D and W
 - This allows incoming `ssh` connections
 
 Preparation: Check that you can access Machine G from Machine D:
