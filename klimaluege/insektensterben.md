@@ -22,7 +22,7 @@ die seit spätestens 1991 von Bayer massiv vermarktet werden.  **Und das ist der
 > - Sie wirken nicht selektiv, sondern auf jedes Insekt.
 > - Sie wirken auch noch in extremster Verdünnung, weshalb es reicht, Saatgut mit diesen zu ummanteln, so dass die Aufnahme durch die Wurzel die gesamte Pflanze schützt
 > - Neonikotinoide wirken auf Luft-, Land- und Wasserinsekten gleichermaßen.
-> - Man kann auch verhindern, dass die Neonikotinoide ins Wasser gelangen
+> - Man kann nicht verhindern, dass die Neonikotinoide ins Wasser gelangen
 > - Man weiß, dass Wasserinsekten (Zooplankton) die Grundlage für so gut wie alle Wasserlebewesen sind die wir nutzen oder nicht nutzen
 > - Wie ausnehmend dumm muss man sich also stellen, um nicht zu erkennen, dass man damit die Fische weltweit ausrottet?
 > - In vielen Ländern ist Fisch die Hauptnahrungsquelle!
