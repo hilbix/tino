@@ -153,7 +153,7 @@ Und dafür gibt es viele Wege (Achtung!  Ich weiß nicht alles, evtl. fehlt da s
   - Verbot von Mikropastik, sofern es in die Umwelt gelangen kann (wie in Kosmetika)
   - Recyclingquote von Plastik (das sich im Wasser nur schwer zersetzt oder zu Mikroplastik werden kann) auf mindestens 99,999% erhöhen.
   - Aktive Beseitigung von allem Restplastik im Meer bis 2035.
-  - Chemieprodukte werden nur noch zugelassen, wenn jeglicher direkte oder indirekte negative Effekt auf die Meresfauna und -flora wissenschaftlich erwiesen ist.
+  - Chemieprodukte werden nur noch zugelassen, wenn jeglicher direkte oder indirekte negative Effekt auf die Meresfauna und -flora wissenschaftlich ausgeschlopssen ist.
   - Neuzulassung aller Chemieprodukte nur noch unter den neuen Bedingungen
   - 5 Jahre Gnadenfrist von Altprodukten, die Produktion wird dabei proportional heruntergefahren
 - Fossile Brennstoffe verbieten deren CO2-Anteil nicht kompensiert wird
