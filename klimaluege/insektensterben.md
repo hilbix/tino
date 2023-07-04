@@ -209,7 +209,7 @@ und die ganze Welt wird überrascht tun
 (hier steht es schon, aber ich habe ja keine Relevanz weil keine Reputation)  
 welch weitere ungeahnte weitere Katastrophen urplötzlich auf sie einstürmen  
 (ich hoffe nur, es kommt nicht noch schlimmer als ich befürchte)  
-und uns daran hintern, für die zukünftige Entwicklung rechtzeitig vorzusorgen
+und uns daran hintern, für die zukünftige Entwicklung rechtzeitig vorzusorgen  
 (z.B. Migrationsbewegnungen.  Die sind so vorhersagbar wie Weihnachten, derzeit werden sie über Massengräber wie das Mittelmeer gelöst).
 
 Vielen Dank, Klimawandel, dass es Dich gibt und Du dem Homo sapiens sapens dadurch alles Denken abnimmst.
