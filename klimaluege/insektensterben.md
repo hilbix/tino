@@ -9,7 +9,7 @@ Das Klima sei schuld, blah blubb.
 Genau das ist aber nicht der Fall.  Es ist richtig, dass die Insekten auf das Klima reagieren:
 
 > [Dr. Mark Benecke](https://youtu.be/AAi_I73kqcE):
-> "Dürre 2003.  Da hats auf einmal umsre ganzen Schmeissfliegen weggehämmert.  Wo man denken würde, die halten noch Hitze aus.
+> "Dürre 2003.  Da hats auf einmal umsre ganzen Schmeissfliegen weggehämmert.  Wo man denken würde, die halten doch Hitze aus.
 > Tun 'se aber nicht.  Da sin auf einmal nur noch Wespen an den Leichen und sowas gewesen.  Also das war sehr sehr merkwürdig."
 
 Aber der Hauptgrund, warum die Insekten in den letzten 30 Jahren derart abgenommen haben sind die [Nikotinoide](https://de.wikipedia.org/wiki/Neonicotinoide),
