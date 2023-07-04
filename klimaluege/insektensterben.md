@@ -145,6 +145,7 @@ Und dafür gibt es viele Wege (Achtung!  Ich weiß nicht alles, evtl. fehlt da s
   - Aktive Bewirtschaftung des Waldes kann die Dauer bis zur Kompensation sogar auf 75 bis 100 Jahre verlängern
 - Das Verbrennen von Holz verbieten
   - Besonders in Pelletheizungen, da diese rechnerisch einen CO2-Zunahmeeffekt bedeutet, der frühestens nach 100 Jahren, vermutlich aber erst nach 400 Jahren, kompensiert ist
+    > [Dr. Mark Benecke](https://youtu.be/AAi_I73kqcE): "Fucking Pellets"
   - Das gilt auch für Kamine etc.
   - Der verbrannte Holzanteil z. B. in Müllverbrennungsanlagen, muss auf technischem Weg (z.B. CO2-Abscheidung) kompensiert werden
   - Die Industrienationen müssen dabei den verbrannten Holzanteil der anderen Staaten mitkompensieren, den diese aufgrund von Nachholbedarf oder mangelnden Alternativen haben
