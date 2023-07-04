@@ -12,12 +12,10 @@ Genau das ist aber nicht der Fall.  Es ist richtig, dass die Insekten auf das Kl
 > "Dürre 2003.  Da hats auf einmal imsre ganzen Schmeissfliegen weggeämmert.  Wo man denken würde, die halten noch Hitze aus.
 > Tun 'se aber nicht.  Da sin auf einmal nur noch Wespen an den Leichen und sowas gewesen.  Also das war sehr sehr merkwürdig."
 
-
-## Die Insekten sterben dank der Pestizide
-
-
 Aber der Hauptgrund, warum die Insekten in den letzten 30 Jahren derart abgenommen haben sind die [Nikotinoide](https://de.wikipedia.org/wiki/Neonicotinoide),
 die seit spätestens 1991 von Bayer massiv vermarktet werden.  **Und das ist der Industrie auch schon mindestens seit dem letzten Jahrtausend bekannt.**
+
+## Die Insekten sterben dank der Pestizide
 
 > Einfacher Faktencheck:
 > - Neonikotinoide sind extrem wirksame Pestizide gegen Insekten.
