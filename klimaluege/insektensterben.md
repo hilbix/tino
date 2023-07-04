@@ -205,7 +205,7 @@ Selbst wenn wir das täten was beschlossen wurde
 (tun wir nicht und die gesteckten Ziele erreichen wir nicht einmal ansatzweise)  
 wird das nicht im geringsten ausreichen  
 (weil wir wirklich wirksame Maßnahmen nicht einmal in Erwägung ziehen)  
-und die ganze Welt wird überrascht tun 
+und die ganze Welt wird überrascht tun  
 (hier steht es schon, aber ich habe ja keine Relevanz weil keine Reputation)  
 welch weitere ungeahnte weitere Katastrophen urplötzlich auf sie einstürmen  
 (ich hoffe nur, es kommt nicht noch schlimmer als ich befürchte)  
