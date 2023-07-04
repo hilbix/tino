@@ -46,7 +46,7 @@ All das ist zwar rein wissenschaftlich richtig, aber ändert nichts an den Tatsa
 Das größte biolotische Massenaussterben in der Geschichte dieses Planeten - das der Insekten - ist menschengemacht.
 
 Genauer:  Deutschland geschuldet.  
-Genauer:  Der chemischen Industrie geschuldet.  
+Genauer:  Der hiesigen chemischen Industrie geschuldet.  
 Genauer:  Den Anteilseignern dieser Industrie, also vor allem Super- und Hyperreichen geschuldet.
 
 Nicht das Klima, die Milliardäre lassen unseren Planeten sterben.  Wenn sie etwas für den Planeten tun wollen, wirklich tun wollen,
