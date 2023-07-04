@@ -53,7 +53,8 @@ Nicht das Klima, die Milliardäre lassen unseren Planeten sterben.  Wenn sie etw
 kaufen sie diese Industrien und beenden ihr Geschäft.  Jetzt und sofort.
 
 Wenn sie das nicht tun ist es zu spät.  Tatsächlich aber könnte bereits zu spät sein.  Denn wenn wir vor 10 Jahren aufgehört hätten,
-Neonikotinoide tonnenweise in die Umwelt zu bringen, könnte es sein, dass das Artensterben einen ähnlichen Stand 
+Neonikotinoide tonnenweise in die Umwelt zu bringen, könnte es sein, dass das Artensterben trotzdem einen ähnlichen Stand erreicht hätte.
+Weil sich das Zeug noch lange anreichert bevor es wieder, zu langsam, aus der Natur verschwindet (oder sich diese anpasst).
 
 In Japan hat es nur einige 100 kg Neonikotinoide gebraucht, um einen besonders fischreichen See binnen 3 Monaten in eine Fischwüste zu verwandeln.
 Dort leben heute so gut wie keine Fische mehr.  25 Jahre Forschung war notwendig ums zu beweisen,
