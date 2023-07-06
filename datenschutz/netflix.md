@@ -264,4 +264,232 @@ Aus meiner Sicht jedenfalls ist erwiesen, dass Neflix in eklatanter Weise gegen 
 
 # Datenschutzbeschwerde 2023-07-06
 
-T.B.D.
+Netflix trackt Nutzer in unzulässiger Weise um die Einhaltung von ihnen aufgestellter Nutzungsbedingungen zu erzwingen.
+
+Leider habe ich versäumt, das ganze bei mir aufzuzeichnen.  Aber ich habe dafür 2 Zeugen.
+
+Was Netflix gemacht hat, kann und darf nicht mit der DSGVO vereinbar sein.  Anderenfalls ist die DSGVO nichts wert.
+Dann dürfen nämlich alle Unternehmen aus vollkommen nichtigen Gründen alles beliebige erfassen
+und dem Nutzer dabei jegliches Recht auf Widerspruch verweigern.
+Sie müssen dafür nur irgendeinen nichtigen wirtschaftlich für sie bedeutsamen Grund vorschieben.
+
+Ich denke auch, dass ich über die Art und Weise der Datenverarbeitung, nicht in verständlicher Weise aufgeklärt wurde.  Also:
+
+- Welche Daten sie in welcher Form erheben
+- Wie lange, wie und wo sie diese verarbeiten und speichern
+- Aufgrund welcher Rechtsgrundlage sie das tun
+- Und mit welchen anderen Daten sie diese zusammenführen
+
+Auch ist mir vollkomen schleierhaft, wie sie die von der DSGVO erforderliche Überprüfung der Legitimität der Daten bewerkstelligen wollen.
+Ohne ein solches mögliches Überprüfungsverfahren aber halte ich bereits die Erhebung der Daten für unzulässig!
+
+Ich bin seit über 20 Jahren (nebenberuflich) im Bereich Datenschutz im Internet tätig (also schon lange vor DSGVO).
+Internet "mache" ich seit über 30 Jahren professionell, und bilde mir deshalb ein, derartiges sogar recht gut beurteilen zu können.
+
+Mir ist jedenfalls KEIN Verfahren bekannt, wie es Netflix ohne Verstoß gegen alles, wofür die DSGVO steht, herausfinden kann,
+welche Geräte evtl. so verwendet werden, wie sie es gemäß ihrer Statuten NICHT wollen.
+Jedenfalls dürfte das, was ich erlebt habe, so auf keinen Fall zulässig sein.
+Als jemand vom Fach halte ich eine derartige Erkennung nur implementierbar, indem man einen eklatanten Datenmissbrauch treibt.
+
+Das, was Netflix macht, mag in den USA oder außerhalb Europas "gehen".  Aber innerhalb Europa, da bin ich mir sehr sehr sicher,
+ist es schlicht grob illegal (lies: Ein vorsätzlicher Verstoß gegen die DSGVO.
+ Hinweis: IANAL, d. h. ich verwende Umgangssprache, nicht juristische Begriffe).
+
+NETFLIX MUSS DAS WISSEN (da stellt sich der Vorstand nur so dumm, wie beim Betrug durch Unterlassen beim Dieselskandal)!
+ES KANN UND DARF NICHT SEIN, DAS DER PLATZHIRSCH DANK SEINER MARTKMACHT MIT SO ETWAS DURCHKOMMT.
+
+Man wird so durch Netflix gezwungen, entweder eine der beiden Angaben zu machen,
+oder eben den (bezahlten!) Dienst in (legitimer!) Weise nicht zu nutzen.
+
+Hier fehlt die ERFORDERLICHE Freiheit (bzw. Möglichkeit des Widerspruchs ohne Folgen), wie es die DSGVO vorschreibt!
+
+Ich sehe hier UNMITTELBAREN, SOFORTIGEN und NOTWENDIGEN Handlungsbedarf durch die Datenschutzbehörden,
+denn das betrifft potentiell MILLIONEN VON BÜRGERN in Deutschland!
+
+Bitte schreiten Sie SOFORT ein und UNTERSAGEN Sie Netflix folgende gängige Praxis:
+
+- Auf Geräten eine Datenerhebung zu starten, die ohne Verweigerungsmöglichkeit danach fragt, ob das Gerät zum Haushalt gehört oder man gerade auf Reisen ist!
+- Den Nutzern unmöglich zu machen, dem für die Erbringung der Leistung nicht notwendigen Personenbezug zwischen IP, Aufenthaltsort und Nutzer zu widersprechen indem sie ein VPN verwenden.
+
+Beides stellt in meinen Augen absolut unzulässige Einschränkungen der in der DSGVO verankerten Rechte der Nutzer von Netflix dar.
+
+Vielen Dank!
+
+Hinweise:
+
+- Ich veröffentliche diesen Text auch in meinem Blog.  Und wenn Sie es zulassen auch gerne Ihre Antwort.
+- Ich melde das an Sie in Bayern, weil ich in Bayern lebe.
+- Sie dürfen meine Beschwerde gerne frei weitergeben und/oder veröffentlichen, mit und ohne Namensnennung.
+- Sie dürfen das auch gerne an Netflix weitergeben.
+- Ich habe auch nichts dagegen, wenn mich Netflix deshalb kontaktiert, ich würde dort sehr gerne jemanden zusammenbrüllen.
+- Das angehängte PDF enthält nochmals den gesamten Text, für den Fall dass die Textbox nicht richtig übermittelt wurde.
+
+-------
+
+Was mich besonders auf die Palme bringt ist, dass Netflix offensichtlich darüber diskriminiert, welche Art von Gerät man gerade nutzt.
+
+Das bringt mich jetzt dazu, eine entsprechende Beschwerte bei Ihnen einzureichen.
+Diese wendet sich jetzt auch gegen andere Aspekte von Netflix, die ich bisher gewillt war zu dulden, weil ich dachte,
+ich habe es mit einem Unternehmen zu tun, das die Rechte der Nutzer in einer duldbaren vernünftigen Art und weise einschränkt,
+die noch im Bereich dessen ist, was ich als verständlich erachte.
+
+Diesen Bogen hat Netflix aber jetzt deutlich überspannt, ich würde sagen, die Sehne ist gerissen.
+Deshalb wende ich mich nicht nur gegen diese aktuelle neue Praxis, sondern auch gegen das (hörensagen) Verbot von VPN
+(ich habe noch nie wissentlich versucht, Netflix über VPN zu streamen, kenne mich damit also nicht aus, aber man hört ja so einiges).
+Soweit ich gehört habe versucht Netflix die Nutzung von VPNs zu erkennen und den Dienst entsprechend einzuschränken.
+Ähnlich wie bei der Netzneutralität darf es hier keine verschiedenen Serviceklassen bei Netflix geben.
+(Hinweis: Dieser Eiwand von mir hinsichtlich VPN gilt selbstverständlich nur für die Server, die sich an die deutschen Verbraucher wenden.
+Dies gilt also nicht für die Server von Netflix, die sich an Ausländer richtet, wie das Netflix Angebot aus den USA.
+Allerdings nehme ich an, dass gleiches auch für alle Server gilt, die Netflix für Nutzer in der EU betreibt.
+Mit "Nutzer in der EU" ist jeder gemeint, der sich innerhalb der Grenzen der EU aufhält, sei es als Bürger eines EU-Landes,
+Tourist oder sonstiger Ausländer, unabhängig ob der Aufenthalt legal oder illegal ist.  Die DSGVO unterscheidet da IMHO nicht.)
+
+Was ist passiert?  Auf einem von mir genutzten Smart-TV erschien plötzlich die Frage, ob ich auf Reisen bin!?!
+Nur auf diesem einem Gerät.  All die anderen Geräte fragten das nicht.
+
+> Wenn es nur eine Stichprobe war, ist es unzulässig.  Siehe oben, fehlende Freiheit keine Angabe zu machen.  
+> Wenn es nur ein Experiment war, ist es (um mit Dr. Seltsam zu sagen) noch unzulässiger,
+> denn dazu wäre es notwendig, vorher explizit die Zustimmung zu solchen Experimenten einzuholen.
+
+WAS HAT ES BITTE EINEN STRAMINGDIENST ZU INTERESSIEREN, WELCHE GERÄTE ICH WIE UND MIT WELCHER IP VERWENDE?
+
+Ich bezahle den Dienst.  Und ich nutze den Dienst auf zulässige Weise.  Außerdem verwende ich schon das "Maximalabo", mehr geht einfach nicht.
+
+Es ist nicht ersichtlich, dass dazu irgendeine weitere Datenerhebung als die minimal notwendige erforderlich wäre.
+
+Insbesondere dass sie überwachen, wann, wo, wie und wie oft ich auf welchen Geräten ihren Dienst nutze,
+das ist für die Bereitstellung des Dienstes ABSOLUT NICHT NOTWENDIG und NICHT DARSTELLBAR.
+(Das mag er Vertrieb von Netflix anders sehen.  Einen technischen Grund dafür gibt es jedenfalls nicht.)
+
+Dass sie im Bedarfsfall bei TECHNISCHER Notwendigkeit erweiterete Daten erfassen, geht in Ordnung.  Das mache ich auf meinen Diensten auch um Problemen nachzuspüren.  
+Dass sie derartige Daten evtl. in pseudonymisierter Weise erfassen, um statistische Auswertungen wirtschaftlicher Natur zu machen, ist von der DSGVO gedeckt (denke ich jedenfalls).  
+Darum handelt es sich hier aber eben genau nicht.  Es handelt sich um eine (meineserachtens) unzulässige Überwachung der Bürger,
+weil Netflix alle seine Nutzer unter Generalverdacht stellt, gegen ihre Nutzungsbedinungen zu handeln
+(unerheblich davon, ob diese Nutzungsbedingungen in dieser Form überhaupt deutschem Recht entsprechen oder nicht.
+Es geht mir hier nicht um die Verbraucherrechte, sondern ausschließlich um den Datenschutz.
+Evtl. aber wäre das auch für die Verbraucherorganisationen und Kartellbehörden interesseant.
+Der EuGH hat zu letzterem gerade ein entsprechendes Urteil gefällt).
+
+Genauso wie die Vorratsdatenspeicherung für Deutschland unzulässig ist, muss dasselbe genauso für Dienste wie Netflix gelten.
+Während aber die VDS nur die IP (nicht die Inhalte) erfassen soll, erfasst Netflix für seine (ihre?) Zwecke deutlich mehr weitergehende Daten
+wie z.B. das Gerät auf dem gerade Netflix läuft.
+
+Netflix verarbeitet dabei eben nicht nur die IP.  Ein anderes Gerät, mit derselben IP und demselben Account, hatte keine Einschränkungen!
+Das beweist, dass Netflix eben deutlich mehr als nur die IP zu diesem Zweck erfasst und verarbeitet hat.
+Wie geschrieben, pseudonymisiert zu statistischen Zwecken wäre das OK.
+
+Nicht in Ordnung ist es in meinen Augen aber, diese Daten mit dem Account zusammenzuführen.
+Jedenfalls nicht ohne Widerspruchsrecht ähnlich einem Cookie-Banner (Tracking).
+Daraus dann noch eine Abfrage zu bauen, die einem keine Wahl mehr lässt, macht daraus (für mich) eine offensichtliche Vorsätztlichkeit.
+
+Ich kann es nicht beweisen.  Aber für mich ist erwiesen, dass Netflix hier nur grob illegale Methoden verwenden kann,
+um genau das zu erreichen, was sie da gemacht haben.  Für mich ist deutlich mehr als nur ein bloßer "Anfangsverdacht".
+
+Mir war bewusst, dass Netflix meine IP bekommt.  Mir war aber nicht bewusst, dass Netflix sich die Freiheit herausnimmt,
+ggf. Einblick in intimsten Daten zu nehmen indem diese Daten mit dem Nutzer zusammengeführt werden.
+
+Die Information, wo ein Device steht, was es für ein Device ist und wann ich es wie verwende, das sind u.U. sehr intime Details.
+
+Notwendigerweise erfährt Netflix natürlich, wann ich ihren Dienst nutze.  Das kann man nicht verhindern.  
+Notwendigerweise erfährt Netflix meine IP.  Das ließe sich durch die explizite Erlaubnis von VPN verhindern.
+(In allen meinen im Internet bereitgestellten Diensten ist die Nutzung von VPNs deshalb explizit erlaubt,
+so setze ich nämlich als Einzelkämpfer das in der DSGVO geforderte Widerspruchsrecht TECHNISCH um.)
+
+Aber schon die Erfassung, um welches Device es sich handelt (ich bin mir ziemlich sicher,
+Netflix unterscheidet hier "zur Verbesserung des Nutzerergebnisses" zwischen Laptop, Browser, Smart-TV und Firestick)
+und wo (IP-mäßig) sich ein Device befindet,  
+um dann zu fragen, ob das Gerät zum Haushalt gehört oder ich auf Reisen bin,  
+das verlagert auch die (wenigen) technisch (absolut) notwendigen Daten in den intimsten Bereich der Lebensführung.
+
+Netflix verwandelt somit unabdingbar notwendigen Daten unnötigerweise in plötzlich besonders durch die DSGVO geschützte intime Daten!
+Mir fällt jetzt beim besten Willen kein Grund ein, wie jemand ein derart dummes Handeln vor seinen Anteilseignern rechtfertigen will.
+Aber vielleicht verstehe ich die Motivation von Netflix einfach auch nur grundlegend falsch.
+
+Denn intime Daten sind durch die DSGVO besonders geschützt und erfordern weitere harte Datenschutzmaßnahmen auf Seite von Netflix
+(die IMHO Netflix sicher nicht erbracht hat, dann wäre ihnen aufgegangen, dass diese Datenverarbeitung das zulässige Maß überschreitet).
+
+Bei mir stehen TVs jedenfalls auch in den Schlafzimmern.  Wenn Netflix trackt, was für ein Device jemand gerade nutzt,
+ob es zum Haushalt gehört oder gerade jemanden anderes besucht wird, so dringt das mit ziemlicher Sicherheit
+IN UNZULÄSSGER WEISE IN DIE INTIMSTE PRIVATSPHÄRE ALLER BÜRGER ein.
+
+Zwar ist es vielelleicht nicht so, dass Netflix jetzt tracken will,
+wer gerade mit wem schläft oder wer gerade (während er seinen Netflix-Account nutzt) bei welcher Hure zu Gast ist.
+Aber genau das geben die Daten her!  Man muss sie nur statistisch auswerten und mit
+\- frei zugänglichen Verzeichnissen wie Google Maps - abgeleichen.
+
+Für die DSGVO ist nicht relevant, ob das gemacht wird.  Es ist nur relevant, ob das gemacht werden kann.
+
+Bei mir trifft das zwar gerade nicht zu.  Aber wenn jemand z.B. seinen Netflix-Account auf das Smart-TV seiner Freundin installiert
+und dann immer nur nach (oder während) des Sex Netflix laufen lässt (das ist nur eine theoretische Überlegung),
+so könnte Netflix das - mit statistischen Methoden - ermitteln.
+Und ich bin mir sicher:  Die Anzahl der Menschen, die sich so verhalten, ist größer als 0.
+Das ist also mit ziemlicher Sicherheit schlicht die Wirklichkeit, in der wir leben.
+Und, egal was man davon halten mag, genau vor solcher Ausspähungen muss uns die DSGVO schützen!
+
+Und das zu tun ist (Stichwort KI und Big Data) heuzutage überhaupt kein Thema mehr.
+Dazu ist sogar (Stichwort Chat GPT) nicht einmal mehr ein besonderes Fachwissen notwendig.
+Alles, was man dazu braucht, ist der Datentopf, mit den Daten, die Netflix sich erlaubt,
+rein nur zu ihren ureigensten Zwecken zu erfassen, um sie gegen den Nutzer in Stellung zu bringen.
+(Aus genau diesem Grund halte ich die Verarbeitung dieser Daten für hoch-illegal.)
+
+Sollte Netflix behaupten, diese Daten zu pseudonymisieren, DANN LÜGT NETFLIX.
+
+Denn gemäß DSGVO existiert dann notwendigerweise ein Verzeichnis, das diese Daten depseudonymisiert und dem Netflix-Account zuordnet.
+Anderenfalls könnten sie auf dem Gerät keine entsprechende Anfrage einblenden, ob das Gerät zum Haushalt gehört oder man auf Reisen ist. 
+
+Aufgrund Google existiert ein weiteres Verzeichnis, das den Standort des Geräts oft sogar auf wenige Meter eingrenzen kann.
+Es ist UNERHEBLICH, ob Netflix das Verzeichnis nutzt.  ERHEBLICH ist, dass man mit dessen Hilfe und den so erhobenen Daten
+EINBLICK IN INTIME PRIVATE DETAILS nehmen kann (Netflix wendet sich ja nicht an Firmen sondern vornehmlich an Bürger).
+Wenn die DSGVO irgendetwas wert ist, dann darf das großen Unternehmen wie Netflix nicht erlaubt sein.  Insbesondere den Platzhirschen nicht!
+Und erst Recht nicht ohne adäquate Widerspruchsmöglichkeit (Netflix nicht zu nutzen ist nicht adäquat).
+
+Alleine dass man nur die Wahl zwischen 2 Möglichkeiten hat und nicht die Möglichkeit hat,
+"keine Angabe" zu machen, halte ich für einen eklatanten Verstoß gegen die DSGVO.
+(Gem. DSGVO hat die Erfassung solcher Informationen FREIWILLIG zu erfolgen, hier fehlt nicht nur das,
+sondern auch die Möglichkeit des WIDERSPRUCHS)
+
+Alleine schon, dass ein Unternehmen auf die Idee kommen könnte, eine Anfrage in dieser Form zu stellen,
+also dem legitimen Nutzer quasi die Pistole auf die Brust zu halten um aus ihm Informationen herauszupressen,
+halte ich für eine äußerst unverschämte Frechheit!  Dass sie das dann auch noch in die Tat umsetzen,
+muss man IMHO schon als maffiös bezeichnen (Der Pate: "Ich habe einen Vorschlag den Du nicht ablehnen kannst").
+
+-------
+
+Des Weiteren (Streiflicht VPN):
+
+Firmen wie Netflix haben - aufgrund der IP - eine sehr genaue Vorstellung davon - oft auf ein paar Meter genau - wo man sich gerade befindet.
+Grund sind Geolocation-Dienste wie Google sie anbietet.  Das lässt sich nicht ändern, da man ja auf die IP nicht verzichten darf.
+Netflix verbietet aber die Nutzung von VPNs.  Das alleine halte ich aus diesen Gründen sogar für absolut unzulässig.
+
+In Deutschland gehört (gem. EuGH) die IP zu den personenbezogenen Daten.  Die IP ist zur Erbringung der Leistung notwendig.
+Durch die Nutzung von VPNs kann man die IP verschleiern und so dem Personenbezug widerprechen.
+
+Was nicht ganz stimmt.  Auch VPNs können zur Herausgabe der Daten gezwungen werden, und man kann so den Nutzer widersprechen.
+Das ist aber IMHO kompliziert genug, dass dies in so gut wie allen Fällen unterhalb organisierter Kriminalität und Terrorismus
+nur selten erfolgen dürfte.  Sprich, insgesamt ist der Bürger bei Nutzung von VPNs vor Tracking sicher(er).
+Und das dürfte hinsichtlich Netflix ausreichen um dem Widerspruchsrecht der DSGVO in Sachen IP zu genügen.  (Meine Meinung jedenfalls.)
+
+Dass VPNs kostenflichtig sind (kostenfreie VPNs dürften für Streaming von Netflix jedenfalls keine Rolle spielen), das ist hier kein Hinderungsgrund.
+Auch der Internetanschluss kostet Geld, ein zusätzliches Abonnement eines VPN kostet dazu vergleichsweise wenig.
+Diese "notwendige Mitarbeit" der Nutzer eines Dienstes beim Widerspruch (also die Nutzung eines bezahlten VPN) kann man deshalb erwarten,
+genauso wie man erwarten kann, dass die Nutzer über einen (bezahlten) Internetanschluss verfügen.
+(Bei Nutzung eines freien wLAN dürfte es eh keinen Personenbezug geben, ein VPN ist dann nur zur Sicherheit anzuraten.)
+
+Die DSGVO erfordert jedenfalls eine (risikofreie und nichtdiskriminierende) Widerspruchsmöglichkeit.
+Wenn die Nutzung von VPNs eingeschränkt wird, schränkt dies die (effeltove) Widerspruchsmöglichkeit ein.
+Lies:  Sie als Datenschutzbehörde sollten das Diensten wie Netflix gegenüber bitte so deutlich klarstellen,
+dass diese nicht einmal auf die Idee kommen, VPN-Nutzer als Nutzer zweiter Klasse zu behandeln.
+Denn ich kann mir keine andere Möglichkeit vorstellen, wie ein Nutzer auf sichere Art und Weise der Nutzung der IP widersprechen kann.
+Alles andere benötigt das Vertrauen auf den Anbieter.  Dieses Vertrauen hat Netflix bei mir jetzt eindeutig verspielt.
+
+Die DSGVO muss den Nutzern auch eine Schutzmöglichkeit bieten, die Anbieter wie Netflix nicht grundlos einschränken dürfen.
+Der Grund muss dabei sehr hoher Natur sein, wie z. B. eine Gefahr für Leib und Leben bei Missbrauch mittels VPN.
+Dieses Level dürften einfache kommerzielle Diente im Internet, solche wie Netflix, aber regelmäßig nicht erreichen können.
+
+Wieder nur meine Meinung, aber auch meine Hoffnung.  Denn alles andere führt meineserachtens direkt in den Abgrund.
+Und aus mir spricht mehr als 30 Jahre detaillierte und tiefste Erfahrungen mit dem Internet, Netwerken, Internetprotokollen,
+Computer und Unix.  Allerdings habe sehe ich das alles nur aus meiner eigenen, ganz speziellen und rein technischen Blickrichtung.
+
+Ich jedenfalls werde jetzt die Nutzbarkeit von VPN für Netflix für mich eruieren.
+Alles, was es dazu in Sachen Datenschutz zu sagen gibt, habe ich hier aber bereits gesagt, ist also schon Teil dieser Beschwerde.
+
