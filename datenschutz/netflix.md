@@ -1,6 +1,6 @@
 # NetFlix
 
-Hallo Netfli auch.
+Hallo Netflix auch.
 
 Ich habe 3 Streamingdienste:
 
