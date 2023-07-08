@@ -1,5 +1,9 @@
 # Bilder-Jokes
 
+## 2023-07-09 Google SPAM
+
+![google-erkennt-sich-als-spam](img/google-erkennt-sich-als-spam.png)
+
 ## 2021-11-29 Omikron-Covidioten
 
 ![Covidioten und die Omikron-Variante](img/covidiots-omikron.png)
