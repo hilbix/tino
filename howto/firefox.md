@@ -17,6 +17,54 @@ However if FF restarts, it does not open the windows where they were,
 but instead somewhere else.   And where is completely unpredictable.
 
 
+## Local Login transfer between FF
+
+Here is how to import your logins from another FF without data leaving your computer:
+
+> Be sure to export the logins to something like a RAM disk:
+> 
+> - On Linux there is one in `/run/user/$UID/` nowadays.
+> - Remove the exported file afterwards
+>
+> You have crypt enabled for swap?  Right?
+
+- Before import
+  - `about:config`
+  - `signon.management.page.fileImport.enabled`
+  - `true`
+- `about:logins`
+  - Import from a File..." shows up at the `...` menu
+- After import
+  - `about:config`
+  - `signon.management.page.fileImport.enabled`
+  - `false`
+
+Why?
+
+**I am legally bound not to use features like `sync` in Firefox, because I am legally bound not to allow certain data to be transferred to a 3rd party.**
+Encryption makes no difference here.  As I am not able to understand what sync really does or not does, enabling Sync means that I commit a truly crimnal act.
+
+> Live with this.  YMMV.
+
+Hence to transfer logins from one FF to another, this data must not leave my controlled area.  Read:  It must be done in an offline fashion.
+
+However Mozilla [**disabled import** due to "performance issues"](https://support.mozilla.org/en-US/kb/import-login-data-file).
+
+WTF?  How can a feature, which you only use on demand, cause any performance issue?  It is built in already, so it cannot be code size,
+as the code size increases if you implement enable/disable on demand.  And as you can enable it on-demand, there cannot be any performance
+impact if you do not use it, else it would be illogical that this feature can be enabled/disabled on demand.
+
+> You can enable it, import, then disable again.  So this can be the workflow and makes performance issues impossible!
+>
+> Logic, please!
+>
+> BTW:  If file import causes performance issues to Sync, then disabling the non-culprit is the probably most horribly wrong solution you can chose.  Ever.
+
+This means:  **Either Mozilla lies to us** or **Mozilla is horribly incompetent**.  Chose one or both, but you cannot evade.  As its proven now.
+
+> As I cannot trust anybody who lies to me for no good reason, I hope that Mozilla only is incompetent.  YMMV.
+
+
 ## Disable Firefox Account
 
 Open `about:config` and toggle `identity.fxaccounts.enabled` to `false`
