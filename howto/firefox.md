@@ -120,7 +120,7 @@ which endangers people by downloding possibly trojaned version from the web inst
 
 FF56++ (until Mozilla decides to change it .. again .. and again .. as usual):
 ```
-for a in "$HOME/.mozilla/firefox/"*;
+for a in "$HOME"/.mozilla/firefox*/*;
 do
   mkdir -p "$a/chrome";
   f="$a/chrome/userChrome.css";
