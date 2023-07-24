@@ -43,9 +43,9 @@ Then you have to think about nothing.
 
 > ~~MiniCA is very well done.  It does one thing and, AFAICS, does it right as of today.~~
 >
-> The default expiry less than 2 years is too short.
+> The default expiry less than 3 years was too short for me.
 >
-> So I changed it to be able to set the expiry.
+> So [I changed it to be able to set the expiry](https://github.com/hilbix/minica).
 
 ```
 openssl x509 -in cacert.crt -text
