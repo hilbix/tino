@@ -41,7 +41,11 @@ That's usually everything you need to get started quickly.
 MiniCA has options.  Forget them.  Just stick to a hostname for server certificates and something looking like an eMail address (with a `@`) for client ones.
 Then you have to think about nothing.
 
-> MiniCA is very well done.  It does one thing and, AFAICS, does it right as of today.
+> ~~MiniCA is very well done.  It does one thing and, AFAICS, does it right as of today.~~
+>
+> The default expiry less than 2 years is too short.
+>
+> So I changed it to be able to set the expiry.
 
 ```
 openssl x509 -in cacert.crt -text
