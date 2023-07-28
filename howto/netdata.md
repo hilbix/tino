@@ -273,7 +273,7 @@ To protect you, your company and your customers and your data, always be sure to
 
 The clients are set up minimally.  They all run the probes and forward it to the NetData Host 10.0.0.2.
 
-The main configuration basically switches off everything like the Registry or the Web Interface.  The IPs shown there are chosen such, that they do noir defaults doin case somethingng:
+The main configuration basically switches off everything like the Registry or the Web Interface.  The IPs shown there are chosen such, that they do no harm in case something goes wrong (your firewall goes transparent).  But this assumes, you have no unprivileged foreign users in the same network and network namespace which is used by NetData for communication:
 
 `/etc/netdata/netdata.conf`
 ```
@@ -336,7 +336,7 @@ Following file **is the important part** and says to forward all data to the Net
 > There are plenty:  Netfilter, HaProxy, SSL client certificates, IPv6 Packet Security, whatever you like.
 > There is really no need to re-invent the wheel within something like NetData, again and again!
 
-Usually, NetData automatically detects all the services which can be monitored.
+Usually, **NetData automatically detects all the services which can be monitored**.
 
 If not or you want to change something, run:
 
@@ -364,8 +364,9 @@ have a look into the directory `~netdata` (the home of the `netdata` user).
 
 The host receives all the data from the other machines.  It also provides the Web interface.
 And it keeps the historic data.  Somewhat.  
-And in future, it will do all the postprocessing (like keeping all historic data) at my side, too.
 
+> And in future, it will forward the data to the real monitoring (Prometheus), too.
+>
 > NetData does not implement a suitable way to keep or view historic data.
 > With historic data I mean 10+ years retention, of course.
 > (Some of my services run over 25 years already!)
@@ -394,7 +395,8 @@ And in future, it will do all the postprocessing (like keeping all historic data
 # Special notes
 
 Note that most time the defaults of NetData are fine.
-Like for the Mysql module.
+
+> Like for the MySQL module which monitors MySQL.  But I do not use it.
 
 But sometimes I change things.  I note them here.  For me, not for you.
 
@@ -404,7 +406,7 @@ But sometimes I change things.  I note them here.  For me, not for you.
 > You probably do not need to use this configuration.
 > It is not a recommendation, but just something I do.
 
-My PostgreSQL config looks like this:
+My PostgreSQL config (for monitoring PostgreSQL) looks like this:
 
 `/etc/netdata/python.d/postgres.conf`:
 ```
@@ -426,4 +428,4 @@ such that I can see, that NetData got access to PostgreSQL.
 This also leaves the `postgres` user free for other things.
 
 Also, if something breaks (in `pg_hpa.conf`), NetData is locked out,
-such that I can detect it more quickly.
+such that I can detect it more quickly.   For examples with upgrades.
