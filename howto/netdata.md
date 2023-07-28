@@ -10,6 +10,98 @@
 
 # HowTo NetData
 
+## Comprehension
+
+    apt-get install netdata
+
+Not needed on Debian:
+
+    touch /etc/netdata/.opt-out-from-anonymous-statistics
+
+### Noted
+
+> Usually only needed if you have special demand
+
+    /etc/netdata/edit-config
+
+
+### Clients `10.0.0.x` with `x>2`
+
+`/etc/netdata/netdata.conf`
+```
+[global]                                                                              
+	run as user = netdata
+	web files owner = root
+	web files group = root
+	bind socket to IP = 127.0.0.1
+	memory mode = none
+
+[health]
+	enabled = no
+
+[web]
+	mode = none
+
+[registry]
+	enabled = no
+```
+
+`/etc/netdata/stream.conf`:
+```
+[stream]
+	enabled = yes
+	destination = 10.0.0.2:19999
+	api key = 00000000-0000-0000-0000-000000000000
+	timeout seconds = 60
+	send charts matching = *
+	buffer size bytes = 1048576
+	reconnect delay seconds = 5
+	initial clock resync iterations = 60
+```
+
+
+### Collector `10.0.0.2`
+
+`/etc/netdata.conf`:
+```
+[global]
+        run as user = netdata
+        web files owner = root
+        web files group = root
+        bind socket to IP = 127.0.0.1
+
+[web]
+        bind to  = 10.0.0.2:19999 127.4.0.1:19999
+
+[registry]
+        enabled = yes
+        registry to announce = http://127.4.0.1:19999
+```
+
+Still missing here:
+
+- Forward to Prometheus
+
+### Monitored Services
+
+#### PostgreSQL
+
+`/etc/netdata/python.d/postgres.conf`:
+```
+socket:
+    name     : 'local'
+    user     : 'netdata'
+    database : 'postgres'
+```
+
+`/etc/postgresql/*/main/pg_hba.conf`:
+```
+local all netdata peer
+```
+
+
+# TL;DR
+
 ## Preface
 
 ### First:
