@@ -104,6 +104,23 @@ local all netdata peer
 
 ## Preface
 
+Even that I do not recommend NetData for everybody, I use it, because it is so easy to setup automatically for standard services:
+Just push some static files and usually you are done, everything works out of the box as a no-brainer.
+
+The missing parts (why I do not consider this doc to be finished) are:
+
+- I need some time series database like Prometheus which receives the data and is able to keeps years of history
+  - NetData itself need an enormous amount of storage space to keep all data longer than a few days
+  - Prometheus must run OnPremise and gather the information from many different such NetData collectors
+- Adding my own metrics must be as simple as:
+  - `touch /var/tmp/mon/script1-120-alive` (alert if no touch within last 120s)
+  - `printf 'ts:%(%s)T\nrunning:%d\nnote:%q\n\n' -1 "${#ACTIVE[@]}" "$ACTIVE" >> /var/tmp/mon/service1-60-kv` (alert if no key:value after 60s)
+  - `socat unix-listen:$'/var/tmp/mon/service2-10-kv-send-read monitor-data\n',fork OPENSSL:127.0.0.1,cafile=/etc/service2/ca.pem,verify=1,certificate=/etc/service2/monitor.pem` (each 10s: open socket, send line "read monitor-data", read key:value response)
+  - I hope you get the idea
+  - A single process must be able to process hundreds of such entries within a second
+- Alerts
+
+
 ### First:
 
 As I really have absolutely no idea what the new dynamic documentation pages of NetData want to tell me,
