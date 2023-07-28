@@ -3,6 +3,7 @@
 > If you are puzzled, I am using [Hetzner Cloud](https://hetzner.cloud/).
 >
 > This cloud offers private networks like 10.0.0.0 to connect between the machines.
+> And machines without any external IP whatsoever.
 >
 > YMMV if you use another Cloud.
 
