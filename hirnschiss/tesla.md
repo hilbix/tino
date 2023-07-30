@@ -158,6 +158,33 @@ Nur mal so zum Vergleich:
 
 **Vergleichen wir das mal mit Byton:**
 
+> Update 2023-07-30: Byton gibt es nimmer.  In sofern habe ich mich geirrt.
+>
+> Allerdings lag das daran, dass ich, naiv wie ich bin, dem Konzept von Byton geglaubt habe.
+> Also daran glaubte, dass das kein Hoax ist, sondern eine Vision hatte wie die von Amazon.
+>
+> Amazon, wir erinnern uns, hat viele Jahre lang rote Zahlen geschrieben, bis eines der Konzepte aufging (und zwar AWS).
+> Das hätte mit Byton auch geschehen können, wenn die Vision der autonomen Fahrzeugflotte real gewesen wäre,
+> sie also einfach mit scheiß viel Geld über Selbstfahrer das Segment ÖNV/Leihfahrzeuge/Lieferdienste angegriffen hätten.
+> Aber lies Wikipedia: "Bedingt fahrfähiger Prototyp." Cargolifter lässt grüßen.
+>
+> (Sie scheinen das auf Corona schieben zu können.  Wäre deren Konzept aber eine reale Vision gewesen,
+> wäre klar gewesen, dass das vor 2040 nicht aufgehen kann.  Ergo muss es Hoax gewesen sein, denn sie haben wohl auf Lügen aufgebaut.)
+>
+> Das Konzept aber bleibt interessant.  Wer ein paar Billönchen (also mehrere 1000 Milliarden) übrig hat
+> und mit selbstfahrenden BEV den nichtprivaten Verkehrssektor angreift, könnte sich zu einem globalen Player
+> wie Amazon entwickeln.  Denn wer mit eigener Infrastruktur 20% des weltweiten Land-Transportwesens dominiert,
+> der holt sich diese Investitionen ganz sicher wieder rein.  Dazu muss man aber etwas langfristiger denken,
+> denn bis die Selbstfahrer so weit sind dass das aufgeht, ist es mindestens 2040, wenn nicht 2050.
+> Wer aber nicht heute damit anfängt, wird es bis dahin auch nicht schaffen, denn dazu muss es auch
+> öffentliche Infrastruktur geben, auf die man aufbauen kann, und diese per Lobby zu erschaffen,
+> das dauert Jahrzehnte.  (In sofern hatte Amazon dank des Internets ein viel leichteres Spiel.)
+>
+> Vielleicht steuert Tesla ja um.  Dazu müssten sie aber erst einmal Selbstfahrer entwickeln,
+> und meineserachtens geht das mit der von Tesla eingesetzten Technik schlichtweg nicht.
+> Außerdem befindet sich Tesla IMHO im komplett falschen Segment, sie entwickeln ja nicht einmal
+> passenden Nutzfahrzeuge.
+
 Hier halte ich es für wahrscheinlich, dass die Erfolg haben und Tesla den Markt wegnehmen.
 Einfach so.  Und wieso denke ich das?
 
