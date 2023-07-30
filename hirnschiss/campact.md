@@ -303,6 +303,16 @@ wie die Leber, die wir dadurch vernichten)!
 
 Eine der Katastrophen ist der Verlust der Lunge der Erde (das ist der boreale Nadelwald).
 
+> Hinweis 2023-07-30:  Hier irrte ich mich.  
+> [Die Lunge der Erde ist das Phytoplankton der Weltmeere](https://de.wikipedia.org/wiki/Phytoplankton)
+> Also das, was uns gerade wegstirbt.
+>
+> Der boreale Nadelwald hingegen war der CO2-Speicher der Erde.  Aber seit IKEA (nicht Hauptverursacher sondern Zeitmarke)
+> nimmt die Vernichtung des borealen Nadelwaldes stetig zu.  Dank der Förderung von Pelletheizungen und dieser
+> absurden Idee der CO2-Kompensation durch Bäumepflanzen, hat diese Vernichtung inzwischen ungeahnte Höhen erreicht.
+> Tendenz mit Nachbrenner senkrecht durch die Decke, versteht sich, wie alles, was wir für den Klimawandel tun.  
+> (Für, nicht gegen.  Läuft nämlich eigentlich alles ausnahmslos in die vollkommen falsche Richtung.)
+
 U.v.m.
 
 **Wer dabei nur von CO2 redet, der beweist damit nur, sorry, dass er das Problem offensichtlich nicht verstehen will.**
