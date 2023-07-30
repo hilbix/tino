@@ -448,15 +448,23 @@ Damit die Umweltsache funktioniert müssen FUNKTIONIERENDE Konzepte her.
 
 Ein funktionierendes Konzept wäre die oben beschriebene Kombination von Stadt-eAuto und ÖNV:
 
+> Korrektur 2023-07-30: Ich hatte AC (Wechselstrom) und DC (Gleichstrom) verdreht
+>
+> Zum Verständnis:  Es geht hier nicht um reichweitenstarke Autos, sondern um günstige Stadtautos.
+> Diese haben meistens nur einen einphasigen Lader bis 16A.  Und wenn sie über einen DC-Lader verfügen,
+> dann lädt dieser ultralangsam wegen des kleinen Akkus, der aufgrund der Ladekurve, also selbst, wenn er mit 2C geladen wird,
+> trotzdem keine 100km Autobahnreichweite in 30 Minuten bringt.  Man hüfpft also von Schnellader zu Schnellader
+> und blockiert den dann auch noch länger als andere Autos!
+
 - Das Stadt-eAuto ist in der Regel ein Laternenparker.
 - Der Akku hält um die 100km, hat also nur eine Kapazität von 20kWh (vgl. normale Blei-Autobatterie hat ca. 1kWh)
-- Diese Autos brauchen keine AC-Lademöglichkeit, aber einen 3-Phasen-Lader (also genau das Gegenteil dessen, was die Autobauer derzeit verbauen)
+- Diese Autos brauchen keine DC-Lademöglichkeit, aber einen 3-Phasen-Lader (also genau das Gegenteil dessen, was die Autobauer derzeit verbauen)
 - Bei einer 1qm Solarzelle auf dem Dach würde ich ca. 1km Reichweite (200 Wh) pro Tag erwarten.
-- Diese Autos können bei Aldi usw. (meist kostenlos) mit 3xDC 16A dreiphasig (11 kW) nachgeladen werden.  (4kWh bei ca. 22 Minuten)
-- Nachladen ist oft am Arbeitsplatz möglich, dort aber nur 1xDC 10A (2kW), was aber ausreicht.
+- Diese Autos können bei Aldi usw. (meist kostenlos) mit 3xAC 16A dreiphasig (11 kW) nachgeladen werden.  (4kWh bei ca. 22 Minuten)
+- Nachladen ist oft am Arbeitsplatz möglich, dort aber nur 1xAC 10A (2kW), was aber ausreicht.
 - Solche Autos sollten weniger als 10 KEUR kosten
 - Wichtig ist auch die erlaubte Ladezeit:  Diese dürfen ab 16:00 oder bis 10:00 Uhr und Sa/So ganztägig an der Ladesäule stehen (Also Fr. 16:00 bis Mo 10:00).
-- Längere Strecken bewältigt man bei diesem Auto nicht per AC-Ladung sondern per E-Auto-Zug.
+- Längere Strecken bewältigt man bei diesem Auto nicht per DC-Ladung, sondern per E-Auto-Zug.
 
 Hinweise:
 
