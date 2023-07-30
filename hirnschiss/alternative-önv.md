@@ -496,7 +496,7 @@ Es wird dann nur wenige Stadt-eAutos geben und der Benziner wird dominierend ble
 >
 > Es ist also nicht nur sinnvoll sondern auch angemessen, wenn man dies als Kriterium setzt.
 >
-> Was bedeutet das?  Ein eAuto verbraucht bei 150km/h ca. 40kW/100km.  Bei 40kW nutzbar im Akku hat man alle 2h einen Ladestopp.
+> Was bedeutet das?  Ein eAuto verbraucht bei 150km/h ca. 40kW/100km.  Bei (2023-07-30 Korrektur: Da stand vorher 40kW, was natürlich vertippst war wegen der 2h) 80kW nutzbar im Akku hat man alle 2h einen Ladestopp.
 > Bei 8h bedeutet das 3 Ladestopps (man fährt voll los und kommt leer an).  150km/h Durchschnitt sind 6h 10min.
 > Die Ladestopps dürfen also etwas über 1h dauern (Anfahrt/Abfahrt).  Das bedeutet also, man muss mit mindestens 80kW laden können.
 >
