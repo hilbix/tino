@@ -6,12 +6,12 @@ Ich habe keine Ahnung, wohin die Rezensionen bei Aliexpress gehen, da ich den Vo
 > Es ist also Meinung und keine Werbung und entspricht der jeweils vorläufigen wahren Meinung von mir als ich das schrieb.
 >
 > Die Darstellung ist u.U. verkürzt und soll auch keinerlei messbare Kriterien einhalten.  Bitte beachten:  
-> Die Haltbarkeit einer Aussage im Internet ist grundsätzlich nach oben durch die [Planckzeit](https://de.wikipedia.de/Planck-Zeit) beschränkt.
+> Die Haltbarkeit einer Aussage im Internet ist grundsätzlich nach oben durch die [Planckzeit](https://de.wikipedia.org/wiki/Planck-Zeit) beschränkt.
 
 
 ## Akkus
 
-### Alu 18650 Mini-Powerbank ohne Backupfunktion
+### Alu 18650 Mini-****Powerbank ohne Backupfunktion
 
 > https://de.aliexpress.com/item/1005004291268182.html
 
