@@ -56,7 +56,7 @@ Dann das Orga-Profil vervollständigen:
 - **Sponsors update email (Private)**: Ich habe keine Ahnung was das ist
 - **Update profile**
 
-Unten gibt es dann noch Schritt 4 unten.
+Unten gibt es dann noch Schritt 5 unten.
 
 Diesen kommt logischerweise aber erst, nachdem man eine Domain registriert hat.
 
@@ -151,7 +151,7 @@ git push --tags
 ```
 
 
-## Schritt 2: Domain für Pages im Repo aktivieren
+## Schritt 3: Domain für Pages im Repo aktivieren
 
 - <https://github.com/$ORG/www/settings/pages>
 - **Source**: `Deploy from a branch` (keine Ahnung was das andere macht)
@@ -174,12 +174,12 @@ git push --tags
 > Z.B. Scripte, die statische Inhalte generieren uvm.
 
 
-## Schritt 3: Pages sinnvoll befüllen
+## Schritt 4: Pages sinnvoll befüllen
 
 T.B.D.
 
 
-## Schritt 4: Domain bei GitHub für Orga registrieren
+## Schritt 5: Domain bei GitHub für Orga registrieren
 
 > Optional, gilt außerdem nur für Orgas
 
