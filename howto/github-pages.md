@@ -153,8 +153,7 @@ git push --tags
 
 ## Schritt 2: Domain für Pages im Repo aktivieren
 
-<https://github.com/$ORG/www/settings/pages>
-
+- <https://github.com/$ORG/www/settings/pages>
 - **Source**: `Deploy from a branch` (keine Ahnung was das andere macht)
 - **Branch**: `master` `/docs` **Save**
   - So lange der "master" bei Unis nicht auch abgeschafft ist ..
