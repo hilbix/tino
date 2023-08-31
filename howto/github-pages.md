@@ -128,21 +128,23 @@ git config --global "url.git-github.com+$ORG-www:$ORG/www.git.insteadOf' "https:
 ~/.ssh/.add '' "$ORG"
 ```
 
-Unter <http://github.com/$ORG/www/settings/keys> **schreibbaren Deployment-Key** eintragen
+Unter <http://github.com/$ORG/www/settings/keys> den **schreibbaren Deployment-Key** eintragen
+(dieser wird von meinem `~/.ssh/.add` entsprechend generiert und angezeigt.  YMMV):
 
-> Das obige braucht <https://github.com/hilbix/gitstart> für die Kommandos
+> Das braucht <https://github.com/hilbix/gitstart> für die Kommandos wie
 > `git empty` und `~/.ssh/.add`.
 >
 > Aus Sicherheitsgründen verwende ich nämlich nur Deployment-Keys,
-> denn bei Nichtverwendung werden die automatisch entfernt.  
+> denn bei Nichtverwendung werden die automatisch entfernt.
+>
+> YMMV, dieser Part hier ist halt primär für mich selbst gedacht.
 
-Anschließend
+Anschließend:
 
 ```
 git push -u origin master
+git push --tags
 ```
-
-Nun noch die Einstellungen korrigeren.
 
 
 ## Schritt 2: Domain für Pages im Repo aktivieren
@@ -161,12 +163,12 @@ Nun noch die Einstellungen korrigeren.
 - Ich empfehle: `Haken setzen` bei **Enforce HTTPS**
   - kann man aber auch weglassen
 
-Warum `/docs`?
-
-Weil es blöd ist, wenn es aus dem Hauptverzeichnis kommt.
-Kommen die Seiten aus einem Unterverzeichnis,
-kann man im Repo noch weitere Dinge problemlos erfassen.
-Z.B. Scripte, die statische Inhalte generieren uvm.
+> Warum `/docs`?
+>
+> Weil es blöd ist, wenn alles aus dem Hauptverzeichnis kommt.
+> Kommen die Seiten aus einem Unterverzeichnis,
+> kann man im Repo noch weitere Dinge problemlos erfassen.
+> Z.B. Scripte, die statische Inhalte generieren uvm.
 
 
 ## Schritt 3: Pages sinnvoll befüllen
@@ -178,9 +180,9 @@ T.B.D.
 
 > Optional, gilt außerdem nur für Orgas
 
-Wenn man das macht, erlaubt GitHub niemandem sonst
-die Domain ebenfalls zu verwenden.  Sonst könnte jeder
-einen entsprechenden `CNAME` anlegen (siehe Schritt 3).
+> Wenn man das macht, erlaubt GitHub niemandem sonst
+> die Domain ebenfalls zu verwenden.  Sonst könnte jeder
+> einen entsprechenden `CNAME` anlegen (siehe Schritt 3).
 
 - <https://github.com/organizations/$ORG/settings/pages>
 - **Add a domain**
@@ -201,5 +203,4 @@ _github-pages-challenge-$ORG A TXT $CODE
 
 > In meinem Zonengenerierungstool kommt dafür folgende Zeile dazu:  
 > `:txt _github-challenge-$ORG $CODE`
-
 
