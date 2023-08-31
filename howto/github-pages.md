@@ -56,7 +56,11 @@ Dann das Orga-Profil vervollständigen:
 - **Sponsors update email (Private)**: Ich habe keine Ahnung was das ist
 - **Update profile**
 
-Unten gibt es dann noch Schritt 
+Unten gibt es dann noch Schritt 4 unten.
+
+Diesen kommt logischerweise aber erst, nachdem man eine Domain registriert hat.
+
+
 ## Schritt 1: Domain aufsetzen
 
 ```
