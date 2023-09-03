@@ -1,8 +1,13 @@
+> Update 2023-09-03: Verlinkung zum Screenshot nachgeholt
+
 # WTF
 
 ## FAZ
 
+![VW wird mit elektrischem Stuhl beworben.  Oder wie darf ich das verstehen?](img/20200807-094032-faz.png)
+
 Das fand 2020-08-07 statt, aber ich vergaß es zu committen.
+
 
 ### Familienfreundlicher Elektrische Stuhl
 
