@@ -218,8 +218,7 @@ Die Deepfakes sowieso.  Aber auch die realen Fotos.
 Die Deepfake-AI kann sich also hinter der Kamera-AI verstecken.  Eine reine Erkennung, ob es sich um
 ein AI-generiertes Bild handelt oder nicht reicht damit nicht mehr aus, um Deepfakes zu erkennen.
 
-Da aber die Deepfake-Erkennung nicht alle Kameramodelle und alle in den Kameras eingesetzten AIs kennen kann,
-- außer das wird gesetzlich geregelt und die müssten ihre Software offenlegen, was ganz sicher nicht passiert -
+Da aber die Deepfake-Erkennung nicht alle Kameramodelle und alle in den Kameras eingesetzten AIs kennen kann, - außer das wird gesetzlich geregelt und die müssten ihre Software offenlegen, was ganz sicher nicht passiert -
 steht man nun vor einem Unentscheidbarkeitsproblem:
 
 - Ist es ein Deep-Fake, der lediglich so tut als sei er eine unbekannte Kamera-AI
