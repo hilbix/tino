@@ -1,3 +1,16 @@
+> Leser lesen nur die Überschrift und gehen dann zum nächsten Artikel weiter. Steht in der Überschrift eine Lüge ist das ein Fall für Lügenpresse.
+>
+> Wenn die Überschrift im Text irgendwo klein richtigestellt wird, sich also der Artikel selbst widerspricht, bleibt es dennoch eine Lüge.
+>
+> Deshalb wird es in Zukunft gar nichts mehr anderes geben als Lügenpresse.
+> Oder anders gesagt:
+>
+> Jeder wird in seiner eigenen Filterblase glücklich werden können.
+> Dank geeigneter Deepfakes können wir gar nicht mehr entscheiden, was wahr oder falsch ist!
+>
+> Ob das gut oder schlecht ist?  Entscheidet selbst!
+
+
 # Wir haben den Kampf gegen Deepfakes schon verloren
 
 Inzwischen gibt es AIs, die Deepfakes erkennen können.  Also alles gut?
