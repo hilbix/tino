@@ -46,7 +46,7 @@ Not needed on Debian:
 	enabled = no
 
 [plugin:apps]
-        update every = 30
+        update every = 5
 ```
 
 `/etc/netdata/stream.conf`:
@@ -81,7 +81,7 @@ Not needed on Debian:
         registry to announce = http://10.0.0.2:19999
 
 [plugin:apps]
-        update every = 30
+        update every = 5
 ```
 
 `/etc/netdata/stream.conf`:
