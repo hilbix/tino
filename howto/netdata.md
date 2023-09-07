@@ -44,6 +44,9 @@ Not needed on Debian:
 
 [registry]
 	enabled = no
+
+[plugin:apps]
+        update every = 30
 ```
 
 `/etc/netdata/stream.conf`:
@@ -62,7 +65,7 @@ Not needed on Debian:
 
 ### Collector `10.0.0.2`
 
-`/etc/netdata.conf`:
+`/etc/netdata/netdata.conf`:
 ```
 [global]
         run as user = netdata
@@ -71,16 +74,55 @@ Not needed on Debian:
         bind socket to IP = 127.0.0.1
 
 [web]
-        bind to  = 10.0.0.2:19999 127.4.0.1:19999
+        bind to  = 10.0.0.2:19999
 
 [registry]
         enabled = yes
-        registry to announce = http://127.4.0.1:19999
+        registry to announce = http://10.0.0.2:19999
+
+[plugin:apps]
+        update every = 30
+```
+
+`/etc/netdata/stream.conf`:
+```
+[stream]
+        enabled = no
+        destination =
+        api key =
+        timeout seconds = 60
+	default port = 19999
+        send charts matching = *
+        buffer size bytes = 1048576
+        reconnect delay seconds = 5
+        initial clock resync iterations = 60
+
+[00000000-0000-0000-0000-000000000000]
+        enabled = yes
+        allow from = 10.*
+        default history = 3600
+        default memory mode = ram
+        health enabled by default = auto
+        default postpone alarms on connect seconds = 60
+        multiple connections = allow
 ```
 
 Still missing here:
 
 - Forward to Prometheus
+
+
+### Settings explained
+
+`/etc/netdata/netdata.conf`:
+```
+[plugin:apps]
+        update every = 30
+```
+
+This runs `apps.plugin` only two times each minute and hence reduces the load of `apps.plugin` to some
+probably bearable value, else with the default `update every = 1` it hits 100% CPU at my side quite too often.
+
 
 ### Monitored Services
 
@@ -98,6 +140,57 @@ socket:
 ```
 local all netdata peer
 ```
+
+# Workaround for NetData bugs
+
+## `apps.plugin`
+
+- <https://learn.netdata.cloud/docs/data-collection/apm/application-monitoring> (this link may break in 0.1 microseconds)
+
+The standard `apps.plugin` usually consumes enourmous amounts of CPU.  It even hits 100% CPU quite easily.
+Hence it's use must be limited, see above.
+
+On most of my systems (80%) the load of `apps.plugin` is unbearable high.
+On some single processor VMs it even can max out the single CPU even when everything is idle.
+
+According to NetData's web and support site, this seems to be either unknown or highly unusual.
+However this is what I see.  Everywhere.
+
+AFAICS the high load is due to scanning all threads each second.
+
+> This is what I assume and how I break down my theory.
+
+On my workstation (16 CPUs, 128 GB RAM) `apps.plugin` needs around 1% CPU for scanning 1000 threads.
+Usually there are 25k threads around when the workstation is idle (hence I see 25% CPU on `apps.plugin`).
+When I really do work, the number of threads may even spike to more than 100k threads.
+Then `apps.plugin` becomes 100% CPU.
+
+AFAICS the high load is due to it scanning `/proc/*/task/*/status`.  `go` programs, and I run hundreds of them
+in background, usually use NumCPU+2 threads.  And even simple JAVA programs consume thousand threads or more.
+Of course all these programs I run are pretty standard and usually are part of Debian/Ubuntu.
+
+Even on a standard install of a Raspberry PI, `apps.plugin` can eats 25% of CPU these days.
+Which is pretty bad.
+
+**Hence limiting `apps.plugin` is a must!**
+
+> Perhaps I once will find the time to look into this plugin to dramatically reduce the load of it.
+> For example:
+>
+> - We do not need to scan all threads each seconds, only the threads of busy applications.
+> - We we do not need to read stats each iteration for applications which are detected to be very idle.
+> 
+> If we cleverly scan only 1 permille of what is scanned today, CPU utilization would drop dramatically.
+> And I am pretty sure, this can be archived without major burden!
+
+The trick is to set `update every` to something high enough, like `30`, so it only runs all 30 seconds,
+thereby reducing the load by factor 30.
+
+> I do not want monitoring to consume more than approx. 1% of total CPU used.
+>
+> This means, if a machine only uses 1% CPU for what it does, monitoring should not use more than
+> 1% of that 1% CPU.  And on some fully idle machine it should use barely no CPU at all,
+> except reporting "nothing happens here".
 
 
 # TL;DR
