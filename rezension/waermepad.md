@@ -5,6 +5,8 @@
 
 # <https://www.amazon.de/dp/B0C597HF35> Je 10 Pads 0.5/1.0/1.5mm in knapper Größe für NVMe-SSDs
 
+> Ich bekam sie für 4,79€ und habe nochmals 2 Mal für 6 EUR nachgekauft
+
 Es wurden 10 dünne, 10 mittlere und 10 dicke Pads geliefert.  Vermutlich (ich habs nicht nachgemessen) 0,5mm, 1,0mm und 1,5mm.  Damit wie versprochen.  Die Pads wurden direkt von Amazon in meinen Briefkasten geliefert und kamen deshalb auch unversehrt (lies: unzerknittert) an.
 
 Auch wenn die Wärmeleitfähigkeit dieser Pads mir zu gering für die gemachten Angaben erscheint, gibt es für 3x10 Pads gerade mal zum Preis eines Döners absolut nichts zu meckern!  (Ich bekam sie über ein zeitlich beschränktes Angebot sogar 20% günstiger.)
