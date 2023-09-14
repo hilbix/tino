@@ -121,6 +121,11 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2023-01-28 Das Zeichen von Irrsinn ist, etwas immer wieder zu versuchen und ein anderes Ergebnis zu erwarten. Artikel zu editieren habe ich in den ersten 10 Jahren des Bestehens der Wikipedia mehrfach versucht (über 10 Mal). Kein einziger Versuch war auch nur irgendwie im Ansatz erfolgreich. Nicht einmal bei der Korrektur von Tippfehlern. Deshalb beschränke ich meine Beiträge seitdem auf die Diskussion.
 
 - 2023-05-19 Wäre die Zeit nicht gequantelt, gäbe es aufgrund der Einsteinschen Relatitvitätstheorie keine Zeitpunkte.
+  - 2023-09-14 Nachträgliches Korollar:  
+    Wäre die Zeit nicht gequantelt würde ein (theoretischer) Warp-Antrieb zu einer Zeitmaschine, indem man mit hoher Frequenz zwischen 2 Orten hin- und herwarpt und dabei immer den Ältesten Zeitpunkt vom resultierenden Zeitintervall wählt.
+    Zeitreisen innerhalb eines Universums lösen aber Paradoxien aus.  Weil die Quantentheorie existiert, damit wir dem mathematischen Unbestimmtheitsparadoxon von Gödel entkommen, gehe ich davon aus, im Universum existieren keine derart einfachen Paradoxien.  
+    Sofern es für jeden Zeitpunkt unendlich viele Paralleluniversen gibt, können Übergänge zu diesen eine Zeitmaschinen emulieren, indem man ähnliche Paralleluniversen sucht, die lediglich im Zeitpunkt abweichen.  
+    Das wäre dann sogar deutlich abgefahrener als bei Rick &amp; Morty.
 
 - 2023-08-01 Die Haltbarkeit einer Aussage im Internet ist grundsätzlich nach oben durch die [Planckzeit](https://de.wikipedia.org/wiki/Planck-Zeit) beschränkt.
 
