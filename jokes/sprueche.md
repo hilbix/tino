@@ -123,3 +123,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2023-05-19 Wäre die Zeit nicht gequantelt, gäbe es aufgrund der Einsteinschen Relatitvitätstheorie keine Zeitpunkte.
 
 - 2023-08-01 Die Haltbarkeit einer Aussage im Internet ist grundsätzlich nach oben durch die [Planckzeit](https://de.wikipedia.org/wiki/Planck-Zeit) beschränkt.
+
+- 2023-09-14 Warum klingelt mein Smartphone immer just dann, wenn ich es nicht auf die Toilette mitgenommen habe?
