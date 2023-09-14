@@ -130,3 +130,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2023-08-01 Die Haltbarkeit einer Aussage im Internet ist grundsätzlich nach oben durch die [Planckzeit](https://de.wikipedia.org/wiki/Planck-Zeit) beschränkt.
 
 - 2023-09-14 17:00 Warum klingelt mein Smartphone immer just dann, wenn ich es nicht auf die Toilette mitgenommen habe?
+
+- 2023-09-14: Was ist der Unterschied zwischen Klimawandel und IPv6?  Wenn wir unsere Unfähigkeit erkannt haben, den Klimawandel in den Griff zu bekommen, werden wir uns ihm zähneknirschend anpassen.  Bei IPv6 wird uns das nicht gelingen ..
