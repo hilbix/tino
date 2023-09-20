@@ -13,11 +13,102 @@ Fündig wurde ich bisher leider nicht.  Hier aber die Rezensionen, die ich dazu 
 Damit ich sie wiederfinde und sie nicht verlorengehen.
 
 
+## CSL - USB 3.2 Gen2 Hub aktiv inkl. Netzteil - 4 Port Hub/Verteiler
+
+> Bezieht sich auf <https://www.amazon.de/dp/B0BXMKFXS1>
+>
+> 3 Sterne
+
+**Hub bedingt brauchbar, Tablet wird mit fast 8W geladen, Netzteil verbesserungswürdig**
+
+Ich möchte ein Tablet dauerhaft per USB an den Computer anschließen.  Bei eingeschaltetem Display zieht das Tablet etwa 6W.  Der Verbrauch des Tablets steigt im Betrieb bis 9W und kann kurzzeitig durchaus 11W erreichen.  Das Szenario ist also:
+
+- Das Tablet wird mit seinem Kabel an einen der 4 USB-Ports vom Hub angeschlossen.
+- Der Computer wird über das mitgelieferte Kabel an den Hub angeschlossen.
+- Das Netzteil versorgt dann das Tablet mit ausreichend Strom, damit es sich nicht entlädt.
+- Der Computer kann als USB-Host mit dem Tablet eine Verbindung aufnehmen.
+
+(Hintergrund ist Android Development, z.B. "adb devices".)
+
+Dies alles kann - mit Einschränkungen - mit diesem Hub tatsächlich erreicht werden und ist schoneinmal eine Empfehlung für diesen Hub.  Andere Hubs (inbesondere solchen mit OTG und PD) haben bei mir in dieser Hinsicht kläglich versagt, teils weil sie sich zu akribisch an den USB-Standard halten, aber auch mit evtl. gefährlich aussehenden Nebenwirkungen.  All diese typischen "Problemchen" konnte ich bei diesem Hub bisher nicht entdecken.
+
+Mein altes Tablet kann an diesem Hub nur geladen werden (keine Datenübertragung).  Mein neuestes Tablet hingegen kann, während es geladen wird, auch über Daten angesprochen werden.
+
+Der Hub liefert bei mir bis zu 7,9W an das Tablet, was bedeutet, dass sich das Tablet gerade so noch leicht aufladen kann.  Der Akku wird also nur zur Pufferung bei höherer Belastung genutzt.  Leider reicht der Hub eben nicht aus, um das Tablet in allen Phasen vollständig mit Energie zu versorgen, dazu müsste er deutlich mehr als 2,5A abgeben können.
+
+Dass er das nicht kann war aber beim Kauf bekannt (siehe Technische Daten), deshalb kein Abzug von Sternen.  CSL täte aber gut daran, ein deutlich stärkeres Netzteil beizulegen, so dass man auch einen aktuellen Raspberry-PI 4 damit betreiben könnte.  Dieser braucht bis zu 3A, d.h. das Netzteil sollte 3,2A und stabile 5V (oder besser 5,1V) liefern, und zwar nicht nur am Netzteilausgang sondern am Stromeingang vom Hub.  Bei dem aufgerufenen Preis für das Netzteil muss das einfach drinnen sein!
+
+Ohne Netzteil wird das Tablet übrigens gar nicht mit Strom versorgt (0W und 0A), es werden lediglich die Daten transferiert.  In sofern wäre der Hub ohne Netzteil für mich vollkommen nutzlos!
+
+Für mich ist eine Notwendigkeit, dass der Hub nach Stromausfall die Stromversorgung zum Tablet wiederherstellt.  Dies ist hier gegeben.  Der Hub versorgt das Tablet auch mit Strom, wenn der Computer abgeschaltet oder gar nicht angesteckt ist.  Auch das ist genau das, was ich benötige.
+
+Real bedeutet das übrigen, dass der Hub hier höchstwahrscheinlich die USB-Spezifikation nicht vollständig einhält und statt den Strom am Port mit dem Gerät auszuhandeln, einfach den vollen "Saft" auf den Port gibt.  Was aber genau das ist, was man in meinem Fall braucht!  Deshalb auch kein Abzug von Sternen dafür!
+
+Anders gesagt, die Konstrukteure dieses Hubs haben etwas zusammengebaut, was man als Verbraucher tatsächlich benötigt, statt sich akribisch an die Standards zu halten (dies führt aber u.U. zu Problemen, siehe weiter unten).  Das Marketing hat dann das Netzteil hinterrücks wieder "kaputtgespart".  Jenfalls ist es das meine Meinung und entspräche voll dem total normalen Wahnsinn unserer Jetztzeit.
+
+Gemäß USB-Standard würde das Tablet nämlich nur mit max. 2,5W versorgt, bis Computer und Tablet mehr aushandeln.  Da der Computer das nicht tun würde (weil er davon nichts weiß oder noch gar nicht angeschlossen wurde) gibt es eigentlich keine andere sinnvolle Möglichkeit, als es so zu machen, wie dieser Hub.
+
+Indiz für die Standardabweichung ist für mich, dass die bei mir eingesetzten messenden Ladekabel beim einseitigen Einstecken in den Hub sofort eine vorhandene Stromversorgung mit 5,3V anzeigen.  Die Kabel sind für PD bis 120W zertifiziert, steckt man sie in den Computer an USB-3 oder standardkonforme Hubs oder PD-Ports, dann zeigen sie keinerlei Stromversorgung an, bis diese mit dem jeweiligen Gerät ausgehandelt wurde.  In diesem Fall hängt aber noch gar kein Gerät (das Tablet) dran und trotzdem sehe ich die Stromversorgung.  IMHO lässt die USB-Spezifikation solche "Grundstromversorgungen" zu, allerdings nur bei 5V bis max. 0,5A (also mickrige 2,5W, um billige USB-Kabel nicht zu überlasten, was ja zu Hausbränden führen könnte).
+
+Deshalb:  Wenn man den Hub mit angeschlossenem Netzteil benutzt, unbedingt immer nur hochwertige Kabel verwenden, die bei einem Kurzschluss auch einen Strom von knapp 2A dauerhaft aushalten ohne dabei Feuer zu fangen.
+
+Da das von mir eingesetzte Ladekabel erlaubt übrigens nur USB-2-Geschwindigkeit (also 480 MBit/s), deshalb habe ich die versprochenen USB 3.2 Gen 2 (also 10 GBit/s) vom Hub nicht getestet.
+
+-----
+
+Wie komme ich zu meiner Wertung?
+
+Ich setze messende USB-C-auf-USB-C-Kabel zum Tablet ein.  Diese stecke ich über einen passiven USB-A-Adapter an den Hub.  Das Kabel meldet dann 7,9W bei 4,7V und 1,7A.  Das ist weniger als ich mir erhofft hatte, denn der Hub wird ja mit 5V 2A beworben.
+
+Die Leerlaufspannung beträgt 5.3V.  Das bedeutet einen Spannungsabfall von 0,6V bei 1,7A, was entweder auf zu hohe interne Verluste oder ein schlecht stabilisiertes Netzteil hindeutet.  Wenn 2A draufsteht sollten auch 2A abgegeben werden können, und das ohne einen so hohen Spannungsabfall und ohne dass das Netzteil dabei nennenswert warm wird.  Beides ist nicht der Fall.  Das Netzteil wird allerdings nur etwas mehr als handwarm, also nichts bedenkliches.  Ich hoffe, es hält bei voller Belastung durch.  Der Hub selbst bleibt übrigens kalt. 
+
+Für den vollkommen unverständlich hohen Zusatzpreis eines derart schwachen Netzteils ziehe ich deshalb einen Stern ab:
+
+Der Aufpreis für das Netzteil beträgt 8 EUR.  Das ist mehr als ein gutes Raspberry-PI-Originalnetzteil ohne Porto und Verpackung kosten würde, welches ohne Murren dauerhaft stabile 3A liefern würde.  (Leider kann man das PI-Netzteil hier nicht verwenden.)
+
+Wie gut der Hub selbst funktioniert habe ich nicht gemessen.  Erste schnelle Tests ergeben:
+
+Nur das neueste Tablet erscheint in "adb devices".  Mein altes Tablet lädt an diesem Hub, aktiviert aber kein USB, und zwar unabhängig ob der Hub mit dem Netzteil mit Strom versorgt wird oder nicht.  Das kann dem Tablet geschuldet sein, aber an anderen Hubs wird es erkannt.
+
+Dafür ziehe ich einen weiteren Stern ab, denn es scheint Geräte zu geben, die mit diesem USB-Hub nicht zusammenarbeiten wollen.  Ich vermute, mein altes Tablet erkennt den Hub fälschlich als Netzteil und deaktiviert damit seine USB-Hardware um Strom zu sparen.
+
+Übrigens teilen sich die 4 Ports die Stromversorgung.  Stecke ich beide Tablets an meldet das eine Kabel z.B. 4,2W, das andere 6,1W.  Bei 4,7V.  Somit würden die versprochenen 10W tatsächlich erreicht werden.  Weil die Spannung aber zu stark einbricht erreiche ich an einem einzelnen Port vermutlich nicht die volle Leistung.
+
+-----
+
+Fazit:  Dies ist nur eine vorläufige Bewertung ohne die Übertragungsleistung und Stabilität des Hubs selbst zu bewerten.  Sollte ich gravierende Mängel feststellen, werde ich diese Rezension vielleicht überarbeiten.
+
+Wer, wie ich, ein Teil braucht, das ein Zwischending von einem USB-2A-Netzteil alter Bauart (also nicht-PD) und USB-Hub benötigt, der kann hier zugreifen.  Allerdings finde ich den Preis von über 20 EUR dafür nicht besonders attraktiv, insbesondere da es sich bei dem Hub um "das alte USB" handelt, auch wenn er bereits USB 3.2 unterstützt.
+
+Nachteilig ist auch, dass der Hub nur maximal schlappe 2A liefert, also nicht einmal genug für einen Rasberry-PI 4 (oder PI400), welcher ja 3A bei stabilen 5V benötigt.  Und moderne Tablets sollten ebenfalls dauerhaft mit 15W versorgt werden, was eben 3A entspricht.
+
+Verglichen mit USB-C-OTG-PD-Adaptern, mit denen ich bisher nicht in der Lage war, das Tablet vernünftig an den Computer anzuschließen, erleidet man mit diesem Hub wenigstens keinen direkten Schiffbruch.
+
+Zu bedenken ist auch, dass sich die 4 Ports die Energieversorgung teilen.  Die 5V 2A entsprechen also genau den 5V 0,5A je Port, die ein USB-Hub leisten muss.
+
+Im Text zum Artikel steht außerdem etwas irreführend "alle Geräte mit hoher Stromleistung versorgen".   Das stimmt, wenn man unter "hoher Stromleistung" den alten USB-Standard versteht, der nur 5V mit 0,5A erlaubt hat.  Das haben wir mit PD und USB 3.2 eigentlich schon lange überwunden!
+
+Tatsächlich kann man mit angestecktem Netzteil wohl 2 Geräte mit 900mA versorgen bzw. ein einziges Gerät mit deutlich mehr (1700mA).  Das ist immerhin etwas.
+
+Übrigens:
+
+Es gibt sehr praktische und günstige passive Adapter, die aus den USB-A-Ports USB-C-Ports machen, meine Kritik am "veralteten USB" betrifft deshalb nicht die 4 Ports am Hub sondern die Anschlussbuchse des Kabels zum Hub.  Dazu kommt die inzwischen veraltete Stromversorgungsbuchse mit Rundstecker.  Denn beides sollte inzwischen in USB-C ausgeführt werden.
+
+Die EU schreibt nämlich ab Ende 2024 vor, dass alle neu in den Markt gebrachten Kleingeräte - dazu dürfte auch dieser Hub zählen - für die Stromversorgung eine USB-C-Buchse verwenden müssen.  Für die Datenverbindung gibt es zwar noch keine solche Vorschrift, aber Kabel von USB-C auf Micro-USB3 sind teuer und unüblich, und die Adapter, die es erlauben das Kabel vom Hub in einen USB-C-Port zu stecken, belasten die USB-C-Ports meist mit zu hohen Torsionskräften, weil der alte USB-A-Stecker einfach zu klobig ist verglichen mit USB-C.
+
+Wir haben es bei diesem Hub also mit einem kommenden Ladenhüter zu tun.  Dafür finde ich, ist der Preis zu hoch.  Allerdings führt das (bei mir noch) zu keinem weiteren Sternabzug.  Es ist ja deutlich zu sehen, was man da kauft, und es wird in dieser Richtung auch nichts falsches versprochen.
+
+Ob und wie stabil der Hub die 10 GBit/s erreicht habe ich nicht einmal im Ansatz geprüft!  Das ist nicht Teil dieser Rezension.  Ich komme über USB mit "adb shell" auf das eine Tablet während es geladen wird, das ist vorerst alles, was ich wollte.
+
+
+
 ## ANYOYO HB-PM31: 6-IN-12 USB-C Hub (mit 100W PD)
 
 > Bezieht sich auf <https://www.amazon.de/dp/B0BLVWM5MY>
 >
 > Das Produkt war nur im Amazon-Shop vom Hersteller auffindbar und war nicht auf deren Homepage beschrieben.
+>
+> (K)ein Stern.
 
 **Als Dockingstation unbrauchbar, an OTG-fähigen Geräten ist es ein OTG-Adapter ohne Power-Delivery**
 
