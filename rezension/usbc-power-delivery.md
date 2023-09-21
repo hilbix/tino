@@ -14,6 +14,10 @@ Damit ich sie wiederfinde und sie nicht verlorengehen.
 
 ## 5 in 1 USB C Hub, PD 60W, HDMI 4K, Aluminiumgehäuse, 1x USB3, 2x USB2
 
+> Bezieht sich auf https://www.amazon.de/dp/B0BNNJ3N7N
+>
+> 3 Sterne
+
 **Für den Preis brauchbar, aber PD will aber nicht mit allen Geräten**
 
 Diese Rezension befasst sich hautpsächlich mit PD.  Hier ist der Hub brauchbar, wenn das Zusammenspiel mit dem Gerät funktioniert.
