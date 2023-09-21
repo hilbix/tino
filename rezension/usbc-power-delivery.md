@@ -12,6 +12,42 @@ Also bräuchte es
 Fündig wurde ich bisher leider nicht.  Hier aber die Rezensionen, die ich dazu auf Amazon geschrieben habe.
 Damit ich sie wiederfinde und sie nicht verlorengehen.
 
+## 5 in 1 USB C Hub, PD 60W, HDMI 4K, Aluminiumgehäuse, 1x USB3, 2x USB2
+
+**Für den Preis brauchbar, aber PD will aber nicht mit allen Geräten**
+
+Diese Rezension befasst sich hautpsächlich mit PD.  Hier ist der Hub brauchbar, wenn das Zusammenspiel mit dem Gerät funktioniert.
+
+Für unterwegs an einem (in meinem Fall Samsung-) Handy scheint er deshalb sinnvoll verwendbar zu sein.  Und für den Preis einer Lahmacun ist die Leistung vom Hub vermutlich ebenfalls in Ordnung.  Allerdings habe ich den Hub auch nur hauptsächlich auf seine PD-Fähigkeit getestet.  Und die Angaben zum Hub erscheinen mir dann doch etwas zu marketingtechnisch weichgespült, lückenhaft und sogar übertrieben, deshalb 1 Stern Abzug.
+
+Das Teil hat an meinen beiden Tablets nämlich versagt, denn diese werden nur mit max. 2,5W (also USB-Standard) geladen, was für die Tablets nicht einmal im Standby ausreicht (nur im Schlafmodus).  Die möglichen 3A bei 5V (sowohl mit Raspberry-PI-Netzteil mit 15W sowie PD-Netzteilen z.B. wie dem Amazon-Basic 65W getestet) werden nicht ans Tablet weitergegeben.  Ansich sollten meine beiden Tablets wohl bis zu 19W bei PD unterstützen, aber hier kommt es anscheinend zu Inkompatibilitäten.  Ob das dem Hub selbst zuzuschreiben ist kann ich nicht beurteilen.  Es können auch Tablet, Kabel, Netzteile oder Akkustand eine Rolle spielen.  Wildwest leider.  Trotzdem dafür 1 Stern Abzug, denn niemanden interessiert, warum es mit diesem Hub nicht geht, sondern nur, dass es mit diesem Hub nicht geht.
+
+Ob der Hub wirklich 60W PD unterstützt kann ich nicht feststellen.  Mein messendes USB-C-zu-USB-C-Kabel meldet jedenfalls, dass zum Hub PD aktiviert wurde wenn das Handy am Kabel vom Hub hängt.  Da mein Handy aber selten mehr Leistungen als 6W abruft, sagt das nicht viel aus.  Jedenfalls wird das Handy normal (also schnell und mit deutlich mehr als 2,5W) geladen.
+
+Fällt der Strom aus, geht der Hub in den OTG-Modus, zieht also den Strom vom Handy.  Allerdings verlässt er diesen auch wieder, sobald der Strom zurückkommt, und lädt das Handy dann mit PD weiter.  Das geht sogar mit dem Netzteil vom Raspberry-PI (das IMHO gar kein "echtes" PD unterstützt).  Und das Handy wird ebenfalls über den Hub geladen, wenn es abgeschaltet ist.
+
+Bei meinen Tablets verbleibt der Hub aber dauerhaft im OTG-Modus und zieht weiterhin den Akku vom Tablet leer, bis man den Hub vom Tablet absteckt und wieder ansteckt.
+
+PD funktioniert, aber wohl nur mit ausgewählten Geräten, dann aber so, wie man es sich wünscht.
+
+Den HDMI-Ausgang konnte ich nicht testen, mangels Geräten, die das bei mir unterstützen.  Jedenfalls hat noch kein USB-C-zu-HDMI-Adapter am Handy oder Tablet irgendeine Anzeige über HDMI ermöglicht.  Schade dass der HDMI-Port nutzlos ist, aber man kann dem Hub ja nicht anlasten, was die an ihn angeschlossenen Geräte nicht eingebaut haben.
+
+Der günstigste Hub aus der Reihe hat 2 USB2-Ports und "nur" einen USB3-Port.  Das reicht aber für Tastatur und Maus (an USB2) sowie einen USB-Stick (an USB3).  Der Stick darf dann aber nicht zuviel Strom ziehen.  Anspruchsvollere USB-Geräte (wie SSD, Festplatte, CD-Brenner, etc.) dürften vom Hub also deutlich zu wenig Strom bekommen, unabhängig davon, ob er mit Netzteil betrieben wird oder nicht.
+
+An allen 3 Ports konnte ich maximal 2,5W entnehmen.  Das entspricht den nach USB zulässigen 0,5A (vielleicht können einige Geräte den USB3 auch auf 4,5W hochstufen, aber dafür habe ich keine Testmöglichkeit).  Interessant dabei ist, dass der Hub die 2,5W auch liefert, wenn nichts sonst angeschlossen ist.  Also nur Netzteil und ein Gerät an einem der USB-Anschlüsse und das Gerät bekommt 0,5A!  Auch wenn das Netzteil wesentlich mehr liefert.  Sprich:  Der Hub selbst hat wohl ein eingebautes USB-Power-Management auch dann, wenn der eigentliche USB-Host fehlt.  Das ist gut und habe ich auch schon katastrophal anders gesehen.
+
+Der PD-Eingang ist auch wirklich nur ein PD-Eingang.  Er aktiviert sich auch, wenn man an dem PD-Eingang einen OTG-Ausgang anschließt - dann aber halt ohne Datenfunktion.  Auch das habe ich schon anders gesehen.
+
+Dass der Hub keinen USB-C-Ausgang hat und auch "nur" USB 3 mit 5 MBit/s bietet war bei mir kein Kaufkriterium, mir ging es mehr um einen günstigen Preis und PD.  Mit einem sehr günstigen passiven Adapter kann man an den USB-3-Port ja auch ein USB-C-Kabel anstecken.  Diese Dinger gibt es 10-Stück-weise für knapp 1 EUR/Stück und ihre Anschaffung lohnt sich, weil man so heute schon alles mit USB-C-Stecker kaufen kann, auch wenn man es an einen USB-A-Ports anschließen will.  Inzwischen kosten Geräte mit USB-C-Stecker ähnlich viel und manchmal sogar etwas wenig wie dasselbe Gerät mit USB-A-Stecker.
+
+Gut ist ebenfalls, dass man diesen Hub als einfache Docking-Station verwenden kann, denn ich konnte den Hub durch "wildes herumstöpseln" in keinen "seltsamen" Zustand bringen (vermutlich ist das dem eingebauten Powermanagement zu verdanken).  Das habe ich bei anderen Geräten, die sich hochmütig "Dockingstation" schimpfen, leider schon deutlich anders gesehen.
+
+Auch das Gehäuse finde ich gelungen.  Über Stabilität, Datenübertragungsqualität, Dauereinsatz, Haltbarkeit (insbesondere des angeschlagenen Kabels) usw. kann ich nicht urteilen, diese Rezension entspringt nur schnell und vorläufig von mir vorgenommenen Tests.
+
+Fazit:
+
+Für den Preis OK, aber nicht jeder wird damit glücklich.  Sollte der Hub doch nicht mit den gerade verwendeten Geräten richtig zusammenspielen, wird sich das in Zukunft mit ziemlicher Wahrscheinlichkeit ändern.  Deshalb, wenn man so etwas sucht und die Möglichkeit besteht, dass alles klappt, sollte man hier erst einmal zugreifen, bevor man sich teureren Adaptern zuwendet.
+
 
 ## CSL - USB 3.2 Gen2 Hub aktiv inkl. Netzteil - 4 Port Hub/Verteiler
 
