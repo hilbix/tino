@@ -725,3 +725,385 @@ Und den halben Preis für Kinder unter 18 Jahren sowie Studenten bis max. 25.
 Evtl. sollte man das Ticket außerdem der KFZ-Steuer aufschlagen, d. h. diese um max. 384 EUR erhöhen.  Damit hat dann jeder Halter ein Ticket kostenlos, das er beliebig auf andere übertragen kann (sonst hat der Vater 3 Tickets, der Anhang aber 0).  Wenn diese Erhöhung ein Problem darstellt, hey, einfach durch die Autolobby feststellen, um wieviel man die Steuer erhöhen kann, teilt das durch 12 und schon hat man den Preis für ein reguläres 49-EUR-Ticket!
 
 > Nur zur Klarstellung:  Das Ticket wendet sich nicht nur an Deutsche, sondern jeden Menschen.
+
+
+# Update 2023-10
+
+Gerade hat mich eine Umfrage zur Mobilität in Bayern erreicht.  An der habe ich natürlich teilgenommen.  Interessant ist, dass **keine einzige sinnvolle Frage dabei war**.  Es wird die akute Nutzung abgefragt.  Und eine Alibifrage zu den Kosten.  Aber die wirklich wichtigen Fragen werden gar nicht gestellt:
+
+## Die einzig zentrale Frage ist, wie viel darf uns der ÖPNV kosten?
+
+Diese Frage wurde zwar irgendwie gestellt, aber total falsch.  Denn diese Frage zerfällt in viele keine wichtige Einzelteile:
+
+- Wieviel bin ich persönlich gewillt, für den ÖPNV zusätzlich zu bezahlen
+  - Mit Geld
+  - Mit Zeit
+  - Mit Bequemlichkeit (wenn ich mit Bequemlichkeit zahle ist die danach weg, so wie das Geld oder die Zeit auch)
+- Wieviel Staatsausgaben darf uns der ÖPNV kosten?
+  - Das beantworten bitte andere als ich, ich bin kein Volkswirt
+- Wieviel Umwelt darf uns der ÖPNV kosten?
+  - Busse usw. müssen produziert werden.  Die Bahn braucht, so wie das Auto, Strecken.
+  - Es ist nicht sinnvoll, unwiederbringliche Ressourcen zu verbrauchen um (andere, wiederbringliche) Ressourcen zu sparen
+- Wieviel Einschränkungen muss man hinnehmen, um die Verkehrswende zu bekommen
+  - Ich bin vollkommen dagegen, dass künstliche Einschränkungen gemacht werden.
+  - Gegen natürliche (von selbst entstehende) Eischränkungen habe ich nichts
+
+Im folgenden gehe ich die einzelnen Punkte von hinten nach vorne durch.
+
+---------------
+
+Welche Einschränkungen darf es geben?  ** Keine! **  Es ist nicht hinnehmbar, wenn die Politik anfängt eine Verbotskultur aufzubauen, nur um die Bürger zu etwas zu bringen, das diese nicht gewillt sind, zu machen.  Es ist in Ordnung, falsche Handlungen zu pönalisieren (wie z.B. Mord zu betrafen).  Aber wenn es sich um die individuelle Freiheit handelt, die jedem Menschen gegeben ist, darf man nicht dagegen vorgehen.
+
+- Wer sich also ein Auto kaufen will, das mit einem 100 Megawatt Schiffsdiesel betrieben wird der 1l Diesel pro Kilometer verbraucht, der soll das auch in Zukunft dürfen.
+  - Kein Gesetz darf das verhindern
+  - Ich sage ja nicht, dass er das kostenlos nutzen darf, sondern er muss dafür halt die extremen Kosten tragen und darf darüber nicht lamentieren!
+  - Ich sage auch nicht, dass das ein Auto von der Stange sein soll
+  - Und ich sage auch nicht, dass er dann alle 100m eine Tankstelle vorfindet, um bequem tanken zu dürfen
+  - Das alles regelt der Markt!
+- Wer 10 Privatjets besitzt, und diese permanent in der Luft hält damit sie maximal die Umwelt schädigen, auch der darf vom Gesetz her nicht daran gehindert werden.
+  - Er muss halt nur die entsprechende Zeche zahlen und die realen Kosten für Umweltschäden usw., die er so provoziert, nachhaltig kompensieren.
+  - Ich habe wirklich keinerlei Problem damit, wenn ein Multililliardär jeden Tag 1 Milliarde EUR an Umweltschäden produziert - so lange er diese 1 Milliarde EUR dann auch begleicht, pro Tag, versteht sich.
+
+Sprich:
+
+Die Politik darf **Steuern**, und zwar mit **Steuern**, so dass die produzierten Umweltschäden **sozialverträglich** pönalisiert werden.  Das ist keine Einschränkung, das ist Demokratie!
+
+> Wie stelle ich mir das vor?
+>
+> Total einfach:
+>
+> - Der Spritpreis geht auf 10 EUR/l hoch.
+>   - Davon fließen 8 EUR in die Beseitigung der Umweltschäden durch den Verkehr.
+> - Jeder Bürger - und zwar jeder, also auch ein Baby - bekommt 500 l Sprit pro Jahr ohne Aufpreis.
+>   - Bei Familien wird das dann zusammengezählt.  Eine 5-köpfige Familie hat zusammen also 2500 l Sprit ohne Aufpreis.
+>   - Der Bund kompensiert die durch die 40 Milliarden l Sprit entstandenen Umweltschäden über die Steuer.
+>   - Freikontingente dürfen verkauft werden!  Wer also den ÖPNV nutzt kann alle 2500 l meistbietend vertickern!
+>   - Freikontingente dürfen angespart werden!  Die Kinder verfügen mit 14 über 20%, 15 über 40%, 16 über 60%, 17 über 80% und 18 dann volle 100% ihres Kontingents, Eltern/Erziehungsberechtigte/etc. können also nur über den Rest bestimmen.
+>   - ** Achtung! **  Alkohole, Öle (einfach alles, was brennt) zählt (anteilig) zu Sprit!
+> - Jeder Bürger - und zwar jeder, also auch ein Baby - erhält ab der Geburt bis zum Tod 10000 Freikilomenter pro Jahr, Stichtag sind 1.1. bzw. Tag der Geburt
+>   - Bei Familien wird das dann zusammengezählt.  Eine 5-köpfige Familie hat zusammen also 50000 Freikilometer
+>   - Der Bund kompensiert die durch den Verkehr angerichteten 800 Milliarden km Umweltschäden über die Steuer.
+>   - Freikilometer dürfen verkauft werden!  Wer also den ÖPNV nutzt kann alle 10000 Freikilometer vertickern!
+>   - Die Freikilometer dürfen angespart werden!  Und können so für Weltreisen, Flugreisen etc. verwendet werden.
+>   - Man bezahlt dann die Tickets nicht nur über den Preis, sondern auch mit Freikilometern.
+>   - Die Freikilometer-Regelung gilt bis zu einer Flughöhe von 100 km.  Darüber abgewickelte Mobilität belastet nicht die Freikilometer.
+>   - Alles oberhalb der Freikilometer muss umweltgerecht korrekt eingepreist werden
+>   - Dabei gilt ein Pauschalpreis für die ungünstiste Variante berechnet, so dass es zu einer Überkompensation kommt.
+>   - Wo also der Preis pro Kilometer liegt, das müssen auf die Umwelt spezialisierte Makroökonomen ausrechnen.
+>   - Ich gehe von ca. 5 EUR/km aus.
+> - Firmen müssen sich die Kontingente auf dem Markt kaufen
+>   - Ganz besonders im Bereich der Fahrtkostenerstattung
+> - Bauern können durch Umweltkompensation entsprechende Kontingente erzeugen!
+>   - Ich gehe davon aus, dass der Bauer z.B. Raps anbaut und in seinen Landmaschinen verbrennen kann, so dass das (fast) kostenneutral wird.
+>   - Wie sich das genau rechnet müssen auf die Umwelt spezialisierte Makroökonomen ausrechnen.
+> - Firmen, die Umweltschäden beseitigen, können so ebenfalls Kontingente produzieren
+>   - Wieviel sie bekommen regelt der Markt
+>   - Überwacht wird das von staatlich finanzierten unabhängigen auf die Umwelt spezialisierten Makroökonomen
+> - IMHO braucht der Staat dafür ein weiteres Standbein:
+>   - Investigative, beschreibt und berechnet die Grundlagen für die Regeln auf der Basis von Wissenschaft und Makroökonomie (aka. VWL)
+>   - Legislative, legt die Regeln fest
+>   - Ekekutive, setzt die Regeln durch
+>   - Jurisdiktion, entscheidet über die Strafen
+>   - Journalismus, kontrolliert alles
+
+---------------
+
+Wieviel Umwelt darf uns der ÖPNV kosten?  Keine!  Das gilt aber nicht nur für den ÖPNV sondern eifach für alles!  Es kann und darf nicht sein, dass wir z. B. Wälder oder Ökosysteme für Bahn- oder Stromtrassen schädigen.  Das muss überkompensiert werden.  Genauso bei Autos.
+
+- Wer ein Auto kauft muss mit dem Kaufpreis den dradurch ausgelöste globale Umweltschädigung bezahlen
+- Das gilt über die gesamte Lieferkette hinaus
+- Es muss nicht nur der unmittelbare Schaden ausgeglichen werden, sondern auch der mittelbare sowie indirekte
+
+> Wie meine ich das?
+>
+> Nun, stellen wir uns vor, ein Bauer in Manila baut Energiemais an, der dann wieder als Sprit verbrannt wird.
+>
+> - Der unmittelbare Schaden sind Landnutzung, Arbeitsaufwand, Maschinennutzung, Energieverbrauch, Transport, Raffinierung, usw.
+>   - Also alles, was rund um den Mais entsteht
+> - Der mittelbare Schaden sind in die Umwelt eingebrachte Umweltgifte, Monokultur und Beeinträchtigung der natürlichen Fauna etc.
+>   - Also alles, was dadurch entsteht, dass etwas angebaut wird, im Vergleich dazu, dass alles natürlich belassen würde
+> - Der indirekte Schaden ist indes IMHO der größte von allen.
+>   - Würde der Bauer stattdessen aktiv Umweltkompensation betreiben, wäre der Schaden ja negativ, d. h. andere Schäden würden beseitigt
+>   - Da all der Schaden, den er direkt oder indirekt einbringt, dann ebenfalls verschwindet, zählt dieser nochmals hinzu!
+>
+> Sprich, wenn der Unmittelbare Schaden 2 ist und der Mittelbare 1, dann beträgt der Indirekte Schaden also 2+1+N mit N mindestens 1.
+> Wer also den Energiemais-Anbau kompensieren will, muss nicht 3 Schaden kompensieren, sondern 7 oder eher mehr.
+>
+> Wenn man anders rechnet wird die Rechnung niemals aufgehen.
+>
+> Warum muss man so rechnen und kann nicht behaupten, diese Rechnung wäre falsch:
+>
+> Wenn ich kompensiere, kompensiere ich nicht nur heute.  Der Schaden ist ja dauerhaft angerichtet und akkumuliert sich dort, wo Du ihn anrichtest.  Man muss also die Zeit mit einberechnen.
+>
+> Der Schaden entwickelt sich also nach `O(n*n)`.  Allerdings kompensiere ich ja nur mit `O(1)`.  Damit also überhaupt ein sinnvoller Schnittpunkt zwischen Schaden und Kompensation entstehen kann, muss ich die Kompensation deutlich anheben.
+>
+> Es wäre jetzt unsinnig, die Kompenstation ebenfalls quadratisch wachsen zu lassen.  Denn ich kompensiere ja.  Zwar an anderer Stelle, also schwächt das den lokalen bereits angerichteten Schaden nicht, aber ich denke, eine Verdopplung der Kompensation Plus etwas mehr etwas dürfte sich als sinnvoll erweisen, denn der lokale Schaden akkumuliert sich ja nicht linear sondern eher asymptotisch gegen den maximalschaden (Totalverlust mit maximal negativem Impact für alles drum herum).
+>
+> Alles weniger erscheint mir aber deutlich unterrieben zu sein.
+
+Auf den ÖPNV bezogen:
+
+- Unmittlebarer Schaden
+  - Environmentalnutzung (ohne Verschleiß, der steht weiter unten)
+  - Energieverbrauch
+  - Zeitaufwand (z.B. Wartezeit der Nutzer an Haltestellen)
+  - Arbeitsaufwand (Busfahrer könnten etwas besseres tun als nur rumzufahren, Verwaltung, Ticketautomaten, Kontrolleure, etc.)
+  - Verschleiß, wie erzeugter Feinstaub
+  - Environmentaler Impact wie Insekten die an den Scheiben kleben
+  - Krankenversicherung (für Busfahrer etc.)
+- Mittelbarer Schaden
+  - Ressourcenverbrauch durch die Herstellung der Busse usw.
+  - Arbeitsaufwand (verschwendete Abreitskraft)
+  - Zeitaufwand (bei den Arbeitern etc.)
+  - Bereitstellung des Environments für Fabriken, Fahrspuren, Stromleitungen zu den Fabriken, etc.
+  - Krankenversicherung (für die Arbeitnehmer etc.)
+- Indirekter Schaden
+  - Was alles hätten die Fabriken für die Umwelt herstellen können, wären sie nicht mit der Busherstellung beschäftigt
+  - Indirekter Ressourcenverbrauch (was konsumieren die Arbeitnehmer zusätzlich um die Busse herstellen zu können)
+  - Krankenversicherung (welche Spätfolgen bleiben aus wenn die Arbeitnehmer nicht gearbeitet hätten etc.)
+
+> Wie geschrieben, den Indirekten Schaden setzte ich als durchaus größer an als die beiden anderen Schäden zusammengenommen.
+
+Und wie können wir das erreichen?
+
+Ich denke dass es unmöglich ist, für besseren ÖPNV zu sorgen ohne die Umwelt dabei nicht weiter zu beschädigen.  Alles hat seine Folgen.
+Das bedeutet nicht, dass wir es nicht machen sollen, sondern dass wir es kompensieren müssen.  Aber dies muss in das Konzept mit aufgenommen werden, sonst ist das Konzept unvollständig!
+
+---------------
+
+Wieviel darf uns das kosten?  Natürlich ist immer für alles kein Geld da.  Deshalb drehe ich die Frage um:
+
+Wieviel kostet uns, wenn wir kein nachhaltiges Konzept für den ÖPNV entwickeln?
+
+Tja, die Antwort auf letzteres ist sehr einfach:  Alles.  Es wird uns schlicht und einfach alles kosten.  Egal wieivel.  Die Kosten werden alles übersteigen.  Denn wir werden - nachhaltig - verlieren wenn wir keinen - nachhaltigen - ÖPNV aufbauen.  Es ist so einfach.
+
+> Das bedeutet nicht, dass wir den Individualverkehr abschaffen.  Ganz im Gegenteil.  Der ÖPNV muss "enablet" werden, eine Großteil des Individualverkehrs zu ersetzen.  Nicht irgendwie zu ersetzen, sodern komplett, ohne Einschränkungen oder ohne Nachteile.
+>
+> Es darf nur Nachteile geben, die sich durch natürliche Grenzen des Umbaus ergeben.  Keine künstlichen Nachteile wie ein teurer ÖPNV, weil er seine Kosten tragen muss.  Sondern natürliche wie, wenn ich mit Öffentlicher Mobilität unterwegs bin kann ich es nicht genauso wie mit meinem Auto handhaben und einfach all meinen Schmodder im Auto lassen.  Ich muss also alles so verpacken, dass man die Dinge von mir mit den Dingen der anderen nicht durcheinanderbringt.
+>
+> Sprich, es muss weiterhin möglich sein, dass ich meine Sachen mitnehme, so wie in jedem Auto.  Es kann aber sein, dass daran eine Voraussetzung, z.B. der Besitz einer Mobilitätsbox geknüpft ist.  So wie es heute in Flugzeugen halt auch der Fall ist, dass das Handgepäck in eine passene Tasche passen muss und nicht mehr irgendwie herumausufern darf.
+>
+> Das ist natürlich und dem Prozess geschuldet, es für die Allgemeinheit verfügbar zu halten, und stellt also keine Gängelung dar
+> (auch wenn einige Fluglinien das so handhaben ist das kein Widerspruch).
+
+Also wieviel darf uns der ÖPNV kosten?
+
+Ein "so gut wie alles" ist somit deutlich bessere Aussage als der Griff ins Klo.
+
+Die Frage ist also nicht, können wir den ÖPNV staatlich finanzieren, die Frage ist, können wir es uns leisten, den ÖPNV nicht staatlich zu finanzieren.  Und genau letzteres können wir uns IMHO eben nicht leisten.  Das führt direkt in die Katastrope.
+
+-----------
+
+Zwischenstand.  Wo wir jetzt also gerade sind:
+
+- Der ÖPNV ist nötig.
+- Er muss vom Staat finanziert werden, egal wie hoch diese Belastung ausfällt.
+- Ein Bereitstellung das ÖPNV alleine reicht hinten und vorne nicht aus.  Er muss zusätzlich zu mehr als 100% umweltkompensiert ausgeführt werden!
+- Der ÖPNV muss eine Alternative zum Indiviudalverkehr mit PKW usw. darstellen, sonst ist er inakzeptabel.
+
+-----------
+
+Bleibt noch die Frage, wieviel würde ich dafür bezahlen?
+
+Dazu mache ich einen einfachen Vergleich auf.
+
+> Derzeit fahre ich noch einen Firmenwagen, wegen des Firmenwagenprivilegs.  Sollte das fallen, ändert sich die Sache.
+> Und das beschreibe ich schoneinmal hier.  Das ist also Zukunftsmusik.
+
+Wieviel kostet mich mein privater PKW?
+
+** Mein privater PKW bringt mir Geld ein. **  Äh, wie bitte?
+
+Ja, rechnen wir mal:
+
+- Ich kaufe mir ein Elektroauto.  Da ich auf dem Land wohne und der ÖPNV nicht einmal adäquat funktioniert, habe ich da keine andere Wahl.
+  - Das Auto selbst ist also ein "eh da Ressource", Kosten, die ich mir auch mit ÖPNV nicht sparen kann
+  - Diese Kosten kann ich erst sparen, wenn der ÖPNV mir ein Auto ersetzen kann.  Dies wird zu meinen Lebzeiten unmöglich der Fall sein.
+  - Diese Kosten sind also neutral anzusetzen, da sie mir auch dann entstehen, wenn ich den ÖPNV intensiv nutze
+  - Derzeit habe ich ein Pendlerauto.  Privat wird das Auto kleiner und muss nur eine Reichweite von 200km++ haben.
+  - Solche Autos werden in Zukunft deutlich unter 30 kEUR zu haben sein, ich denke sogar unter 20 kEUR
+- Ich tanke Sonne aus der eigenen PV-Anlage
+  - Bei meiner Fahrleistung von knapp 9000 km/Jahr reicht eine einfache kostengünstige Anlage dafür aus.
+  - Die PV-Anlage ist eine Inselanlage ohne Rückspeisung ins Stromnetz (außer da kommen irgendwann mal sinnvolle Regeln für raus)
+  - Die Fahrzeugbatterie wird als Batteriespeicher (V2G) verwendet, allerdings nicht netzdienlich (so lange die BNetzA derart bescheuerte Regeln hat)
+  - Die PV-Anlage ist ebenfalls ein "eh da Ressource".  Die Kosten entstehen somit mit oder ohne Nutzung von ÖPNV.
+  - Das Auto erzeugt somit keinerlei Kosten wenn ich es bewege
+- Steuer, Versicherung und Verschleiß kommen auf ca. 1200 EUR/Jahr
+  - Elektroautos sind von den Wartungskosten her unschlagbar günstig
+  - Bei meiner Fahrleistung entstehen geringe Versicherungsgebühren.
+  - Außerdem habe ich eine Schadenfreiheitsklasse von 30+
+  - Kleine Elektroautos werden außerdem auch in Zukunft sicher weiterhin steuerlich gefördert, also niedrige Steuerkosten
+- Ich fahre ca. 4000 km/Jahr für die Firma
+  - Auf Strecke bin ich sehr selten unterwegs, bisher war das immer geschäftlich veranlasst
+  - Aber selbst die Schnellladekosten schlagen nicht besonders hoch zu Buche
+  - Bei der derzeitigen Fahrtkostenerstattung ergibt sich somit 1400 EUR/Jahr.
+- Damit mache ich 200 EUR Gewinn pro Jahr
+  - Bezogen auf das Fahrzeugleben von 20 Jahren sind das max. 4000 EUR die ich so spare.
+  - Ich mache also immer noch einen (privaten) Verlust von ca. 1500 EUR pro Jahr
+  - Sprich, das mit der steuerfreien Fahrtkostenerstattung stimmt
+  - Würde ich das Auto nicht geschäftlich bewegen steigt mein Verlust aber auf 2000 EUR/Jahr.
+
+Also über den Strich hinweg spare ich 200 EUR/Jahr dadurch, wenn ich mit dem Auto fahre.
+Wenn ich das Auto nicht nutze, dann mache ich einen Verlust von 200 EUR!
+Wenn ich das Auto nur privat nicht nutze, spare ich rechnerisch keinen einzigen Cent zusätzlich.
+
+Mit diesen Kosten muss der ÖPNV also konkurrieren.
+
+> Nochmals:  Könnte ich mir das Auto komplett sparen, sieht die Rechnung anders aus.
+> Aber das kann ich nicht.  Eingerechnet ist hier schon das kleinstmöglich sinnvolle Auto.
+> Alles darunter wäre kein Auto mehr, sondern ein alltagsuntaugliches Luxus-Spielzeug.
+
+Ich bin jetzt so nett, dem ÖPNV zuzugestehen, dass er mich nicht negativ kostet, so wie das Auto.
+Aber das ergibt einen ganz einfachen simple Wert, den der ÖPNV bei mir kosten darf:
+
+0 EUR
+
+Bereits bei einem Ticketpreis von 10 EUR/Monat wären die Ausgaben Unsinn.  Denn vergleichen wir mal:
+
+- Ich fahre so jeden Monat einmal in die Stadt
+- Dort fahre ich ins Parkhaus, das kostet pro Stunde 5 EUR (ich spreche hier von zukünftigen Preisen!)
+- Die Fahrt selbst dauert 30 Minuten, Tür zu Tür, also 1h hin und zurück
+
+Der Vergleichswert ist also 5 EUR/Monat bei 1h Zeitverbrauch.
+
+Vergleichen wir den ÖPNV:
+
+- Mit dem bin ich ca. 2h unterwegs
+  - Eine Richtung
+  - Gerechnet Tür zu Tür
+  - 1h alleine im Bus, der Rest Fußweg, Wartezeiten, Umsteigen usw.
+- Das Ticket kostet mich derzeit (heute!) knapp 8 EUR
+  - eine Richtung
+- Der Bus fährt nicht immer
+  - Das ist als Wartezeit eingerechnet
+
+Selbst wenn das Monatsticket nur 5 EUR kosten würde, sind mir die 4h, die da unterwegs bin, deutlich überteuert, das kann sich doch kein Schwein ohne Not leisten!
+
+> Meistens kann ich kostenlos parken.  Und dann auch noch Zeug bequem im Auto nach Hause transportieren.
+>
+> All das kann ich mit dem ÖPNV (derzeit?) nicht.  Aber das lasse ich hier sogar mal ganz aus der Rechnung raus.
+>
+> Ebenfalls raus lasse ich außen vor, dass ich - als ich mit dem Zug nach München pendeln musste - ständig krank wurde, weil ich mir irgendwelche Krankheiten eingefangen habe.  Das kann man nun als gut oder schlecht beurteilen, das Immunsystem so zu trainieren.
+>
+> Ich empfand es jedenfalls als ziemlich beschissen.
+
+Also selbst wenn der ÖPNV für lau zu haben wäre, wäre das für mich meistens keine Alternative:
+
+- Ich kann so gut wie nichts transportieren
+- Er braucht unendlich lange, da schafft man nicht einmal 2 Besorgungen am Tag
+
+Wenn der ÖPNV kostenlos ist, kann ich ihn allerdings zwischendurch mal nutzen.
+
+Derzeit gehe ich halt zum Auto zurück und fahre woanders hin.  Das könnte entfallen, wenn ich die Straßenbahn kostenlos nutzen könnte.
+
+> In Augsburg ist die Straßenbahn inzwischen im Innenraum kostenlos.  Das hilft aber nur wenig, da man nirgendwo sinnvoll angrenzend parken kann.
+>
+> Sprich, ich fahre mit dem Auto dahin, wo ich hinmuss, ins Parkhaus um die Ecke.
+> Jetzt den ÖPNV zu nutzen, selbst wenn er kostenlos ist, erzeugt höhere Parkgebühren und erspart eigentlich keine Zeit.
+>
+> Wäre die Zone größer, dann würde es sich vielliecht rechnen.  Aber wenn ich kostenlos parke und mit der Straßenbahn hin und wieder zurück fahre,
+> zahle ich mehr als wenn ich 2 Mal im Parkhaus parke.  Und oft muss ich nur einmal im Parkhaus parken.
+>
+> Die Gebühren für den ÖPNV in Augsburg sind einfach unökonomisch hoch.
+>
+> Und nochmals:  Ich fahre schon elektrisch, so wie die Straßenbahn, und bremst auch elektrisch (weniger Feinstaub).
+> Der Bus hier fährt hingegen Erdgas!  Das ist zwar auch sehr sauber, aber mein Auto ist vermutlich sauberer!
+
+Zusammengefasst:
+
+- Das Auto ist bequemer
+- Ist deutlich schneller als der ÖPNV
+- Und ist günstiger im Unterhalt als der ÖPNV
+
+So sieht bei mir (auf dem Land) die Konkurrenzsituation aus.  So lange der ÖPNV (auf dem Land) das Auto nicht zumindest erträglich gleichwertig ersetzen kann, **ist der ÖPNV selbst dann keine sinnvolle Alternative, wenn er kostenlos wird**.  Wenn der ÖPNV deutlich günstiger wird - aber ich spreche hier nicht von einem Monatsticket sondern von Einzehlfahrten -, dann ist er im Fall des Falls sinnvoll.
+
+> Derzeit rufe ich einfach jemanden aus der Familie an, die fahren mich dann wenn ich das Auto nicht nutzen kann, z. B. weil ich es gerade nicht da ist.  Kommt selten genug vor.
+
+Das Problem hierbei ist, wenn der ÖPNV so gestaltet wird, dass er (gerade auf dem Land) ein eigenes Auto ersetzen kann, dann werden Landtaxis durch diesen weitgehend ersetzt.  Das bedeutet, das ist ein herber Eingriff in eine ganze Berufsgruppe.
+
+Nun, Heizer auf Lokomotiven erfuhren auch einen herben Eingriff in ihre Berufsgruppe, als die Loks von Kohle auf Diesel umgestellt wurden.
+Das ist halt der Weg der Dinge.  Außerdem sterben die Taxifahrer in Zukunft sowieso aus, sobald die selbstfahrenden Autos (ich denke so ab 2035) hinreichend autonom unterwegs sein können.
+
+> Und genau das werde ich dann wohl auch haben.  Ein weitgehend autonom fahrendes Auto.
+> Vorausgesetzt das kommt schnell genug in ein bezahlbares Preissegment.
+
+Wenn die autonomen Fahrzeuge kommen und ich eines habe, dann ändert sich die Rechung übrigens nocheinmal deutlich:
+
+- Ich steige ins Auto
+- Es fährt mich dahin, wo ich sein will
+- Es sucht selbständig einen Parkplatz
+- Es holt mich auch wieder ab
+- Und fährt mich nach Hause
+- Und lädt sich auch selbst wieder auf
+
+Währenddessen kann es evtl. sogar noch Geld verdienen, indem es jemand anderen fährt.  Wenn ich denn so will.
+
+Tatsächlich gehe ich eher von einem Verkehrsverbund aus.  Also das Auto verdient mir kein Geld.
+Es verdient Zeit und Kilometer, die ich mit einem anderen Auto aus dem Verbund dann zurücklegen kann wenn nötig.
+Geld verdienen braucht die steuerliche Abrechnung.  Kilometer verdienen hingegen nicht.
+
+Wozu?  Ganz einfach.  Wenn ich auf Strecke unterwegs bin spare ich mir so die Ladezeiten.
+
+- Ich steige ins Auto
+- Es fährt mich so weit es kann bis zum nächsten Ladepunkt
+- Da lädt es sich wieder auf
+- Ich steige in ein anderes Auto um
+- Das fährt mich ebenfalls zum nächsten Ladepunkt
+- usw.
+- Und wenn diese anderen Autos schneller sind als meines (z.B. 200km pro Stunde zurücklegen) komme ich auch recht schnell ans Ziel
+- Damit entfallen die Ladezeiten, alles was man tun muss ist häufiger schnell von einem Auto ins andere umsteigen.
+- Irgendwann später trudelt dann das eigene Auto am Zielort von selbst ein.
+
+Vollkommen neue Konzepte werden so möglich.  Und so kann auch der ein- oder andere ganz auf ein (eigenes) Auto verzichten.
+
+Vergleicht einfach:
+
+Augsburg-Hamburg ca. 6h per Auto.  Dagegen ca. 7h per Zug (schnellste Verbindung).
+
+Auto ist Tür zu Tür.  Zug ist Hauptbahnhof zu Hauptbahnhof.
+
+Das Auto kostet nix zusätzlich (wird mit angespartem Zeit/Transportkontingent bezahlt) und ist ultrabequem.
+Der Zug hingegen ..
+
+Nein, Leute, so wie der ÖPNV derzeit geplant ist, ist das bereits heute schon absehbar eine Totgeburt.
+Die Leute, die den noch genau so propagieren, wie er sich in den letzten hundert Jahren entwickelt hat, sind nicht auf der Höhe der Zeit.
+
+Das ganze kann sich nur ändern, wenn genau das eingeplant wird, was ich hier schreibe.
+Nämlich dass aus dem ÖPNV ein PNV wird.  Damit die meisten Leute sich das eigene Auto wirklich sparen können.
+
+Wir müssen also weg vom Fahrplan.  Weg von Massentransporten.  Hin zu indiviualtransporten ähnlich einem Taxi.
+In einem modernen Verkehrsverbund, der nicht nur nutzbar und bequem ist, sondern auch deutlich schneller als das Auto heute.
+Und bitte nicht Bahnhof verstehen sondern immer Tür zu Tür einrechnen!
+
+Denn wir haben ein Problem:  Die Reichweite und die Ladezeiten.  Was überhaupt kein Problem mehr wird, wenn man alles miteinander verzahnt.
+
+Aber dann muss es sich auch rechnen.  Derzeit rechnet sich da gar nichts.  Selbst mit Ladezeiten bin ich mit Auto nicht nur deutlich kostengünstiger als mit Bahn und Bus, sondern auch deutlich schneller!  Und der gröbste Nachteil, nämlich dass ich selbst fahren muss, der wird in absehbarer Zeit verschwinden!  Die ersten autonomen Fahrzeuge sind da, nur limitiert durch die gesetzliche Beschränkung.
+
+> Gut, in Innenstädten können Autos noch nicht selbst fahren.  Da gibt es noch viele Probleme.  Aber der Zug fährt mich auch nur hin.
+> Und für Bus oder Tram in Innenstädten gilt dann das Argument mit "Du musst nicht fahren" nicht.  Da muss man aufpassen, die Haltestelle nicht
+> zu verpassen, insbesondere in Städten die man nicht kennt, muss also aufs Navi achten genauso wie im Auto usw.  Dazu kommt das Ansteckungsrisiko.
+>
+> Nein, der Zug punktet nur auf Strecken, die autonome Fahrzeuge wohl ab 2035 ebenfalls bewältigen werden.
+>
+> Ein gutes Nahverkehrskonzept deckt die nächsten 30 Jahre ab.  Da hilft keine Planung, die bereits in 10 Jahren durch die technische Entwicklung von selbst Makulatur wird ..
+
+Und so lange der ÖPNV eben das eigene Auto in den allermeisten Fällen nicht ersetzen kann, muss man das Auto als gegeben voraussetzen, also dessen Anschaffungs- und Nebenkosten nicht im Vergleich mit den Kosten des ÖPNV einbringen.  Das betrift so gut wie jeden auf dem Land (wo der ÖPNV immer besonders teuer, langsam und selten) und auch viele in der Stadt.  Die Konkurrenz ist also nicht "Autogesamtkosten vs. ÖPNV" sondern "Kosten der einzelnen Fahrt, wenn man ein Auto als gegeben voraussetzt".
+
+Das ist Fair.  Der ÖPNV wird ja auch als gegeben vorausgesetzt.  Was er meisten nicht ist!  Einfach weil der Bus nicht dann fährt, wenn man ihn braucht.  Z. B. Sonntags, nachts, wenn das Forunkel aufplatzt und man ausblutet wie eine abgestochenes Schwein.  Das muss nur genäht werden.  Da ruft man doch keinen Krankenwagen, da setzt man sich ins Auto und fährt zur Notaufnahme!
+
+Mit ÖPNV ist man auf den Notarzt oder Krankenwagen angewiesen.  Auch das erhöht die Kosten für die Allgemeinheit ungemein.
+Aber das sehen natürlich die Verkehrsplaner und Verfechter des ÖPNV für alle nicht.  Warum auch über den eigenen Tellerrand gucken?
+
+Nur weil es sinnvoll ist?  Geht es hier um eine sinnvolle Debatte?  Oder kämpfen da nicht eher Ideologien gegeneinander?
+
+Mir ist das egal.  Ich habe - mal wieder - geschrieben, wie die Dinge liegen.  Kann man gut finden.  Oder schlecht.  Oder ignorieren.
+
+Ändert aber nichts an der Faktenlage.  Wenn man wirklich etwas sinnvoll ändern will, dann muss man auch dazu bereit sein, es sinnvoll zu ändern.
+
+Wenn der ÖPNV so organsiert wird, dass ich auch auf dem Land auf das Auto verzichten kann, ohne dadurch unzumutbar massiv eingeschränkt zu werden,
+dann, erst dann, ist das Konzept tragfähig.  Und dann würde ich umsteigen.  Warum auch nicht?  Wozu für ein (eigenes) Auto zahlen, wenn sich das hinten und vorne nicht rechnet?
+
+Und wozu für ein 49-EUR-TIcket oder 9-EUR-Ticket zahlen, wenn sich das hinten und vorne nicht rechnet?  Wird der ÖPNV, so wie er heute ist, deutlich verbessert und ist er dabei absolut kostenlos, dann kann ich mir vorstellen, den hin und wieder zu nutzen.  Bei Gelegneheit.  Wenn er sich rechnet.  Was er bei mir zwischen Städten eher nicht und innerhalb von Städten nur sehr selten tun wird.  Wenn alles kostenlos ist.  Wenn nicht sieht es deutlich schlechter aus, weil ich es nur dann nutze, wenn ich es eben nicht vermeiden kann.
+
+Ich sage nur die Wahrheit.  Eine Wahrheit, die wahrscheinlich nicht nur für mich stimmt.
+
