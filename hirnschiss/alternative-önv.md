@@ -16,7 +16,10 @@
 > Trotzdem haben wir ein riesen Schwein, dass China die akute Pandemie ausgebrütet hat.
 > Denn es hätte weit schlimmer kommen können, z. B. eine aus Hyderabad (Indien) ..
 
-Ach ja, siehe unten, das 49-EUR-Ticket verbessert nichts, es macht die Situation noch katastrophaler.
+Updates:
+
+1. Ach ja, siehe unten, das 49-EUR-Ticket verbessert nichts, es macht die Situation noch katastrophaler.
+2. Update 2023-10: Und immer noch eiert Bayern rum mit dem "neuen" Mobilitätskonzept.  Was daran ist neu, wenn man so weitermacht wie in den letzten 100 Jahren?
 
 
 # Hirnschiss ÖNV
