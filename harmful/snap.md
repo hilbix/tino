@@ -11,6 +11,50 @@ but very near it.
 >
 > So, for now, SystemD is not considered to be in this area here.  But it can be listed as Honorable Mention.
 
+## The chance to win against `snapd` is lower than the chance to win at a casino slot machine
+
+Suddenly chrome no more worked.  The error was:
+
+```
+Content snap command-chain for /snap/chromium/2655/gnome-platform/command-chain/desktop-launch not found: ensure slot is connected
+```
+
+Whatever this wanted to tell me.  I found a closed bug on `snap`.
+
+> Apparently this is a known bug in `snapd` **which will never be repaired** because it is considered something which ..
+> Well, read yourself:  <https://github.com/snapcrafters/discord/issues/135#issuecomment-1455074024>
+>
+> BTW this **definitively is a bug in `snap` itself** because it cannot be that packages go harakiri thanks to snap being incapable updating them properly.
+
+How to resolve?  As read in above linked comments.
+
+- `snap connections chromium` -- list all the connections of chromium
+- Then find out which connection does not work.  I did not find a reliable way to find out which one is the problem.
+  - However I found out that the `gnome-42-2204` was missing at my side, too
+  - So I installed it
+- `snap install gnome-42-2204`
+- `snap connect chromium:gnome-42-2204 gnome-42-2204:gnome-42-2204`
+  - I really do not know what this means.
+  - I tried to find out [but the documentation left me in the dark](https://snapcraft.io/docs/interface-management)
+  - I understand the words, but I really do not understand what they want to tell me.
+  - I only understand things like this if there is no riddle in between
+- In `snap connect <snap>:<plug interface> <snap>:<slot interface>` there is a hidden riddle not explained anywhere
+  - `<snap>:<plug interface>` is `chromium:gnome-42-2204` as shown in `snap connections chromium`
+  - Finding this is the first riddle
+- How `<plug interface>` relates to the snap name is the second riddle.
+  - If you are lucky, both are the same?
+  - Does this assumption hold?
+  - Always?
+- `<snap>:<slot interface>` is ..
+  - I have no idea how to find this, because it is not documented
+  - With the second riddle solved, you can assume, that `<snap>:<slot interface>` starts with the snap which came from `<plug interface>`
+- How to find `<slot interface>` if it does not happen to be the same as `<plug interface>`?
+
+They simply do not resolve these 4 riddles.  With 4 riddles with "only" 20 possible solutions each, you have 160000 possible solutions.
+
+The odds of casino slot machines are roughly 1:20. Hence the odds of `snapd` are much worse ..
+
+
 ## Why?
 
 The design priciple of Snap is out of bounds.  **Snap contradicts the design principle "do no harm"**.
