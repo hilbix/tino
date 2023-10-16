@@ -33,7 +33,7 @@ Der Rest interssiert mich erst einmal ganz und gar nicht.
 
 Nur warum das immer so ultra schwer ist, ich verstehe es nicht.
 
-**Was hindert die Hersteller eigentlich daran, dass die Geräte einfach bei 10% ihrer Lifetime in die Sperre gehen,
+**Was hindert die Hersteller eigentlich daran, dass die Geräte einfach bei 10% restlicher Lifetime in die Sperre gehen,
 und einfach Readonly werden?** Dann könnte man das (z. B. durch Abbrechen einer Ecke etc.) weiterbetreiben,
 bis sie endgültig versagt.
 
