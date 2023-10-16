@@ -47,7 +47,7 @@ If the source is not available through `apt` but in `git` instead:
 > 
 >  Be sure to:
 >
-> - be aware that **this does not create a correct** `../$PACKAGE_*.tar.gz`**.  But it should work for non-source builds.
+> - be aware that **this does not create a correct `../$PACKAGE_*.tar.gz`**.  But it should work for non-source builds.
 > - set `debian/changelog` correctly.  The first line of `changelog` must start with `$PACKAGE ($VERSION) ` (here: `mosh (1.4.0-1) `)
 > - have a clean worktree as in `st="$(git status --porcelain)" && [ -z "$st" ] && git clean -ifdx && ok || echo fail`
 > - If building the source, this fails for some reason, try to do `rm -f ../${PACKAGE}_*` to remove the wrong source
