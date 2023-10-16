@@ -9,6 +9,10 @@ Was wohl am wichtigsten ist:  "Wie lange hält die interne MMC noch bis sie, und
 Die Antwort kann wohl keiner geben, aber man kann (vermutlich, so genau konnte ich das auch nicht rausfinden) abrufen,
 wie verbraucht sich das Teil selbst bewertet.
 
+    apt install mmc-utils
+
+Dann
+
     LC_ALL=C.UTF-8 mmc extcsd read /dev/mmcblk1 | egrep 'Life Time Estimation|EOL information'
 
 Die Angaben bei der Lifetime sind in 10%-Schritten und beginnen bei 10%.
