@@ -4,6 +4,12 @@ Passt in Rants, Jokes oder wo auch immer.  Aber irgendwo muss es ja hin.
 
 ## 2023-10-19 falscher Trackingstatus
 
+> Folgendes habe ich gerade im Kontaktformular von DPD hinterlassen,
+> getreu dem Motto, niemand hat sie dazu gezwungen,
+> in ein Business einzusteigen, das mir Pakete schickt.
+>
+> Selber schuld ;)
+
 Das Paket wurde (gestern Nachmittag) beim Nachbarn abgegeben.
 Die DPD Sendungsverfolgung (die ich gerade telefonisch abgerufen habe) meldet (heute) ebenfalls, dass das Paket beim Nachbarn abgegeben wurde,
 
