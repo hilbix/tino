@@ -43,3 +43,96 @@ Attackers can possibly still disturb things.  However, provided that the signing
 But there is no central management which can be cracked, because there simply isn't one.  That's the whole idea behind that.
 
 I am not completely set up this way yet.  I am just at the begining.  This here is not to keep record, but to free my brain from the need to keep every detail.
+
+
+## Getting started with Ansible
+
+There are 4 basic concepts in Ansible:
+
+- Playbooks AKA YAML files
+- [Roles](roles.md), which offer easily reusable parts for Playbooks
+- Templates, implemented by Jinja2
+- Inventory, which contains the catalog of machines and their configuration variables
+
+The above is sorted by the imporance.
+
+- The most important thing with Ansible are Playbooks.
+- The next thing you need are Roles, which is a terrible name for it.  Because these allow you to remove redundancy from all of your playbooks.
+- The third thing you need to understand is Jinja2 aka the templating engine, because everything you can use dynamically is based on this.
+- Then last important thing is the Inventory, because Ansible contains a default repository for `localhost`
+
+Of course the Ansible documentation starts with the least important thing:  Inventory
+
+This is perhaps because they want to show their ability to replace Puppet and can support a whole infrastructure.
+However this is very puzzling if you reallt want to get started with Ansible.
+
+Usually the first thing you want to do is not to understand how to manage a fleet of a billion VMs out there in the cloud.
+What you usually want to know is how to do system maintainance with Ansible.  To get rid of the tedious repeating task of setting up something locally.
+
+This is why I write this here.  Usually I'd like to start with something like this on a fresh new machine:
+
+```
+# WARNING!  This does not yet exist!
+git clone https://github.com/hilbix/ansible.git
+ansible/init.sh
+# WARNING!  This does not yet exist!
+```
+
+Or even more easy from my local workstation it should look like this:
+
+```
+# WARNING!  This does not yet exist!
+ssh remotevm echo OK
+cd ~/git/deploy
+ansible/init.sh remotevm
+# WARNING!  This does not yet exist!
+```
+
+The latter should prepare a remote machine to be managed with Ansible.
+
+- It should install all the usually needed packages
+- It should include setup the first part, too
+- Such that the machine can manage itself out of the `git` repo in future
+
+There is absolutely no infrastructure needed:
+
+- Everything can be kept on my local workstation
+  - It can be pushed to some central `git` server, of course, but this is no requirement
+- I can edit configuration on my local workstation
+  - and push it to the machine
+- The machine then handles the rest
+
+
+### Notes
+
+The result of the management done locally then should be pushed to some monitoring.
+
+- The monitoring is something completely different and independent and therefor not handled here .. yet.
+
+`deploy/` contains the `ansible/` submodule and `host/`hostname -f`/` submodules
+
+`ansible/init.sh` without parameter operates on `localhost` like that:
+
+```
+git init host/`hostname -f`
+cd host/`hostname -f`
+ln -s ../../ansible .
+ansible/setup.sh
+```
+
+`ansible/init.sh remotevm` operates on the given VM like that:
+
+```
+git init host/remotevm
+cd host/remotevm
+ln -s ../../ansible .
+ansible/setup.sh remotevm
+```
+
+- I like things to stay similar and hence easy to remember and use
+- There could be some `host/ansible` of course if you name some VM `ansible`
+  - Hence the softlink to `ansible` must go two levels up
+
+I am not quite there.  In fact, this here is the first place I found out how I really want it to look like.
+
+> This is why I usually do documentation (somewhat, only the most basic one) before implementation.  To order my thought and get some clear path to follow.
