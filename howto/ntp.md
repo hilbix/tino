@@ -1,6 +1,148 @@
 > TL;DR: `/usr/bin/socat -d -d -t2 -T2 UDP4-RECVFROM:123,reuseaddr,fork,bind=$INTERNAL_INTERFACE UDP-SENDTO:$NTP_SERVER:123` is your friend
 
-# NTP proxy
+# NTP
+
+## `SystemD.timesyncd` is a nightmare
+
+`SystemD.timesyncd` sometimes simply does not work and does not keep the time.  In that case following does not work:
+
+- Updating the time at boot.  I do not know why, but after boot my time often is completely wrong.  And `SystemD.timesyncd` does nothing against this.  I really have no idea why or how to fix that.  I tried.  I failed miserably.
+
+- Updating the time while the machine is running.  Apparently `SystemD.timesyncd` does a bad job in keeping the time correct.  I really have no idea why or how to fix that.  I tried.  I failed miserably.
+
+What I expect is, that `SystemD.timesyncd` keeps up the time.  And if anything fails, like it cannot get the time from the network or it apparently fails to set the system time for some reason or the system time jumps forth and back out of control of `SystemD.timesyncd`, then I expect that a modern piece of software tells this prominently, and also within this, it exactly tells what's going on and how to fix it.
+
+However `SystemD.timesyncd` is mute.  I simply cannot find any trace about the problem.  Following ran on two different machines:
+
+```
+A$ timedatectl
+               Local time: Mon 2023-10-30 04:38:35 CET
+           Universal time: Mon 2023-10-30 03:38:35 UTC
+                 RTC time: Mon 2023-10-30 03:38:35
+                Time zone: Europe/Berlin (CET, +0100)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+
+B$ timedatectl
+               Local time: Mon 2023-10-30 04:36:29 CET
+           Universal time: Mon 2023-10-30 03:36:29 UTC
+                 RTC time: Mon 2023-10-30 03:37:47
+                Time zone: Europe/Berlin (CET, +0100)
+System clock synchronized: no
+              NTP service: active
+          RTC in local TZ: no
+```
+
+What does this want to tell me?  "System clock synchronized: no" why?  What's wrong?
+
+Note that the RTC time even is "much better" than the system time.  So why isn't it using the RTC?  A known drift of the RTC can be compensated.  The accounted time cannot be more correct than the RTC, because CPUs can sleep.
+
+I really do not understand any trace of why SystemD is implemented this way and what SystemD wants to tell me or does not tell me at all.
+
+Well, to find the problem, we must look deeper, the hard way:
+
+```
+B$ systemctl status systemd-timesyncd
+● systemd-timesyncd.service - Network Time Synchronization
+     Loaded: loaded (/lib/systemd/system/systemd-timesyncd.service; enabled; vendor preset: enabled)
+     Active: active (running) since Thu 2023-10-12 06:47:48 CEST; 2 weeks 3 days ago
+       Docs: man:systemd-timesyncd.service(8)
+   Main PID: 3274206 (systemd-timesyn)
+     Status: "Idle."
+      Tasks: 2 (limit: 38240)
+     Memory: 472.0K
+        CPU: 2.894s
+     CGroup: /system.slice/systemd-timesyncd.service
+             └─3274206 /lib/systemd/systemd-timesyncd
+```
+
+Thanks for telling exactly nothing.
+
+```
+B$ sudo systemctl status systemd-timesyncd
+● systemd-timesyncd.service - Network Time Synchronization
+     Loaded: loaded (/lib/systemd/system/systemd-timesyncd.service; enabled; vendor preset: enabled)
+     Active: active (running) since Thu 2023-10-12 06:47:48 CEST; 2 weeks 3 days ago
+       Docs: man:systemd-timesyncd.service(8)
+   Main PID: 3274206 (systemd-timesyn)
+     Status: "Idle."
+      Tasks: 2 (limit: 38240)
+     Memory: 472.0K
+        CPU: 2.894s
+     CGroup: /system.slice/systemd-timesyncd.service
+             └─3274206 /lib/systemd/systemd-timesyncd
+
+Oct 29 23:14:18 B systemd-timesyncd[3274206]: Timed out waiting for reply from 192.168.0.1:123 (192.168.0.1).
+```
+
+You only get the information when you are privileged!  **This is very bad.**  Actually I expect to be able to get the same information as unprivileged user easily!  As querying the local NTP traditionally is some unprivileged action.  But SystemD does everything differently ..
+
+### What happened?
+
+When moving to `chrony` on my local time server I forgot to configure it.  Following did the trick as `root` on my local time server:
+
+```
+# echo allow 192.168.0.0/16 > /etc/chrony/conf.d/allow-192.168.conf
+# systemctl restart chrony
+```
+
+Now `chrony` listens on `UDP 0.0.0.0:123` and answers time queries:
+
+```
+# ss -lup | grep chrony
+UNCONN 0      0              0.0.0.0:ntp                0.0.0.0:*    users:(("chronyd",pid=1355049,fd=7))         
+UNCONN 0      0            127.0.0.1:323                0.0.0.0:*    users:(("chronyd",pid=1355049,fd=5))         
+UNCONN 0      0                [::1]:323                      *:*    users:(("chronyd",pid=1355049,fd=6))         
+```
+
+Following commands are helpful to peek into `chrony` (in contrast to SystemD, these  work unprivileged, of course):
+
+```
+chronyc tracking
+chronyc sources -v
+chronyc sourcestats -v
+chronyc selectdata -v
+chronyc activity
+chronyc ntpdata
+```
+
+Note that I am using the default `/etc/chrony/chrony.conf` file from the distribution.
+
+Afterwards:
+
+```
+B$ timedatectl
+               Local time: Mon 2023-10-30 05:14:15 CET
+           Universal time: Mon 2023-10-30 04:14:15 UTC
+                 RTC time: Mon 2023-10-30 04:14:15
+                Time zone: Europe/Berlin (CET, +0100)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+
+$ sudo systemctl status systemd-timesyncd
+● systemd-timesyncd.service - Network Time Synchronization
+     Loaded: loaded (/lib/systemd/system/systemd-timesyncd.service; enabled; vendor preset: enabled)
+     Active: active (running) since Thu 2023-10-12 06:47:48 CEST; 2 weeks 3 days ago
+       Docs: man:systemd-timesyncd.service(8)
+   Main PID: 3274206 (systemd-timesyn)
+     Status: "Initial synchronization to time server 192.168.0.1:123 (192.168.0.1)."
+      Tasks: 2 (limit: 38240)
+     Memory: 544.0K
+        CPU: 2.900s
+     CGroup: /system.slice/systemd-timesyncd.service
+             └─3274206 /lib/systemd/systemd-timesyncd
+
+Oct 29 23:48:36 B systemd-timesyncd[3274206]: Timed out waiting for reply from 192.168.0.1:123 (192.168.0.1).
+..redacted..
+Oct 30 04:59:25 giganto systemd-timesyncd[3274206]: Initial synchronization to time server 192.168.0.1:123 (192.168.0.1).
+```
+
+Now it works.  But I still must be superuser to display this!  WTF!?!
+
+
+## NTP proxy
 
 - Goal: You want to bring NTP into separated networks.
 - Problem: **You have SystemD.**  SystemD does not provide NTP service for sub networks.
