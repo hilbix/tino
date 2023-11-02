@@ -11,6 +11,7 @@ https://superuser.com/questions/1564100/how-to-run-android-emulator-x86-on-windo
 
 Question removed?  What is with the link to it?  It now became void!
 
+![Stackoverflow Screenshot](img/please-stop-stackoverflow.png)
 
 ## Stackoverflow is harming the web!
 
