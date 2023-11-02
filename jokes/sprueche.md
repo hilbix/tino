@@ -132,3 +132,10 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2023-09-14 17:00 Warum klingelt mein Smartphone immer just dann, wenn ich es nicht auf die Toilette mitgenommen habe?
 
 - 2023-09-14: Was ist der Unterschied zwischen Klimawandel und IPv6?  Wenn wir unsere Unfähigkeit erkannt haben, den Klimawandel in den Griff zu bekommen, werden wir uns ihm zähneknirschend anpassen.  Bei IPv6 wird uns das nicht gelingen ..
+
+- 2023-11-02: Woran erkennt man, dass ein Admin (wie ich) lügt?  Er hält die Fresse.  
+  Korollar (dies stellt eine wahre Äußerung meiner Meinung dar):
+  - Woran erkennt man, dass ein Jurist lügt?  Gar nicht, [Juristen lügen niemals](https://www.gesetze-im-internet.de/stgb/__153.html)!
+  - Woran erkennt man, dass ein Politiker lügt?  Seine Lippen bewegen sich.  (Habe ich aus [Max Headroom](https://de.wikipedia.org/wiki/Max_Headroom).)
+  - Das gilt, finde ich, übrigens auch für Manager, Vorstände und Marketingfuzzies, bis auf eine rühmliche Ausnahme:
+  - Woran erkennt man, dass Elon Musk lügt?  Er atmet.
