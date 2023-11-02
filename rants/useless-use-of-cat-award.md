@@ -187,7 +187,7 @@ Consider:
       touch debug.txt;
       (
         flock 6;
-        ead debug < debug.txt;
+        read debug < debug.txt;
         let debug++;
         echo "$debug" > debug.txt;
         echo "catting *" >debug$debug.out;
