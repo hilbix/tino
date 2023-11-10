@@ -2,6 +2,44 @@
 
 Some quirks about `apt`
 
+## `apt` maintainers [enable PDiff against your will](https://lists.debian.org/deity/2016/10/msg00037.html)
+
+Nowadays there is some rule in Debian which re-enables PDiffs for content files even if they are globally disabled.
+
+> They say, this needs to be enabled by default.
+>
+> However for me this claim seems to be entirely wrong:
+>
+> AFAICS PDIFFs thwart caching.  Thanks to caching, downloading even 1 GB file takes less than a second on my 10 GBit network.  (Can anybody please enlighten me how to allow `apt-cacher-ng` to process PDiffs correctly with absolutely no bugs ahead?)
+>
+> Also Devices use battery power to reassemble the compressed content files.  AFAICS it drains much less power when they download the big files from the cache and process them afterwards.  (Can anybody please enlighten me how to test my claim?)
+
+Here is how to disable PDiffs for now and in future (until they find some new way to again decide against us):
+
+```
+apt-config dump | grep PDiffs | sed -n 's/"true"/"false"/p" >> /etc/apt/apt.conf.d/99proxy
+```
+
+Why `99proxy`?  Because it always looks like this initially at my side:
+
+```
+Acquire::Pdiffs "false";
+Acquire::http::Proxy "http://192.168.0.1:3142";
+```
+
+With `apt-cacher-ng` running on port 3142.  This also works for `https://` targets by running
+
+```
+sed -i 's|https://|http://HTTPS///|' /etc/apt/sources.list.d/*
+```
+
+For example `/etc/apt/sources.list.d/mozillateam-ubuntu-ppa-jammy.list` then looks like this:
+```
+deb http://HTTPS///ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/ jammy main
+# deb-src http://HTTPS///ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/ jammy main
+```
+
+
 ## `apt-key update` does no more work
 
 Symptom after some debian-buster-minimal install:
