@@ -17,18 +17,18 @@ Nowadays there is some rule in Debian which re-enables PDiffs for content files 
 Here is how to disable PDiffs for now and in future (until they find some new way to again decide against us):
 
 ```
-//usr/bin/apt-config dump |grep -i pdiff | sed -n 's/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy
+//usr/bin/apt-config dump | sed -n '/::PDiffs/s/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy
 ```
 
 Why `99proxy`?  Because it now initially looks like this at my side:
 
 ```
-//usr/bin/apt-config dump |grep -i pdiff | sed -n 's/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy
+//usr/bin/apt-config dump | sed -n '/::PDiffs/s/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy; [ 99proxy = "${0##*/}" ] && exit
 Acquire::Pdiffs "false";
 Acquire::http::Proxy "http://192.168.0.1:3142";
 ```
 
-> Note that the full first line can be copied to the shell level unchanged.   See above.  I like things to be easy to use.
+> Note: The first line allows to run `bash /etc/apt/apt.conf.d/99proxy` and does not hurt if copy and pasted.   I like it easy.
 
 With `apt-cacher-ng` running on port 3142.  This also works for `https://` targets by running
 
