@@ -14,7 +14,7 @@ Nowadays there is some rule in Debian which re-enables PDiffs for content files 
 >
 > Also Devices use battery power to reassemble the compressed content files.  AFAICS it drains much less power when they download the big files from the cache and process them afterwards.  (Can anybody please enlighten me how to test my claim?)
 
-Here is how to disable PDiffs for now and in future (until they find some new way to again decide against us):
+Here is how to disable PDiffs for now and in future (until they find some new way to decide against us again):
 
 ```
 //usr/bin/apt-config dump | sed -n '/::PDiffs/s/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy
