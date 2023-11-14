@@ -1,0 +1,82 @@
+# HowTo LVM
+
+My recommendations:
+
+- If possible, use LVM!
+  - If possible, do not fill the volume-group up to 100%.
+  - Leave some room unused (10% to 20%) for future use (I often only use 50% or even less)
+- `mirror` devices do not permit caching.  Hence if possible, use `raid1` instead!
+  - If you want some `mirror` features, use `md` instead and put LVM on top of the `md` device
+- Use `cachevol` instead of `cachepool` where possible
+  - using `cachepool` only is needed if you want to split your cache's metadata from the cached data
+  - avoid the hassle of calculate right size of metadata yourself
+- There is nothing bad to use the entire device (like `pvcreate /dev/sdb`) for LVM!
+  - So if you put some PV onto a partition, make sure that the partition is 4096 byte aligned!
+  - Old partitioning scheme started the first partition on sector 63, which is bad in combination with a PV on such a partition
+- To install `grub` you need a partitioning which leaves room for the bootloader
+  - If possible, install `grub` on 2 devices, this helps booting if one of the devices fail
+- `grub` is able to boot from LVM, so there is no need to put the root `/` or boot `/boot` on a separate partition
+  - However EFI does not like LVM, so keep the EFI partitions as usual
+- On bare metal Linux with revolving boot disks I usually have this:
+  - partition 1 is a ~1 GB boot partition, mirrored with mirror information at the end.
+  - partition 2 is a 128 MB EFI partition, only used if the BIOS is EFI
+  - partition 3 starts at 1 GB (exactly) and usually has 31 to 255 GB (usually a bit less than RAM size)
+  - partition 4 (starts at a 1 GB alignment) and takes the rest as a PV for LVM
+  - partition 3 either is for swap usage, some `md` mirror for some special root PV or for other purpose
+  - If I do not need partition 1, 2 or 3, I usually still keep them.
+  - Usually I have 1 to 3 equal boot drives
+- On bare metal Linux with NVME, it looks quite different:
+  - partition 1 is a 512 MB EFI partition from 2048 to 1048575
+  - partition 2 is a spare partition spanning to 128 GB
+  - partition 3 starts at exactly 128 GB and spans the entire rest of the device as a PV
+  - I usually have 1 or 2 identically setup NVME devices of 1 TiB or bigger (mirrored)
+- On multiboot with Windows I ususally put Linux(es) into a single LVM partition (alltogether)
+  - partition 1 usually is EFI and starts at the usual offset (often 63)
+  - partition 2 is a Windows Boot partition (for Bitlocker etc.)
+  - partition 3 usually is the (shrunken) windows partition
+  - Here usually I create a hole by shrinking the windows partition to make room for Linux
+  - partition 4 often is a WindowsPE recovery partition (keep it!)
+  - partition 5 then is created to take over the hole between partition 3 and 4
+  - `grub` is installed before partition 1 and can be booted by the windows bootloader on partition 2
+  - partitioning scheme is similar in case of old extended partition format
+  - Note that with old partition format there is no EFI partition, hence without extended partitions you have one partition slot free to make it LVM
+  - I do not check for alignment here, because this usually is near to impossible to get some sane setup from what came pre-installed
+- Always use `/etc/crypttab` for swap LVs!
+- If possible, use LUKS encryption for your root device
+  - Ubuntu offers encrypted boot directly from install
+  - Do not try to add encryption later by yourself, it is very error prone
+- You do not need to use LUKS for ZFS these days
+  - ZFS encryption is far better improved
+  - ZFS works good on LVs
+  - If possible use ZFS mirrors to enable self-healing
+  - Note that ZFS does need a perfect RAM, if your RAM has bit errors you are likely to destroy the ZFS filesystem
+  - With bad RAM it is even more likely to destroy all your data unnoticed than with ZFS, because ZFS quickly reports trouble
+- Stay away from BTRFS (this at least is my recommendation until BTRF gets far more stable)
+  - `/boot` is ext2 (will become ext4 before 2038), `/root` is ext4, everything else (`/home`) is (encrypted) ZFS
+  - Perhaps in future I will even start to think about booting from ZFS
+  - I never had any issues with ZFS zraid3 (10 disks plus 3 redundant devices) for over a decade of use
+  - I never had any issues with ZFS and recovery from (otherwise) catastrophic events.  Everything worked automatic.  No hassle, no brain.
+  - My biggest problem with ZFS is, that it is lacking zraid4 and zraid5 (OTOH BTRFS not even has something comparable to zraid3)
+  - But I had immediate(!) catastrophic(!) trouble with BTRFS and RAID6 (which only has a redundancy of 2 which is too few for me)
+  - And I had immediate(!) catastrophic(!) trouble with BTRF, snapshots and filled devices (you even cannot get near 100% fill rate)
+  - My last test was around 2018, but AFAICS nothing has changed since then.  So BTRFS is simply unusable crap for me.  Sorry to say that.
+  - Note that ZFS also has issues when you fill it over 95%.  But these issues do no harm at all, things just become a bit slow due to CoW.
+- BTW:
+  - I also had immediate catastrophic trouble with ReiserFS and Reiser2 as well.
+  - Also I had some serious (but not catastrohic, so you can use it in production) issues with XFS, too.
+  - XFS comes with some nice features (online and incremental backup) compared to ext4.
+  - XFS is good in nearly all respects, except when it comes to big files with small writes (but you can defrag online)
+  - ext4 is good in nearly all respects, except when it comes to big directories which slowly grew (no defrag of directories)
+  - ZFS does not allow dedup
+  - ZFS dedup is slow if there is not enough (read: enourmous) memory.
+  - OTOH BTRFS might offer better deduplication.  However I never dared to try this yet.
+
+I was unable to understand how to use secure boot (or moreover: authenticated boot) with these setups.
+For this I probably first have to understand how to secure EFI to use authenticated Coreboot.
+
+- I do not know how to replace EFI in Intel IME without hacking the hardware.
+  - I do not want to alter the hardware myself.
+  - I do not want to pay an extra $2000++ price tag for modified EOL laptops which then have IME replaced by Coreboot by some third party
+- Usually my Netbooks are in the price area of $200 to $300 max. because they are doomed to fall down stairways when they slip my hands
+  - This happens 1 to 2 times a year.  Sometimes they survive a bit hurt.  But often no salvageable parts are left.
+  - This is why I want encryption, because I cannot erase things afterwards (sometimes I am even unable to reach the shattered device).
