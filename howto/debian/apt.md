@@ -2,7 +2,8 @@
 
 Some quirks about `apt`
 
-## `apt` maintainers [enable PDiff against your will](https://lists.debian.org/deity/2016/10/msg00037.html)
+
+## `apt` maintainers [enable PDiffs against your will](https://lists.debian.org/deity/2016/10/msg00037.html)
 
 Nowadays there is some rule in Debian which re-enables PDiffs for content files even if they are globally disabled.
 
@@ -41,6 +42,14 @@ For example `/etc/apt/sources.list.d/mozillateam-ubuntu-ppa-jammy.list` then loo
 deb http://HTTPS///ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/ jammy main
 # deb-src http://HTTPS///ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/ jammy main
 ```
+
+To cleanup afterwards, do
+
+```
+rm -f /var/lib/apt/lists/partial/*                                                                       
+```
+
+Note that my fixer script https://github.com/hilbix/fix/blob/master/root/apt now does this, too.
 
 
 ## `apt-key update` does no more work
