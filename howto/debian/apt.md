@@ -25,7 +25,7 @@ Why `99proxy`?  Because it now initially looks like this at my side:
 
 ```
 //usr/bin/apt-config dump | sed -n '/::PDiffs/s/"true"/"false"/p' >> /etc/apt/apt.conf.d/99proxy; [ 99proxy = "${0##*/}" ] && exit
-Acquire::Pdiffs "false";
+Acquire::PDiffs "false";
 Acquire::http::Proxy "http://192.168.0.1:3142";
 ```
 
