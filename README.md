@@ -47,7 +47,7 @@ kompliziert ist oder ich einfach nur einen Hint brauche, der vom einem mir bekan
 "Warum" zum "Wie" führt, weil es ausnahmsweise nicht ganz so einfach ist wie üblich.
 
 
-# Ach ja, bevor andere Meinungen dazu aufkommen
+# Ach ja, bevor andere Meinungen aufkommen
 
 Diesen Zettelkasten fülle ich eigentlich ausschließlich nur für mich alleine mit Inhalten.
 
