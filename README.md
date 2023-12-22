@@ -61,7 +61,7 @@ Außerdem sind Menschen - und dazu zähle ich mich normalerweise - eine äußers
 denn sie können nicht nur an zwei vollkommen gegensätzliche Dinge zeitgleich glauben,
 sondern auch noch parallel entsprechend handeln!
 
-> Ich sehe da irgendwie starke Parallelen zu verschränkten Quanten ..
+> Apropos parallel:  Verschränkte Quanten verhalten sich da ja ziemlich ähnlich ..
 
 In diesem Sinne gehöre ich, wie eigentlich jeder im Internet, zur Rasse der
 [Homo sapiens erraturum esse](https://translate.google.com/?sl=la&text=Homo%20sapiens%20erraturum%20esse)
