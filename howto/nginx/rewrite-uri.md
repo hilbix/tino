@@ -73,7 +73,7 @@ X-uri: /something/image.gif
 Now you know the value of the `$uri` variable and as we know that `try_files` looks for `$root$uri`
 we now can clearly see that the file `/srv/whatever/something/image.gif` does not exist.
 
-As we know we want that `$uri` must be changed from `/something/image.gif` to `/image.gif`
+As we now understand, that `$uri` must be changed from `/something/image.gif` to `/image.gif`,
 we can deduce the correct `rewrite` rule which affects `$uri`:
 
 ```
@@ -100,7 +100,7 @@ X-uri: /image.gif
 Accept-Ranges: bytes
 ```
 
-### Do not forget to remote the header
+### Do not forget to remove the header!
 
 In the above example the
 
