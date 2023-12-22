@@ -22,7 +22,7 @@ In diesem Sinne: [Du, wenn Du hier eintrittst, lass alle Winde fahren!](https://
 
 # Eine kleine Verständnisfrage
 
-Ich sollte erwähnen, dass ich etwas nicht als verstanden ansehe, wenn ich nicht nur weiß
+Ich sollte erwähnen, dass ich etwas nicht als verstanden ansehe, wenn ich nur weiß
 
 - wie es funktioniert und
 - dass es funktioniert,
