@@ -140,3 +140,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
   - Das gilt, finde ich, übrigens auch für Manager, Vorstände und Marketingfuzzies, bis auf eine rühmliche Ausnahme:
   - Woran erkennt man, dass Elon Musk lügt?  Er atmet.
   - Letzteres erscheint jetzt ähnlich zu ersterem, hat aber einen anderes Vorzeichen.
+
+- 2023-12-23 [Tautologisches Oxymoron](https://github.com/hilbix/tino/blob/master/wahnsinn/bayern-und-corona.md#fazit)
