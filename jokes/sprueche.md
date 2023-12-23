@@ -139,6 +139,10 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
   - Woran erkennt man, dass ein Politiker lügt?  Seine Lippen bewegen sich.  (Habe ich aus [Max Headroom](https://de.wikipedia.org/wiki/Max_Headroom).)
   - Das gilt, finde ich, übrigens auch für Manager, Vorstände und Marketingfuzzies, bis auf eine rühmliche Ausnahme:
   - Woran erkennt man, dass Elon Musk lügt?  Er atmet.
-  - Letzteres erscheint jetzt ähnlich zu ersterem, hat aber einen anderes Vorzeichen.
+  - Update 2023-12-23:
+    Letzteres erscheint jetzt ähnlich zu ersterem, also mir, hat aber einen anderes Vorzeichen.  
+    PS:
+    Welchen Effekt hat solch ein Vorzeichenwechel bei der Null?
+    Na denselben wie bei Unendlich auf der [Riemannschen Zahlenkugel](https://de.wikipedia.org/wiki/Riemannsche_Zahlenkugel), natürlich!
 
 - 2023-12-23 [Tautologisches Oxymoron](https://github.com/hilbix/tino/blob/master/wahnsinn/bayern-und-corona.md#fazit)
