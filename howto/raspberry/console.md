@@ -81,19 +81,35 @@ Do not use the row of Pin 1.  Use the other row.  Start counting from Pin 1, tho
 - Empty (do not connect Red here yet)
 - Empty (do not connect Red here yet)
 - Black
-- Green
 - White
+- Green
 
-Note that there are some pictures out there which show Green and White the other way round.
-Perhaps my cable is distorted.  So if the serial does not work, try to exchange Green and White.
-**But never switch them with red or black and never switch red and black!**
+Note that most pictures out there show White and Green in this sequence.
+Some of my cables conforms to this, too.
+But others (identical looking ones) have Green and White switched at my side.
+
+I do not know which way is right and which cable is wrong.
+So if the serial does not work, try to exchange Green and White.
+**But never switch them with red or black and never switch red and black**
+(as long as red is VCC and black is GND, as measured at first)!
+
+> Test it!  Do not trust your cable!  Better double safe than sorry.
 
 If you want to power up your PI Zero from the Debug cable, attach Red as the last cable.  You can use any of the two Empty slots, because both are VCC.
+
+> If you do not want to power your PI from the cable, leave Red away.  It is not needed.
+> You only need GND and the two data lanes.
 
 Note that you might need to hit `Enter` (or Return) to see the Login prompt.
 
 I first tested this on a PI400, then I adopted it to my PI Zero.  Just because the PI400 has a keyboard, so I was able to enter commands there until it worked.
 
+> With some settings in `/boot/config.txt` you might affect the UART.
+> Especially if you use something on SPI.
+>
+> In that case you will notice strange looking characters to be displayed.
+> In that case you must either use SPI or the serial console, but not both.
+> (Note that often they do not tell this.  Perhaps they just do not know or are very careless.)
 
 ## What cable do I use?
 
