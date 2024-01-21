@@ -1,3 +1,8 @@
+> TL;DR for Snap I have 2 requirements:
+>
+> - The enforced auto update feature has to go
+> - Mirroring must be possible (and these mirrors must be usable without coordination later on)
+
 # [snap](https://snapcraft.io) is considered harmful
 
 IMHO snap is one of the worst designed piece of postmodern software.  It is probably not as worse as SystemD,
@@ -240,6 +245,7 @@ Again to stress it:
 - Another Machine then reuses this mirror to update
   - This machine may have no networking at all (PI zero without W)
   - The mirror just has to materializes there somehow (like plugging in some USB stick)
+  - This could happen a few years or even decades later (for example to compare how some old production would have run on the new but different architecture)
 - Another Machine can only update or mirror, what was mirrored by First machine, of course.
   - So there is no need to mirror all the stuff on snapcraft.io!
   - But I do not object, if you need to download everything.
