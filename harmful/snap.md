@@ -11,6 +11,245 @@ but very near it.
 >
 > So, for now, SystemD is not considered to be in this area here.  But it can be listed as Honorable Mention.
 
+
+## `snapd` as SPoF
+
+You cannot cache Snaps, because Snap refuses to be cached properly.
+
+Hence forget using Snap in some offline lab situation.  Either you get direct access to snapcraft.io or you are doomed.
+
+This also functions as **Single Point of Failure**.  snapcraft.io is down or unreachable?  You are doomed as well.
+
+Also there is no corrective.  If you use Snap, your life starts to depend on somebody, who now **is in the power to harm your infrastructure**.
+Because there is no alternative.
+
+Just think about it a minute.  Or less.  Because it is true.  Anybody who forces you to depend on his will means, you **get into slavery**.
+
+In contrast look at some properly done things like the Debian Repository.  Not only are there an enourmous amount of distrubuted alternatives of their apt repos,
+it is also dead simple to mirror one for your own sake.  To become completely independent of the Debian Community.  If you dare.  But it is entirely possible.
+
+This is freedom.  **In contrast Snap is war.**  You first must abolish this slavery to return to freedom.
+
+> I for my part think, that slavery must be abolished and verboten on the global scale.  All forms of slavery, slavery like that seen in Snap, too.  Period.
+
+There is no caching daemon for Snap like `apt-cacher-ng`, because the inventors of Snap refuse this.  Actively!  Abd they keep snapcraft.io in a state of intransparent Closed Source.  Actively!
+
+Also note, that `apt-cacher-ng` is third party.  It is something completely independent from the apt repos.
+Just because they are properly designed.
+
+But Snap keeps everyhing tightly secured and closed.  The even actively refuse to help others to implement something like that.
+
+Why?
+
+I think this is becase that means that they then lose controle over you.
+Which means, **Snap wants to control you**.
+
+Perhaps you are masochistic and want that.  I definitively do not want to be hurt by something like Snap.  And I think, this is my human right, too.
+
+Note that, for me, what they tell in <https://youtu.be/BLm3HkZ-sMs?si=BnBMh-PlTmzMJ6eC> makes absolutely no sense to me.
+
+It is like **"Slavery is so incredibly good for you, so you must be enthusiastic becoming enslaved against and you are a moron if this is against your will"**.
+
+Wow.  Please note that I am from Germany.  And I never will forget that worst piece of our own history!
+
+There is some very important difference of Snap and GitHub.  Both are Closed Source, but GitHub is not harmful.
+
+It is easy to get rid of GitHub.  Just do not use it.  Just use something as simple as `git --mirror`.
+
+Hence in Contrast to Canonical, **Microsoft is not acting harmful**.  
+
+I know all the woes people expressed when Microsoft took over GitHub.  All told you "this is the end of GitHub".
+Some even left GitHub in favor of GitLab.  WTF?
+
+> Ever had a look at the security records of GitLab?  Really?  So why can anybody out there ever consider that as a viable Alternative to GitHub?
+
+I saw the takeover of GitLab entirely different.  And I was right!
+
+Microsoft was in desparate need for a platform like GitHub.  Also Microsoft does not need to make a living out of exploiting GitHub.
+Microsoft now knows how important Open Source is to them, so they understood why it is so important - for them - to offer GitHub to everybody and keep it free to use.
+
+So the exact opposite happened than what people feared.  As I anticipated, GitHub got better.  And it even became better than I imagined!
+
+> And things still improve at GitHub.
+
+So GitHub cannot be compared to Snapcraft.  It is not like comparing Apples with Pears.  And not like comparing Apples with Bananas.
+It is like comparing Apples with Poison. (BTW [Apples can kill you](https://www.britannica.com/story/can-apple-seeds-kill-you))
+
+I use GitHub.  Without using GitHub at all.  Thanks to the unique design of `git` this is possible.
+
+> `git config --global url.git@gitmirror.local/github/.insteadOf https://github.com/`
+>
+> and add repos to this mirror with
+>
+> `cd ~git/github && git clone --mirror https://github.com/$USER/$REPO.git $USER/$REPO.git`
+
+Using GitHub without using GitHub works like a breeze.  This solution is completely independent of GitHub.
+**And even if unexpectedly GitHub vanishes entirely and forever, no harm is done and everything continues to work as nothing has to be changed**
+(except for the mirror process).
+
+Now, how do I do the same with Snapcraft?  **I even tried to find it, but did not find any command to properly download a Snap** so I can make up a local
+alternative of snapcraft.io!
+
+So do not compare Snapcraft with some Closed Source Cloud Service which is done properly!
+
+### To stress it
+
+To become a central appstore, snapcraft.io does not need to keep the snaps secret.  They do not even need to keep these snaps on snapcraft.io.
+
+> It is nice that they offer the store themself for free.  But is horrible that they do not allow external stores.
+
+This does not contradict safety.  `git` proves that!  All you need is the hash.  Nothing else is needed to keep it secure!
+And this can be kept and provided by snapcraft.io.  And this can be done Closed Source.
+
+Because providing such form of security is not harmed by what the server software is.  Either you trust snapcraft.io.  Or you dont.
+This does not change if the source ofsnapcraft.io is kept closed.  Because the security trait of the snaps is independent of if the source of the server is open or closed!
+
+However there is a huge difference if you require a vendor lockin when it comes to using this information.
+If I know a Snap with certain Hash is marked secure to use by snapcraft.io, why do I have to download it a 1000 times from snapcraft.io when I install it on 1000 cloud VMs?
+
+And why am I required to be vendor locked into snapcraft.io if I want to pull a Snap from a group I trust like Mozilla Firefox?
+
+### Update to `snapd` faults existing Snaps
+
+Also I have an environment, but suddenly the Snaps stopped working.  What happened?  `snapd` itself was updated.  Thats it.
+
+Suddenly my environment became unusable, because I did something they probably have not expected in snap.  Not in the Snaps.  In snap!
+And I have not the slightest chance, to fix that myself.  And I am not in a position to make the snap creators to fix their bug.
+Because they already have refused to do so.
+
+**Snap is not only harmful.  It already is causing harm!**
+
+
+### To be more precise
+
+Here are my comments on <https://youtu.be/BLm3HkZ-sMs?si=BnBMh-PlTmzMJ6eC> (30 minutes into this video)
+
+"If you end up with a 170000 snapstores, you degrade that discoverability story."
+
+- This claim is false.  And you know that.
+  - We have DNS which contradicts this claim.
+  - We have search engines which even work for the completely unorganized case (in contrast snapcraft.io is organized)
+  - We have central registries.  Well, that Yahoo failed in that resprect to organize the web is no prove, snapcraft.io cannot do it
+  - Editorials and promotion of apps do not need a vendor lockin like snapcraft.io does
+  - Hence there is absolutely no problem in discoverability
+
+"and they automatically get published into the store" .. "but it means, the store is now deeply engrained into all of the infrastructure and moving parts of like the backend"
+
+- This claim is not also false
+  - and they know it
+  - Also it was never true, even not 1970
+  - It also fully ignores on how the Internet was built
+- They **decided** to do it that way.
+  - This is just NIHIL (Not Invented Here Is Lousy) because of refusal of all BCPs
+  - This is pure despotism.  Nothing else.
+- Now they **refuse** to change that.
+  - OTOH I can understand that refusal.  Haveing done something complete insane locks them into the jail of their wrong habbits now.  They no more can escape.
+  - But this still does not explain, why they wanted to lock in everyboy else in their own jail from the beginning.
+- Decoupling things is as easy as `git push` these days
+  - And it already was a long time before snapcraft.io even existed
+  - So why have they decided to re-invent a wheel which is not round?
+
+> When I implement something new, I try to implement it on top of something, which is capable to do it.
+> I only re-invent wheels myself if they are not round or wrongly designed for the environment I am in.  Perhaps because it is a new environment.
+> **But there is absolutely nothing new on delilvering packages.**  This was solved even decades before.
+>
+> Yes, things have evolved after that time.  So why did they even think of implementing something, which throws away all the good things of the past
+> and re-invent something, which is completely unusable crap?  I really do not get it.
+
+"because its got tendrills into all of the infrastructure"
+
+- Thats ok
+  - So you can keep the server source closed source.  I do not object to that!
+- However this still does not explain a bit
+  - Why do they block direct access to the snaps
+  - Why is there no way to create a mirror of all snaps from snapcraft.io?
+
+"its a ton of work to actually sort of decouple all of that"
+
+- I am with you.
+- But this is whataboutism.
+  - It does not epxplain anything to me
+  - It is just misleading the discussion
+- There is absolutely no need to decouple anything
+  - There is absolutely no need to Open Source anything either!
+- All you need is to allow the snap client to access a snap mirror
+  - And allow to mirror the Snaps in question
+  - With mirror I mean full mirror for all architectures involved
+  - Because I usually use the same snaps on 3 different architectures
+  - And this on several (more than 10) machines
+
+> A farm of 100 PI-Zeros, fully equipped with memory card, power adaptor and 3D printed casing, still cost far less than a single iPhone!
+> And are a bit more powerful, too.
+>
+> Now put a single Snap on them.  Or update it.  Even with a fast Internet this takes ages and becomes a DoS on snapcraft.io so that their blocking kicks in!
+> 
+> And how run these in some isolated environment (read: PI zeros without WiFi) and keep them updated?
+> Really no problem for Debian Apt repositories.  At my side a single PI400 handles these repos for all with no issues at all.
+> But it becomes overwhelmed when it comes to snapcraft.io!  (Also my Internet connecticity of 250 MBit/s becomes maxed out for a couple of hours.)
+>
+> Yes, I do things like "spin up 50 of them from scratch".  Yes, this does not need WiFi.
+
+All it needs are following very simple things:
+
+- Allow snapd to access a mirror instead of snapcraft.io
+  - This does not mean a different snapcraft service or self hosted snaps.
+  - This even does not mean something like a proxy.  There can be proxies, but this here is different.
+  - It must be possible to access the mirror via filesystem
+  - It should be possible to acces the mirror via web requests
+  - With or without SSL.
+- Allow snapd to fill that mirror from snapcraft.io
+  - Download and update the mirror with the snaps from snapcraft.io
+  - Download and update the authority/security information from snapcraft.io
+
+That should be farily easy to implement for somebody who has access to the closed source of snapcraft.io.
+
+- However it is hard to do it with reverse-engineering.
+- Also, according to the Snap people, everything is "fast moving".
+
+Keeping things updated should also be fairly easy to update for somebody who has access to the closed source of snapcraft.io.
+
+- Because then it fits in the existing code base and the updates come naturally with near to no overhead.
+- However with reverse-engineering this is a major obstacle, nearly impossible to maintain!
+
+Read: Not or refusing to do this, snapcraft does harm.  And they reject this with the entirely wrong arguments.
+
+**It is not about open sourcing snapcraft.io.  It is all about providing freedom to the community!**
+
+And this does not need to open source the server code or to detangle anything in the Infrastructure at Canoncical.
+
+It just means to put some mirror capability into the `snap` command.  That's all and really nothing spectacular or difficult!
+
+> There is absolutely no need to mirror everything.
+> All there is to "cache" something on one machine and be able to reuse that "cache" from a different machine.
+>
+> Nothing complex and something done for decades.
+
+I know you voluntarily designed things such, that caches are not meant to exist.  But this was not only by-choice.
+I think, this was a requirement.  Because there is really no good other reason, the only conclusion can be,
+that that you want to take over the world and enslave everybody.
+
+So please prove me wrong and add a properly designed mirror feature, such that `snap` can be used in an offline fashion
+without the need of network access.
+
+Again to stress it:
+
+- First Machine downloads everything into a mirror.
+  - This is either networked or uses another mirror.
+  - This machine does not know anything about other machines.
+  - This machine and the other machine do not need to interact at all.
+- Another Machine then reuses this mirror to update
+  - This machine may have no networking at all (PI zero without W)
+  - The mirror just has to materializes there somehow (like plugging in some USB stick)
+- Another Machine can only update or mirror, what was mirrored by First machine, of course.
+  - So there is no need to mirror all the stuff on snapcraft.io!
+  - But I do not object, if you need to download everything.
+  - I have enough big machines with a fast internet connection in the cloud.
+  - And a very good, easy to use and robust sync algorithm (ZFS with dedup)
+
+This is what a proper mirror looks like.  And I know you dislike doing that.
+But saying, it is too much work is just a weak excuse.  Its 2024 now.  Its already overtime to do so!
+
+
 ## The chance to win against `snapd` is lower than the chance to win at a casino slot machine
 
 Suddenly chrome no more worked.  The error was:
@@ -55,7 +294,7 @@ They simply do not resolve these 4 riddles.  With 4 riddles with "only" 20 possi
 The odds of casino slot machines are roughly 1:20. Hence the odds of `snapd` are much worse ..
 
 
-## Why?
+### Why?
 
 The design priciple of Snap is out of bounds.  **Snap contradicts the design principle "do no harm"**.
 
@@ -64,7 +303,7 @@ This entry here is earned due to following fact:
 - https://forum.snapcraft.io/t/disabling-automatic-refresh-for-snap-from-store/707
 
 
-## What is the bug?
+### What is the bug?
 
 The bug is, that the automatic update feature of `snapd` does harm.
 
@@ -143,7 +382,7 @@ Or in other words:  **Snap must be considered harmful** as Snap might kill peopl
 
 q.e.d.
 
-# Postdictum
+### Postdictum
 
 At the beginning, I wrote that Snap is very badly designed.
 
