@@ -92,7 +92,7 @@ lrwxrwxrwx  1 tino tino  40 Jan 21 13:09 wayland-0 -> /run/user/1000/snap.firefo
 
 which leaves me completely out of clues.  Where is my 2nd X server?
 
-> Note that it worked a few days back before updating `snapd`.
+> Note that it stopped working after running `snap refresh` which refreshed the snap environment.
 
 
 # [snap](https://snapcraft.io) is considered harmful
