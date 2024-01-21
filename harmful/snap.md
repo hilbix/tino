@@ -1,7 +1,7 @@
 > TL;DR for Snap I have 2 requirements:
 >
-> - The enforced auto update feature has to go
-> - Mirroring must be possible (and these mirrors must be usable without coordination later on)
+> - The enforced auto update feature has to go (workaround known)
+> - Mirroring must be possible (and these mirrors must be usable without coordination later on.  No workaround known and therefor a complete showstopper at my side)
 
 # [snap](https://snapcraft.io) is considered harmful
 
