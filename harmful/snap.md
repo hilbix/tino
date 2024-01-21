@@ -38,6 +38,39 @@ $ strace
 bash: strace: command not found
 ```
 
+and even if you introduce it this has problems:
+
+```
+$ bin/strace /snap/firefox/current/firefox.launcher 
+bin/strace: test_ptrace_get_syscall_info: PTRACE_TRACEME: Operation not permitted
+bin/strace: ptrace(PTRACE_TRACEME, ...): Operation not permitted
+bin/strace: PTRACE_SETOPTIONS: Operation not permitted
+bin/strace: detach: waitpid(1720363): No child processes
+bin/strace: Process 1720363 detached
+```
+
+The trick here is to do following:
+
+```
+$ echo $$
+1234
+```
+
+And then outside of the snap do:
+
+```
+$ sudo strace -fp 1234 2>TRC
+```
+
+> For some unknown reason `strace -p` still prints to stderr instead of stdout.
+
+and then run the inside:
+
+```
+$ /snap/firefox/current/firefox.launcher
+Error: cannot open display: :2.0
+```
+
 
 # [snap](https://snapcraft.io) is considered harmful
 
