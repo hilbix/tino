@@ -90,9 +90,23 @@ drwxr-xr-x  2 tino tino  60 Jan 21 16:46 dconf
 lrwxrwxrwx  1 tino tino  40 Jan 21 13:09 wayland-0 -> /run/user/1000/snap.firefox/../wayland-0
 ```
 
-which leaves me completely out of clues.  Where is my 2nd X server?
+which leaves me completely out of clues because my X11 suddenly is no more tried:
 
-> Note that it stopped working after running `snap refresh` which refreshed the snap environment.
+```
+$ ls -al /tmp/.X11-unix/
+total 8
+drwxrwxrwt 2 root root 4096 Jan 21 13:20 .
+drwxrwxrwt 4 root root 4096 Jan 21 16:44 ..
+srwxrwxr-x 1 tino tino    0 Jan 19 14:26 X0
+srwxrwxr-x 1 tino tino    0 Jan 19 14:26 X1
+srwxrwxrwx 1 tino tino    0 Jan 21 13:20 X2
+```
+
+
+> Note that it stopped working after updating the system.
+>
+> - The system was updated.
+> - `snap refresh` ran
 
 
 # [snap](https://snapcraft.io) is considered harmful
