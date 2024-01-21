@@ -3,6 +3,42 @@
 > - The enforced auto update feature has to go (workaround known)
 > - Mirroring must be possible (and these mirrors must be usable without coordination later on.  No workaround known and therefor a complete showstopper at my side)
 
+# Reminder to self how to debug `snaps`
+
+```
+snap run --shell SNAP
+```
+
+This prints some ugly warning
+
+```
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+```
+
+even that usually it is impossible what they say
+
+```
+$ sudo
+bash: /usr/bin/sudo: Permission denied
+```
+
+as long as apparmor is enabled due to (from `dmesg` run outside of a Snap):
+
+```
+$ sudo dmesg -wH
+apparmor="DENIED" operation="exec" class="file" profile="snap..." name="/usr/bin/sudo" pid=1709911 comm="bash" requested_mask="x" denied_mask="x" fsuid=1000 ouid=0
+apparmor="DENIED" operation="open" class="file" profile="snap..." name="/etc/" pid=1709234 comm="bash" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+```
+
+sigh.  Also most common debugging aids are not present:
+
+```
+$ strace
+bash: strace: command not found
+```
+
+
 # [snap](https://snapcraft.io) is considered harmful
 
 IMHO snap is one of the worst designed piece of postmodern software.  It is probably not as worse as SystemD,
