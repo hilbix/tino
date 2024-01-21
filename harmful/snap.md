@@ -246,7 +246,7 @@ Again to stress it:
   - I have enough big machines with a fast internet connection in the cloud.
   - And a very good, easy to use and robust sync algorithm (ZFS with dedup)
 
-This is what a proper mirror looks like.  And I know you dislike doing that.
+This is what a proper mirror looks like.  [And I know you dislike doing that](https://askubuntu.com/a/1236260/164798).
 But saying, it is too much work is just a weak excuse.  Its 2024 now.  Its already overtime to do so!
 
 
