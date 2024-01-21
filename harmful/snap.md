@@ -71,6 +71,29 @@ $ /snap/firefox/current/firefox.launcher
 Error: cannot open display: :2.0
 ```
 
+which then reveals the culprit
+
+```
+connect(6, {sa_family=AF_UNIX, sun_path="/run/user/1000/snap.firefox/:2.0"}, 35) = -1 ENOENT (No such file or directory)
+close(6)                  = 0
+write(2, "Error: cannot open display: :2.0"..., 33) = 33
+```
+
+which leads to
+
+```
+$ ls -al /run/user/1000/snap.firefox/ 
+total 0
+drwx------  3 tino tino  80 Jan 21 13:09 .
+drwx------ 17 tino tino 540 Jan 21 13:09 ..
+drwxr-xr-x  2 tino tino  60 Jan 21 16:46 dconf
+lrwxrwxrwx  1 tino tino  40 Jan 21 13:09 wayland-0 -> /run/user/1000/snap.firefox/../wayland-0
+```
+
+which leaves me completely out of clues.  Where is my 2nd X server?
+
+> Note that it worked a few days back before updating `snapd`.
+
 
 # [snap](https://snapcraft.io) is considered harmful
 
