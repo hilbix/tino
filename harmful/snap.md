@@ -108,6 +108,44 @@ srwxrwxrwx 1 tino tino    0 Jan 21 13:20 X2
 > - The system was updated.
 > - `snap refresh` ran
 
+And no, I cannot try some older version because there is none:
+
+```
+$ snap info firefox
+name:      firefox
+summary:   Mozilla Firefox web browser
+publisher: Mozilla✓
+store-url: https://snapcraft.io/firefox
+contact:   https://support.mozilla.org/kb/file-bug-report-or-feature-request-mozilla
+license:   unset
+description: |
+  Firefox is a powerful, extensible web browser with support for modern web application
+  technologies.
+commands:
+  - firefox
+  - firefox.geckodriver
+snap-id:      3wdHCAVyZEmYsCMFDE9qt92UV8rC8Wdk
+tracking:     latest/stable/ubuntu-22.04
+refresh-date: 3 days ago, at 09:37 CET
+channels:
+  latest/stable:    121.0.1-1    2024-01-09 (3626) 257MB -
+  latest/candidate: 122.0-2      2024-01-19 (3687) 275MB -
+  latest/beta:      122.0b9-1    2024-01-12 (3654) 275MB -
+  latest/edge:      123.0a1      2024-01-21 (3697) 296MB -
+  esr/stable:       115.6.0esr-1 2023-12-19 (3542) 252MB -
+  esr/candidate:    115.7.0esr-1 2024-01-16 (3671) 255MB -
+  esr/beta:         ↑                                    
+  esr/edge:         ↑                                    
+installed:          121.0.1-1               (3626) 257MB -
+```
+
+Well, looks like an older mirror could have helped out, but snap does not provide any mirror ability.
+Hence **Snap is much worse than `apt`, as with `apt` it is easy to even go back years from now**
+(as long as you have the mirrors).
+
+> Where are the old snaps?  Well, due to size restrictions my system has to clean up.
+> I have terabytes of room.  But not on local machines, they only have tight space.
+> **Snap apparently does not support the gold standard of running systems without excess ressources.**
 
 # [snap](https://snapcraft.io) is considered harmful
 
