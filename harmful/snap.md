@@ -3,7 +3,7 @@
 > - The enforced auto update feature has to go (workaround known)
 > - Mirroring must be possible (and these mirrors must be usable without coordination later on.  No workaround known and therefor a complete showstopper at my side)
 
-# Reminder to self how to debug `snaps`
+# Reminder to self how evil it is to debug `snaps`
 
 ```
 snap run --shell SNAP
