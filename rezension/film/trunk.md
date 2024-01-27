@@ -398,3 +398,37 @@ Danke, das gab mir wenigstens genug Raum um zu meckern.  Was ich hier auch ausf�
 Und ich hoffe, dass die Schauspielerin in Zukunft ein etwas besseres Händchen bei der Auswahl
 der Drehbücher hat.  Also entweder viel schlechter (a la Asylum) oder eben besser.
 (Wobei letzteres nicht sehr schwer sein dürfte.)
+
+
+# Nachtrag
+
+Folgendes habe ich bei IMDB gepostet:
+
+-------
+
+Ich nominiere diesen Film zum schlechtesten Drehbuch dieser Dekade
+
+-------
+
+Ich poste folgendes in der Hoffnung, dass dies jemand vorher liest und sich dann den Film in hoffentlich der richtigen Erwartungshaltung reinzieht.  Evtl. erspart demjenigen das die Enttäuschung, wodurch er dann vermutlich deutlich besser aufgenommen werden kann als mir das gelungen wurde.
+
+Dieser Film ignoriert leider jegliche Logik und ignoriert außerdem noch jedes physikalische Prinzip. Außerdem setzt er eine komplett inkompetente Notrufleitzentrale sowie inkompetente Polizei voraus, und das auch noch in mehreren europäischen Ländern. Das haben sie wirklich nicht verdient.
+
+Mit dem richtigen Drehbuch hätte etwas draus werden können.
+
+Sicher gefallen hätte mir, wenn man es makaber inszeniert hätte, getreu dem Motto Dawin Arward in Richtung Roald Dahl. Zusammen mit einem entsprechend passenden makabren Schluss wäre das eine runde Sache und würde helfen, die Untiefen des Drehbuchs zu überleben.
+
+Aber diese Chance wurde leider komplett vergeigt.  Der Film nimmt sich leider selbst ernst.
+
+Deshalb nominiere ich diesen Film hiermit zum schlechtesten Drehbuch dieser Dekade. Ich kenne einige mit schlechtem Drehbuch. Aber dieser toppt bisher alles.
+
+Abgesehen davon ist der Rest des Handwerks aber ordentlich. Die manchmal eigenwillige Kameraführung verkrafte ich gerne, jedenfalls ist mir keine Shakycam aufgefallen, die da etwas hätte vermiesen können.
+
+Bei der schauspielerischen Leistung konnte ich auch keinen Patzer entdecken, mal von dem erzwungen sinnfreien Handelungsstrang.  Das gilt für alle Beteiligten, auch denen im Off.
+
+Würde ich die zahlreichen Fehler im Drehbuch aufzählen, würde ich vermutlich den gesamten Film spoilern müssen.
+
+Und ja, der Film hat bei mir eine Gefühlsreaktion ausgelöst. Und zwar wurde ich stinkesauer, dass ich mir das angetan habe.
+
+Eigentlich mag ich alles, selbst Schrott von The Asylum.
+Und auch schlechte Drehbücher bis zu einem gewissen Grad zumindest.  Aber das hier übersteigt leider meine Toleranzgrenze, weshalb ich hier das erste Mal überhaupt einen Review poste.
