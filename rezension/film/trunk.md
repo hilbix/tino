@@ -410,7 +410,7 @@ Ich nominiere diesen Film zum schlechtesten Drehbuch dieser Dekade
 
 -------
 
-Ich poste folgendes in der Hoffnung, dass dies jemand vorher liest und sich dann den Film in hoffentlich der richtigen Erwartungshaltung reinzieht.  Evtl. erspart demjenigen das die Enttäuschung, wodurch er dann vermutlich deutlich besser aufgenommen werden kann als mir das gelungen wurde.
+Ich poste folgendes in der Hoffnung, dass dies jemand vorher liest und sich dann den Film in hoffentlich der richtigen Erwartungshaltung reinzieht.  Evtl. erspart demjenigen das die Enttäuschung, wodurch er dann vermutlich deutlich besser aufgenommen werden kann als mir das gelungen ist.
 
 Dieser Film ignoriert leider jegliche Logik und ignoriert außerdem noch jedes physikalische Prinzip. Außerdem setzt er eine komplett inkompetente Notrufleitzentrale sowie inkompetente Polizei voraus, und das auch noch in mehreren europäischen Ländern. Das haben sie wirklich nicht verdient.
 
