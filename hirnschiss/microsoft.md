@@ -184,6 +184,11 @@ Flexibilität!
 > von Google erfragen!  Falls der Richter das genehmigt.
 >
 > Nur so geht Datenschutz!
+>
+> Ach ja, Google soll sich da mal nicht zieren.  Faken ist in Ordnung.
+> Selbst unser ePerso soll (ich hab's bisher nicht testen können mangels Möglichkeit)
+> ja auch Pseudonyme unterstützen.  Ganz von staatlicher Seite.
+> Wieso soll das dann bein einem Privatunternehmen nicht gehen?
 
 Nur so geht Sicherheit.  Und was sie jetzt tun aber ist eigentlich dasselbe, nur mit einem
 Geschmäckle, nämlich dem Vendor-Lockin.  Wenn ich da irgendwelche proprietären
