@@ -175,11 +175,20 @@ autorisieren und alles ist gut.
 
 Flexibilität!
 
+> Überhaupt:  Facebook legt fest, was es bei Google sehen darf?
+> WTF geht's noch?  Selbstverständlich bin ich der Herr über meine Daten!
+> Wenn Facebook meint, zig Daten abrufen zu müssen, dann muss es möglich sein,
+> diese so hinzufaken wie man will.
+>
+> Facebook kann ja im Fall des Falls einen Anwalt einschalten und die Realdaten
+> von Google erfragen!  Falls der Richter das genehmigt.
+>
+> Nur so geht Datenschutz!
+
 Nur so geht Sicherheit.  Und was sie jetzt tun aber ist eigentlich dasselbe, nur mit einem
 Geschmäckle, nämlich dem Vendor-Lockin.  Wenn ich da irgendwelche proprietären
 Security-Keys oder andere seltsame Verfahren brauche (wie den Microsoft Authentikator)
 dann werde ich davon abhängig.  **Das ist vermutlich gewollt!**
-
 
 Dabei ginge es ganz anders:
 
