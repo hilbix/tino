@@ -114,7 +114,7 @@ so implementiert, jedenfalls nicht Service-Übergreifend.  Einige Services (wie 
 oder Amazon) kriegen es (manchmal, noch zu selten) für ihre eigenen Geräte hin.
 Aber genau das fehlt eben auch übergreifend zwischen Services.
 
-**Möglichkeit 1: Per Token**
+**Eine Möglichkeit mal hier skizziert:  Per zweitem Browser**
 
 Wenn ich also Facebook mit Google verbinden will, gehe ich auf Facebook und klicke auf
 "Mit Google verbinden".  Und dann darf ich mich aber NICHT bei Google einloggen müssen!
@@ -144,12 +144,46 @@ Oder ich packe die Autorisierung auf ein eigenes Device.  Da muss ich nichts zu 
 Facebook will von Google die Daten, ich logge mich auf dem Autorisierungsdevice ein und
 gebe es dort frei!  So muss das einfach aussehen.
 
+**Eine weitere Möglichkeit mal hier skizziert:  Einmalpassworte**
+
+Ich will also, dass Facebook auf meinen Google-Account zugreifen kann.
+
+Dann erzeuge ich ein Einmalpasswort bei Google, in dem alle Richtlinien gesetzt sind,
+und das paste ich bei Facebook.  Eigentlich sehr sehr einfach.
+
+Wenn Facebook es mir leichter machen will, dann fordert es das bei Google an.
+Dann gehe ich zu Google, das informiert mich, dass da eine Anforderung von
+Facebook da ist, und ich kann draufklicken und komme zu dem Einmalpasswort.
+Das kann ich dann sehen und ggf. korrigieren was Facebook sieht und dann dort abschicken.
+
+Die Übertraung geschieht dann hinter den Kulissen, fast wie bei der anderen Möglichkeit.
+Der Vorteil aber wäre, das funktioniert auch mit Altdevices die zwingen dein Passwort
+benötigen, denn da ist ja immer noch eines!
+
+Tatsächlich sollte das nur einmal funktionieren und nur kurze Zeit gelten.
+Sprich, ein Tool kann damit eine Session anfordern und alles ist gut.
+
+Wenn es richtig gemacht ist, kann ich das auch protokollieren, dann sehe ich genau,
+in einem eigenen Protokoll, also ganz unabhängig von Google oder Facebook,
+welches Passwort wann oder wie angefordert wurde.
+
+Der Vorteil gegenüber der vorherigen Sache ist, dass ich diese Einmalpassworte
+vorab, also in der anderen Richtung generieren kann.  Also wenn ich möchte,
+dass Facebook auf Google zugreifen darf, generiere ich mir ZUERST eines bei Google,
+und paste das dann bei Facebook rein.  Facebook verwendet es dann, um sich zu
+autorisieren und alles ist gut.
+
+Flexibilität!
+
 Nur so geht Sicherheit.  Und was sie jetzt tun aber ist eigentlich dasselbe, nur mit einem
 Geschmäckle, nämlich dem Vendor-Lockin.  Wenn ich da irgendwelche proprietären
 Security-Keys oder andere seltsame Verfahren brauche (wie den Microsoft Authentikator)
 dann werde ich davon abhängig.  **Das ist vermutlich gewollt!**
 
-Dabei ginge es ganz anders:  Einfach eine offene einfach gestaltete API die jeder versteht
+
+Dabei ginge es ganz anders:
+
+Einfach eine offene einfach gestaltete API die jeder versteht
 und dann kann man einfach Verwenden was man will.  Meine Idee ist z.B. eine RFID-Box,
 die man sich selbst basteln kann und die einem die Authentikation abnimmt.  Etwas, das
 sehr speziell meins ist.  Nichts was man im Laden kaufen kann.
