@@ -22,6 +22,8 @@ Leider muss ich mich dazu anmelden.  **WAS JA IM SUPPORTPORTAL NICHT GEHT.**
 
 Egal, ich habe das dann aufgegeben.
 
+![Man muss sich erst einloggen wenn man Support braucht, weil man sich beim Support nicht einloggen kann](img/2024-01-30_21-18-48.png)
+
 Als ich dann versuchte, das Captcha zu lösen, kam bei mir irgendein Fehler hoch.
 Ich vermute, dass die ein Non-Standard-Captcha verwenden und ich mal wieder halt kein
 JavaScript an hatte.
@@ -39,6 +41,9 @@ neu seine Mailadresse bestätigen, als Mail aus dem SPAM-Ordner fischen und den 
 Das habe ich auch brav immer gemacht, bis plötzlich:
 
 Microsoft block mich, ich kann mir keine weitere Mail mehr schicken.
+
+![Microsoft block mich](img/2024-01-30_21-00-35.png)
+
 
 > Ich habe dann auf den nächsten Tag gewartet.  Aber um 2:00 Uhr morgens ging es noch nicht.
 >
