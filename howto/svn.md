@@ -1,3 +1,5 @@
+> THIS RECIPE currently is just a braindump, SO UNTESTED
+
 # Some SVN howto
 
 I do not use SVN.  But I use WebDAV.  This uses SVN as a backend.
