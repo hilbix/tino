@@ -9,7 +9,7 @@ and detect it in time to prune the shitty commits, here is how.
 
 > This is based on https://stackoverflow.com/a/1627648/490291
 
-{{{
+```
 cd /srv/dav/svn           # this is where your SVN service lives
 systemctl stop apache2    # stop the WebDAV service
 # from here be sure nothing might access your SVN service files
@@ -39,4 +39,5 @@ svnadmin verify .
 
 # Reenable everything again
 systemctl start apache2
-}}}
+```
+
