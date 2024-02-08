@@ -67,6 +67,29 @@ Because she confirms nearly everything I am talking about.
 > AFAICS we have to act now.  Because there is a high likelihood,
 > that we will no more be able to act later.  So now is the time.
 > As **time never comes back** this is for sure.
+>
+> Ah, BTW:
+>
+> You already drive an electric car and carefully buy only goods which are clima neutral?
+> And you even go organic or vagan or both?
+> And you do holidays at a climatic friendly location without using flights?
+> And you think, you are a good person?
+>
+> Well, please stop lying to yourself.  You entirely missed the point!
+> And before you ask: It even does not make difference if you kill yourself or not.
+>
+> This is just your way to live.  But what do you think enables you, to live your way?
+> 
+> THIS is the real root of the problem.  The system we live in is completely corrupt.
+> Not only in our country.  In all countries.
+> 
+> Not corrupt in the monetary sense.  Well maybe even in this sense, but this is secondary.
+> The system, our system, the hole mankind, is corrupt being friendly to Earth and our environment.
+>
+> Even if we go extinct, the damage already has been done.  And it will take millions of years
+> for Earth to overcome us.
+>
+> What we do to safe Earth today is like trying to stop a waterfall by shedding our tears.
 
 https://youtu.be/4S9sDyooxf4
 
