@@ -1,5 +1,11 @@
 # `git`
 
+Missing link:
+
+- How to update to new upstream commits
+- How to fetch the complete history of those files
+  - But only of those files
+
 ## TL;DR
 
 ```
@@ -14,7 +20,7 @@ GIT_TRACE=1 git checkout --progress
 With
 
 ```
-du -sk .git
+du -sk .git extensions
 ```
 
 gives
@@ -161,7 +167,7 @@ or if you like to see more:
 GIT_CURL_VERBOSE=1 GIT_TRACE=1 git checkout --progress
 ```
 
-Note that this is very very very slow, because it downloads the files one-by-one.
+Note that this is very very very slow, because it apparently downloads the hierarchies one-by-one.
 
 But it works.
 
