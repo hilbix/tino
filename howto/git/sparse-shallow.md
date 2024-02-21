@@ -10,6 +10,7 @@ Missing links:
   - A first rough start is shown below.
   - However there are still things missing for the history to be complete.
   - And how to restrict the history to the objects needed only for those files?
+  - `tree:0` instead of `blob:none` gave a dramatic improvement
 - How to improve checkout speed?
 - How to fetch missing objects in advance (and background),
   such that `git reset` or similar do not need to reach out to the network.
@@ -55,7 +56,7 @@ This is only a rough and possibly incomplete start.  But I found following scrip
 ```
 GRAFT="$(tail -1 .git/shallow)" &&
 [ -n "$GRAFT" ] &&
-git fetch origin --depth ${DEPTH:-10} --no-tags --no-write-fetch-head --recurse-submodules=no --filter=blob:none "$GRAFT";
+git fetch origin --depth ${DEPTH:-10} --no-tags --no-write-fetch-head --recurse-submodules=no --filter=tree:0 "$GRAFT";
 echo "$GRAFT (old)" && cat .git/shallow
 ```
 
