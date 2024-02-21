@@ -1,7 +1,9 @@
 # `git`
 
-I am not completely satisfied, as this also still fetches all objects of the trees,
-not only those, which are needed to do the sparse checkout.
+
+## Very Sparse (and possibly shallow) checkout
+
+> Based on <https://unix.stackexchange.com/a/468182/23450>
 
 For a sparse and shallow checkout, we only need
 
@@ -12,9 +14,96 @@ For a sparse and shallow checkout, we only need
 
 There is no need to fetch objects, which are besides these area.
 
-But I found no way to express that for now.  Perhaps I am doing something wrong?
+It all starts with:
+
+```
+git clone -b main --no-checkout --depth 1 --filter=tree:0 https://chromium.googlesource.com/chromium/src.git
+```
+
+- With `--depth 1` this only downloads a single topmost commit object
+  - This is a single object
+  - So this is very shallow and very sparse.
+- Without `--depth=1` this does not work as expected
+  - For unknown reason it does not download only commit objects, but nearly everything
+  - It also is very slow.  It counts around 10k objects per second, with 12 million objects this takes 20 minutes!
+- So doing it sparse and shallow seems to be is the only option here.
+
+Output is something like:
+
+```
+Cloning into 'src'...
+remote: Finding sources: 100% (1/1)
+remote: Total 1 (delta 0), reused 1 (delta 0)
+Receiving objects: 100% (1/1), done.
+```
+
+> With my setting here `git` steadily connects to the network then:
+>
+> ```
+> GIT_PS1_SHOWDIRTYSTATE=yes
+> GIT_PS1_SHOWUNTRACKEDFILES=yes
+> GIT_PS1_SHOWUPSTREAM=verbose
+> ```
+>
+> To preven this, I switch into a `nonet` network namespace:
+>
+> ```
+> suid nonet-mk	# to create a "nonet" namespace - if it does not exist
+> suid nonet	# to enter the "nonet" namespace
+> ```
+>
+> This needs my [suid](https://github.com/hilbix/suid) tool installed with following files:
+> 
+> - [`/etc/suid.conf.d/nonet.conf`](https://github.com/hilbix/suid/blob/master/suid.conf.d.example/nonet.conf.ex)
+> - [`/.fixenv`](https://github.com/hilbix/suid/blob/master/suid.conf.d.example/.fixenv)
+>
+> Alternatively do:
+>
+> ```
+> unset GIT_PS1_SHOWDIRTYSTATE
+> ```
+>
+> However preventing network acces entirely keeps things tidy at that state, because of things like following:
+>
+> ```
+> $ git show
+> fatal: unable to access 'https://chromium.googlesource.com/chromium/src.git/': Could not resolve host: chromium.googlesource.com
+> fatal: unable to read tree 7456467aafc93b8739bdea7d37790fdcc4d1c1e6
+> ```
+
+If everything is prepared, switch into the clone:
+
+```
+cd git
+git cat-file -p HEAD
+```
+
+This dumps you the current last HEAD commit.
+
+> If you are not networked, you can also do:
+>
+> ```
+> git rev-list --objects --all
+> ```
+>
+> This will show, that there is only a single object yet:
+>
+> ```
+> f5156283188139e434676fbb4661c0673631cc16
+> fatal: unable to access 'https://chromium.googlesource.com/chromium/src.git/': Could not resolve host: chromium.googlesource.com
+> fatal: bad tree object 7456467aafc93b8739bdea7d37790fdcc4d1c1e6
+> ```
+>
+> And for some unknown reason `git` seems to try to pull in something from remote here.
+> No questions asked.
+
 
 ## Sparse and shallow checkout
+
+> I am not completely satisfied, as this also still fetches all objects of the trees,
+> not only those, which are needed to do the sparse checkout.
+>
+> For a better approach look above
 
 So there is some huge MonoRepo out there.  And you only need a very very very small fraction of the files.
 
