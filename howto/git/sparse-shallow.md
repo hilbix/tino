@@ -2,10 +2,17 @@
 
 Missing links:
 
-- ~~How to update to new upstream commits~~
-- How to fetch the complete history of those files
-  - But only of those files
-- How to improve checkout speed
+- How to reduce the number of objects to the bare minimum?
+  - Currently `git` seems to fetch all `tree` objects
+    and not only those, which are really needed for the dirs.
+- ~~How to update to new upstream commits~~  (See below)
+- How to properly fetch the complete commit history?
+  - How to restrict these to the objects needed only for those files?
+  - (A first idea is shown below.)
+- How to improve checkout speed?
+- How to fetch missing objects in advance (and background),
+  such that `git reset` or similar do not need to reach out to the network.
+
 
 ## TL;DR
 
@@ -15,29 +22,63 @@ The trick is `git clone --no-checkout --depth 1 --filter tree:0` on the origin. 
 git clone -b main --no-checkout --depth 1 --filter=tree:0 https://chromium.googlesource.com/chromium/src.git
 unset GIT_PS1_SHOWDIRTYSTATE GIT_PS1_SHOWUNTRACKEDFILES
 cd src
+git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
 git sparse-checkout init --no-cone
 git sparse-checkout set 'extensions/common/api/*.json'
-GIT_TRACE=1 git checkout --progress
+GIT_TRACE_PACKET=1 git checkout --progress
+git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
+du -sh .git extensions                                      # if you are curious
 ```
 
-Update to new commits seem to work naturally:
+### Update to new commits
+
+Updating seem to work mostly naturally, except that everything runs a lot slower than expected:
 
 ```
 git remote update -p
-git merge --ff-only origin/main
+git merge --ff-only origin/main    # with my aliases: git ff
+```
+or try `git pull`.  However I think, I had issues with the latter.
+
+> Perhaps because I often interrupt things if happen to be too slow,
+> as you have to wait for `git pull` to finish before you can continue to work.
+>
+> OTOH `git remote update -p` can happily run in the background.
+> It never touches your work directory or stage index.
+> However the `git merge` still is a bit slow.
+
+### Pull in history
+
+This is only a rough and possibly incomplete start.  But I found following script to work:
+
+```
+GRAFT="$(tail -1 .git/shallow)" &&
+[ -n "$GRAFT" ] &&
+git fetch origin --depth ${DEPTH:-10} --no-tags --no-write-fetch-head --recurse-submodules=no --filter=blob:none "$GRAFT";
+echo "$GRAFT (old)" && cat .git/shallow
 ```
 
-or
+> Note that I do not know why this works.
+> I just stumbled upon it while testing.
+> So please do not ask me how and why.
 
-```
-git pull
-```
+It is a crude and possibly error prone thing.
 
-both seem to do the right thing (even being a bit slower than expected).
+- It only updates the very last `GRAFT`.
+  - There can be more than one if the remote has more than one new commit, but you run `git fetch --depth 1`.
+- I haven't tested it with higher `--depth`
+- I think this imposes a high load/stress on git service, so please be nice to it!
+- I do not know what happens when complex branch structures get involved
 
-## Very Sparse and shallow checkout
+If something seems broken afterwards, try `git remote update -p`.
+AFAICS this fills the gaps then.
+
+
+## ~Very~ mostly Sparse and shallow checkout
 
 > Based on <https://unix.stackexchange.com/a/468182/23450>
+>
+> This is shallow, but does not look fully sparse to me.
 
 For a sparse and shallow checkout, we only need
 
@@ -128,20 +169,18 @@ committer [redacted] 1708509384 +0000
 > If you are not networked, you can also do:
 >
 > ```
-> git rev-list --objects --all
+> git rev-list --missing=allow-any --objects --all
 > ```
 >
 > This will show, that there is only a single object yet:
 >
 > ```
 > f5156283188139e434676fbb4661c0673631cc16
-> fatal: unable to access 'https://chromium.googlesource.com/chromium/src.git/': Could not resolve host: chromium.googlesource.com
-> fatal: bad tree object 7456467aafc93b8739bdea7d37790fdcc4d1c1e6
 > ```
 > > Notice `tree 7456467aafc93b8739bdea7d37790fdcc4d1c1e6` above
 >
-> For some unknown reason `git` seems to try to pull in something from remote here.
-> No questions asked.
+> If `--missing=allow-any` is left away, `git` apparently tries to download the missing objects from the remote.
+> Which is very slow, as this does one request per object, and there are many.
 
 Now set the sparse checkout information:
 
@@ -223,8 +262,20 @@ gives
 416     extensions
 ```
 
-Which is a good tradeoff.
+Which is a good tradeoff.  But this still is far from being minimal:
 
+```
+git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
+```
+
+gives
+
+```
+36440
+```
+
+27 files, 4 directories (tree root plus 3 subtrees) and 1 commit should only make up 32 objects,
+but we have a factor of more than 1000 of them!
 
 
 ## Sparse and shallow checkout
