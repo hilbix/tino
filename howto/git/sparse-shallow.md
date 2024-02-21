@@ -8,6 +8,8 @@ Missing links:
 
 ## TL;DR
 
+The trick is `git clone --no-checkout --depth 1 --filter tree:0` on the origin.  Everything else then is mostly straight forward.
+
 ```
 git clone -b main --no-checkout --depth 1 --filter=tree:0 https://chromium.googlesource.com/chromium/src.git
 unset GIT_PS1_SHOWDIRTYSTATE GIT_PS1_SHOWUNTRACKEDFILES
