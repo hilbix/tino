@@ -1,6 +1,6 @@
 # `git`
 
-Missing link:
+Missing links:
 
 - How to update to new upstream commits
 - How to fetch the complete history of those files
