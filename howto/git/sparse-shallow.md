@@ -1,5 +1,31 @@
 # `git`
 
+## TL;DR
+
+```
+git clone -b main --no-checkout --depth 1 --filter=tree:0 https://chromium.googlesource.com/chromium/src.git
+unset GIT_PS1_SHOWDIRTYSTATE GIT_PS1_SHOWUNTRACKEDFILES
+cd src
+git sparse-checkout init --no-cone
+git sparse-checkout set 'extensions/common/api/*.json'
+GIT_TRACE=1 git checkout --progress
+```
+
+With
+
+```
+du -sk .git
+```
+
+gives
+
+```
+77940   .git
+416     extensions
+```
+
+Which is a good tradeoff.
+
 
 ## Very Sparse (and possibly shallow) checkout
 
@@ -57,10 +83,10 @@ Receiving objects: 100% (1/1), done.
 > - [`/etc/suid.conf.d/nonet.conf`](https://github.com/hilbix/suid/blob/master/suid.conf.d.example/nonet.conf.ex)
 > - [`/.fixenv`](https://github.com/hilbix/suid/blob/master/suid.conf.d.example/.fixenv)
 >
-> Alternatively do:
+> Alternatively do following to stop `git` from trying to resolve things with network requests:
 >
 > ```
-> unset GIT_PS1_SHOWDIRTYSTATE
+> unset GIT_PS1_SHOWDIRTYSTATE GIT_PS1_SHOWUNTRACKEDFILES
 > ```
 >
 > However preventing network acces entirely keeps things tidy at that state, because of things like following:
@@ -78,7 +104,18 @@ cd git
 git cat-file -p HEAD
 ```
 
-This dumps you the current last HEAD commit.
+This dumps you the current last HEAD commit like:
+
+> `[redacted]` possibly privacy information below:
+
+```
+tree 7456467aafc93b8739bdea7d37790fdcc4d1c1e6
+parent 6ef29d19143a4b8b377589e8a4a93a6e1be69e9c
+author [redacted] 1708509384 +0000
+committer [redacted] 1708509384 +0000
+
+[redacted]
+```
 
 > If you are not networked, you can also do:
 >
@@ -93,9 +130,77 @@ This dumps you the current last HEAD commit.
 > fatal: unable to access 'https://chromium.googlesource.com/chromium/src.git/': Could not resolve host: chromium.googlesource.com
 > fatal: bad tree object 7456467aafc93b8739bdea7d37790fdcc4d1c1e6
 > ```
+> > Notice `tree 7456467aafc93b8739bdea7d37790fdcc4d1c1e6` above
 >
-> And for some unknown reason `git` seems to try to pull in something from remote here.
+> For some unknown reason `git` seems to try to pull in something from remote here.
 > No questions asked.
+
+Now set the sparse checkout information:
+
+```
+git sparse-checkout init --no-cone
+git sparse-checkout set 'extensions/common/api/*.json'
+git sparse-checkout list
+```
+
+prints
+
+```
+extensions/common/api/*.json
+```
+
+Now, outside of the networked namespace:
+
+```
+git checkout --progress
+```
+
+or if you like to see more:
+
+```
+GIT_CURL_VERBOSE=1 GIT_TRACE=1 git checkout --progress
+```
+
+Note that this is very very very slow, because it downloads the files one-by-one.
+
+But it works.
+
+```
+find * -type f -ls
+```
+
+outputs
+
+```
+tino@yeti:~/git/chromium/src2(main|SPARSE=)$ find * -type f -ls
+ 84974923     20 -rw-r--r--   1 tino     tino        16797 Feb 21 11:44 extensions/common/api/management.json
+ 84974927      4 -rw-r--r--   1 tino     tino         1144 Feb 21 11:44 extensions/common/api/requirements.json
+ 84974911      8 -rw-r--r--   1 tino     tino         7347 Feb 21 11:44 extensions/common/api/_behavior_features.json
+ 84974936      4 -rw-r--r--   1 tino     tino          568 Feb 21 11:44 extensions/common/api/web_view_request.json
+ 84974913     32 -rw-r--r--   1 tino     tino        31519 Feb 21 11:44 extensions/common/api/_permission_features.json
+ 84974914      4 -rw-r--r--   1 tino     tino         1384 Feb 21 11:44 extensions/common/api/app_view_guest_internal.json
+ 84974925      4 -rw-r--r--   1 tino     tino         1394 Feb 21 11:44 extensions/common/api/metrics_private_individual_apis.json
+ 84974921      4 -rw-r--r--   1 tino     tino         3038 Feb 21 11:44 extensions/common/api/idle.json
+ 84974917      8 -rw-r--r--   1 tino     tino         7727 Feb 21 11:44 extensions/common/api/extension_types.json
+ 84974919      4 -rw-r--r--   1 tino     tino         2538 Feb 21 11:44 extensions/common/api/guest_view_internal.json
+ 84974915     32 -rw-r--r--   1 tino     tino        29917 Feb 21 11:44 extensions/common/api/declarative_web_request.json
+ 84974930     16 -rw-r--r--   1 tino     tino        15396 Feb 21 11:44 extensions/common/api/test.json
+ 84974918     16 -rw-r--r--   1 tino     tino        12405 Feb 21 11:44 extensions/common/api/extensions_manifest_types.json
+ 84974928     40 -rw-r--r--   1 tino     tino        40481 Feb 21 11:44 extensions/common/api/runtime.json
+ 84974933     48 -rw-r--r--   1 tino     tino        48318 Feb 21 11:44 extensions/common/api/web_request.json
+ 84974920      8 -rw-r--r--   1 tino     tino         5307 Feb 21 11:44 extensions/common/api/i18n.json
+ 84974910     28 -rw-r--r--   1 tino     tino        26144 Feb 21 11:44 extensions/common/api/_api_features.json
+ 84974935     28 -rw-r--r--   1 tino     tino        26912 Feb 21 11:44 extensions/common/api/web_view_internal.json
+ 84974929     16 -rw-r--r--   1 tino     tino        12944 Feb 21 11:44 extensions/common/api/storage.json
+ 84974922      4 -rw-r--r--   1 tino     tino          650 Feb 21 11:44 extensions/common/api/incognito.json
+ 84974912     16 -rw-r--r--   1 tino     tino        13737 Feb 21 11:44 extensions/common/api/_manifest_features.json
+ 84974916     16 -rw-r--r--   1 tino     tino        14359 Feb 21 11:44 extensions/common/api/events.json
+ 84974931      8 -rw-r--r--   1 tino     tino         6984 Feb 21 11:44 extensions/common/api/types.json
+ 84974926      4 -rw-r--r--   1 tino     tino          290 Feb 21 11:44 extensions/common/api/mime_handler_view_guest_internal.json
+ 84974932     16 -rw-r--r--   1 tino     tino        15682 Feb 21 11:44 extensions/common/api/virtual_keyboard_private.json
+ 84974924     12 -rw-r--r--   1 tino     tino         8585 Feb 21 11:44 extensions/common/api/metrics_private.json
+ 84974934      4 -rw-r--r--   1 tino     tino         2089 Feb 21 11:44 extensions/common/api/web_request_internal.json
+```
 
 
 ## Sparse and shallow checkout
