@@ -6,9 +6,10 @@ Missing links:
   - Currently `git` seems to fetch all `tree` objects
     and not only those, which are really needed for the dirs.
 - ~~How to update to new upstream commits~~  (See below)
-- How to properly fetch the complete commit history?
-  - How to restrict these to the objects needed only for those files?
-  - (A first idea is shown below.)
+- How to properly fetch the complete commit history of the sparsly checked out files?
+  - A first rough start is shown below.
+  - However there are still things missing for the history to be complete.
+  - And how to restrict the history to the objects needed only for those files?
 - How to improve checkout speed?
 - How to fetch missing objects in advance (and background),
   such that `git reset` or similar do not need to reach out to the network.
