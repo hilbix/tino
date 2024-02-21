@@ -73,6 +73,9 @@ It is a crude and possibly error prone thing.
 If something seems broken afterwards, try `git remote update -p`.
 AFAICS this fills the gaps then.
 
+> Also afterwards there are still missing many intermediate objects which
+> are needed for things like `git blame` of the files of interest.
+
 
 ## ~Very~ mostly Sparse and shallow checkout
 
