@@ -34,7 +34,25 @@ git fetch --depth=1 upstream main
 
 git sparse-checkout list
 git checkout main
+
+du -sh extensions/
 ```
+
+This outputs something like
+
+```
+remote: Finding sources: 100% (434375/434375)
+remote: Total 434375 (delta 88703), reused 277809 (delta 88703)
+Receiving objects: 100% (434375/434375), 1.24 GiB | 10.83 MiB/s, done.
+Resolving deltas: 100% (88703/88703), done.
+From https://chromium.googlesource.com/chromium/src
+ * branch                  main       -> FETCH_HEAD
+ * [new branch]            main       -> upstream/main
+
+416K    extensions/
+```
+
+So 1.24 GiB downloaded for 416K of data.  I lack the words to comment on this properly.
 
 Hints:
 
