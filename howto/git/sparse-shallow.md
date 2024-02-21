@@ -282,6 +282,11 @@ gives
 but we have a factor of more than 1000 of them!
 
 
+# DO NOT USE EVERYTHING BELOW
+
+This only is for historic purpose.  And perhaps it can help with a better understanding.
+
+
 ## Sparse and shallow checkout
 
 > I am not completely satisfied, as this also still fetches all objects of the trees,
