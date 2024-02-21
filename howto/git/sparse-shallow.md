@@ -5,6 +5,7 @@ Missing links:
 - How to update to new upstream commits
 - How to fetch the complete history of those files
   - But only of those files
+- How to improve checkout speed
 
 ## TL;DR
 
@@ -35,7 +36,7 @@ gives
 Which is a good tradeoff.
 
 
-## Very Sparse (and possibly shallow) checkout
+## Very Sparse and shallow checkout
 
 > Based on <https://unix.stackexchange.com/a/468182/23450>
 
