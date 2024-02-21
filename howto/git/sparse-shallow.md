@@ -2,7 +2,7 @@
 
 Missing links:
 
-- How to update to new upstream commits
+- ~~How to update to new upstream commits~~
 - How to fetch the complete history of those files
   - But only of those files
 - How to improve checkout speed
@@ -20,21 +20,20 @@ git sparse-checkout set 'extensions/common/api/*.json'
 GIT_TRACE=1 git checkout --progress
 ```
 
-With
+Update to new commits seem to work naturally:
 
 ```
-du -sk .git extensions
+git remote update -p
+git merge --ff-only origin/main
 ```
 
-gives
+or
 
 ```
-77940   .git
-416     extensions
+git pull
 ```
 
-Which is a good tradeoff.
-
+both seem to do the right thing (even being a bit slower than expected).
 
 ## Very Sparse and shallow checkout
 
@@ -210,6 +209,22 @@ tino@yeti:~/git/chromium/src2(main|SPARSE=)$ find * -type f -ls
  84974924     12 -rw-r--r--   1 tino     tino         8585 Feb 21 11:44 extensions/common/api/metrics_private.json
  84974934      4 -rw-r--r--   1 tino     tino         2089 Feb 21 11:44 extensions/common/api/web_request_internal.json
 ```
+
+And
+
+```
+du -sk .git extensions
+```
+
+gives
+
+```
+77940   .git
+416     extensions
+```
+
+Which is a good tradeoff.
+
 
 
 ## Sparse and shallow checkout
