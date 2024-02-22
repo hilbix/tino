@@ -5,7 +5,7 @@ See also [`git` sparse and shallow checkout](sparse-shallow.md)
 ## TL;DR
 
 I do not want to use methods, which do not work at scale.
-Hence, as long as this is not solved, I stay with meta repos instead of monorepos.
+Hence, as long as this is not solved, I stay with meta repos instead of Monorepos.
 ([Example](https://github.com/hilbix/src))
 
 Here are some commands needed with Monorepos (or bigger `git` repos):
@@ -24,20 +24,21 @@ Here are some commands needed with Monorepos (or bigger `git` repos):
 
 ## Monorepo unsolved
 
-So how to feasibly do a monorepo in `git`?
+So how to feasibly do a Monorepo in `git`?
 
-- How to checkout a single tree path of a single commit of a monorepo
+- How to checkout a single tree path of a single commit of a Monorepo
   - Currently I only manage to download all trees of a single commit
   - This can be millions (if not more) of completely unnecessary objects
 - How to satisfy `.git` with all files needed to work quickly without reaching out to the network
   - I.E. `git blame` within the `sparse-checkout`ed files.
 - How to limit `git` to a managable amount of `commit` objects
-  - Think about a monorepo with 1+ commits per second
+  - Think about a Monorepo with 1+ commits per second
 
 Read:
 
-- I do not think, monorepos are feasible in `git` this way.
+- I do not think, Monorepos are feasible in `git` this way.
   - Better use a top repo which then links to submodules, so you can easily checkout each path
+  - I call these type of repos "meta repos"
 - YMMV if you have more knowledge than me in this area.
   - **In that case, please share your knowledge!**
 
