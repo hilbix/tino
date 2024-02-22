@@ -1,3 +1,34 @@
+# TL;DR for monorepos
+
+- clone only the topmost commit object (a single commit object, very fast, but lacks all data):  
+  `git clone --no-checkout --filter=tree:0    --depth 1`
+- clone the topmost commit with full tree data (feasible):  
+  `git clone --no-checkout --filter=blob:none --depth 1`
+- clone all commit objects (full history but no data, slow):  
+  `git clone --no-checkout --filter=tree:0`
+- clone all tree data (very slow, big):  
+  `git clone --no-checkout --filter=blob:none`
+- clone everything (deadly slow to unbearable):  
+  `git clone --no-checkout`
+
+Unsolved:
+
+- How to checkout a single tree path of a single commit of a monorepo
+  - Currently I only manage to download all trees of a single commit
+  - This can be millions (if not more) of completely unnecessary objects
+- How to satisfy `.git` with all files needed to work quickly without reaching out to the network
+  - I.E. `git blame` within the `sparse-checkout`ed files.
+- How to limit `git` to a managable amount of `commit` objects
+  - Think about a monorepo with 1+ commits per second
+
+Read:
+
+- I do not think, monorepos are feasible in `git` this way.
+  - Better use a top repo which then links to submodules, so you can easily checkout each path
+- YMMV if you have more knowledge than me in this area.
+  - In that case, please share your knowledge!
+
+
 # `git`
 
 Further reading:
