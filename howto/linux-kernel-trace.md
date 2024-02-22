@@ -31,7 +31,7 @@ Enable specific events:
 
 En/Dis event (`available_events`'s `LINE`=`MAIN:SUB` then `EVENT`=`MAIN/SUB`):
 
-    echo "LINE" > set_event         E en
+    echo "LINE" > set_event         # en
     echo "!LINE" > set_event        # dis
     echo 1 > event/EVENT/enable     # en
     echo 0 > event/EVENT/enable     # dis
