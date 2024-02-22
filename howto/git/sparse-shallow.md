@@ -13,7 +13,7 @@ Missing links:
   - Perhaps this is all?  Or can this be improved?
 - How to improve `git checkout` speed even further?
 - Why does `git log --oneline --all | wc -l` take 15s to output just 1 598 439 lines?  
-  Why does `git log --oneline --all --graph | wc -l` take so much longer?  
+  Why does `git log --oneline --all --graph | wc -l` take so much longer (I stopped it afer more than 1h)?  
   (16 cores, 4+ GHz+, fast RAM, fast SSD)
 - How to fetch missing objects in advance (and background),
   such that `git reset` or similar do not need to reach out to the network.
