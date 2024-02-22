@@ -1,6 +1,6 @@
 # Windows Subsystem for Linux
 
-WSL is neat.  It obsoltes things like Git-Shell and CygWin.  Now you can run native Linux apps under Windows.
+WSL is neat.  It obsoletes things like Git-Shell and CygWin.  Now you can run native Linux apps under Windows.
 This here sums things which I was not aware easily.
 
 ## Current
@@ -13,7 +13,7 @@ On Win11 it offers X11 compatibility.  Sorry, I haven't tested this feature yet.
 
 ### WSL without Microsoft Store
 
-I found a problem if you have disabled Micrsoft store.  In that case you will see some strange error that some service isn't started.  (This is the mmissing store and Installer from store.)
+I found a problem if you have disabled Micrsoft store.  In that case you will see some strange error that some service isn't started.  (This is the missing store and Installer from store.)
 
 In that case you still can use the default Linux etc. applicatons from Microsoft.  You just have to download and install them yourself.  As follows:
 
