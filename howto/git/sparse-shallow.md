@@ -6,6 +6,7 @@ Missing links:
   - Currently `git` seems to fetch all `tree` objects
     and not only those, which are really needed for the dirs.
 - ~~How to update to new upstream commits~~  (See below)
+- ~~How to speed up `git status`~~ (see below: `git sparse-checkout set '/.gitignore'`)
 - How to properly fetch the complete commit history of the sparsly checked out files?
   - A first rough start is shown below.
   - However there are still things missing for the history to be complete.
@@ -26,7 +27,8 @@ unset GIT_PS1_SHOWDIRTYSTATE GIT_PS1_SHOWUNTRACKEDFILES
 cd src
 git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
 git sparse-checkout init --no-cone
-git sparse-checkout set 'extensions/common/api/*.json'
+git sparse-checkout set '/extensions/common/api/*.json'
+git sparse-checkout add '/.gitignore'                       # improve speed of `git status`
 GIT_TRACE_PACKET=1 git checkout --progress
 git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
 du -sh .git extensions                                      # if you are curious
@@ -281,6 +283,47 @@ gives
 
 27 files, 4 directories (tree root plus 3 subtrees) and 1 commit should only make up 32 objects,
 but we have a factor of more than 1000 of them!
+
+## Aftermath
+
+### `GIT_TRACE_PACKET=1`
+
+Running with `GIT_TRACE_PACKET=1` in place shows the network communication of `git`,
+so you are informed when and why this happens.
+
+```
+export GIT_TRACE_PACKET=1
+```
+
+This shows that following is used with `git remote update -p` and similar:
+
+```
+fetch> filter blob:none
+```
+
+AFAICS this could probably be the source of all those not really needed objects,
+as it makes the `git` service send them.  I am not really sure if
+`tree:0` would be better here.  Probably this should be `tree:SHA`
+or something.  So there is still room for further optimization.
+
+Note that `.git/config` already contains `partialclonefilter = tree:0`.
+But seems to only affect the `git clone` part.  (I am lacking knowledge there.)
+
+
+### add `.gitignore`
+
+`git status` reached out to fetch `.gitignore` afterwards, so always add it, too.
+And while we are at it, the pattern should start with `/` to make the match unique.
+
+So the changes are:
+
+```
+git sparse-checkout set '/extensions/common/api/*.json'
+git sparse-checkout add '/.gitignore'                       # improve speed of `git status`
+```
+
+
+
 
 
 # DO NOT USE EVERYTHING BELOW
