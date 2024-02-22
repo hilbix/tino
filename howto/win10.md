@@ -26,6 +26,8 @@ Damit übernimmt man den Besitz der Datei und kann dann die Berechtigung per `ex
 
 # Update-Probleme
 
+> TL;DR?  Springe zu [SFC Murx 5](#sfc-murx-5)
+
 - https://docs.microsoft.com/de-de/windows-hardware/manufacture/desktop/repair-a-windows-image
   - Lies: `Dism /Online /Cleanup-Image /CheckHealth`
   - Außerdem gibt es eine Diagnosemöglichkeit unter "Update und Sicherheit" - "Problembehandlung" (die bei mir aber nur selten etwas bringt)
