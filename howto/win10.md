@@ -222,4 +222,4 @@ Das hat dann wohl der Softwareupdate krummgenommen und ist zusammengebrochen.
     z.B. "C:\Windows\Logs\CBS\CBS.log".
     Hinweis: Bei der Offlinewartung wird die Protokollierung derzeit nicht unterstützt.
 
-> Achtung!  Die Datei wird natürlich bei jedem Lauf überschrieben.  Wenn man also wissen will, was passiert ist, muss man die Datei sofort sichern.
+> Achtung!  Die `CBS.log` wird natürlich bei jedem Lauf überschrieben.  Wenn man also wissen will, was passiert ist, muss man die Datei sofort sichern.
