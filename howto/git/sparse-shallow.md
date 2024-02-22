@@ -45,7 +45,7 @@ Number challange:
 
 > Again to stress it:  **There is nothing wrong with these numbers!**
 >
-> Even a $75 Rasbberry PI400 can manage an incoming load of this size easily!
+> Even a $75 Raspberry PI400 can manage an incoming load of this size easily!
 > All you need is to attach enough storage to it (USB3 or iSCSI or NFS).
 
 This leaves us with following questions:
