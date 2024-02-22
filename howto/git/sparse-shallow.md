@@ -3,21 +3,27 @@
 Missing links:
 
 - How to reduce the number of objects to the bare minimum?
-  - Currently `git` seems to fetch all `tree` objects
-    and not only those, which are really needed for the dirs.
+  - Currently `git` seems to fetch all `tree` objects (for the current commit)
+    and not only those, which are really needed for the `sparse-checkout`.
 - ~~How to update to new upstream commits~~  (See below)
 - ~~How to speed up `git status`~~ (see below: `git sparse-checkout set '/.gitignore'`)
-- How to properly fetch the complete commit history of the sparsly checked out files?
+- How to properly fetch the ommit history of a sparsly checked out files afterwards?
   - A first rough start is shown below.
-  - However there are still things missing for the history to be complete.
-  - And how to restrict the history to the objects needed only for those files?
-  - `tree:0` instead of `blob:none` gave a dramatic improvement
-- How to improve checkout speed?
+  - `tree:0` instead of `blob:none` gave a dramatic improvement of the `fetch`
+  - Perhaps this is all?  Or can this be improved?
+- How to improve `git checkout` speed even further?
+- Why does `git log --oneline --all | wc -l` take 15s to output just 1 598 439 lines?  
+  Why does `git log --oneline --all --graph | wc -l` take so much longer?  
+  (16 cores, 4+ GHz+, fast RAM, fast SSD)
 - How to fetch missing objects in advance (and background),
   such that `git reset` or similar do not need to reach out to the network.
 
 
 ## TL;DR
+
+> Leave away `--depth 1` in `git clone` below to not do a shallow checkout.  This apparently works as expected.
+>
+> So it looks like the `--filter tree:0` does the trick to only fetch the topmost commit objects.
 
 The trick is `git clone --no-checkout --depth 1 --filter tree:0` on the origin.  Everything else then is mostly straight forward.
 
