@@ -5,7 +5,7 @@ See also [`git` sparse and shallow checkout](sparse-shallow.md)
 ## TL;DR
 
 I do not want to use methods, which do not work at scale.
-Hence, as long as this is not solved, I stay with meta repos.
+Hence, as long as this is not solved, I stay with meta repos instead of monorepos.
 
 [Example](https://github.com/hilbix/src)
 
