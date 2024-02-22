@@ -120,6 +120,10 @@ The path to your `ext4.vhdx` can be found with Explorer or `regedit.exe` (see ab
 
 ## Use Windows Terminal
 
+> This here is **not needed** if you install Windows Terminal from Store.
+> 
+> However it might be that you have no Store (because it was disabled).
+
 Windows Terminal is working right.  So use it.  You do not need something like Putty for a sane terminal emulation under Windows.
 
 - Go to the Release area of GitHub for Windows Terminal: <https://github.com/microsoft/terminal/release>
@@ -175,10 +179,12 @@ See https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 WSL always runs from the Windows User.  Hence you cannot start it before a login.
 
+> TODO:
+>
 > Find out how to run some WSL command
 > - before the login
 > - automatically after login
-> - in background without console (not even a short time)
+> - in background without console (not even a short blink)
 
 - `wsl.exe [command]` run command of standard Distro in current directory
 - `bash.exe [-c command]` run `bash` in default Distro in default User's directory
@@ -186,6 +192,7 @@ WSL always runs from the Windows User.  Hence you cannot start it before a login
 - `lxrun.exe` configuration for "Legacy" Distro
 
 The first invokement initializes WSL.  The later then reuses this environment.
+
 
 ## `drvfs`
 
@@ -217,18 +224,19 @@ Example `/etc/fstab`:
 
 ### Option `case=`
 
-    OPTION      Flag=off     Flag=on     Flag creation
+    OPTION      Flag=off     Flag=on     Flag set on creation
     case=off    insensitive  sensitive   off
     case=dir    insensitive  sensitive   on
     case=force  sensitive    sensitive   on
 
-Commands to alter the per-directory flag:
+Commands to alter the per-directory flag (`Flag=` in the above table):
 
     off:    fsutil.exe file setCaseSensitiveInfo DIR disable
     on:     fsutil.exe file setCaseSensitiveInfo DIR enable
     query:  fsutil.exe file queryCaseSensitiveInfo DIR
 
 The flag is not inherited.  `DIR` for `fsutil.exe` is the Windows path, not the Unix one.
+
 
 ## `/etc/wsl.conf`
 
@@ -260,6 +268,7 @@ Disable/Enable/Check interop per-session:
     echo 1 > /proc/sys/fs/binfmt_misc/WSLInterop
     cat /proc/sys/fs/binfmt_misc/WSLInterop
 
+
 ## Environment `WSLENV`
 
 - https://docs.microsoft.com/en-us/windows/wsl/interop#share-environment-variables-between-windows-and-wsl
@@ -275,6 +284,7 @@ The environment variable `WSLENV` lists all ENV variables to share between Windo
 - `l` environment variable is a list of PATHs (like: List WSL: `A:B:C`, Windows: `A;B;C`)
 - `u` variable is only passed from Win to WSL (like: To Unix)
 - `w` variable is only passed from WSL to Win (like: To Windows)
+
 
 ## Misc
 
