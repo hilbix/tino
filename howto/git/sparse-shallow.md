@@ -6,7 +6,7 @@ Missing links:
   - Currently `git` seems to fetch all `tree` objects (for the current commit)
     and not only those, which are really needed for the `sparse-checkout`.
 - ~~How to update to new upstream commits~~  (See below)
-- ~~How to speed up `git status`~~ (see below: `git sparse-checkout set '/.gitignore'`)
+- ~~How to speed up `git status`~~ (see below: `git sparse-checkout set '.gitignore'`)
 - How to properly fetch the ommit history of a sparsly checked out files afterwards?
   - A first rough start is shown below.
   - `tree:0` instead of `blob:none` gave a dramatic improvement of the `fetch`
@@ -34,7 +34,7 @@ cd src
 git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
 git sparse-checkout init --no-cone
 git sparse-checkout set '/extensions/common/api/*.json'
-git sparse-checkout add '/.gitignore'                       # improve speed of `git status`
+git sparse-checkout add '.gitignore'                        # improve speed of `git status`
 GIT_TRACE_PACKET=1 git checkout --progress
 git rev-list --missing=allow-any --objects --all | wc -l    # if you are curious
 du -sh .git extensions                                      # if you are curious
