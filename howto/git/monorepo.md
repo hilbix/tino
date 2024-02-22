@@ -71,7 +71,7 @@ This leaves us with following questions:
 Compare with:
 
 - One meta repo binding 100k git repos as submodules
-- The repos can independently move from the meta repo
+- The submodules can independently move from the meta repo
   - Hence you do can relax the commits to the meta repo to 1 per minute
 - In that case you can even serve this with a PI400 easily
   - As the load is distributed across the 100k repos of different size
