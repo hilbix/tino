@@ -29,9 +29,13 @@ This can take .. days.  Much too long for my taste.
 Hence I now try to find a way to do it everything differently.
 
 - Perhaps I am able to bring up the host
+  - (Update: I think this is futile.  I will probably decommission the host soon.)
 - Perhaps I am able to access ZFS safely
+  - (Update: I was able to do so)
 
 I do not know .. yet.
+
+> Update: I am still curious why it does not boot.  But no time for this ..
 
 
 ## 2024-02-29 17:00 UTC
