@@ -1,6 +1,6 @@
 > https://valentin.hilbig.de/ is also affected, because it is running on the same host as susi.de
 
-# SUSI.de is under attack
+# [SUSI.de](http://susi.de/) is under attack
 
 A DDoS attack stikes SUSI today.  Over 400 parallel connections were opened to it, from hundreds of IPs,
 overloading the rather old SUSI.de service.
