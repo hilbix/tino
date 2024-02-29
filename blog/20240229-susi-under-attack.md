@@ -7,6 +7,9 @@ overloading the rather old SUSI.de service.
 
 SUSI is a VM.  So the host which hosts the VM was not highly affected, only the VM got stress.
 
+
+## 2024-02-29 10:00 UTC
+
 I started to investigate, but due to some error, I rebooted the host.  Bad luck,
 the host was recently updated to SystemD but not yet rebooted and .. reboot did not work.
 The encrypted filesystems did not come up again, due to ..
@@ -29,3 +32,19 @@ Hence I now try to find a way to do it everything differently.
 - Perhaps I am able to access ZFS safely
 
 I do not know .. yet.
+
+
+## 2024-02-29 17:00 UTC
+
+I did not manage to make the system boot.  All old kernels (SysV) do boot.  All new kernels (SystemD) do not.
+I am out of clues.
+
+Luckily the rescue system has ZFS builtin.  And also I found a way to do it safely.
+
+Hence I am now in the process to transfer the VM to a new server.  The old one will only become a
+temporarily relay for the IPs until I manage to put it properly behind a Proxy service.
+
+
+
+
+I managed to get onto the filesystem.  The system
