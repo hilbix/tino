@@ -7,7 +7,11 @@ overloading the rather old SUSI.de service.
 
 SUSI is a VM.  So the host which hosts the VM was not highly affected, only the VM got stress.
 
-> TL;DR  AFAICS no data is lost.  Only SUSI became unavailable.
+> TL;DR
+>
+> - No data was corrupted.  Only SUSI became unavailable.  A classical DoS.
+> - If this does not stop, I will fie a case with the authorities.
+
 
 ## 2024-02-29 10:00 UTC
 
