@@ -80,6 +80,6 @@ a bit more investigation of the state of the VM before I will attach it again.
 
 # 2024-02-29 20:30 UTC
 
-SUSI is online again.  The attack has apparently stopped.
+SUSI is online again.  The attack has apparently stopped.  For now.
 
-However I found out that there apparently was another attack on 2024-02-27 which went unnoticed by me.
+However I found out that there was another attack on 2024-02-27 which went unnoticed by me.
