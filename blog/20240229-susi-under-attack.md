@@ -43,3 +43,24 @@ Luckily the rescue system has ZFS builtin.  And also I found a way to do it safe
 
 Hence I am now in the process to transfer the VM to a new server.  The old one will only become a
 temporarily relay for the IPs until I manage to put it properly behind a Proxy service.
+
+
+## 2024-02-29 18:10 UTC
+
+To protect the DNS of SUSI against a possible DoS on this bases, DNS is now moved to <https://desec.io/>
+just to be safe here.
+
+The original host (which still does not boot, which is not caused by the attack itself but I think by
+a recent upgrade to SystemD without reboot) will act as a relay for the old IP until I manage to move the IP, too.
+
+The data of the VM already has been transferred to a new host and now is verified.
+
+It may take some time to activate the VM again.
+
+After that I will add DDoS protection part by part if that still is needed.
+
+If nothing helps, I will put CloudFront in front of SUSI.
+
+Please stay tuned ..
+
+
