@@ -43,8 +43,3 @@ Luckily the rescue system has ZFS builtin.  And also I found a way to do it safe
 
 Hence I am now in the process to transfer the VM to a new server.  The old one will only become a
 temporarily relay for the IPs until I manage to put it properly behind a Proxy service.
-
-
-
-
-I managed to get onto the filesystem.  The system
