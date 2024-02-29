@@ -58,7 +58,7 @@ just to be safe here.
 The original host (which still does not boot, which is not caused by the attack itself but I think by
 a recent upgrade to SystemD without reboot) will act as a relay for the old IP until I manage to move the IP, too.
 
-The data of the VM already has been transferred to a new host and now is verified.
+The data of the VM already has been transferred to a new host and now is being verified.
 
 It may take some time to activate the VM again.
 
