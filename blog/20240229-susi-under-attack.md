@@ -121,6 +121,6 @@ Even that SUSI stays as-is, the new Host is far more flexible (and better docume
 > However this is not in place today, of course, all I want to say is, there still is much work ahead.
 
 Traffic will be directed to the new IP, soon, so you will see a DNS change .. again.
-However the old IP will be monitored and continue to work for a few days and weeks.
+However the old IP will be monitored (by me) and continue to work for a few days and weeks.
 
 If you are using some firewall rule to allow access to SUSI.de, be sure to update your settings.
