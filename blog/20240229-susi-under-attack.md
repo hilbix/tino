@@ -31,7 +31,7 @@ Unluckily I did not follow best pratice when setting up encrypted ZFS where the 
 This means, I cannot access that safely.  Hence I do not want to activate it before I have a safe copy.
 This can take .. days.  Much too long for my taste.
 
-Hence I now try to find a way to do it everything differently.
+Hence I now try to find a way to do it differently.
 
 - Perhaps I am able to bring up the host
   - (Update: I think this is futile.  I will probably decommission the host soon.)
