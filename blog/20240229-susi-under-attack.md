@@ -112,7 +112,7 @@ SUSI is not the only VM affected, but this blog is only about SUSI.
 
 To be able to decommission the old node, a new IP of SUSI.de is needed.  This IP now has been ordered.
 
-The good thing is, that the new setup of SUSI is an improvement of the setup before, so the new VM of SUSI is much more modern than the old one.
+The good thing is, that the new setup of SUSI is an improvement over the setup before, so the new VM of SUSI is much more modern than the old one.
 Even that SUSI stays as-is, the new Host is far more flexible (and better documented), such, that moving SUSI out of the line of fire is much easier.
 
 > This means, if the host or IP is affected by a DDoS, SUSI can be moved to another host
