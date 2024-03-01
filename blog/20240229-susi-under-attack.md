@@ -89,3 +89,30 @@ because nobody informed me.
 >
 > If SUSI has a problem, please call my phone and leave a very short message.
 > A "SUSI is down" is enough.  Thanks.
+
+
+## 2024-03-01 04:00 UTC
+
+**Announcing an IP change of SUSI.de.**
+
+> The new IP is not yet defined.
+
+A transition from an old host to a new one is a major task, so there are many things still open.
+SUSI is not the only VM affected, but this blog is only about SUSI.
+
+> Note that all of this would have been needed to be done in future anyway.  The DDoS only made this urgent .. now.
+
+To be able to decommission the old node, a new IP of SUSI.de is needed.  This IP now has been ordered.
+
+The good thing is, that the new setup of SUSI is an improvement of the setup before, so the new VM of SUSI is much more modern than the old one.
+Even that SUSI stays as-is, the new Host is far more flexible (and better documented), such, that moving SUSI out of the line of fire is much easier.
+
+> This means, if the host or IP is affected by a DDoS, SUSI can be moved to another host
+> and things like CloudFront can be put in front of it to counter attacks.
+> In future this can even be done fully automated when a known attack vector is detected.
+> However this is not in place today, of course, all I want to say is, there still is much work ahead.
+
+Traffic will be directed to the new IP, soon, so you will see a DNS change .. again.
+However the old IP will be monitored and continue to work for a few days and weeks.
+
+If you are using some firewall rule to allow access to SUSI.de, be sure to update your settings.
