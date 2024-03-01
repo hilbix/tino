@@ -66,7 +66,22 @@ The question here is:
 - PVs on LUKS
 - or LUKS on PVs
 
-If PVs are on LUKS this means, you will not even see what is in the PVs.
+If PVs are on LUKS this means, you will not even see what is in the PVs.  So you must decide:
+
+- Do you want better administrabillity
+- Or do you really have the need to hide everything
+
+I chose the first.  This means if find some drive laying around and plug it in, I can see what is in the PV.
+This also gives me the hints needed to find the correct decryption key, as there is enough information in the LVM header, usually.
+
+> Only if done right.  But this here is all about doing it right, right?
+
+Hence all the PVs are created directly and the encrypted devices are added afterwards.
+
+- This has the advantage, that you can create unencrypted devices, too.  I don't know, but perhaps this can come handy, too.
+- Also as all LVM data is unencrypted (mirroring, thin provisioning, etc.) this might lessen the impact of bad memory or plain other errors.
+
+This way the system can be setup straight forward, and later on you can add the encryption layer before valuable data hits the drives.
 
 > T.B.D.
 
