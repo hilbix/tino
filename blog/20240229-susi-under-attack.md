@@ -10,7 +10,7 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 > TL;DR
 >
 > - No data was corrupted.  Only SUSI became unavailable.  A classical DoS.
-> - If this does not stop, I will fie a case with the authorities.
+> - If such attacks continue, I will file a case with the authorities.
 
 
 ## 2024-02-29 10:00 UTC
