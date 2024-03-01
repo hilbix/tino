@@ -91,6 +91,15 @@ Another question is if you should use LUKS1 or LUKS2 and which algorithm.  My an
 - If you want maximum compatibilty (to mostly current situations) use `--pbkdf pbkdf2`
 - Use `cryptsetup --help` to see the "Default compiled-in device cipher parameters" (at the very end of the output)
 
+> **!WARNING!**
+>
+> **`keyscript`s are incompatible with SystemD!**
+> AFAICS they only work with `cryptdisk_start` and initrd.
+>
+> `man crypttab` on Debian `bookworm` states:  
+> WARNING: With systemd as init system, this option might be ignored. At the time this is written (December 2016), the systemd cryptsetup helper doesn't support the keyscript option to /etc/crypttab. For the time being, the only option to use keyscripts along with systemd is to force processing of the corresponding crypto devices in the initramfs. See the 'initramfs' option for further information.
+
+
 First, create a `keyscript` which outputs the some key when run.
 
 - This is `/path/to/keyscript.sh` below
