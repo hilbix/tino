@@ -75,12 +75,15 @@ Please stay tuned ..
 
 ## 2024-02-29 19:40 UTC
 
-The VM is verified and up again, but still not reachable from network because first I want to do
+The VM is verified and is up again, but still not reachable from network because first I want to do
 a bit more investigation of the state of the VM before I will attach it again.
+
 
 ## 2024-02-29 20:30 UTC
 
 SUSI is online again.  The attack has apparently stopped.  For now.
+
+> Expect small hickups while I improve things.
 
 However I found out that there was another attack on 2024-02-27 which went unnoticed by me,
 because nobody informed me.
@@ -89,6 +92,9 @@ because nobody informed me.
 >
 > If SUSI has a problem, please call my phone and leave a very short message.
 > A "SUSI is down" is enough.  Thanks.
+
+The code base of SUSI is too old for current monitoring (i.E. things like NetData do not work there),
+but thanks to the new host I probably can add some basic monitoring without it.
 
 
 ## 2024-03-01 04:00 UTC
