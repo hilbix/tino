@@ -16,7 +16,7 @@ This is exactly what I do here.
 ## TL;DR
 
 ```
-swap	/dev/vg/swap	/dev/urandom	cipher=aes-xts-plain64,size=128,swap
+swap	/dev/vg/swap	/dev/urandom	cipher=aes-xts-plain64,size=256,swap
 ```
 
 - Use encrypted LVs on unencrypted PVs.
@@ -37,8 +37,8 @@ this can be done with a random key.  So the setup is straight forward and easy:
 `/etc/crypttab`:
 
 ```
-swap1	/dev/vg0/swap1	/dev/urandom	cipher=aes-xts-plain64,size=128,swap
-swap2	/dev/vg0/swap2	/dev/urandom	cipher=aes-xts-plain64,size=128,swap
+swap1	/dev/vg0/swap1	/dev/urandom	cipher=aes-xts-plain64,size=256,swap
+swap2	/dev/vg0/swap2	/dev/urandom	cipher=aes-xts-plain64,size=256,swap
 ```
 
 You can even do this on-the-fly:
