@@ -13,6 +13,20 @@ Note:
 
 This is exactly what I do here.
 
+## TL;DR
+
+```
+swap	/dev/vg/swap	/dev/urandom	cipher=aes-xts-plain64,size=128,swap
+```
+
+- Use encrypted LVs on unencrypted PVs.
+- Use 3 LUKS keys for each:
+  - `passdev` automatic key
+  - Manual decryption key for on-demand single-use which can be passed to a third party if needed
+  - Global disaster decryption key which is kept secret
+- Use encrypted LVs for ZFS, too
+  - And use ZFS encryption on top of this if needed
+
 
 ## SWAP encryption
 
@@ -33,6 +47,93 @@ You can even do this on-the-fly:
 - `cryptdisk-start swap1 swap2`
 - Edit `/etc/fstab` to use `/dev/mapper/swap1` etc. instead of the current swaps
 - `swapon -a`
+
+> The question is not to use crypt on swap or not.  As secure operations like SSL are done everywhere nowadays,
+> you must encrypt the swap, else encrypted data may be stored on the device fully decrypted (and keys may leak).
+>
+> So the question is either to use encrypted swap or no swap at all.  Nothing in between, please!
+>
+> Note that it always is good to have some swap in place.  Just in case.  If it already is there,
+> it is easy to increase on the fly.  If it is not set up yet, you perhaps make mistakes adding it when you are in a stress situation.
+
+
+## LVM encryption
+
+> I assume you always have LVM in place.  Even with ZFS.
+
+The question here is:
+
+- PVs on LUKS
+- or LUKS on PVs
+
+If PVs are on LUKS this means, you will not even see what is in the PVs.
+
+> T.B.D.
+
+
+## ZFS encryption
+
+ZFS already has very good encryption support.  So the question is
+
+- Use only ZFS encryption
+- Or use LUKS instead
+
+I vote for both via LVM encryption.
+
+This is:
+
+- Create a PV
+- Create an encrypted LV on the PV
+  - Do not use the full space
+- Then add it to ZFS
+
+This way, if something breaks, ZFS is unable to use the device.
+This usually is exactly what you want and gives you another layer of administration here.
+
+As this comes naturally with the above LVM setup, there is absolutely nothing to it to explain here.
+
+
+## (Automatic) Key Management
+
+The easiest way is to use `passdev` from within `/etc/crypttab` and use it with some (cheap) USB key.
+
+- The USB key is to be overwritten and physically destroyed when it is of no more use
+  - Due to wear levelling you perhaps cannot delete the key material on it
+  - Hence it is a bad idea to re-use such sticks in a different computer
+  - Except you stay with the key
+- Computer Security is not about being fully safe
+  - Computer Security is about being aware of possible threats!
+
+However please do not forget that devices can break.  (I have a ton of those!)
+
+Luckily, LUKS offers 4 keyslots.
+
+- One is for automatic decryption by `passdev` or similar
+- One is for manual decryption in case you must access it (as an image etc.) in the future
+  - After using the key, this key should be changed!
+  - This key can be used to unlock a drive by a third party, like if this is needed to give evidence to the autorities
+  - You definitively do not want to hand out your global disaster recovery key in this situation!
+- One is for disaster recovery
+  - This is a key, which is very well hidden and only used if disaster strikes
+  - It should be printed and kept in a sealed envelope in some bank tresor
+  - Note that the printer must not be networked, so use some old memoryless directly attached printer!
+- The 4th slot can be kept free
+
+How do I do this?
+
+- I create the LUKS with the automatic decryption
+- Then I transfer the LUKS header to a secured computer
+- There I add the other 2 keyslots
+- Then I transfer the LUKS header back to the device
+
+This way I only have to worry about the automatic decryption key.
+
+- This is unavoidable
+- Everything else is avoidable
+  - This is why I do not add the Disaster Keys on the machine itself, as this is used for multiple computers
+  - It is pure convenience to add the manual decruption key on the secured computer, as it is stored there
+
+> The process needs examples.  However currently I cannot paste them here, as it is incomplete or may expose secrets-as-I-do-it.
 
 
 ## Notes about parameters
