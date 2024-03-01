@@ -124,3 +124,26 @@ Traffic will be directed to the new IP, soon, so you will see a DNS change .. ag
 However the old IP will be monitored (by me) and continue to work for a few days and weeks.
 
 If you are using some firewall rule to allow access to SUSI.de, be sure to update your settings.
+
+
+## 2024-03-01 09:15 UTC
+
+I probably found out why things no more work with SystemD:
+
+`man crypttab` on Debian `bookworm` states on `keyscript`s:  
+> WARNING: With systemd as init system, this option might be ignored. At the time this is written (December 2016), the systemd cryptsetup helper doesn't support the keyscript option to /etc/crypttab. For the time being, the only option to use keyscripts along with systemd is to force processing of the corresponding crypto devices in the initramfs. See the 'initramfs' option for further information.
+
+Well, that is exactly what I do:  Use `keyscripts` which are needed to unlock the device.
+
+> Many thanks for SystemD breaking what flawlessly worked over 20 years without any problem!
+
+The best thing here is that SystemD does not output any trace of this occurance.
+
+> Looks like JournalD has a very bad time accessing `/var` to store a log of this problem,
+> becaue `/var` needs unlocking with a `keyscript` first, which isn't supported by SystemD.
+>
+> Checkmate!
+>
+> Perhaps logging of SystemD deserves some critical improvement, eh?
+
+Perhaps I will try to convert to `passdev`.  But this does not change my mind to decommission the old host.
