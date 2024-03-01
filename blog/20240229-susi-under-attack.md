@@ -50,7 +50,7 @@ I do not know .. yet.
 I did not manage to make the system boot.  All old kernels (SysV) do boot.  All new kernels (SystemD) do not.
 I am out of clues.
 
-Luckily the rescue system has ZFS builtin.  And also I found a way to do it safely.
+Luckily the rescue system has ZFS builtin.  And also I found a way to access it safely.
 
 Hence I am now in the process to transfer the VM to a new server.  The old one will only become a
 temporarily relay for the IPs until I manage to put it properly behind a Proxy service.
