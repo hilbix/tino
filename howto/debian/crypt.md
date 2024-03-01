@@ -174,6 +174,23 @@ There seem to be things like that out there.  However I did not come around to c
 
 So this still is T.B.D.
 
+The idea here is:
+
+- The Boot partition still is unencrypted.
+- Everything uses encrypted filesystemd
+- Some script provides the key
+
+The problem is, that networking is not set up in InitRD.  However this is needed.  These are the ideas here:
+
+- Use some own IP stack.
+  - This is fully feasible as there are embedded TCP stacks out there
+  - Hence the tool then can talk to the service and do everything
+  - It can be statically linked, too.
+- Use the kernel IP stack
+  - However we have to cleanup thoroughly afterwards
+
+I am undecided.
+
 
 ## Notes about parameters
 
