@@ -83,7 +83,60 @@ Hence all the PVs are created directly and the encrypted devices are added after
 
 This way the system can be setup straight forward, and later on you can add the encryption layer before valuable data hits the drives.
 
-> T.B.D.
+Another question is if you should use LUKS1 or LUKS2 and which algorithm.  My answer to this is:
+
+- If in doubt, use the default of your distro, so do not add any option to `cryptsetup luksFormat device`
+  - Very old distros perhaps do not use `aes-xts-plain64`.  Use `--cipher=aes-xts-plain64` there
+- If you need some boot compatibility (for example the rescue system of your ISP), use `--type luks1`
+- If you want maximum compatibilty (to mostly current situations) use `--pbkdf pbkdf2`
+- Use `cryptsetup --help` to see the "Default compiled-in device cipher parameters" (at the very end of the output)
+
+First, create a `keyscript` which outputs the some key when run.
+
+- This is `/path/to/keyscript.sh` below
+- Test the keyscript outputs the key: `/path/to/keyscript.sh | od -tx1z`
+- If the keyscript is for devices needed to boot, it must be able to run in initrd
+  - I recently had trouble to do so, so this is the most problematic part here
+  - Sorry, currently I cannot help you, but I am working on it.  
+    It will show up in "Automatic Remote Key Management" below if I come around.
+
+Alternatives to the `,keyscript=/path/to/keyscript.sh` in `/etc/crypttab`:
+
+- `,passdev`.  The `keyfile` parameter (3rd column) becomes `device:path`
+  - like `/dev/disk/by-label/usbunlock:/unlock.key`
+  - This tries to read `/unlock.key` from filesystem `/dev/disk/by-label/usbunlock`
+  - It also waits until this device becomes available
+- Use a device directly like `,keyfile-offset=4095,keyfile-size=512,tries=0`
+  - `/dev/disk/by-label/usbunlock`
+  - The problematic part here is, that it will not wait for USB to come up
+  - Hence `,tries=0` to make it loop until it succeeds
+  - Which might waste CPU forever fruitlessly
+
+Then the process is:
+
+```
+lvcreate -n crypt -L5G vg0
+luksformat --cipher=aes-xts-plain64 /dev/vg0/crypt1 <(/path/to/keyscript.sh)
+UUID="`blkid -o value -s UUID /dev/vg0/crypt1`"    # you can use instead: cryptsetup luksUUID /dev/vg0/crypt1
+echo "crypt1 UUID=$UUID none luks,keyscript=/path/to/keyscript.sh" >> /etc/crypttab
+cryptdisk_start crypt1
+```
+
+- I recommend to add `,noearly` in case it is a LVM LV which is put into initrd.
+
+I recommend to keep it straight forward:
+
+- 1st column: Use the LV's name as the target name in `/dev/mapper/`
+  - this works, as the LV itself is named `/dev/mapper/vg-name`
+- 2nd column: Use UUIDs where possible
+  - As you used the name of the LV there is no much problem to locate the LV in question without looking up `blkid --uuid UUID`
+  - For example if you rename your VG, you do not need to update anything here
+- 3rd column: Use `none` as the keyfile
+  - This column will be passed to the keyscript as argument
+  - You can create derived keys this way, but I recommend to use the same key on all devices
+- 4th column:  Do not use other options
+
+That's basically all to it.
 
 
 ## ZFS encryption
