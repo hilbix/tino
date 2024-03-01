@@ -2,8 +2,10 @@
 
 # [SUSI.de](http://susi.de/) is under attack
 
-A DDoS attack stikes SUSI today.  Over 400 parallel connections were opened to it, from hundreds of IPs,
+A DDoS attack stikes SUSI today.  Over 400 parallel connections were opened to it, from (probably) hundreds of IPs,
 overloading the rather old SUSI.de service.
+
+> I haven't found the time to analyse the logs deeply enough.
 
 SUSI is a VM.  So the host which hosts the VM was not highly affected, only the VM got stress.
 
