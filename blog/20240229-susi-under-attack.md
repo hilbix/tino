@@ -146,4 +146,5 @@ The best thing here is that SystemD does not output any trace of this occurance.
 >
 > Perhaps logging of SystemD deserves some critical improvement, eh?
 
-Perhaps I will try to convert to `passdev`.  But this does not change my mind to decommission the old host.
+I think I will give `passdev` a try (which was unavailable when the host was created).
+But this does not change my mind to decommission the old host.
