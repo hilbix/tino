@@ -136,6 +136,45 @@ This way I only have to worry about the automatic decryption key.
 > The process needs examples.  However currently I cannot paste them here, as it is incomplete or may expose secrets-as-I-do-it.
 
 
+## Full Boot Encryption
+
+For the time being I did not find a good way to have even the boot partition encrypted.
+
+> But I am working on this!
+>
+> The idea here is to create some minimalistic boot Linux,
+> which then `kexec`s the kernel and initrd.
+>
+> To be able to do so, it then can pull the key from some remote server etc.
+
+The thing about this is, this way you can have some fully encrypted system laying around,
+for example some cloud VM, which then can be started on-demand.
+But only with your help, so nobody else can do this, as the system is bootable, but lacking everything to be booted.
+
+But this also must work fully automatic.  Like this:
+
+- Machine reboots
+- Machine contacts the service
+- Some app (something like an authenticator) asks you for permission
+- You enter the code
+- The machine gets the key and continues to boot
+
+At least that is what I'd like to see, as this is the minimum requirement to make such an option worthwhile.
+
+Much work ahead to gain this.  One stepstone is the next thing: Automatic Remote Key Management
+
+
+## Automatic Remote Key Management
+
+Some machines cannot or should not keep their own key.  However these machines still must be able to boot.
+
+The idea here is, that they are able to pull the key from some external service.
+
+There seem to be things like that out there.  However I did not come around to check them out.
+
+So this still is T.B.D.
+
+
 ## Notes about parameters
 
 If you are really paranoid about Quantum resistance, then you need to use `size=256` and `hash=sha3`.
