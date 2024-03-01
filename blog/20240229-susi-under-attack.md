@@ -24,7 +24,7 @@ I really have no idea, but the Internet is full of such problems.
 
 As I am unable to access the console of the machine remotely, I was out of clues what exactly goes wrong.
 
-The filesystems are accessible and I can get on the data, but I cannot boot the system currently.
+The filesystems are accessible and I can get on the data, but I cannot boot into the system currently.
 So the idea is to move the VM to another host and start it there.
 
 Unluckily I did not follow best pratice when setting up encrypted ZFS where the VM sits on.
