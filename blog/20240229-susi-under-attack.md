@@ -30,6 +30,7 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 > - And things will continue to improve, too.
 > - Slowly but steadily.
 > - Please bear with me.
+> - I will update the information on <http://susi.de/>
 
 
 ## 2024-02-29 10:00 UTC
