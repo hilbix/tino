@@ -161,6 +161,9 @@ Due to the ongoing works of the DDoS, there existing (but very unusable free) Mo
 So the additional error of SUSI going down again did not reach me until today, Saturday, were I detected it in my morning routine.
 Mostly not because SUSI was down but because other services were affected, too.
 
+Due to the downtime of SUSI the DDoS message was spit out in error.  **There was no DDoS going on**, this was due to the DDoS before.
+Another thing I did not clean up after SUSI was up again.  This error is now fixed, too.
+
 > I am in the process to create a better monitoring.
 > Why?  Because there is only unusable crap out there which does not even slightly fullfills my needs.
 >
@@ -190,6 +193,7 @@ To make it short:
 
 - 2024-03-01 13:38 UTC SUSI came down because the VM's host filesystem filled up
 - The monitoring spit out warnings - which were muted because there were too much of them
+- Due to the downtime the DDoS information page was handed out to all, because I forgot to update that page.
 - I did not notice the downtime before I went to bed (I was a bit exhausted due of the DDoS the day before).
 - When I started my daily routine today (Saturday) I noticed the downtime
 - 2024-03-02 06:40 UTC the problem was solved and SUSI was up again
@@ -197,3 +201,4 @@ To make it short:
 I am sorry for the inconvenience, but I am not a superhuman.  Instead I just tell it here.
 
 Thank you for your understanding.
+
