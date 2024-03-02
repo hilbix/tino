@@ -186,3 +186,14 @@ Mostly not because SUSI was down but because other services were affected, too.
 > Note that this will be probably mostly [NetData based](../howto/netdata.md).  NetData without Cloud, of course!
 > But SUSI is far too old for this approach, so my monitoring must offer far more than just that.
 
+To make it short:
+
+- 2024-03-01 13:38 UTC SUSI came down because the VM's host filesystem filled up
+- The monitoring spit out warnings - which were muted because there were too much of them
+- I did not notice the downtime before I went to bed (I was a bit exhausted due of the DDoS the day before).
+- When I started my daily routine today (Saturday) I noticed the downtime
+- 2024-03-02 06:40 UTC the problem was solved and SUSI was up again
+
+I am sorry for the inconvenience, but I am not a superhuman.  Instead I just tell it here.
+
+Thank you for your understanding.
