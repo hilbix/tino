@@ -148,3 +148,41 @@ The best thing here is that SystemD does not output any trace of this occurance.
 
 I think I will give `passdev` a try (which was unavailable when the host was created).
 But this does not change my mind to decommission the old host.
+
+
+## 2024-03-02 06:30 UTC
+
+SUSI was down approx. 17 hours .. again.  Due to some stupid error of me which .. again .. went unnoticed.
+
+This was indirectly caused by the DDoS.  Because the old host is to be decommissioned now, I copied the filesystems to the new host.
+But there was not enough space available.  Yes, a very stupid mistake.
+
+Due to the ongoing works of the DDoS, there existing (but very unusable free) Monitoring steadily was alarming me, so I have muted it.
+So the additional error of SUSI going down again did not reach me until today, Saturday, were I detected it in my morning routine.
+Mostly not because SUSI was down but because other services were affected, too.
+
+> I am in the process to create a better monitoring.
+> Why?  Because there is only unusable crap out there which does not even slightly fullfills my needs.
+>
+> - No, I am just a privat person and no company with big bucks to pay for a suitable monitoring.
+> - NO, I wont go naked and buy the service by selling valuable data to some obscure third party in their free tier!
+> - No, I am still not in the position to pay insane amounts of money for Monitoring with very low value for me
+>
+> Note that $1 per month already is an insane amount, because it is far more expensive than when monitoring is done right:
+>
+> A Raspberry PI for less than $80 one time cost is capable of monitoring hundreds if not thousands of hosts in parallel.
+> And to operate it costs less than $20 per year (in power consumption, far less if not solar powered).  
+> This little PI also is able to provide me with unlimited detailed historic monitoring information for a whole lifetime!
+> And it is able to call me or send an SMS or toggle a warning in my house automation **for no additional costs at all**!
+>
+> So why do you think, that anybody is interested in paying more than a single buck per month for a cloud based monitoring service,
+> which even then when I pay for it offers far less than what such a cheap PI is capable of doing?
+> And why shall I risk that my valuable monitoring data is sold to others by that service?
+>
+> **WTF is going wrong in this world?!?**
+> 
+> When I have something which works for me, I will Open Source this here at GitHub, of course.
+>
+> Note that this will be probably mostly [NetData based](../howto/netdata.md).  NetData without Cloud, of course!
+> But SUSI is far too old for this approach, so my monitoring must offer far more than just that.
+
