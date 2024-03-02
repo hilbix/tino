@@ -17,7 +17,7 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 > Lessons learned:
 >
 > - Too much went wrong
->   - Root cause is the lack of a plan to counter this situation
+>   - Root cause is the lack of a good plan to counter this situation
 >   - Only knowing what to do is not enough, because in a stress situation too many errors happen
 > - Lack of a proper monitoring was a root cause of the too long duration all the downtimes
 >   - The downtimes were much longer than needed or even completely unnecessary
