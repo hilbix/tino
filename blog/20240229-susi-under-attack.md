@@ -23,6 +23,13 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 > - Lack of a proper monitoring was a root cause of the too long duration all the downtimes
 >   - The downtimes were much longer than needed or even completely unnecessary
 >   - But there simply is no proper monitoring out there in my case .. yet
+> 
+>  However:
+>
+> - Things improved now.
+> - And things will continue to improve, too.
+> - Slowly but steadily.
+> - Please bear with me.
 
 
 ## 2024-02-29 10:00 UTC
