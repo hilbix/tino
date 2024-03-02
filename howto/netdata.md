@@ -4,6 +4,7 @@
 >
 > This cloud offers private networks like 10.0.0.0 to connect between the machines.
 > And machines without any external IP whatsoever.
+> So there is nothing which could talk to NetData Cloud.
 >
 > YMMV if you use another Cloud.
 
