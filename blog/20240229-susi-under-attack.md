@@ -13,6 +13,15 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 >
 > - No data was corrupted.  Only SUSI became unavailable.  A classical DoS.
 > - If such attacks continue to happen, I will file a case with the authorities.
+>
+> Lessons learned:
+>
+> - Too much went wrong
+>   - Root cause is the lack of a plan to counter this situation
+>   - Only knowing what to do is not enough, because in a stress situation too many errors happen
+> - Lack of a proper monitoring was a root cause of the too long duration all the downtimes
+>   - The downtimes were much longer than needed or even completely unnecessary
+>   - But there simply is no proper monitoring out there in my case .. yet
 
 
 ## 2024-02-29 10:00 UTC
@@ -170,6 +179,12 @@ Another thing I did not clean up after SUSI was up again.  This error is now fix
 > - No, I am just a privat person and no company with big bucks to pay for a suitable monitoring.
 > - NO, I wont go naked and buy the service by selling valuable data to some obscure third party in their free tier!
 > - No, I am still not in the position to pay insane amounts of money for Monitoring with very low value for me
+> - Please note that the usual cloud based monitorings out there get hold on your IP, too.
+>   - In Germany your IP is protected by law and hence must not be forwarded to any third party without your explicite consent
+>   - I take (read: SUSI takes) your privacy rights very serious, so I cannot use such services because this would be against the law (IANAL)
+>   - This rules out to use all those existing cloud based monitoring solutions, except for the very basic ones.
+>   - And the very basic ones appear of being of no value in the current situation.
+>   - They even might make things worse because of the fruitless effort involved.
 >
 > Note that $1 per month already is an insane amount, because it is far more expensive than when monitoring is done right:
 >
