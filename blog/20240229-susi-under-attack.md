@@ -191,7 +191,7 @@ Another thing I did not clean up after SUSI was up again.  This error is now fix
 
 To make it short:
 
-- 2024-03-01 13:38 UTC SUSI came down because the VM's host filesystem filled up
+- 2024-03-01 14:48 UTC SUSI came down because the VM's host filesystem filled up
 - The monitoring spit out warnings - which were muted because there were too much of them
 - Due to the downtime the DDoS information page was handed out to all, because I forgot to update that page.
 - I did not notice the downtime before I went to bed (I was a bit exhausted due of the DDoS the day before).
