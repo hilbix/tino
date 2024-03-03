@@ -229,7 +229,7 @@ Thank you for your understanding.
 
 ## 2024-03-03 You have to be careful
 
-> "To err is human.  But to really fuck up, you need a computer."  OEDO 808 Cyber City
+> "To err is human.  But to really fuck things up, you need a computer."  [OEDO 808 Cyber City](https://www.imdb.com/title/tt0220218/)
 
 When I did the move, I did it quickly.  This means, that Mails are now coming in over a proxied tunnel connection, too, until the IP move is done.
 
