@@ -32,6 +32,33 @@ SUSI is a VM.  So the host which hosts the VM was not highly affected, only the 
 > - Please bear with me.
 > - I will update the information on <http://susi.de/>
 
+Some personal notes about "what is a DDoS":
+
+- A DDoS is a Distributed Denial of Service
+  - In that case some (probably hundreds) of IPs send out many (hundreds) of connections to a single web server to overload it.
+  - Which worked here with SUSI as the setup here come from the last millenium were things were a bit different than today.
+- The DDoS of SUSI still was small, compared to what strikes others.
+  - But as SUSI is so old, it got into trouble fast
+- There are two types of DDoS:
+  - Unintended DDoS, like a website breaks under the load due to too many users try to access it in parallel
+  - Intended DDoS where somebody looks for the best way to bring a website into trouble.
+- The DDoS of SUSI was of the last type.
+  - So it was not just some bad luck.
+  - Hence it must be regarded as a direct Attack against SUSI.
+- A DDoS must be seen as something like the weather
+  - DDoS are not as bad as Hurricanes.  As Hurricanes damage things ususally.
+  - But it can be seen as Lighning Ice which makes the roads impassable as long as it happens
+- Lightning Ice has several properties which a DDoS has, too:
+  - It can last days
+  - It can make things really troublesome
+  - It vanishes by itself
+  - You cannot do much against it
+  - You better just sit and wait until it goes by
+  - Afterwards, things usually return to normal on themselves
+  - And both are triggered by human stupidity.
+
+> Well, the current climatic change which boosts things like Lightning Ice is entirely caused by human stupidity, right?
+
 
 ## 2024-02-29 10:00 UTC
 
