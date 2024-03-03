@@ -231,9 +231,9 @@ Thank you for your understanding.
 
 > "To err is human.  But to really fuck things up, you need a computer."  [OEDO 808 Cyber City](https://www.imdb.com/title/tt0220218/)
 
-When I did the move, I did it quickly.  This means, that Mails are now coming in over a proxied tunnel connection, too, until the IP move is done.
+When I did the move, I did it quickly.  This means, that Mails are now coming in over a proxied tunnel connection, too, until the move to the new IP happens (soon).
 
-> The good thing is to sort everything out before the move to the new IP happens.
+> The good thing is to sort everything out before the move to the new IP is applied.
 > So problems like this here do not affect the new IP.
 >
 > The new IP has been already assigned, but I defer the IP change a few days until everything is settled.
