@@ -59,6 +59,15 @@ Some personal notes about "what is a DDoS":
 
 > Well, the current climatic change which boosts things like Lightning Ice is entirely caused by human stupidity, right?
 
+I do not tell anything here about what I plan or have implemented to counter DDoS in future:
+
+- I do not want to give any clues to the attacker how to improve the attack.
+- And I am not confident it works, as it is not battle tested.
+- And if things really go bad, I still can contact [Cyber Security](https://www.bmvg.de/de/themen/cybersicherheit)
+  - Err, I mean [this](https://www.spiegel.de/netzwelt/netzpolitik/gerichtsurteil-ddos-angriff-ist-strafbare-computersabotage-a-768245.html)
+
+So all you read below is what happened and when it happened and, if I know this, why it happened.
+
 
 ## 2024-02-29 10:00 UTC
 
