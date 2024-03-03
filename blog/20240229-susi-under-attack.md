@@ -234,7 +234,7 @@ Another thing I did not clean up after SUSI was up again.  This error is now fix
 > Note that $1 per month already is an insane amount, because it is far more expensive than when monitoring is done right:
 >
 > A Raspberry PI for less than $80 one time cost is capable of monitoring hundreds if not thousands of hosts in parallel.
-> And to operate it costs less than $20 per year (in power consumption, far less if not solar powered).  
+> And to operate it costs less than $20 per year (in power consumption, far less if solar powered).  
 > This little PI also is able to provide me with unlimited detailed historic monitoring information for a whole lifetime!
 > And it is able to call me or send an SMS or toggle a warning in my house automation **for no additional costs at all**!
 >
