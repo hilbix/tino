@@ -36,7 +36,7 @@ Some personal notes about "what is a DDoS":
 
 - A DDoS is a Distributed Denial of Service
   - In that case some (probably hundreds) of IPs send out many (hundreds) of connections to a single web server to overload it.
-  - Which worked here with SUSI as the setup here come from the last millenium were things were a bit different than today.
+  - Which worked against SUSI, as the setup here basically stems from the last millenium, were things were a bit different than today.
 - The DDoS of SUSI still was small, compared to what strikes others.
   - But as SUSI is so old, it got into trouble fast
 - There are two types of DDoS:
