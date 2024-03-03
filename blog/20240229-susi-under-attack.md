@@ -226,3 +226,25 @@ I am sorry for the inconvenience, but I am not a superhuman.  Instead I just tel
 
 Thank you for your understanding.
 
+
+## 2024-03-03 You have to be careful
+
+> "To err is human.  But to really fuck up, you need a computer."  OEDO 808 Cyber City
+
+When I did the move, I did it quickly.  This means, that Mails are now coming in over a proxied tunnel connection, too, until the IP move is done.
+
+The problem was, that, unluckily, the IP of the proxy was out ot the allowed domains to relay, namely `/etc/mail/relay-domains`.
+
+> AFAICS a configuration error, as you can name your reverse as you like.  So if you find out what is in `relay-domains`
+> you can send SPAM over a relay without problem.
+
+This was a very very very old setup.  Namely something, which was done in the last century.  Go figure ..
+
+Some SPAMmers found this out - of course - and started to abuse the SUSI MTA for transferring SPAM.
+
+Well, I found out today.  Again, not due to some monitoring of some sort but manually while testing things.
+
+> A mail queue of 2000 entries is a bit much, I think.
+
+Hence, this configuration error now is fixed, too.  Sigh.
+
