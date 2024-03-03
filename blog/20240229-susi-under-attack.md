@@ -233,21 +233,33 @@ Thank you for your understanding.
 
 When I did the move, I did it quickly.  This means, that Mails are now coming in over a proxied tunnel connection, too, until the IP move is done.
 
-The problem was, that, unluckily, the IP of the proxy was out ot the allowed domains to relay, namely `/etc/mail/relay-domains`.
+> The good thing is to sort everything out before the move to the new IP happens.
+> So problems like this here do not affect the new IP.
+>
+> The new IP has been already assigned, but I defer the IP change a few days until everything is settled.
+
+The problem was, that, unluckily, the IP of the proxy (which is seen as the sender IP) was out ot the allowed domains to relay, which are listed in `/etc/mail/relay-domains`.
 
 > AFAICS a configuration error, as you can name your reverse as you like.  So if you find out what is in `relay-domains`
-> you can send SPAM over a relay without problem.
+> you can send SPAM over another relay without problem.  Hence recommendation:  Never use `relay-domains` in a DNS configuration.
 
 This was a very very very old setup.  Namely something, which was done in the last century.  Go figure ..
 
-Some SPAMmers found this out - of course - and started to abuse the SUSI MTA for transferring SPAM.
+Some SPAMmers found this out - of course (there are automated process for this) - and started to abuse the SUSI MTA for transferring SPAM.
 
-Well, I found out today.  Again, not due to some monitoring of some sort but manually while testing things.
+> Well, sorry, again my fault.
 
-> A mail queue of 2000 entries is a bit much, I think.
+I found out today.  Again, not thanks to some monitoring of some sort but manually while testing things.
+
+> A mail queue of 2000 entries is a bit much for such a little system like SUSI.
+> It is very well able to handle enourmous amounts of Mail, of course, without taking harm,
+> but it is very unfriendly to others to allow SPAM like this.
 
 Hence, this configuration error now is fixed, too.  Sigh.
 
 > This was not caused by the DDoS directly, as the configuration error was done over 25 years ago.
 > It only hit now due to all the other changes, which were needed to hande the current situation.
-
+> It could have hit previosly, though, without me seeing it.
+>
+> Nevertheless I do not say "thank you for the DDoS to bring all those other problems to my awareness".
+> Nope, I am really not amused!
