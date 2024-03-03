@@ -248,3 +248,6 @@ Well, I found out today.  Again, not due to some monitoring of some sort but man
 
 Hence, this configuration error now is fixed, too.  Sigh.
 
+> This was not caused by the DDoS directly, as the configuration error was done over 25 years ago.
+> It only hit now due to all the other changes, which were needed to hande the current situation.
+
