@@ -2,6 +2,12 @@
 
 # [SUSI.de](http://susi.de/) is under attack
 
+> Warum ist das hier nicht in Deutsch?
+>
+> Ich möchte, dass die Infos hier von möglichst viel Menschen verstanden werden.
+> Deutsch ist einfach nicht so weit verbreitet wie Englisch.
+> Und ich möchte nicht, dass da eine automatische Übersetzung irgendeinen Hund reinbringt.
+
 A DDoS attack stikes SUSI today.  Over 400 parallel connections were opened to it, from (probably) hundreds of IPs,
 overloading the rather old SUSI.de service.
 
@@ -351,19 +357,101 @@ Isn't there really no [such tool](https://github.com/hilbix/franknfurter) out th
 > be [`franknfurter`](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)
 
 
-## 2024-03-05 08:00 UTC (estimated) DDoS strikes again
+## 2024-03-05 09:35-ongoing UTC DDoS strikes again
 
-Unluckily I had no time when I detected it, because, sometimes, Admins have to do other things.
+> It ceased between 12:15 to 13:00 approx
+
+Unluckily I had no time when I detected it, because, sometimes, Admins have to do other things which are, possibly, more important.
 
 However now (11:20) I am again on it, learning what exactly happens and how to mitigate it.
 
 Luckliy I haven't moved to the new IP already, hence the DDoS hits the old IP and the old server.
 So I have an entire (free to work with) server to experiment with without harming the "real" (productive) server.
 
-What I seen are over 2500 parallel connections to the service:
+--------
+
+The first thing was to apply some HaProxy setting to keep track of all active connections.
+
+What I see now are over 2000 parallel connections to the service:
 
 ```
-netstat -natp  | fgrep 136.243.197.98:80 | wc -l
+# netstat -natp  | fgrep 136.243.197.98:80 | wc -l
 2350
 ```
 
+Also more than 2000 IPs are attacking:
+
+```
+# socat - /run/haproxy/admin.sock <<<'show table susi' | wc -l
+2194
+```
+
+Also I applied some sort of rate-limiting (per-IP) now, that is, you are allowed to do 100 requests per 15 minutes.  (Allowing less would be too harsh, I think.)
+
+However this is not as effective as it seems so it is likely I need to tune things in future:
+
+- 100 requests with 2000 IPs makes a total of 200000 requests.
+- With 50 requests per second which is SUSI capable of handling on a single core
+  it takes 4000 seconds to block all attackers.
+- This is a little bit above 900s.  So it is likely I have to tune things.
+
+But things have improved.  Mostly Logging has improved, so I now got better evidence to work with.  This - hopefully - will allow me to automate detection and mitigation in future.
+
+SUSI stayed up the entire attack and was not overwhelmed, because the path to SUSI is now built to keep that all from SUSI.  This part worked.
+
+However the path to SUSI broke at several layers, and I still have to investigate why this happend, to prevent it in future.
+
+Also I was able to test and change multiple variants of configurations.
+The plan is to keep SUSI responding slowly while being under Attack.
+So if the attacker queues requests from 2000 IPs in front of you,
+your request can be handled after 100 seconds or so.
+
+> However this currently does not work out as expected.
+>
+> AFAICS I am unable to find the correct way to serialize requests on an per-IP basis.
+
+Sadly this still does not work as expected.  But I am confident that I get it done somehow.
+Luckliy the majority of data at SUSI is served by a single request, as the images etc. are cached in your browser.  Hence it should only give only a bad experience but not fail.
+
+Yes, this all is very unfortunate.  And for now this only is pure theory.
+
+Also nothing hinders the attacker to use more IPs to shift the limits.
+We will see.
+
+
+# 2024-03-05 17:30 UTC
+
+The DDoS attack of today apparenty now has ceased ..
+
+Thanks to HaProxy the attacking IPs are now automatically detected .. and blocked.
+
+> Sorry, I do not show the configuration here,
+> to not present any possible clues how to circumvent it.
+
+It took quite a while until I found the right countermeasure.  For now.
+
+But I have learned a lot, too.  Mostly, how to convert all those theoretical knowledge into some really working configuration.
+
+However, the Mitigation is far from being perfect.
+
+- There is still much work ahead to stabilize things
+- And all the gathered information is not yet analyzed.
+  - About networks involved and the like.
+- The Attack vectors need to be inspected more closely.
+  - These vectors changed during the attack.
+  - This means, the attacker was online and active to react to what I did.
+
+Please note that I am far from being out of clues.
+But implementing things in advance takes too much time.
+
+Read:
+
+I will sit and wait what happens next and react to this,
+instead of wasting any effort into something,
+which perhaps is not needed in the near future at all.
+
+This, however means, that it can happen again.
+Sorry for this.  But I am not the culprit here.
+I am just a victim like you, my honest dear users of SUSI.de
+
+Thank you for your understanding.
