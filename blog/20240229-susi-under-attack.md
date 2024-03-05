@@ -299,3 +299,50 @@ Hence, this configuration error now is fixed, too.  Sigh.
 >
 > Nevertheless I do not say "thank you for the DDoS to bring all those other problems to my awareness".
 > Nope, I am really not amused!
+
+
+## 2024-03-04 Time was 17h off
+
+After SUSI came down (see above: 2024-03-02 06:30 UTC) I did not reboot the VM.  I just hibernated it, rebooted the host and started the VM again out of its previous state.
+
+So after the hibernation, the time was 16h off and the VM apparently was unable to cope
+with the situation.  Additionally there is a time drift (see next) which slowly
+made the time gap become 17 hours.
+
+Afterwards I watched the NTP service more closely and decided to test another method:
+
+Using `adjtimex` to compensate instead by using the RTC.
+
+> The RTC always represent the correct time, as it is simulated by the host.
+> And the host is time synced.
+
+
+## 2024-03-05 Dancing the Timewarp .. again
+
+For unknown reason, `adjtimex` is unable to keep the time.  After 12 hours the
+VM was approx 15 minutes behind time.
+
+Apparently `adjtimex` does not adjust the time by the offset to the RTC,
+but to some unknown internal algorithm.  Weird.
+
+Also (this very old version of) `adjtimex` seems to have bugs:
+
+```
+unable to open /dev/port read/write : : Too many open files
+```
+
+Followed by a crash.  Well, only this single process is affected,
+but this is a bit too buggy for me.
+
+What I'd like to see is some tool:
+
+- Which is small (so no such big thing like `chrony`),
+- uses the `adjtime` kernel call
+- to carefully adjust the time
+- based on the offset of the time from the RTC.
+- It should do this each 10s,
+- and if the time is too far off,
+- it should jump the time forward.
+- And it never should jump the time backward.
+
+Isn't there really no such tool out there?
