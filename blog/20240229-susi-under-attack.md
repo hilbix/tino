@@ -349,3 +349,21 @@ Isn't there really no [such tool](https://github.com/hilbix/franknfurter) out th
 
 > The name must, of course,
 > be [`franknfurter`](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)
+
+
+## 2024-03-05 08:00 UTC (estimated) DDoS strikes again
+
+Unluckily I had no time when I detected it, because, sometimes, Admins have to do other things.
+
+However now (11:20) I am again on it, learning what exactly happens and how to mitigate it.
+
+Luckliy I haven't moved to the new IP already, hence the DDoS hits the old IP and the old server.
+So I have an entire (free to work with) server to experiment with without harming the "real" (productive) server.
+
+What I seen are over 2500 parallel connections to the service:
+
+```
+netstat -natp  | fgrep 136.243.197.98:80 | wc -l
+2350
+```
+
