@@ -1,4 +1,13 @@
 > https://valentin.hilbig.de/ is also affected, because it is running on the same host as susi.de
+>
+> Threema: [7J76V8RM](https://threema.id/7J76V8RM)
+> Signal:  SUSI.42
+> Voice:   +49-821-4865787 (this is a permanent Answerback Machine)
+>
+> Valentin Hilbig
+> Am Sportfeld 5
+> 86482 Aystetten
+
 
 # [SUSI.de](http://susi.de/) is under attack
 
@@ -419,7 +428,7 @@ Also nothing hinders the attacker to use more IPs to shift the limits.
 We will see.
 
 
-# 2024-03-05 17:30 UTC
+## 2024-03-05 17:30 UTC
 
 The DDoS attack of today apparenty now has ceased ..
 
@@ -455,3 +464,153 @@ Sorry for this.  But I am not the culprit here.
 I am just a victim like you, my honest dear users of SUSI.de
 
 Thank you for your understanding.
+
+
+# 2024-03-10 Update on the situation
+
+Well, its a few days from my last entries here.  This is a blog of a DDoS from my perspective,
+and not an accurate diary.
+
+The DDoS attacks come and go.  Each day.  Often multiple waves.
+But now mitigation is fully automatic.  So I do not need to look at it.
+I just can sit back and relax, while HaProxy sorts out things for me.
+
+Therefor the HaProxy configuration has changed a lot in these days
+and even that it has stabilized, there still is a lot room for tuning.
+
+> Sorry.  For now I do not want to show what I exactly did to archive this.
+> Because I do not want to give clues to the attacker.
+> But perhaps I will do this in a separate HowTo for HaProxy in 2025 or so.
+>
+> If you are curious you can contact me, contact information is at the beginning.
+
+The current HaProxy configuration has following properties:
+
+- When everything is smooth, nothing is limited.
+- If an attack starts, dynamic limitations kick in.
+- The more aggressive the attack, the higher the limitations involved to protect the service.
+
+This way around 200 attacking IPs can be detected and dynamically blocked per minute.
+This process is fully automatic.  As up to 2000 IPs are attacking,
+it takes around 10 Minutes until a DDoS is overcome and the attacking IPs are blacklisted.
+
+While the DDoS peaks and the majority of IPs are blocked, there is a noticable impact for users.  This is, SUSI becomes slow and some requests might fail.
+
+> Usually SUSI respons below 1s.  When slow, it can take over a minute.
+> Which is not so bad alltogether.
+
+There still is much room for improvement.  For example, I do not do IP priorization.
+
+That is, IPs could be priorized based on the access pattern seen so far.
+The more requests, the worse the queue position.
+So newly seen IPs get in front of the queue and people working slowly are nearly not affected.
+
+And there is a lot of possible improvement outside of HaProxy, too.
+Because I found out, that several aspects of a Mitigation cannot be done with HaProxy alone.
+
+For example an IP classifier.
+
+The attacking IPs are quite stable.  So in each attack, only a small percentage of IPs change.
+So why do I not block the majority of IPs then?
+
+### Why Cloudflare attacks me ..
+
+Well, the problem is, that a higher percentage of the attacking IPs are from VPN
+and similar services.  Like ToR.  Or Cloudflare 1.1.1.1.
+
+Blocking these IPs means, to lock out all the honest users of these connections.
+
+> SUSI is meant to be friendly to users using VPN!  Perhaps they use this for a reason.
+> This also helps me to fulfull the DSGVO, so people who want to protect their
+> privacy can to so by using a VPN.  No questions asked.
+>
+> I am simply not in a position to decide which IP is good or bad.
+> All I can do to look for IPs which are abusive and block them until they give up.
+
+Hence I see Cloudflare in the log to be amongst the IPs attacking me.
+These are not the most powerful IPs doing so, but they have quite a "good" and steady share
+on the attack.
+
+
+### .. and what to do about
+
+The major problem is, that logging is difficult.  Not to take the logs.  I have plenty now.
+
+The problem is the logfile evaluation.  While it is easy for me to have a look into the logs,
+this is not much helpful here.  Who am I?  I am not in any position to do anything,
+except protecting my service.  The really intersting part is to work together with others.
+
+And this is a major thing.  Due to the DSGVO I am not allowed to hand out possible privacy
+data to others.  So I must sort everything and only give the relevant information to those,
+who are allowed to get this information.
+
+- In Germany, the IP is lawfully privacy data which falls under the DSGVO
+- So I must not hand out Cloudflare IPs to other ASes than Cloudflare.
+- I also want to send automatic abuse mails to the abuse mailbox of each AS.
+- And best is, a web based attack history which includes current attack indicators.
+
+This way the AS can stay informed about what is going on.
+So they can put network probes into their part and look up, if the information they see
+matches the information I report.  **In realtime!**
+
+And this has to be done a so very simple way, that they can use it right out of the box.
+A complex task which must be easy to archive.
+
+This is exactly where I am heading to.
+
+I really have no idea how long this takes.  But things will improve.
+
+
+# A few last words
+
+> I will move this down, so this continues to stay at the end.
+
+Things like following URL are not much of an help:
+
+- https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf
+- https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html
+- https://ebibliothek.beck.de/Print/CurrentDoc?vpath=bibdata/reddok/becklink/1014049.htm&printdialogmode=CurrentDoc&hlword=
+
+I am just too long in the Internet to share those thoughts the same way:
+
+- I do not want that the IPs in question are blocked by my ISP.
+- I want the attacker(s) to be traced down.
+  - But not not necessarily to punish her, him or them.
+  - Perhaps the attacker has a reason to attack me I am not aware of.
+  - And perhaps (s)he wants to say something to me, I just did not understand.
+- Perhaps it is because I am pro-Ukraine (currently I think this might be the case).
+  - Then the DDoS could even be seen as a criminal act of hate.
+  - Or even an act of war which needs a handover to the Ministery of Defense.
+  - Or it is just opinion expressed a very bad way.
+- Perhaps it simply is some form of a bigger misunderstanding.
+  - Then I am open to negotiation.
+- Perhaps it is just because SUSI hinders some to exploit the market for their profit.
+  - If you think you can improve your commercial situation with the help of some illegal activity like a DDoS, then better please think again!
+  - There is a high chance that a behavior like this backfires sooner or later.
+  - Not necessarily due to somebody as tolerant as me.  You might disturbe others who are worse!
+- Even that I am not a big business (or because I am not) I know very well what I am doing
+  - I am a very experienced die-hard admin with nearly 40 of deepest Internet knowledge.
+  - And I am far from giving up SUSI.
+
+TL;DR
+
+I have no clue why this here happens.  And now that HaProxy is doing the job,
+I currently have not enough data to finally decide how to handle this case properly.
+
+- Inform the officials?
+  - I really do not hope this becomes necessary.
+- Just sit and wait and take it like the weather?
+  - As there is not much harm done .. yet.
+- Make the best of it and improve the situation possibly for others?
+  - This is where I am heading now ..
+
+But regardless of the above:
+
+- I continue to fully support anonymity
+- And I operate SUSI to be helpful and to not harm others!
+  - This even includes you, the attacker!
+- **So my offer to the attacker(s) is:**
+  - **We can talk**, see my contact information (Threema) above
+- Its all just up to you.
+
+Thanks.
