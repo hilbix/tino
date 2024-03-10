@@ -1,7 +1,7 @@
 > https://valentin.hilbig.de/ is also affected, because it is running on the same host as susi.de
 >
-> Threema: [7J76V8RM](https://threema.id/7J76V8RM)
-> Signal:  SUSI.42
+> Threema: [7J76V8RM](https://threema.id/7J76V8RM)  
+> Signal:  SUSI.42  
 > Voice:   +49-821-4865787 (this is a permanent Answerback Machine)
 >
 > Valentin Hilbig
