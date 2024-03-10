@@ -592,7 +592,7 @@ I am just too long in the Internet to share those thoughts the same way:
   - I am a very experienced die-hard admin with nearly 40 of deepest Internet knowledge.
   - And I am far from giving up SUSI.
 
-TL;DR
+## TL;DR
 
 I have no clue why this here happens.  And now that HaProxy is doing the job,
 I currently have not enough data to finally decide how to handle this case properly.
