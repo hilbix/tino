@@ -152,3 +152,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-02-09 What we do to safe Earth today is like trying to stop a waterfall by shedding our tears. (https://github.com/hilbix/tino/blob/master/klimaluege/hossenfelder.md)
 
 - 2024-03-17 Geld kann man auch verantwortungsbewusst einsetzen.  Nur passiert das im Normalfall nicht.  Beweise mir bitte jemand das Gegenteil!
+
+- 2024-03-22 Liebes Microsoft.  Wenn sich selbst eure eigene KI nicht mehr in euren eigenen Portalen auskennt, sich total verheddert und dann am Ende nur noch so vage Sprüchen wie "Navigieren Sie zu den Bedrohungsschutzrichtlinien oder einer ähnlichen Option.  Dort sollten Sie die Möglichkeit finden, vertrauenswürdige IP-Adressen hinzuzufügen oder zu bearbeiten." raushaut (und sich dort weit und breit nicht einmal ansatzweise etwas derartiges finden lässt), dann glaube ich, Leute, ist es an der Zeit, die Möglichkeit ernsthaft in Betracht zu ziehen, dass ihr da etwas so ziemlich krass verbockt habt.
