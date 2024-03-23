@@ -476,6 +476,8 @@ Das so etwas überhaupt verbaut werden durfte halte ich für weit schlimmer als 
 > Umweltmathematik vom feinsten!  Denn da die kahlgeschlagengen Wälder dann sich selbst überlassen werden,
 > dauert es ca. 400 Jahre (!) bis die CO2-Bilanz von dem Wald wieder ausgeglichen ist.
 >
+> (Nachtrag:  Nur vom Wald.  Der zweite verkaufte Entlastung wird niemals kompensiert!)
+>
 > Was aber wiederum falsche Mathematik ist.  Denn die CO2-Aufwände zur Abholzung und Alibi-Aufforstung
 > werden selbstredend nicht mitberechnet.  Genauso wie die schlechten Bilanzen der Pelletfabriken,
 > die man - schnell schnell - errichtet und dann ebenfalls sich selbst überlässt.
