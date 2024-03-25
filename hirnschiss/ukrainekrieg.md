@@ -1,8 +1,6 @@
 # Hirnschiss zum Ukrainekrieg
 
-ACHTUNG!  Was hier steht bitte nicht ernst nehmen.
-
-Denn diese russische "militärische Sonderoperation" in der Ukraine lässt mich
+Diese russische "militärische Sonderoperation" in der Ukraine lässt mich
 verzweifeln.  Verzweifeln an der Menschheit und verzweifeln an ihrem Sinn
 und Verstand.  Das einzige, was mir bleibt ist, das mit Humor zu nehmen.
 Schwarzem Humor.  Sehr sehr schwarzem Humor.  Sarkasmus, Zynismus und Schlimmerem.
@@ -40,6 +38,8 @@ Deshalb bleibt mir nur noch das frotzeln.  Mich mit einem bitteren Nachgeschmack
 hier massiv auszukotzen.  Was sollte ich auch sonst tun?
 
 Voll der Hirnschiss, eben.
+
+> ACHTUNG!  Was hier folgt deshalb bitte nicht ernst nehmen!
 
 
 ## 2024-03-25 Progressiver IS!
