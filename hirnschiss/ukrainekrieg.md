@@ -71,3 +71,6 @@ So viele frisst Putin höchstselbst schon täglich zum Frühstück!
 Indem er sie als Kanonenfutter an die Front in der Ukraine schickt.
 Und durch Beseitigung seiner Kritiker und Opposition, natürlich.
 
+PS: Dass der Iran, also ein verbündeter Russlands, den IS unterstützt,
+und damit die Ukraine, das würde mir jetzt irgendwie doch zu Denken geben.
+Aber hey, ich bin nicht Putin, was weiß ich schon?
