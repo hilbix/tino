@@ -6,6 +6,9 @@ This is not a question.  This is not even something we can discuss.  This is jus
 
 We are still in the possible (and then probably normal) range of climatic changes at the end of an ice age.
 
+See also:
+
+- <https://youtu.be/JCt2MhOzWVE>
 
 ## What does this mean
 
