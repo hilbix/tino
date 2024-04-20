@@ -54,7 +54,7 @@ Topf für Pilze und Pfanne für Hähnchen auf den Herd geben.
 
 Bratöl in beide geben, nicht so viel dass der Boden vollständig bedeckt wird.
 
-> Hähnchenschenkel und Pilzen gleichzeitig machen, braucht in etwa gleich lang.
+> Alles kann man gleichzeitig machen, braucht in etwa gleich lang.
 
 
 #### Kartoffeln parallel aufsetzen
