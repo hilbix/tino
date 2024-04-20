@@ -87,6 +87,8 @@ Weiter geht es mit den Hähnchenschenkelsteaks, wenn sie gut durchgebraten sind 
 
 #### Pilze
 
+> Parallel zu den Hähnchenschenkelsteaks
+
 Geschälte Zwiebel kleinwürfeln.  Entweder eine kleine oder eine halbe große.
 
 > Bei frischen Pilzen die Stengel unten abschneiden (weil eingetrocknet),
