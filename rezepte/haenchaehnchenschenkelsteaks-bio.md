@@ -94,7 +94,7 @@ Geschälte Zwiebel kleinwürfeln.  Entweder eine kleine oder eine halbe große.
 > Bei frischen Pilzen die Stengel unten abschneiden (weil eingetrocknet),
 > sie waschen und gleich (in Küchenpapier) abtrocknen und dann in Scheiben schneiden.
 >
-> Bei wie oben die tiefgefrorenen Pilze nehmen.  Die muss man nicht auftauen.
+> Tiefgefrorenen Pilze muss man hingegen nicht auftauen.
 > Evtl. muss man die Größeren Pilze in der Pilzmischung kleinschneiden.
 
 Die Ziebeln leicht anbraten (nicht braun werden lassen) und dann sofort die Pilze dazugeben.
