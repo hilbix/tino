@@ -14,6 +14,7 @@ Es geht aber auch Rosenkohl oder Blumenkohl oder Erbsen, Bohnen usw. (das ergibt
 - Tiefgefrorene Pilze
   - Champignons in Scheiben geschnitten
   - Oder die teurere Pilzmischung mit Pfifferlingen usw.
+- Tiefgefrorene Petersilie
 
 ### Alnatura
 
@@ -22,7 +23,7 @@ Es geht aber auch Rosenkohl oder Blumenkohl oder Erbsen, Bohnen usw. (das ergibt
 - Bratöl
 - Mais-Speisestärke
 - Sojasauce
-- Petersilie (tiefgefroren)
+- Tiefgefrorene Petersilie (ist hier aber teurer als bei Kaufland)
 
 - Zwiebeln
 - Zitronen
