@@ -112,11 +112,10 @@ Dann Deckel drauf und weiterköcheln lassen.  (Herd entsprechend zurückdrehen.)
 
 Das wird nach Geschmack gemacht, also immer wieder mal abschmecken bis man kapiert hat, wie es richtig schmeckt.
 
+Dazu soviel Wasser wie Sauce gewünscht wird.  Dann durchkochen und dann entsprechend abschmecken.
+
 > Hierfür sind evtl. mehrere Ansätze notwendig bis man es für den eigenen Geschmack herausgefunden hat.
-
-Aufkochen der Pilze mit soviel Wasser wie Sauce gewünscht wird.  Dann, wenn durchgekocht entsprechend würzen.
-
-> Bissfestigkeit der Pilze auf das gewünschte Maß testen.  Pilze kann man fest oder 
+ Bissfestigkeit der Pilze auf das gewünschte Maß testen.  Pilze kann man fest (und fast roh) oder labbrig verzehren, je nach Wunsch.
 
 - Kräutergwürzsalz
 - Normales Salz
