@@ -4,6 +4,11 @@
 
 Diese Dinger kommen bereits gewürzt.  Deshalb muss man da an dieser Stelle Nichts abschmecken.
 
+Aber das andere muss man abschmecken.  Hier exemplarisch mit Pilzsauce.
+
+Es geht aber auch Rosenkohl oder Blumenkohl oder Erbsen, Bohnen usw. (das ergibt aber keine Sauce).
+
+
 ### Kaufland
 
 - Tiefgefrorene Pilze
