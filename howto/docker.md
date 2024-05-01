@@ -71,18 +71,27 @@ sudo adduser $USER docker
 > Easy enough.  So why does nobody explains this in the `README`?
 
 
-### Part 3: Build docker image via Dockerfile
+### Part 3: Docker build via Dockerfile
 
 {{{
-docker build - < Dockerfile
+docker build -f Dockerfile .
 }}}
 
 Yes, that's not much magic.  However you will not know this if you never did it before!
 
 > Very easy, if you know it.  But why does nobody put this simple line into the `README`?
 
+
 ### Part 4: If it does not work
 
-That then is not your fault.  It is the fault of the Author of the `Dockerfile`.
+Try if it is not a complete image build.  Sometimes the build just a TAR file, like this:
+
+{{{
+docker build -f Dockerfile -o type=tar,dest=output.tar .
+}}}
+
+Look somewhere to find something which docker options are needed to build it.
+
+But that hassle is not your fault.  It is the fault of the Author of the `Dockerfile`.
 
 Reach out and blame them.  Or fix it, if you can.  And then reach out and blame them (AKA send a Pull request).
