@@ -92,7 +92,7 @@ docker build -f Dockerfile -o type=tar,dest=output.tar .
 
 > I haven't yet found out how to access `output.tar` afterwards.
 >
-> This seems to be a very well hidden secrets by all the docker conspirers.
+> This seems to be a very well hidden or forbidden secret by all the docker conspirers.
 
 Look somewhere to find something which docker options are needed to build it.
 
