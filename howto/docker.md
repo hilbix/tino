@@ -84,18 +84,64 @@ Yes, that's not much magic.  However you will not know this if you never did it 
 
 ### Part 4: If it does not work
 
+#### Disk full
+
+Be sure there is plenty of free disk space.  Not only on the VM (WSL), as well on the host (Windows etc.).
+
+As Docker uses enourmous amounts of disk space quite often.
+
+Hence disk full is a very common source when it comes to docker.
+
+#### Use options
+
 Try if it is not a complete image build.  Sometimes the build just a TAR file, like this:
 
 ```
-docker build -f Dockerfile -o type=tar,dest=output.tar .
+DOCKER_BUILDKIT=1 docker build -f Dockerfile -o type=tar,dest=output.tar .
 ```
 
-> I haven't yet found out how to access `output.tar` afterwards.
+> Of course BUILDKIT is not automatically enabled and  
+> of course Docker does not tell you, that it ignored the `-o` option, because you forgot to enable `DOCKER_BUILDKIT` in the environment.
+
+If you do not add the `DOCKER_BUILDKIT=1` as shown, you will not see any output at all.
+
+> YMMV.  The Docker docs say something about that BUILDKIT is automatically enabled on Docker 23.x and above.
+> I cannot verify that, as I only work what is part of the current official stable distro I work with, not some more or less dangerously downloaded thingie from some obscure third party website, where I do not have even the slightest way to automatically verify, that the download from there is legit and not trojaned by some MitM.
 >
-> This seems to be a very well hidden or forbidden secret by all the docker conspirers.
+> It only is legit if:
+>
+> - There is a well known public key
+> - This public key can be verified
+> - And the verification comes from some third party you not only can trust but you can also verify that the verification is indeed from this party.
+>
+> As I cannot find this anywhere for Docker, this rules out the repositories from Docker.
+> Sorry guys, please have your keys included in some keyring which is part of Debian, or similar.
 
-Look somewhere to find something which docker options are needed to build it.
+Perhaps you have to look somewhere in or near the `Dockerfile` (i.E. a README) to find the right docker options needed to build it properly.
 
-But that hassle is not your fault.  It is the fault of the Author of the `Dockerfile`.
+But that hassle is entirely not your fault.  **It is the fault of the Author of the `Dockerfile` not documenting it right.**
 
 Reach out and blame them.  Or fix it, if you can.  And then reach out and blame them (AKA send a Pull request).
+
+> Especially they need to mention that they use BUILDKIT if they do!  The presence of some `-o` is an indication for this.
+> Not a clear one.  But a probable one.
+
+# Final words
+
+All I write here I found out the hardest possible way.  Because nobody made it easy to understand.  It took several hours to complete this here.
+
+Writing it up was the least part of it.  Thank you very much, Docker, to make things a horrible experience like that.
+
+I consider that very very very bad design.
+
+If you try to invent something new, make it as easy as it can get.  Right from the start.
+
+If you do not do this, you fail in scaling it up to the world.
+
+This is OK for things like I do for just myself.  But this certainly not OK for things which are meant to be used everywhere by everybody.
+
+Things can be complex, but must have the possibly most easy start as possible.
+
+> Why not just `docker make [-f Dockerfile]`?  Compare: `make [-f Makefile]`.
+>
+> Basic `make` is quite as easy as it probably can get.  Why is Docker so complex in contrast to this?
