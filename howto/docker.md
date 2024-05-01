@@ -130,7 +130,7 @@ Reach out and blame them.  Or fix it, if you can.  And then reach out and blame 
 
 All I write here I found out the hardest possible way.  Because nobody made it easy to understand.  It took several hours to complete this here.
 
-Writing it up was the least part of it.  Thank you very much, Docker, to make things a horrible experience like that.
+Writing this text here took nearly no time compare to find out what I wrote here.  **Thank you very much, Docker, to make things a horrible experience like that.**
 
 I consider that very very very bad design.
 
@@ -138,10 +138,10 @@ If you try to invent something new, make it as easy as it can get.  Right from t
 
 If you do not do this, you fail in scaling it up to the world.
 
-This is OK for things like I do for just myself.  But this certainly not OK for things which are meant to be used everywhere by everybody.
+This is OK to invent complex things like I do for just myself.  But a high complexity certainly is not OK for things, which are meant to be used everywhere by everybody.
 
-Things can be complex, but must have the possibly most easy start as possible.
+Things can be complex in the inside, but outside must have the possibly most easy start as there is possible to archive!
 
 > Why not just `docker make [-f Dockerfile]`?  Compare: `make [-f Makefile]`.
 >
-> Basic `make` is quite as easy as it probably can get.  Why is Docker so complex in contrast to this?
+> Basic `make` is quite as easy as it probably can get.  Why is Docker so complex (at the outside) in contrast to `make`?
