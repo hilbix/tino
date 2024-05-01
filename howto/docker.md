@@ -80,3 +80,9 @@ docker build - < Dockerfile
 Yes, that's not much magic.  However you will not know this if you never did it before!
 
 > Very easy, if you know it.  But why does nobody put this simple line into the `README`?
+
+### Part 4: If it does not work
+
+That then is not your fault.  It is the fault of the Author of the `Dockerfile`.
+
+Reach out and blame them.  Or fix it, if you can.  And then reach out and blame them (AKA send a Pull request).
