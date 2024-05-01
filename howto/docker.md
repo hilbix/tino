@@ -2,7 +2,7 @@
 
 ## Docker from Scratch
 
-I really do not understand.  I will never understand  Period.
+I really do not understand.  I will never understand.  Period.
 
 There is something like a `Dockerfile`.  But nobody explains how to use it.
 
