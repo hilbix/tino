@@ -84,7 +84,7 @@ Yes, that's not much magic.  However you will not know this if you never did it 
 
 ### Part 4: If it does not work
 
-#### Disk full
+#### Common error: Disk full
 
 Be sure there is plenty of free disk space.  Not only on the VM (WSL), as well on the host (Windows etc.).
 
@@ -92,7 +92,7 @@ As Docker uses enourmous amounts of disk space quite often.
 
 Hence disk full is a very common source when it comes to docker.
 
-#### Use options
+#### Bad design: Perhaps some Options are needed
 
 Try if it is not a complete image build.  Sometimes the build just a TAR file, like this:
 
@@ -116,6 +116,8 @@ If you do not add the `DOCKER_BUILDKIT=1` as shown, you will not see any output 
 >
 > As I cannot find this anywhere for Docker, this rules out the repositories from Docker.
 > Sorry guys, please have your keys included in some keyring which is part of Debian, or similar.
+
+#### Bad or no documentaton
 
 Perhaps you have to look somewhere in or near the `Dockerfile` (i.E. a README) to find the right docker options needed to build it properly.
 
