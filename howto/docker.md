@@ -46,36 +46,36 @@ Add some basics:
 
 > `etckeeper` helps you in understanding how to revover if something did not work out.
 
-{{{
+```
 sudo apt update
 sudo apt install -y etckeeper
 sudo apt dist-upgrade
-}}}
+```
 
 > Answer the questions as you need them.  Usually `Y`
 
 Now install `/usr/bin/docker`:
 
-{{{
+```
 sudo apt install docker.io
-}}}
+```
 
 > Usually answer `Y` to all questions.
 
 Now add your user to the `docker` group:
 
-{{{
+```
 sudo adduser $USER docker
-}}}
+```
 
 > Easy enough.  So why does nobody explains this in the `README`?
 
 
 ### Part 3: Docker build via Dockerfile
 
-{{{
+```
 docker build -f Dockerfile .
-}}}
+```
 
 Yes, that's not much magic.  However you will not know this if you never did it before!
 
@@ -86,9 +86,11 @@ Yes, that's not much magic.  However you will not know this if you never did it 
 
 Try if it is not a complete image build.  Sometimes the build just a TAR file, like this:
 
-{{{
+
+
+```
 docker build -f Dockerfile -o type=tar,dest=output.tar .
-}}}
+```
 
 Look somewhere to find something which docker options are needed to build it.
 
