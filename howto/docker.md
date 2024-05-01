@@ -117,7 +117,7 @@ If you do not add the `DOCKER_BUILDKIT=1` as shown, you will not see any output 
 > As I cannot find this anywhere for Docker, this rules out the repositories from Docker.
 > Sorry guys, please have your keys included in some keyring which is part of Debian, or similar.
 
-#### Bad or no documentaton
+#### Bad or missing documentation
 
 Perhaps you have to look somewhere in or near the `Dockerfile` (i.E. a README) to find the right docker options needed to build it properly.
 
