@@ -86,11 +86,13 @@ Yes, that's not much magic.  However you will not know this if you never did it 
 
 Try if it is not a complete image build.  Sometimes the build just a TAR file, like this:
 
-
-
 ```
 docker build -f Dockerfile -o type=tar,dest=output.tar .
 ```
+
+> I haven't yet found out how to access `output.tar` afterwards.
+>
+> This seems to be a very well hidden secrets by all the docker conspirers.
 
 Look somewhere to find something which docker options are needed to build it.
 
