@@ -156,3 +156,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-03-22 Liebes Microsoft.  Wenn sich selbst eure eigene KI nicht mehr in euren eigenen Portalen auskennt, sich total verheddert und dann am Ende nur noch so vage Sprüche wie "Navigieren Sie zu den Bedrohungsschutzrichtlinien oder einer ähnlichen Option.  Dort sollten Sie die Möglichkeit finden, vertrauenswürdige IP-Adressen hinzuzufügen oder zu bearbeiten." raushaut (und sich dort weit und breit nicht einmal ansatzweise etwas derartiges finden lässt), dann glaube ich, Leute, ist es an der Zeit, die Möglichkeit ernsthaft in Betracht zu ziehen, dass ihr da etwas so ziemlich krass verbockt habt.
 
 - 2024-03-23 Mein Ironiedetektor hat 5 Finger und ist zur Faust geballt.  Davon habe ich zwei, die sehr gut funktionieren.  Zur Ironieabwehr verwende ich allerdings etwas, das nennt sich Fuß.  Auch davon habe ich zwei, kann sie aber nur einzeln nacheinander einsetzen, sonst falle ich um.
+
+- 2024-05-15 Wag the dog is so yesterday.  Today we never change our position at all and require the whole universe to move instead.
