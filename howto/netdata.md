@@ -36,6 +36,7 @@ Not needed on Debian:
 	web files group = root
 	bind socket to IP = 127.0.0.1
 	memory mode = none
+        update every = 5
 
 [health]
 	enabled = no
@@ -45,9 +46,6 @@ Not needed on Debian:
 
 [registry]
 	enabled = no
-
-[plugin:apps]
-        update every = 5
 ```
 
 `/etc/netdata/stream.conf`:
@@ -73,6 +71,7 @@ Not needed on Debian:
         web files owner = root
         web files group = root
         bind socket to IP = 127.0.0.1
+        update every = 5
 
 [web]
         bind to  = 10.0.0.2:19999
@@ -80,9 +79,6 @@ Not needed on Debian:
 [registry]
         enabled = yes
         registry to announce = http://10.0.0.2:19999
-
-[plugin:apps]
-        update every = 5
 ```
 
 `/etc/netdata/stream.conf`:
@@ -113,7 +109,15 @@ Still missing here:
 - Forward to Prometheus
 
 
-### Settings explained
+### Optional Settings
+
+> See also [https://learn.netdata.cloud/docs/developer-and-contributor-corner/external-plugins#environment-variables]
+
+If `update every` is set too high, be aware that some 32-bit-counters can overrun on highly loaded machines.
+
+#### `apps.plugin`
+
+Reduce the load of `apps.plugin`:
 
 `/etc/netdata/netdata.conf`:
 ```
@@ -121,13 +125,27 @@ Still missing here:
         update every = 30
 ```
 
-This runs `apps.plugin` only two times each minute and hence reduces the load of `apps.plugin` to some
-probably bearable value, else with the default `update every = 1` it hits 100% CPU at my side quite too often.
+
+#### tc-qos-helper
+
+> Use `execsnoop-bpfcc` to watch
+
+Reduce the fork count of `/usr/lib/netdata/plugins.d/tc-qos-helper.sh`:
+
+> I currently do not know how this plugin is called, so following section must be improved:
+
+`/etc/netdata/netdata.conf`:
+```
+[???IDK?SORRY???]
+        update every = 15
+```
 
 
 ### Monitored Services
 
 #### PostgreSQL
+
+Do not use the `postgres` user (and check HBA, too) to monitor Postgres:
 
 `/etc/netdata/python.d/postgres.conf`:
 ```
@@ -142,7 +160,23 @@ socket:
 local all netdata peer
 ```
 
+
 # Workaround for NetData bugs
+
+For me, a noticable higher resource consumption, like on fork counts or system load, is probably the most basic bug for a monitoring.
+
+## `/usr/lib/netdata/plugins.d/tc-qos-helper.sh`
+
+This does fork 1 process per second per interface, which can create an unbearable high fork count
+on machines with many (simulated?) interfaces.
+
+As it is very unlikely that the counters overrun within 15s (if you have more than 270M packets per second,
+you probably have a bit completely different problem than that the monitoring overruns without notice),
+the polling frequency can be reduced to 15s.
+
+> Unfortunately I do not know - yet - how to do this, as documentation is too unclear (for me)
+> such that I do not understand how to configure this.  I use the global `update every` instead.
+
 
 ## `apps.plugin`
 
