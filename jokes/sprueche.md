@@ -160,4 +160,4 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-05-15 Wag the dog is so yesterday.  Today we never change our position at all and require the whole universe to move instead.
 
 - 2024-05-19 Ich habe ja kein Problem damit, wenn Hobby-Code (also alles, was ich für mich alleine mache) evtl. etwas shitty ist, aber warum ist dann gefühlt 90% aller Standardsoftware so unendlich viel dreckiger als das, was ich mal so schnell-schnell als 0-brainer zusammenhacke?  
-  (Hintergrund:  Habe gerade das erste Mal [`execsnoop -x`](https://github.com/iovisor/bcc/) aufgerufen und bin schier verzweifelt, was standardmäßig auf allen Systemen komplett danebengeht wenn die eigentlich rumidlen sollten.  Aber was habe ich eigentlich erwartet, wenn alleine schon `pstree -l` dank SystemD grausamst aussieht ..)
+  (Hintergrund:  Habe gerade das erste Mal [`execsnoop -x`](https://github.com/iovisor/bcc/) aufgerufen und bin schier verzweifelt, was standardmäßig auf allen Systemen komplett sinnlos abgeht, wenn die eigentlich rumidlen sollten.  Aber was habe ich eigentlich erwartet, wenn alleine schon `pstree -l` dank SystemD grausamst aussieht ..)
