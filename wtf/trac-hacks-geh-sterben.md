@@ -81,7 +81,7 @@ Achte auf Deine Wünsche, denn sie gehen in Effüllung.
 
 Einen Kommentar dazu habe ich noch:  **Geht sterben!**  Alles andere wäre Zeitverschwendung!
 
-> Und sorry dass ihr all eure geleistete Arbeit so unvermittelt vollkommen das Klo runterspült.
+> Und sorry dass ihr all eure geleistete Arbeit so unvermittelt vollkommen im Klo runterspült.
 > Anders kann ich es leider nicht ausdrücken.
 
 ![Captcha gelöst](img/trac-hacks-geh-sterben1.png)
