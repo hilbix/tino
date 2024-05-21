@@ -10,5 +10,5 @@ container:
   image: busybox:latest
 
 task:
-  script: ! grep -r /hilbix/tino/assets/
+  script: grep -r /hilbix/tino/assets/ *; test 1 = $?
 
