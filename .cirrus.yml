@@ -10,4 +10,5 @@ container:
   image: busybox:latest
 
 task:
-  script: true
+  script: ! grep -r /hilbix/tino/assets/
+
