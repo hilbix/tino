@@ -79,7 +79,7 @@ Achte auf Deine Wünsche, denn sie gehen in Effüllung.
 
 > Hier: Wer anderen die Mithilfe unmöglich macht, der bekommt halt keine.
 
-Einen Kommentar dazu habe ich noch:  **Geht starben!**  Alles andere ist Zeitverschwendung!
+Einen Kommentar dazu habe ich noch:  **Geht sterben!**  Alles andere wäre Zeitverschwendung!
 
 > Und sorry dass ihr all eure geleistete Arbeit so unvermittelt vollkommen das Klo runterspült.
 > Anders kann ich es leider nicht ausdrücken.
