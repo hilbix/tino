@@ -6,7 +6,7 @@
 
 You are in Sketcher and want to measure the distance between two points.
 
-![ComboView displays calculated measurements](https://github.com/hilbix/tino/assets/994093/865a17fe-fb98-4df3-92a8-f766c434b6f0)
+![ComboView displays calculated measurements](img/freecad-measure.png)
 
 -----------------
 
