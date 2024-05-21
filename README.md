@@ -17,7 +17,7 @@ Das landet dann nicht in der Git-Historie, sondern irgendwo außerhalb meines Be
 > GitHub heißt nun einmal GitHub und nicht AssetHub.
 >
 > Aber selbst wenn, würde ich immer noch erwarten, dass hinter den Assets eine komplette Versionskontrolle steckt.
-> Wir sind schließlich nicht mehr im Mittelalter sondern schon schreiben das 3. Jahrtausend.
+> Wir sind schließlich nicht mehr im Mittelalter sondern schreiben schon das 3. Jahrtausend.
 > Nur scheinen da halt noch nicht alle angekommen zu sein.
 >
 > (FWIW [nutze ich Versionskontrolle schon länger als es Linux gibt](https://www.ibiblio.org/pub/Linux/apps/graphics/capture/ppic0.5.lsm))
