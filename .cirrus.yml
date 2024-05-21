@@ -1,10 +1,9 @@
 # ROTFLMAO
 #
-# Wie disablet man Cirrus CI auf einem Repo? ===> Scheint nicht möglich zu sein!
+# Das hatte ich original mal eingerichtet, um von Cirrus einen grünen Haken zu bekommen.
 #
-# Nun dann, geben wir ihm etwas zu tun.  Eine minimale Busybox erscheint da gerade richtig.
-#
-# Vielleicht können wir ja mal sogar etwas sinnvolles machen lassen, wie z. B. einen Spellcheck oder eine TOC ..
+# Inzwischen hat es sogar einen Sinn mir auf die Griffel zu klopfen,
+# wenn ich nachlässigerweise Assets verlinke, die außerhalb des Repos liegen! ;)
 
 container:
   image: busybox:latest
