@@ -86,5 +86,5 @@ Einen Kommentar dazu habe ich noch:  **Geht starben!**  Alles andere ist Zeitver
 
 ![Captcha gelöst](img/trac-hacks-geh-sterben1.png)
 
-![Aber dann das](img/trac-hacks-geh-sterben1.png)
+![Aber dann das](img/trac-hacks-geh-sterben2.png)
 
