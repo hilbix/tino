@@ -21,7 +21,7 @@ Is it really only me who got this?
 
 When you open their homepage <https://worldcoin.org/> what are those first words you can read?
 
-![image](https://github.com/hilbix/tino/assets/994093/6e031e9a-dc0c-42f1-9d3b-5077c65e8c80)
+![Screenshot of worldcoin.org](img/worldcoin-homepage.png)
 
 "**For every human**"
 
