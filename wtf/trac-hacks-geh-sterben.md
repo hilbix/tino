@@ -84,6 +84,7 @@ Einen Kommentar dazu habe ich noch:  **Geht starben!**  Alles andere ist Zeitver
 > Und sorry dass ihr all eure geleistete Arbeit so unvermittelt vollkommen das Klo runterspült.
 > Anders kann ich es leider nicht ausdrücken.
 
-![Captcha gelöst](https://github.com/hilbix/tino/assets/994093/dc706298-9b55-4e5f-9d49-f518f1ea4afd)
+![Captcha gelöst](img/trac-hacks-geh-sterben1.png)
 
-![Aber dann das](https://github.com/hilbix/tino/assets/994093/45dee137-4822-40ce-88a2-fb5b28397736)
+![Aber dann das](img/trac-hacks-geh-sterben1.png)
+
