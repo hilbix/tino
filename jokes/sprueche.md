@@ -161,3 +161,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 
 - 2024-05-19 Ich habe ja kein Problem damit, wenn Hobby-Code (also alles, was ich für mich alleine mache) evtl. etwas shitty ist, aber warum ist dann gefühlt 90% aller Standardsoftware so unendlich viel dreckiger als das, was ich mal so schnell-schnell als 0-brainer zusammenhacke?  
   (Hintergrund:  Habe gerade das erste Mal [`execsnoop -x`](https://github.com/iovisor/bcc/) aufgerufen und bin schier verzweifelt, was standardmäßig auf allen Systemen komplett sinnfrei abgeht, wenn die eigentlich rumidlen sollten.  Aber was habe ich eigentlich erwartet, wenn alleine schon `pstree -l` dank SystemD grausamst aussieht ..)
+
+- 2024-05-22 Ich muss einfach davon ausgehen:  Wenn ein Key auf GitHub ist - egal ob der als Secret abgelegt wurde oder nicht - dann hat den letztendlich jeder.  Denn GitHub ist der NSA verpflichtet und China hat sicher die NSA unterwandert, und der Mossad hat sicher China unterwandert und der FSB hat den Mossad unterwandert und dann haben den Key alle auf diesem Planeten bis auf den BND.  Der hat nix außer die Amis haben ihn informiert. 
