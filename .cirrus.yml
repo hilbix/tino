@@ -9,5 +9,5 @@ container:
   image: busybox:latest
 
 task:
-  script: grep -r /hilbix/tino/assets/ * 2>/dev/null; ret=$?; echo ret=$ret; test 0 != $ret
+  script: 'grep -r /hilbix/tino/assets/ * 2>/dev/null; ret=$?; echo ret=$ret; test 0 != $ret'
 
