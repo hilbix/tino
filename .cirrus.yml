@@ -9,5 +9,9 @@ container:
   image: busybox:latest
 
 task:
-  script: 'echo HERE && grep -r /hilbix/tino/assets/ *; ret=$?; echo ret=$ret; test 0 != $ret'
+  script: |
+    echo HERE2 && grep -r /hilbix/tino/assets/ *;
+    ret=$?;
+    echo ret=$ret;
+    test 0 != $ret
 
