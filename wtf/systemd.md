@@ -2,6 +2,26 @@
 
 Here are examples, why:
 
+## Incompatibility to time travel
+
+SystemD is incompatible to time travel.  It does not allow to set the time before its build date.
+
+[Explained in this posting to StackExchange](https://unix.stackexchange.com/a/532229/23450)
+
+From there:
+
+> - Set the hardware clock to 2016-01-01 00:00:00 UTC
+> - Reboot
+> - date reports 2016-11-03 17:16:42 UTC
+>
+> ```
+> root@debian-vm:~# journalctl -b | grep time | grep systemd
+> Nov 03 17:16:43 debian-vm systemd[1]: System time before build time, advancing clock.
+> ```
+
+This probably means that [SystemD is highly dangerous if used a TARDIS](https://en.wikipedia.org/wiki/TARDIS).
+
+
 ## `umount -l /sys/fs/cgroup` crashes SystemD
 
 ```
