@@ -19,7 +19,7 @@ From there:
 > Nov 03 17:16:43 debian-vm systemd[1]: System time before build time, advancing clock.
 > ```
 
-This probably means that [SystemD is highly dangerous if used a TARDIS](https://en.wikipedia.org/wiki/TARDIS).
+According to [what I see in the sources](https://github.com/systemd/systemd/blob/3cffbd37c0b8743c22efb260d1921b6e7db89f70/src/core/main.c#L3050-L3051) SystemD [definitively is highly dangerous if used a TARDIS](https://en.wikipedia.org/wiki/TARDIS).
 
 
 ## `umount -l /sys/fs/cgroup` crashes SystemD
