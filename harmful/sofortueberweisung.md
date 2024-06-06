@@ -34,7 +34,7 @@ In contrast it (mathematically) can take 5 days (2 bank days, which usually do n
 > because this schitty sofortueberweisung.de choses
 > THE SLOWEST POSSIBLE BANK TRANSFER.
 >
-> Yes, it could cost lives!  This is why I list it here.
+> Yes, it could cost lifes!  This is why I list it here.
 
 Note:
 
