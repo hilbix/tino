@@ -24,6 +24,9 @@ WTF happenend?  Well, Western Union tells you:
 Apparently Sofortüberweisung (translates to: "immediate bank transfer"), despite the name,
 does not transfer any money "sofort" (immediately)!
 
+> Please note that Western Union is not responsible
+> for Sofortüberweisung not doing their job!
+
 Hence it does not take Minutes as proposed.
 In contrast it (mathematically) can take 5 days (2 bank days, which usually do not count weekends nur holidays)!
 
