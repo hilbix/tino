@@ -81,12 +81,83 @@ Zeitpunkt hat das sicher gestimmt.  Sonst hätte ich es nicht geschrieben.
 Dumm gelaufen, achte auf Deine Wünsche, sie gehen nämlich in Erfüllung,
 und wer halt (wie ich meistens) zu doof ist es von Anfang an Richtig zu machen, muss ab dann halt mit jeder aufrichtigen Kritik leben die daraus entsteht.  Das sind die Konsequenzen.
 
+> Aber klar doch lehne ich den Anfang meines Posts an folgendes Gedicht aus dem Dadaismus an!  Wie kann man meinen Post also ohne Humor nehmen?
+>
+> Dunkel war's, der Mond schien helle, Schnee bedeckt die grüne Flur,  
+> als ein Auto blitzeschnelle, langsam um die Ecke fuhr.  
+> Drinnen saßen stehend Leute, schweigend ins Gespräch vertieft,
+> als ein totgeschossner Hase auf der Sandbank Schlittschuh lief.
+>
+> Und auf einer roten Bank, die blau angestrichen war,  
+> saß ein blondgelockter Jüngling mit kohlrabenschwarzen Haar.  
+> Neben ihm ne alte Schachtel, zählte kaum erst sechzehn Jahr,
+> und sie aß ein Butterbrot, das mit Schmalz bestrichen war.
+>
+> Droben auf dem Apfelbaume, der sehr süße Kirschen trug,
+> hing des Frühlings letzte Pflaume und an Nüssen noch genug.
+
 Und wenn ich schreibe "Kasse sollte schneller sein" dann ist das eine Empfehlung
-und sicher keine Verleumdung.  Wenn man das nicht mehr sagen darf, dann hätte die AFD recht (Hint: Hat sie nicht!  Jedenfalls ist das meine feste Überzeugung bis mir jemand das Gegenteil beweist!).
+und sicher keine Verleumdung.  Wenn man so etwas nicht mehr sagen darf, dann hätte die AFD letztlich recht (Hint: Hat sie nicht!  Jedenfalls ist das meine feste Überzeugung bis mir jemand das Gegenteil beweist!).
 
-Oder habe ich etwas jetzt total falsch verstanden und es stellt eine Verleumdung dar, dass ich DAMALS festgestellt habe, dass es dort im Gegensatz zu anderen Läden in der Gegend Rosekohl gab?  (Wenn ich es richtig im Kopf habe gab es damals weder bei Aldi noch REWE gegenüber Rosenkohl, und damals war IMHO noch REWE direkt gegenüber.)
+Oder habe ich etwas jetzt total falsch verstanden und es stellt eine Verleumdung dar, dass ich DAMALS festgestellt habe, dass es dort, im Gegensatz zu anderen Läden in der Gegend, Rosekohl gab?  (Wenn ich es richtig im Kopf habe gab es damals gegenüber weder bei Aldi noch REWE Rosenkohl, denn damals gab es IMHO noch REWE direkt gegenüber.)
 
-Was also bitte ist falsch an meiner Rezension?  Dass die nicht datiert ist habe ich sicher nicht zu verantworten, derartige Metadaten muss Google beisteuern.
+Was also bitte ist falsch an meiner Rezension?  Dass die nicht datiert ist, das habe doch nicht ich zu verantworten, derartige Metadaten muss Google beisteuern!
+
+Und da habe ich schon ganz andere Posts verzapft, die anstandslos über die Bühne gehen.  Einer meiner meistgeliketen Posts über einen verrammelten Geldautomaten endet sogar mit den ironischen Worten "der braucht eine andere Bank!".  Also selbst wenn ich geschrieben hätte "da kauft man besser woanders" (das habe ich nirgendwo geschrieben noch selbstredend nicht einmal ansatzweise mit meinem Post intendiert, denn das kann man meinem originalen Post einfach nicht unterjubeln!) wäre das meine wahre Meinung und stellt nur eine Empfehlung dar und sicher keine Verleumdung!
+
+Zum Verständnis, derzeit gehe ich davon aus, da hat irgendwer im Eifer des Gefechts etwas aus den falschen Gründen losgetreten, ohne dabei die notwendige Sorgfalt walten zu lassen.
+(Im Zweifel zwischen Vorsatz und Unfähigkeit tendiere ich übrigens immer zur Unfähigkeit, denn Vorsatz wäre eine Unterstellung, während Unfähigkeit schlicht der impulsiven menschlichen Natur geschuldet wird).
+
+Und Google hat da sicher ihr "bestes" getan und eine KI drauf losgelassen,
+ohne ebenfalls dabei die gebotene Sorgfalt walten zu lassen.
+
+> Hallo Google, ein automatisches Rating ist in Deutschland laut Gesetz verboten!
+> Jedenfalls schwirrt mir irgendwo im Hinterkopf rum dass dem so sei!
+
+Dass Google bei der Menge der Services so agiert, das kann ich als Ineternetpflanze gerade noch so eben akzeptieren
+(früher hatte Google den Sloagan "Don't be evil.".  Das haben sie ja schon lange aufgegeben!),
+denn **da gibt es ja dies blöde Gesetz**, das Google zu einer Reaktion zwingt,
+weil Juristen, weltfern wie sie sind, sonst unterstellen würden, dass sich Google meine Meinung zu Eigen macht (WTF?! Meine Meinung gehört mir und egal wie Juristen das sehen mögen, ich lasse mir dies Eigentum ganz sicher nicht kampflos wegnehmen!), und ich verstehe sehr gut, dass Google eben NICHT meine Meinung teilt.  Schließlich heißt es ja Meinungsfreiheit und nicht Meinungsverpflichtung!
+
+Aber niemanden hat denjenigen gezwungen, mich ohne guten Grund bei Google anzuschwärzen und zu behaupten, ich würde mit meinem Post auch nur
+ansatzweise versucht haben, in aller Öffentlichkeit eine strafbare Handlung
+gem. §187 StGB begangen zu haben.  **Ein Delikt das mit bis zu 5 Jahren Freiheitsstrafe bestraft wird.**
+
+Leute, echt, geht's noch?
+
+Ich habe außerdem eine ganz durchschnittliche Wertung von 3 Sternen abgegeben.
+
+Nicht nur 1 Stern!  Oder gar 2 Sterne.  3 ganze Sterne!
+
+Eine 3-Sterne-Rezension stellt eine durchschnittliche "alles ok"-Bewertung dar.  Also keine direkten Abzüge und keine Pluspunkte!
+
+Ja, ich weiß, dass jeder heutzutage volle 5-Sterne verlangt, weil er alles andere als eine Kränkung sieht.  Aber diese Leute bitte ich mal, ihr Hirn einzuschalten!  Dann sehen sie, wie pervertiert solche Bewertungssysteme inzwischen sind.
+
+> Dazu gibt es übrigens eine echt nette Folge bei Netflix in der Reihe Black-Mirror.  Und ich finde Personen uninteressant, die immer volle 5 Sterne vergeben.  Wie ein T-Shirt eines Kollegen es ausdrückte:  "Wenn alle das gleiche Denken wird wenig gedacht."
+>
+> Ich jedenfalls wäre dafür, dass man jeden Stern, den man gibt und jeden Stern den man abzieht einzeln begründen muss!
+
+All das gehört für mich zu dem Wahnsinn der akuten Welt.  Ich jedenfalls lese 5-Sterne-Rezensionen selten.  Die interessanten Bewertungen sind meistens die mit 1 bis 4 Sternen, wobei letztere eher nur gelegentlich.  Die meisten Rezensionen mit 5 Sternen sind derart schlichter unreflektierter Bockmist, dass man sie besser gleich vollständig ignoriert.
+
+Aber warum sind 3 Sterne Durchschnitt?  Bei 3 Sternen kann man 2 Sterne mehr oder 2 Sterne weniger vergeben!  Das sind sozusagen umgekehrte Schulnoten:
+
+- 5 ist sehr gut
+- 4 ist gut
+- 3 ist befriedigend
+- 2 ist ausreichend
+- 1 ist mangelhaft
+- 0 ist ungenügend (manche Bewertungssysteme erlauben, 0.5 Sterne zu vergeben)
+
+Und genau so behandle ich es auch.  Ich fange bei 3 Sternen an und bewerte dann mit Zusatzsternen bzw. Abzügen.
+
+- Da war's duster.  Ein Stern Abzug.
+- Die Kasse war mir offensichtlich zu lahm.  Ein Stern Abzug
+- Es gab aber Rosenkohl.  Ein Stern dazu.
+- Und der war nicht ausgelistet, so wie sonst überall.  Ein Stern dazu.
+
+3 Sterne -2+2 ergibt .. Tusch .. 3 Sterne!  (Ich sage nicht, dass ich da so bewertet habe.  Ich fand das Einkaufserlebnis halt durchschnittlich, also 3 Sterne.  Muss ich jetzt bei jedem Post erklären, wie ich bewerte oder was?  Gibt es da etwa eine Ethikkommission der Selbstzensur, die einem da vorschreibt, wie man etwas zu bewerten hat?)
+
+Also, was bitte ist an "befriedigend" auszusetzen?  Und wie kann man eine 3-Sterne-Rezension wie meine jemals gar als "verleumderisch" verstehen?
 
 
 ## Wie geht es weiter?
