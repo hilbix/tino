@@ -69,11 +69,11 @@ der Unterdrückung der Meinungsfreiheit spannen lassen.  Sort of.
 Denn ich empfinde es als Ungeheuerlichkeit was da behauptet wird.
 
 **Ich verleumde niemanden!** Erst recht nicht mit solch einem Post!
-Ich lasse nur meine Meinung raus, auch wenn die schmerzt.
+Ich lasse nur meine Meinung raus, weil die mich schmerzt.
 
-Aber warum sollte das, was ich da gepostet habe, auch schmerzen?
-Weil ich nur 3 Sterne hinterlassen habe?  Oh mann, da ist aber jemand picky!
-Oder hat etwas komplett falsch verstanden!
+Aber warum sollte das, was ich da gepostet habe, jemand anderes schmerzen?
+Weil ich nur 3 Sterne hinterlassen habe?  Oh Mann, das wäre aber picky!
+Oder hat da jemand etwas komplett falsch verstanden?
 
 Wenn ich schreibe "duster war's" dann empfand ich die Beleuchtung als zu niedrig.
 Punkt aus und Ende.  Das mag heute vielleicht nicht mehr wahr sein, aber zu dem
