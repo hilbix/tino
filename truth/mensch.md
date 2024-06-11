@@ -209,7 +209,7 @@ Das ist ebenfalls der Natur des Menschen geschuldet.  Von selbst lernt er nicht 
 
 Anders gesagt:  Sinnvolles Handeln gehört nicht in die Natur des Menschen.
 
-Einzelne Menschen können sich sehr wohl sinnvoll verhalten.  Wie Great Thunberg.
+Einzelne Menschen können sich sehr wohl sinnvoll verhalten.  Wie Great Thunberg. (Siehe Nachtrag 2024-06-11)
 
 Aber es reicht ein einziger Idiot wie Donald Trump, und alles sinnvolle Verhalten beliebig vieler sinnvoll Handelnder wird zerstört.
 
@@ -539,3 +539,10 @@ Wollt IHR wirklich dieses Risiko weiter eingehen?  Ich sage nur Corona.  Also, *
 
 -Tino  
 PS: Nein, SpaceEx ist nicht einmal der Anfang einer Antwort.  SpaceEx wirft dafür viel zuviele Fragen auf!
+
+
+= Nachtrag 2024-06-11
+
+Greta Thunberg hat inzwischen genau solch ein Beweis für das unsinnge Verhalten von Menschen.  Indem sie sich selbst ins Aus schoss, als sie [plözlich rechtsradikalen Tendenzen](https://www.spiegel.de/politik/greta-thunberg-antisemitin-oder-einfach-nur-naiv-a-3f7adfaa-bd07-4525-a5d7-9a056ed4a7a6) nachgab.
+
+Der einzelne Mensch ist eben leider eben nicht gefeit, vollkommen unsinnig zu handeln.  Ganz menschlich eben!
