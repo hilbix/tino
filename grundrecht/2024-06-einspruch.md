@@ -32,8 +32,12 @@ Ich zitiere die mal:
 
 > Duster war's, aber immerhin gab's tiefgekühlten Rosenkohl, wenn auch wenig (vielleicht weil der in der Region bei allen anderen Läden gerade ausgelistet wurde?). Kasse sollte schneller sein.
 
-Diese Rezension habe ich zum Ort
+Diese Rezension war für folgenden Ort
 [48.37806229130554, 10.848002012610486](https://maps.app.goo.gl/EgbiKt2hZ1D5qEbK7)
+
+Wann ich das rezensiert habe, keine Ahnung.  Vermutlich war das so im Dunstkreis
+um Corona.  Als wir händeringend Rosenkohl für die Quiche gesucht haben und der
+irgendwie überall sonst aus war.  
 
 Begründet wurde das mit:
 
@@ -52,6 +56,38 @@ Der Inhalt meines Textes ist auf KEINEN FALL irgendwie auch nur ANSATZWEISE verl
 -----
 
 > Sorry für das CAPS, aber da ging halt kein Markdown.
+
+Wichtig zum Verständnis:  Google sind hier nicht die Bösen.  Sort of.
+Offensichtlich ist das nämlich ein vollautomatischer Vorgang.
+Jemand macht einen Complaint und Google "muss reagieren" (falsch!
+Sie müssten Reagieren wenn es wahr wäre.  Eine automatische Reaktion
+in dieser Form zeigt nur das Unvermögen es wirklich richtig zu machen.
+Aber wer erwartet schon mehr?).
+
+Das ist halt, wie es bei Google läuft.  Und hat sich also vor den Karren
+der Unterdrückung der Meinungsfreiheit spannen lassen.  Sort of.
+Denn ich empfinde es als Ungeheuerlichkeit was da behauptet wird.
+
+**Ich verleumde niemanden!** Erst recht nicht mit solch einem Post!
+Ich lasse nur meine Meinung raus, auch wenn die schmerzt.
+
+Aber warum sollte das, was ich da gepostet habe, auch schmerzen?
+Weil ich nur 3 Sterne hinterlassen habe?  Oh mann, da ist aber jemand picky!
+Oder hat etwas komplett falsch verstanden!
+
+Wenn ich schreibe "duster war's" dann empfand ich die Beleuchtung als zu niedrig.
+Punkt aus und Ende.  Das mag heute vielleicht nicht mehr wahr sein, aber zu dem
+Zeitpunkt hat das sicher gestimmt.  Sonst hätte ich es nicht geschrieben.
+Dumm gelaufen, achte auf Deine Wünsche, sie gehen nämlich in Erfüllung,
+und wer halt (wie ich meistens) zu doof ist es von Anfang an Richtig zu machen, muss ab dann halt mit jeder aufrichtigen Kritik leben die daraus entsteht.  Das sind die Konsequenzen.
+
+Und wenn ich schreibe "Kasse sollte schneller sein" dann ist das eine Empfehlung
+und sicher keine Verleumdung.  Wenn man das nicht mehr sagen darf, dann hätte die AFD recht (Hint: Hat sie nicht!  Jedenfalls ist das meine feste Überzeugung bis mir jemand das Gegenteil beweist!).
+
+Oder habe ich etwas jetzt total falsch verstanden und es stellt eine Verleumdung dar, dass ich DAMALS festgestellt habe, dass es dort im Gegensatz zu anderen Läden in der Gegend Rosekohl gab?  (Wenn ich es richtig im Kopf habe gab es damals weder bei Aldi noch REWE gegenüber Rosenkohl, und damals war IMHO noch REWE direkt gegenüber.)
+
+Was also bitte ist falsch an meiner Rezension?  Dass die nicht datiert ist habe ich sicher nicht zu verantworten, derartige Metadaten muss Google beisteuern.
+
 
 ## Wie geht es weiter?
 
