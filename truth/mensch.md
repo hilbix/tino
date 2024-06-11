@@ -541,7 +541,7 @@ Wollt IHR wirklich dieses Risiko weiter eingehen?  Ich sage nur Corona.  Also, *
 PS: Nein, SpaceEx ist nicht einmal der Anfang einer Antwort.  SpaceEx wirft dafür viel zuviele Fragen auf!
 
 
-= Nachtrag 2024-06-11
+# Nachtrag 2024-06-11
 
 Greta Thunberg hat inzwischen genau solch ein Beweis für das unsinnge Verhalten von Menschen.  Indem sie sich selbst ins Aus schoss, als sie [plözlich rechtsradikalen Tendenzen](https://www.spiegel.de/politik/greta-thunberg-antisemitin-oder-einfach-nur-naiv-a-3f7adfaa-bd07-4525-a5d7-9a056ed4a7a6) nachgab.
 
