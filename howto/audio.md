@@ -5,6 +5,25 @@
 
 # HowTo Audio
 
+## Pipewire
+
+Now that I got the bell working with PulseAudio, World decided, that it's time for a change.
+Everything is migrated to Pipewire and the bell is mute again.
+
+> I hear a bell on the console outside X11, though, X11 sound works, too.
+> But again, no X11 bell.  And again, the old method no more works as neither
+> `pactl load-sample-lazy` nor `pactl load-module module-x11-bell` works anymore.
+>
+> Of course.  How could anybody out there expect things to be different?
+
+Now the same problem is back:  **No audible bell in Terminals on X11.**
+
+> Also all the old solutions out there no more work, of course, because nobody except me apparently uses pipewire.
+> Right?
+
+
+## PulseAudio
+
 Problem: Following is mute
 
     echo -e '\a'
@@ -28,7 +47,7 @@ Environment: Standard Ubuntu install, standard terminal
 >
 > I hat all humans for that.
 
-## Solution
+### Solution
 
 `/etc/pulse/default.pa`:
 ```
@@ -63,7 +82,7 @@ Note that it then comes up in some random state.  **Be sure check correct sound 
 - <https://unix.stackexchange.com/questions/401156/why-ctrlg-doesnt-produce-a-beep> (good hints but no solution)
 
 
-## System state
+### System state
 
 Tings to consider and diagnose:
 
