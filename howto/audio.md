@@ -75,7 +75,7 @@ Perhaps you want to reset PulseAudio (drop your User settings) and restart it fr
 Note that it then comes up in some random state.  **Be sure check correct sound settings afterwards!**
 
 
-## Recipes **tried but failed**
+### Recipes **tried but failed**
 
 - <https://wiki.archlinux.org/title/Professional_audio> gives no hint about how to unmute the bell in terminal
 - <https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep> (all of it up to 2022-02-27)
@@ -114,7 +114,7 @@ And (but this seems to have no effect):
   bell percent:  50    bell pitch:  400    bell duration:  100
 ```
 
-## Test state
+### Test state
 
 - `works`: I can hear it
 - `mute`: I can hear nothing
