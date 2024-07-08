@@ -64,6 +64,12 @@ for a in `ip -j r s | jq -r '.[].dst' | fgrep -x default`; do nordvpn whitelist 
 
 Meshnet documentation is .. bad to non existing:
 
+On Android there seems to be a bug.  If you enable Meshnet and then disconnect from NordVPN, then the MeshNet still stays active.
+
+Which means, all Internet is blocked (because it tries to route via Meshnet, but Meshnet is not available due to NordVPN is offlined).
+
+### Enable Meshnet
+
 ```
 nordvpn set firewall disable
 nordvpn set technology nordlynx
