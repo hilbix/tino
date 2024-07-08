@@ -7,11 +7,20 @@ Until Stackoverflow sites change their attitude, I never again will link to Stac
 
 Because of this:
 
-https://superuser.com/questions/1564100/how-to-run-android-emulator-x86-on-windows-10-proxmox-guest
+<https://superuser.com/questions/1564100/how-to-run-android-emulator-x86-on-windows-10-proxmox-guest>
 
 Question removed?  What is with the link to it?  It now became void!
 
 ![Stackoverflow Screenshot](img/please-stop-stackoverflow.png)
+
+<https://stackoverflow.com/questions/13322485/how-to-get-the-primary-ip-address-of-the-local-machine-on-linux-and-os-x>
+
+A programming question is not a programming question.  And the reopen had to fail, because the initial problem (that there are too many illiterate nazis on SO who decide willfully about that is allowed to live there) was not solved.  Right?
+
+FYI: A commandline solution **is the definition of a programming problem**.  If not then Turing machines are not computers.  And the **commandline is probably the most common tool programmers use**.  Well done, SO!  You showed, again, that you do more harm than you help these days!
+
+![Stackoverflow Screenshot](img/stackoverflow-please-die.png)
+
 
 ## Stackoverflow is harming the web!
 
