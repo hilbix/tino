@@ -2,42 +2,103 @@
 >
 > **Under Linux and Androd NordVPN integrates with the OS' standard update mechanisms.  On Windows they do not.  Why?**
 
-
 # NordVPN
 
-- I do not endorse nor promote NordVPN.
-- I am not affiliated with NordVPN either.
-- I do not know if there are cheaper or better other VPN solutions.
-- I do not care if NordVPN tracks something or not.
-
-For more see FYI at the end.
-
+Please read [README.md](README.md) carefully.  This here is mainly meant as a reminder to myself.
 
 ## Linux
 
 I mainly use Linux.   So Linux support is crucial.  And it works.
 
-### Quickies
-
-#### Setup
+### Setup
 
 Until I find a better and more secure way:
 
 	sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
 
-Note to self:  Find out how to use native tools like OpenVPN or Kernel's WireGuard somehow.
+Note to self:
+
+- Find out how to use native tools like OpenVPN or Kernel's WireGuard somehow.
+- Create an Ansible Playbook with apt keys etc.
+
+```
+sudo apt install nordvpn
+sudo groupadd nordvpn
+sudo usermod -aG nordvpn $USER
+```
 
 
-#### Login
+### Login
+
+#### Variant 1 via Web
+
+- `nordvpn login`
+- Copy URL to browser which is printed
+- Complete everything until the "Great" screen shows up
+- Copy URL from the green button
+- `nordvpn login --callback '__PASTE_URL_HERE__'`
+  - This last step is not told on their website!
+
+#### Variant 2 with Token
 
 - <https://my.nordaccount.com/de/dashboard/nordvpn/>
 - Scroll down to "Token"
 - Create a token
   - You can give it for some time or without expiry
 - Copy token
-- `nordvpn login --token __PASTE_TOKEN_HERE__`
+- `nordvpn login --token '__PASTE_TOKEN_HERE__'`
 
-#### IPv6
+
+### Configure
+
+Whitelist you local networks before running `nordvpn c`:
+
+```
+for a in `ip -j r s | jq -r '.[].dst' | fgrep -x default`; do nordvpn whitelist add subnet "$a"; done
+```
+
+> This needs `jq` installed: `sudo apt install jq`
+
+
+## Meshnet
+
+Meshnet documentation is .. bad to non existing:
+
+```
+nordvpn set firewall disable
+nordvpn set technology nordlynx
+nordvpn set meshnet enable
+nordvpn connect
+```
+
+```
+nordvpn meshnet peer list
+```
+
+### Enable node to be used for other peers as VPN server
+
+Once on the VPN server:
+
+```
+nordvpn set routing on
+```
+
+Then for each peer:
+
+```
+while read -r peer;
+do
+  nordvpn meshnet peer incoming allow "$peer";
+  nordvpn meshnet peer routing allow "$peer";
+  nordvpn meshnet peer local allow "$peer";
+  nordvpn meshnet peer auto-accept enable "$peer";
+done;
+```
+
+> Sorry, I do not know how to automate this
+
+
+## IPv6
 
 The good news is, IPv6 works.  The bad is:  It is not obvious how to enable it.
 
