@@ -501,12 +501,12 @@ tcp6       0      0 :::22                   :::*                    LISTEN      
 ```
 Or more modern:
 ```
-tino@mc112:~/mc119$ ss -ta
-State          Recv-Q         Send-Q                      Local Address:Port                     Peer Address:Port          Process         
-LISTEN         0              20                              127.0.0.1:smtp                          0.0.0.0:*                             
-LISTEN         0              128                               0.0.0.0:ssh                           0.0.0.0:*                             
-LISTEN         0              20                                  [::1]:smtp                             [::]:*                             
-LISTEN         0              4096                   [::ffff:127.0.0.1]:25565                               *:*                             
-LISTEN         0              50                     [::ffff:127.0.0.1]:25575                               *:*                             
-LISTEN         0              128                                  [::]:ssh                              [::]:*                             
+tino@mc112:~/mc119$ ss -tap
+State       Recv-Q      Send-Q                Local Address:Port              Peer Address:Port       Process                               
+LISTEN      0           20                        127.0.0.1:smtp                   0.0.0.0:*                                                
+LISTEN      0           128                         0.0.0.0:ssh                    0.0.0.0:*                                                
+LISTEN      0           20                            [::1]:smtp                      [::]:*                                                
+LISTEN      0           4096             [::ffff:127.0.0.1]:25565                        *:*           users:(("java",pid=7826,fd=66))      
+LISTEN      0           50               [::ffff:127.0.0.1]:25575                        *:*           users:(("java",pid=7826,fd=79))      
+LISTEN      0           128                            [::]:ssh                       [::]:*                                                
 ```
