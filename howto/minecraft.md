@@ -327,3 +327,186 @@ op Individulas
 [14:05:30] [Server thread/INFO]: Made Individulas a server operator
 ```
 
+The server now is up and running!  Stop the server and look at the directory.
+
+Enter `stop` to stop the MC server,
+then enter `bye` to exit my script.
+
+```
+stop
+[14:10:09] [Server thread/INFO]: Stopping the server
+[14:10:09] [Server thread/INFO]: Stopping server
+[14:10:09] [Server thread/INFO]: Saving players
+[14:10:09] [Server thread/INFO]: Saving worlds
+[14:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:10:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+20240710-141012 rc=0 (autostart diabled, start to start, help for help): bye
+tino@mc112:~/mc119$ ls -al
+total 46120
+drwxr-xr-x  7 tino tino     4096 Jul 10 14:03 .
+drwxr-xr-x 18 tino tino     4096 Jul 10 13:51 ..
+-rw-r--r--  1 tino tino        0 Jul 10 14:11 .stop
+-rwxr-xr-x  1 tino tino     1222 Jul 10 13:54 .x
+-rw-r--r--  1 tino tino        2 Jul 10 14:03 banned-ips.json
+-rw-r--r--  1 tino tino        2 Jul 10 14:03 banned-players.json
+drwxr-xr-x  2 tino tino     4096 Jul 10 14:01 crash-reports
+-rw-r--r--  1 tino tino      158 Jul 10 14:00 eula.txt
+drwxr-xr-x  8 tino tino     4096 Jul 10 13:55 libraries
+drwxr-xr-x  2 tino tino     4096 Jul 10 14:03 logs
+-rw-r--r--  1 tino tino 47162712 Jul 10 13:48 minecraft_server.1.19.3.jar
+lrwxrwxrwx  1 tino tino       27 Jul 10 13:55 minecraft_server.jar -> minecraft_server.1.19.3.jar
+-rw-r--r--  1 tino tino      139 Jul 10 14:05 ops.json
+-rw-r--r--  1 tino tino     1273 Jul 10 14:03 server.properties
+-rw-r--r--  1 tino tino      110 Jul 10 14:05 usercache.json
+drwxr-xr-x  3 tino tino     4096 Jul 10 13:55 versions
+-rw-r--r--  1 tino tino        2 Jul 10 14:03 whitelist.json
+drwxr-xr-x 10 tino tino     4096 Jul 10 14:10 world
+```
+
+You can edit the `server.properties` file to change the settings as you like them.  The changes I do are:
+
+> Lines with `<` is what the server wrote by default where lines with `>` are what I changed them to.
+
+```diff
+]tino@mc112:~/mc119$ diff server.properties ../mc/server.properties
+2c2
+< #Wed Jul 10 14:03:50 CEST 2024
+---
+> #Wed Jul 10 13:11:01 CEST 2024
+5c5,6
+< level-seed=
+---
+> level-seed=HERESOMESEED
+> enable-command-block=true
+7d7
+< enable-command-block=false
+12c12
+< motd=A Minecraft Server
+---
+> motd=Neubeginn
+21d20
+< use-native-transport=true
+22a22
+> use-native-transport=true
+25c25
+< allow-flight=false
+---
+> allow-flight=true
+27,28c27,28
+< broadcast-rcon-to-ops=true
+< view-distance=10
+---
+> broadcast-rcon-to-ops=false
+> view-distance=15
+33c33
+< enable-rcon=false
+---
+> enable-rcon=true
+41c41
+< rcon.password=
+---
+> rcon.password=CHANGETHISPASSWORD
+48a49
+> previews-chat=false
+49a51
+> snooper-enabled=false
+52c54
+< level-type=minecraft\:normal
+---
+> level-type=default
+56c58
+< spawn-protection=16
+---
+> spawn-protection=32
+```
+
+The important parts are:
+
+- `server-ip=127.0.0.1` to restrict the server to listen on the loopback interface
+  - I do not need this, as I run in an externally secured VM.
+  - However you probably want this, especially if running on WSL2!
+- `enable-rcon=true` to enable RCON
+- `rcon.password=CHANGETHISPASSWORD` to set a password for the console
+- `broadcast-rcon-to-ops=true` is good as long as you play alone or with friends on this server
+  - If you want a real multiplayer server, perhaps do not enable this, as it spoilers
+- `enable-command-block=true` is probably what you want to allow the use of command blocks
+- `allow-flight=true` usually is good as long as you test your own server instance
+- `level-seed=HERESOMESEED` such that if you remove the world you can recreate it with the given seed
+  - Note that different MC version create different data from the same seed
+- `level-type=minecraft\:normal` I have no idea.  Probably the current default is `minecraft:normal` now and my setting `default` is from older versions of MC server
+- `snooper-enabled=false` reduces the network babble of the server (switches off the phone home)
+
+Note that there is another setting which allows to connect with arbitrary (hacked) MC clients:
+
+- `online-mode=true` if set to `false` the server does not communicate with the Mojang servers
+  - This is needed if you want to play while being offline (so without Internet connectivity)
+- `enable-status=true` allows others to fetch the status (number of players) on the server
+  - I usually leave this on, as this only can be seen if you can connect to the server
+  - As it listens on 127.0.0.1 on default nobody else than you can connect to it
+ 
+After your `server.propertes` is edited, start the server again:
+
+```
+tino@mc112:~/mc119$ ./.x
+20240710-143031 (autostart diabled, start to start, help for help): start
++ exec java -Xmx4096M -Xms4096M -jar minecraft_server.jar
+Starting net.minecraft.server.Main
+[14:30:38] [ServerMain/INFO]: Building unoptimized datafixer
+[14:30:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:30:41] [ServerMain/INFO]: Loaded 7 recipes
+[14:30:42] [ServerMain/INFO]: Loaded 1179 advancements
+[14:30:42] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[14:30:42] [Server thread/INFO]: Loading properties
+[14:30:42] [Server thread/INFO]: Default game type: SURVIVAL
+[14:30:42] [Server thread/INFO]: Generating keypair
+[14:30:42] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[14:30:42] [Server thread/INFO]: Using epoll channel type
+[14:30:42] [Server thread/INFO]: Preparing level "world"
+[14:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:30:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[14:30:49] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[14:30:49] [Server thread/INFO]: Time elapsed: 4369 ms
+[14:30:49] [Server thread/INFO]: Done (6.813s)! For help, type "help"
+[14:30:49] [Server thread/INFO]: Starting remote control listener
+[14:30:49] [Server thread/INFO]: Thread RCON Listener started
+[14:30:49] [Server thread/INFO]: RCON running on 127.0.0.1:25575
+```
+
+On a second terminal you can see the network connections:
+
+```
+tino@mc112:~/mc119$ netstat -natp
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 ::1:25                  :::*                    LISTEN      -                   
+tcp6       0      0 127.0.0.1:25565         :::*                    LISTEN      7826/java           
+tcp6       0      0 127.0.0.1:25575         :::*                    LISTEN      7826/java           
+tcp6       0      0 :::22                   :::*                    LISTEN      -                   
+```
+Or more modern:
+```
+tino@mc112:~/mc119$ ss -ta
+State          Recv-Q         Send-Q                      Local Address:Port                     Peer Address:Port          Process         
+LISTEN         0              20                              127.0.0.1:smtp                          0.0.0.0:*                             
+LISTEN         0              128                               0.0.0.0:ssh                           0.0.0.0:*                             
+LISTEN         0              20                                  [::1]:smtp                             [::]:*                             
+LISTEN         0              4096                   [::ffff:127.0.0.1]:25565                               *:*                             
+LISTEN         0              50                     [::ffff:127.0.0.1]:25575                               *:*                             
+LISTEN         0              128                                  [::]:ssh                              [::]:*                             
+```
