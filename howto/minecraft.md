@@ -366,6 +366,14 @@ lrwxrwxrwx  1 tino tino       27 Jul 10 13:55 minecraft_server.jar -> minecraft_
 drwxr-xr-x  3 tino tino     4096 Jul 10 13:55 versions
 -rw-r--r--  1 tino tino        2 Jul 10 14:03 whitelist.json
 drwxr-xr-x 10 tino tino     4096 Jul 10 14:10 world
+tino@mc112:~/mc119$ cat ops.json 
+[
+  {
+    "uuid": "**REDACTED**",
+    "name": "Individulas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
 ```
 
 You can edit the `server.properties` file to change the settings as you like them.  The changes I do are:
@@ -509,4 +517,24 @@ LISTEN      0           20                            [::1]:smtp                
 LISTEN      0           4096             [::ffff:127.0.0.1]:25565                        *:*           users:(("java",pid=7826,fd=66))      
 LISTEN      0           50               [::ffff:127.0.0.1]:25575                        *:*           users:(("java",pid=7826,fd=79))      
 LISTEN      0           128                            [::]:ssh                       [::]:*                                                
+```
+
+## First join
+
+Now enter the server with MineCraft:
+
+- Select "Multiplayer"
+- Then "Add Server"
+  - Give it a name
+  - `127.0.0.1`
+  - "Done"
+
+Now you can connect to it and on the MC server console you will see something like this:
+
+```
+[14:36:57] [User Authenticator #1/INFO]: UUID of player Individulas is **REDACTED**
+[14:36:57] [Server thread/INFO]: Individulas[/127.0.0.1:43410] logged in with entity id 194 at (97.5, 74.0, -9.5)
+[14:36:57] [Server thread/INFO]: Individulas joined the game
+[14:37:15] [Server thread/INFO]: Individulas lost connection: Disconnected
+[14:37:15] [Server thread/INFO]: Individulas left the game
 ```
