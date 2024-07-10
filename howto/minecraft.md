@@ -606,3 +606,12 @@ Killed Individulas
 ```
 
 - `rlwrap` gives me a command history
+
+
+## DataPacks
+
+With DataPacks I add things like `TreeShopper` to my server.  Because for me I think it is very cumbersome to gather things like wood.
+
+My time is limited and when I play MineCraft I want to play it for fun.  So no tedious tasks please!
+
+> T.B.D. (This is my edit for now.  Perhaps I find the time to continue this here.)
