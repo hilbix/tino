@@ -538,3 +538,71 @@ Now you can connect to it and on the MC server console you will see something li
 [14:37:15] [Server thread/INFO]: Individulas lost connection: Disconnected
 [14:37:15] [Server thread/INFO]: Individulas left the game
 ```
+
+## Accessing RCON
+
+To access the RCON (for automation etc.) you probably want to use some tools.  I use these (this is not from me):
+
+- <https://github.com/Owen-Cochell/mctools>
+
+Like this
+
+```
+tino@mc112:~$ git clone https://github.com/Owen-Cochell/mctools.git
+Cloning into 'mctools'...
+remote: Enumerating objects: 309, done.
+remote: Counting objects: 100% (309/309), done.
+remote: Compressing objects: 100% (209/209), done.
+remote: Total 309 (delta 175), reused 211 (delta 88), pack-reused 0
+Receiving objects: 100% (309/309), 438.16 KiB | 14.13 MiB/s, done.
+Resolving deltas: 100% (175/175), done.
+tino@mc112:~$ cd mctools/
+tino@mc112:~/mctools(master u=)$ ls -al
+total 68
+drwxr-xr-x  7 tino tino 4096 Jul 10 14:45 .
+drwxr-xr-x 19 tino tino 4096 Jul 10 14:45 ..
+drwxr-xr-x  8 tino tino 4096 Jul 10 14:45 .git
+drwxr-xr-x  3 tino tino 4096 Jul 10 14:45 .github
+-rw-r--r--  1 tino tino  440 Jul 10 14:45 .gitignore
+-rw-r--r--  1 tino tino  310 Jul 10 14:45 .readthedocs.yaml
+-rw-r--r--  1 tino tino 4753 Jul 10 14:45 CHANGELOG.md
+-rw-r--r--  1 tino tino 1069 Jul 10 14:45 LICENSE
+-rw-r--r--  1 tino tino   33 Jul 10 14:45 MANIFEST.in
+-rw-r--r--  1 tino tino 5624 Jul 10 14:45 README.md
+drwxr-xr-x  3 tino tino 4096 Jul 10 14:45 docs
+-rw-r--r--  1 tino tino  100 Jul 10 14:45 mcli.py
+drwxr-xr-x  2 tino tino 4096 Jul 10 14:45 mctools
+-rw-r--r--  1 tino tino 1294 Jul 10 14:45 pyproject.toml
+drwxr-xr-x  2 tino tino 4096 Jul 10 14:45 tests
+```
+
+> For reference, I am still use `* a7750f5 (HEAD -> master, tag: v1.1.2) Addes some files to gitignore, and added comments about mcli.exe in the README`
+> and not the current `master`, as I haven't found the time to look into it.
+>
+> Note that I usually do not run sources from third party without first having a look into it!
+
+Then I can run `rcon` with something like this:
+
+```
+tino@mc112:~$ rlwrap python3 ~/mctools/mcli.py 127.0.0.1 rcon CHANGETHISPASSWORD -i
++========================================================================+
+# Starting TCP connection to RCON server @ 127.0.0.1:25575 ...
+# Started TCP connection to RCON server @ 127.0.0.1:25575!
+# Authenticating with RCON server ...
+# Authentication with RCON server successful!
+# Running user commands ...
++========================================================================+
+Welcome to the RCON interactive session!
+Connection Info:
+  Host: 127.0.0.1
+  Port: 25575
+Type 'q' to quit this session.
+Type 'help' or '?' for info on commands!
+
+rcon@127.0.0.1:25575>> data get entity Individulas Inventory[{Slot:0b}]
+Individulas has the following entity data: {Slot: 0b, id: "minecraft:arrow", Count: 2b}
+rcon@127.0.0.1:25575>> kill Individulas
+Killed Individulas
+```
+
+- `rlwrap` gives me a command history
