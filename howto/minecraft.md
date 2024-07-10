@@ -521,7 +521,7 @@ LISTEN      0           128                            [::]:ssh                 
 
 ## First join
 
-Now enter the server with MineCraft:
+Now enter the MC server with your MineCraft Client:
 
 - Select "Multiplayer"
 - Then "Add Server"
