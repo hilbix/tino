@@ -47,3 +47,59 @@ auf die riesigen Probleme eingehen, die diese Technologie mit sich bringt.**
 > Dagegen ist (dieser IMHO Hoax namens) [Coolar](https://coolar.co/) geradezu gut dokumentiert!
 
 Für mich sieht das also mal wieder nach einem neuen Scam aus.  Oder:  Cargolifter 2.0, scam again!
+
+
+# Anmerkungen
+
+Laut Wikipedia geht Cargolifter auf eine Studie aus dem Jahr 1994 zurück.
+
+Laut Eigenwerbung geht Varialift auf ein "Patent" von 2004 zurück.  Aber was genau das für ein Patent ist,
+darüber schweigen sie sich aus.  Auf [Wikipedia finde ich dazu etwas](https://en.wikipedia.org/wiki/Metal-clad_airship#Varialift_Airships), aber für mich sieht das "Patent" eher sehr unspektakulär aus.
+
+> Ich vermute mal, da hat halt jemand sich das Problem angesehen und etwas total offensichtliches patentiert.
+> Aber soe neu - wie der Text dort es suggeriert - war die Idee halt dann doch nicht.
+>
+> Das nenne ich Verdrehung der Tatsachen, also wenn man etwas so präsentiert, dass es den falschen Eindruck
+> hinterlässt.  Kein einziger Verweis auf Cargolifter, der ja - zumindest damals - eine direkte Konkurrenz
+> hätte darstellen können.
+>
+> Aber klar doch, wenn ich ein Betrüger bin verlinke ich ja keinen anderen Betrüger, damit die Leute nicht
+> auf irgendwelchen blöden Gedanken kommen.  Oder .. eigentlich .. wäre das genau das, was ich tun würde,
+> um zu zeigen:  Hey, ich bin seriös, und kein solcher Schlonz wie da ..
+
+
+Dass da auf deren Homepage keinerlei brauchbare Informationen und keine Links usw. stehen,
+bedeutet für mich nur eines:  Totale Unfähigkeit.  In so etwas würde ich niemals Geld investieren.
+
+Dass die etwas bauen, das kennt man.  Das war auch bei Cargolifter so.  Natürlich haben die einen Prototypen.
+So wie Coolar ebenfalls.
+
+So ein Prototyp, den kann ich mir auch im Keller schnell per 3D-Drucker basteln.  Das ist keinerlei Aufwand.
+Der sagt nichts aus.  Das ist gerade mal auf dem Nievau vom Zeppelin aus Yps!
+
+Wer darauf hereinfällt, der ist, sorry, ziemlich naiv.  Wenn ich möchte, dass jemand investiert, dann müssen
+schon Fakten her.  Klare Fakten, die man überprüfen kann.  Etwas, das handfest ist und einer
+unabhängigen Überprüfung auch problemlos standhält.
+
+Also nichts, was ich einfach nur mal schnell demonstrieren kann.  Das kann jeder Zauberer auf der Bühne auch.
+Mit der Realität hat das allerdings dann immer sehr wenig zu tun.
+
+Also ich bleibe skeptisch.
+
+> Ich habe aus dem Debakel von Byton gelernt.  Die haben den Hoax wirklich gut aufgezogen.
+> Sogar einen Manager von BMW dazu überredet.  Usw.
+>
+> Deshalb glaube ich solchen Sachen erst einmal nicht mehr.  Egal wie sie es darstellen,
+> ich verlange Fakten, die man unabhängig überprüfen kann.  Und zwar genau dann, wenn man nicht vom Fach ist.
+
+Der Hoax von Byton war IMHO deutlich besser aufgezogen als der von Wirecard!
+Allerdings war Wirecard ein FinTech, und da durchzublicken braucht man gar nicht erst zu versuchen.
+Oder versucht mal, als Laie die Strukturen einer Bank zu verstehen.  Ich habe jahrelang in der IT einer Bank
+gearbeitet.  Und verstehe trotzdem absolut nullkommanichts davon, wie ein FinTech funktioniert!
+
+Für FinTechs gibt es die BaFin die so etwas überprüfen muss.  Wirecard konnte die durch Finanztricks
+jahrelang an der Nase herumführen.  Wie kann also ein Laie wie ich so etwas erkennen?
+
+Bei Technikunternehmen ist das anders.  Also etwas, das auf IT oder Physik fußt.
+Da denke ich, kann ich durchaus ein Verständnis aufbauen.
+Oder eben nicht-Verständnis, was dann darauf hindeutet, dass da irgendetwas nicht stimmt!
