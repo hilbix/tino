@@ -1,6 +1,6 @@
 # WTF?
 
-## Cargolifter v2.0
+## VariaLift: Cargolifter v2.0?
 
 <https://www.varialift.com/> hat so ziemlich dasselbe Konzept wie Cargolifter.
 
