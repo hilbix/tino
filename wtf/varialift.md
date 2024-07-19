@@ -4,7 +4,7 @@
 
 <https://www.varialift.com/> hat so ziemlich dasselbe Konzept wie Cargolifter.
 
-Cargolifter ging pleite.  IMHO war es sogar ein reiner Scam, obwohl ich das natürlich nicht beweisen kann.
+[Cargolifter ging pleite](https://de.wikipedia.org/wiki/Cargolifter).  IMHO war es sogar ein reiner Scam, obwohl ich das natürlich nicht beweisen kann.
 
 Das Problem bei Zeppelinen ist, dass sie bei schlechtem und windigem Wetter nicht wirklich brauchbar sind.
 Sie sind nämlich zu leicht um bei Wind am Boden zu bleiben.
