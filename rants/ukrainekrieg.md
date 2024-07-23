@@ -1,5 +1,17 @@
 # Gedanken eines Pazifisten zum Ukrainekrieg
 
+## 2024-07-23
+
+Post zu "Neom [will go down as the BIGGEST waste of money in history](https://www.youtube.com/watch?v=PbHuspY9ai8&lc=UgxtLcBVeHQY7qQQR7p4AaABAg.A5AicWoohpNA6EcPw4t2q7)"
+
+------------------
+
+I firmly disagree.  Not only human history repeats again and again, there already is another bigger waste of money (and lives) going on:  The Russian assault of the Ukraine.  If Russia is not giving up on this madness, it will cost Russia a few times more than the entire cost of Neom!  Also we cannot leave a chance for Russia to win, as this will rise the cost to a multitude of that.  Hence what do you want?  Russia to pay the bill or us all to pay an even far bigger bill?  The estimated cost of the Ukrainian war in lifes, material and economy losses is estimated to be near 500 billion US$.  For Russia alone.  Per year!  So this already exceeds the waste of Neom!  On a global scale I think the global losses are more near the 1 trillion US$ mark.  Per year, again!  If Ukraine falls, the cost of what happens then (China tries to take Taiwan etc. etc. etc.) will rise the cost even higher.  So AFAICS the best way to cut costs would be to enable the Ukraine to win against Russia ASAP and clearly state, that we, the global community, do not tolerate any behavior like that exposed by Russia.  Regardless how big or small you are.  That would be the sapient way.  However humankind is far from acting sapient.  I know, as I am German.  Our global car sales drop.  So we need to compensate.  As the 5th biggest producer of weapons in the world, the solution is very easy: Head back to the 3rd place ..
+
+------------------
+
+## 2023-07-08 Streumunition
+
 Ich habe hier gerade etwa 4h lang einen Text hingetippt.  Dann kam "your Tab just crashed" und FF hat alles in den Lokus gezogen.
 
 **Danke Firefox!** Oder auch nicht.  YMMV
@@ -61,7 +73,7 @@ Deshalb hier nur kurz die Zusammenfassung:
 
 So, und warum schreibe ich das alles?
 
-## Es geht mir um die Klarstellung meiner Haltung zu der Lieferung von Streumunition durch die USA an die Ukraine.
+### Es geht mir um die Klarstellung meiner Haltung zu der Lieferung von Streumunition durch die USA an die Ukraine.
 
 Darf man Streumunition im Ukrainekrieg zulassen?
 
