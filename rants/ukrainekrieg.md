@@ -1,6 +1,6 @@
 # Gedanken eines Pazifisten zum Ukrainekrieg
 
-## 2024-07-23
+## 2024-07-23 Biggest waste of lifes, material and money
 
 Post zu "Neom [will go down as the BIGGEST waste of money in history](https://www.youtube.com/watch?v=PbHuspY9ai8&lc=UgxtLcBVeHQY7qQQR7p4AaABAg.A5AicWoohpNA6EcPw4t2q7)"
 
