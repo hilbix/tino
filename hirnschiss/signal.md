@@ -4,8 +4,9 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 # 2024-07-28 Signal-Kontakten nicht weiterleitbar
 
-- Ja, man kann tatsächlich Signal-Kontakte an andere Weiterleiten
+- Ja, man kann tatsächlich Signal-Kontakte **auf sichere Weise** an andere Weiterleiten
   - Ohne deren Telefonnummer zu kennen (die rückt Signal nicht raus)
+  - Und ohne Signal den Zugriff auf die (unsicheren) Kontakte zu erlauben
 - Das geht auch ohne die Mithilfe der Signal-Kontakte
 - Allerdings ist das nur durch einen Trick möglich, der von Signal vermutlich gar nicht antizipiert wurde.
 
