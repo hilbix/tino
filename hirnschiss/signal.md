@@ -18,6 +18,8 @@ SCHALTET BITTE MAL EUER HIRN EIN bevor man solch einen GEFÄHRLICHEN UNSINN wie 
 
 ------------
 
+Nachtrag:  Ich habe versucht, Signal von einem Handy auf ein Neues zu übertragen.  Hat irgendwie nicht geklappt - die PIN wollte einfach nicht funktionieren!  Deshalb muss es noch immer auf dem alten Handy weiterlaufen weil, noch nicht alle den neuen Kontakt haben.  Auf dem Neuen läuft nun ein zweites Signal.  Immerhin gibt es jetzt die Aliasse, so dass ich den auf meiner Homepage angeben kann, ohne dabei meine Handynummer zu exponieren.  Das macht die ganzen Fehler von Signal aber nicht wett.  Es läuft eigentlich nur noch als Notnagel, weil eben nicht alle meine Kontakte Threema habe - obwohl ich es denen schenken würde!
+
 
 # Vorwort 2021-12-01
 
