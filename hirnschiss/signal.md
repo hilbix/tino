@@ -2,7 +2,7 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
-# 2024-07-28 Signal-Kontakten nicht weiterleitbar
+# 2024-07-28 Signal-Kontakte nur unsicher weiterleitbar?
 
 - Ja, man kann tatsächlich Signal-Kontakte **auf sichere Weise** an andere Weiterleiten
   - Ohne deren Telefonnummer zu kennen (die rückt Signal nicht raus)
