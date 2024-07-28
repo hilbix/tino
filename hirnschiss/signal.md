@@ -2,6 +2,22 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
+# 2024-07-28 Signal-Kontakten nicht weiterleitbar
+
+- Ja, man kann tatsächlich Signal-Kontakte an andere Weiterleiten
+  - Ohne deren Telefonnummer zu kennen (die rückt Signal nicht raus)
+- Das geht auch ohne die Mithilfe der Signal-Kontakte
+- Allerdings ist das nur durch einen Trick möglich, der von Signal vermutlich gar nicht antizipiert wurde.
+
+Mein entsprechender Kommentar bei [https://youtu.be/HEKj_kPp1qM]:
+
+------------
+
+SCHALTET BITTE MAL EUER HIRN EIN bevor man solch einen GEFÄHRLICHEN UNSINN wie diesen hier verbreitet!  Für die Übertragung eines Kontakts von einem Signal an ein anderes den UNSICHEREN Kontaktmanager vom Handy zu verwenden bedeutet, nicht nur das Kind mit dem Bade auszuschütten, sondern es dabei auch gleich noch in einen aktiven Vulkan zu kippen!  Also, VERBIETET SIGNAL BITTE DEN ZUGRIFF AUF DIE KONTAKTE und versucht es dann nocheinmal.  Oh, geht net?  Ach nee!  Und wie sieht der Workaround aus?  Ich habe nichts wirklich Brauchbares gefunden.  Aber es geht so:  Der ERSTE Kontakt ist der, den man weiterleiten will.  Der ZWEITE Kontakt ist der, an den der erste Kontakt weitergeleitet werden soll.  Der ZWEITE Kontakt muss nun mit mir eine Gruppe erstellen (so dass der ZWEITE Kontakt in der Gruppe Admin ist).  Dann kann ich dieser Gruppe den ERSTEN Kontakt hinzufügen - dadurch erhält der Admin einen Hinweis mit dem zweiten Kontakt und kann sich anschließend mit ihm direkt (auch außerhalb der Gruppe) unterhalten (wenn er jemals herausfindet, wie er klicken muss - viel Spaß beim Suchena, es geht, nur wurde es mal wieder fast perfekt versteckt).  Man kann also SEHR WOHL Kontakte von einem Signal zu einem beliebigen anderen übertragen, OHNE ÜBER DEN UNSICHEREN KONAKTMANAGER vom Handy ZU GEHEN, wobei das allerdings vollkommen unnötig kompliziert und fehleranfällig konstruiert wurde!  Signal hat lieber eine GEFÄHRLICH UNSICHERE VARIANTE implementiert, statt einer sicheren, klar verständlichen und leicht verwendbare Option, einen Signal-Kontakt direkt zu teilen.  Ich habe Softwarekatastrophen wie Signal noch nie verstanden.  Da gibt man sich wirklich sehr viel Mühe, etwas wirklich Gutes zu konstruieren, um es aus nicht nachvollziehbaren Gründen letztendlich mit Nachbrenner an einer Wand zerschellen zu lassen.
+
+------------
+
+
 # Vorwort 2021-12-01
 
 Das, was hier steht, sind meine ureigenen militanten Gedanken, die mir bei sowas unwillkürlich kommen.
