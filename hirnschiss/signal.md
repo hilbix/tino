@@ -20,6 +20,25 @@ SCHALTET BITTE MAL EUER HIRN EIN bevor man solch einen GEFÄHRLICHEN UNSINN wie 
 
 Nachtrag:  Ich habe versucht, Signal von einem Handy auf ein Neues zu übertragen.  Hat irgendwie nicht geklappt - die PIN wollte einfach nicht funktionieren!  Deshalb muss es noch immer auf dem alten Handy weiterlaufen weil, noch nicht alle den neuen Kontakt haben.  Auf dem Neuen läuft nun ein zweites Signal.  Immerhin gibt es jetzt die Aliasse, so dass ich den auf meiner Homepage angeben kann, ohne dabei meine Handynummer zu exponieren.  Das macht die ganzen Fehler von Signal aber nicht wett.  Es läuft eigentlich nur noch als Notnagel, weil eben nicht alle meine Kontakte Threema habe - obwohl ich es denen schenken würde!
 
+- Das Problem bei Signal ist, dass es schier unbrauchbar implementiert wurde.
+- Das Problem bei Threema ist, dass es deutlich zu teuer ist.
+
+Was man braucht ist ein SICHERER Kryptomessenger, der:
+
+- Kostenlos funktioniert
+- Ohne eigene Infrastruktur auskommt
+- Und ohne Abstriche für den Notfalleinsetz geeignet ist
+
+Notfall?  Ein typischer Notfall ist z.B. Es ist **alles verlorengegangen**.
+
+Haus, Hof, Handy, Computer, Mailzugang, Geld, telefonische Erreichbarkeit, Adresse.  Alles nur noch ein einziger rauchender Krater.  Und das Ganze passierte OHNE dass jemand anderes davon etwas mitbekam.
+
+Wie nehme ich in diesem Fall auf SICHERE Art und Weise KONTAKT zu jemand anderem auf?
+
+Ich besorge mir also ein neues Handy.  Das hat zwar freies Internet, aber keine Telefonnummer, weil ich mir das momentan nicht leisten kann.  Und alles was ich weiß ist die Homepage des anderen - auf der aber weder eine Telefonnummer steht noch sonstwas.
+
+Welcher Cryptomessenger funktioniert in diesem Fall?  Und zwar mindestens so komfortabel und gut wie Mail funktionieren würde, wäre es auch nur ansatzweise brauchbar (bei mir kommen pro Minute 2-3 Mails rein, denn jeder Trottel schickt Mails rum wie gestört.  Nee, das ist komplett unbrauchbar).
+
 
 # Vorwort 2021-12-01
 
