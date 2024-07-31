@@ -104,6 +104,8 @@ So everything is hidden in plain sight.  You always are able to deduce the next 
 you have done previously.  Everything should be a single step only.  So no double-step things needed,
 like "activate ZFS with a password".  Nope.  First password, then activate.  Step by step.
 
+> I call this the ["follow the yellow brick road"])https://en.wikipedia.org/wiki/Yellow_brick_road) design principle.
+
 Keep that in mind.  Hence native ZFS encryption is good.  And this text here is about native ZFS encryption.
 
 However if you try to boot from encrypted ZFS you cannot separate the steps "activate OS" from
