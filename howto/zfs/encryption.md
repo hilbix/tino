@@ -20,6 +20,39 @@ So here are the gory details.  Found out the worst possible hard way you probabl
 
 > This is an intermediate save to protect against disaster strikes.
 
+### Ubuntu 24.04
+
+Ubuntu stores the key to unlock the encrypted ZFS devices on a ZVOL named `kezstore` on pool `rpool`
+which contains an `ext4` filesystem which is LUKS encrypted.  So the sequence to unlock ZFS is
+following clumsy recipe:
+
+```
+# zfs get type rpool/keystore
+NAME            PROPERTY  VALUE   SOURCE
+rpool/keystore  type      volume  -
+
+# blkid /dev/zvol/rpool/keystore 
+/dev/zvol/rpool/keystore: UUID="7f56886b-e96e-497d-af5d-302bd0b47e52" TYPE="crypto_LUKS"
+
+# ls -al /dev/zvol/rpool/keystore
+lrwxrwxrwx 1 root root 9 Jul 31 19:16 /dev/zvol/rpool/keystore -> ../../zd0
+
+# cryptsetup open /dev/zvol/rpool/keystore rpool-keystore
+Enter passphrase for /dev/zvol/rpool/keystore rpool-keystore: 
+
+# mkdir -vp /run/keystore/rpool
+mkdir: created directory '/run/keystore'
+mkdir: created directory '/run/keystore/rpool'
+
+# mount -r /dev/mapper/rpool-keystore /run/keystore/rpool/
+
+# zfs load-key -a
+1 / 1 key(s) successfully loaded
+
+# umount /dev/mapper/rpool-keystore
+# cryptsetup close /dev/mapper/rpool-keystore
+```
+
 ## About encryption
 
 There are several ways how to encrypt ZFS.
