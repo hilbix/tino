@@ -22,8 +22,16 @@ Ich selbst fahre bald 4 Jahre reinelektrisch und war davor schon Pluginhybrid un
 Das war aber nicht weil ich so einer dieser Elektroautofanatiker bin, sondern
 weil es so ziemlich nichts unkultivierteres gibt, als Autos mit Verbrennungsmotor!
 
-Als BEV-Fahrer sehe ich die deutlichen Probleme bei der Elektrifizierung
-des LKW-Verkehrs.  Aber dazu gibt es schlicht keine Alternative!
+> Es mag sein, dass ein Bentley kultivierter ist.  Nur kann ich mir so ein
+> Fahrzeug halt einfach nicht leisten!
+>
+> Ich habe kein Luxusauto, sondern einen schlichten fast vollausgestatteten eGolf.
+> Weil er günstig ist und mir seine 200km Winterreichweite vollkommen ausreicht.
+>
+> Aber jeder, wie er meint, was er braucht.
+
+Als BEV-Fahrer bemerke ich die deutlichen Probleme bei der Elektrifizierung
+des LKW-Verkehrs.  Aber dazu gibt trotzdem keine Alternative!
 
 Auch wenn ich niemals wieder in meinem Leben einen Verbrenner fahren will,
 bin ich nicht strikt dagegen.  Denn Verbrenner haben ihre Nische!  In Sibirien bei
