@@ -55,7 +55,10 @@ Aber, und hier spielt das Dogma eine große Rolle, wenn es der "Mensch gemacht h
 Mit dem Dogma verlassen wir sogar das Feld der politischen Diskussion und widmen uns ganz und gar
 dem reinen Wunschdenken, dem Dogma das wir gerade vertreten.  Und wir wissen ja, wie gut uns
 Dogmen in der Vergangenheit gedient haben.  Mit der Inquisition (die übrigens oft besser war
-als ihr Ruf, wir hören hier nur von den schlimmen Fällen wie Galileo), oder der Holocaust.
+als ihr Ruf, wir hören hier nur von den schlimmen Fällen wie Galileo), oder der Holocaust
+(dem man nicht einmal das allerklitzekleinwengiste Positive abgewinnen kann, außer vielleicht der Erkenntnis,
+dass wir nicht zulassen dürfen, dass sich etwas derartig grausames jemals wieder ereignet.
+Aber bisher wurde die Menschheit durch Erkenntnise und Wissen noch nie von Grausamkeiten abgehalten).
 
 Dogmen haben leider die unangenehme Eigenschaft, eine Art Eigenleben zu entwickeln und
 daraus ist, meistens jedenfalls, nichts gutes entstanden.  Anders als bei Moral und Anstand
