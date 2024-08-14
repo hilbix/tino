@@ -595,7 +595,7 @@ Vermutlich bekommt man keine Probleme, aber darauf kann man sich nicht verlassen
 
 Entweder ausschließlich solar.  Oder ausschließlich Strom von außen.  Oder Solar, ein- und rückspeisend.
 
-**Den Fall Stromnetz mit Zuspeisung von Solar aber nicht rückspeisend gibt es in Deutschland!**
+**Den Fall Stromnetz mit Zuspeisung von Solar aber nicht rückspeisend gibt es in Deutschland (rein rechtlich anscheinend) nicht!**
 
 Obwohl das die derzeit **sinnvollste und günstigste aller Betriebsarten** ist,
 sobald das Haus durch intelligente Steuerung in der Lage ist,
