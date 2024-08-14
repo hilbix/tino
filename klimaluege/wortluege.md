@@ -6,7 +6,7 @@ Also, worüber sprechen wir überhaupt?
 
 ## Die Wortlüge
 
-Der wissenschaftlich/fachliche Begriff lautet "Klima".  Das Klima unterliegt ist etwas, das wir
+Der wissenschaftlich/fachliche Begriff lautet "Klima".  Das Klima ist etwas, das wir
 **messen und prognostizieren**.  Aber vor allem versurchen wir es zu verstehen.
 
 Das tun wir mit wissenschaftlichen Methoden in denen wir statistische, korrelative und kausale Zusammenhänge
