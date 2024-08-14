@@ -40,7 +40,7 @@ eine poltische Dimension erhalte, die man auf keinen Fall mehr abstreiten kann.
 Das ändert aber nichts daran, dass der Begriff ein reines Politikum darstellt.
 
 Ob das gut oder schlecht ist, darüber darf man streiten.  Ich finde schlecht, dass die Poltitik
-hinter dem Klimawaandel zu kurz kommt.  Dass den Leuten eben nicht klar ist, dass jemand,
+hinter dem Klimawandel zu kurz kommt.  Dass den Leuten eben nicht klar ist, dass jemand,
 der das Wort "Klimawandel" in den Mund nimmt, das Feld der Wissenschaft verlassen und das Feld
 der Politik betreten hat.  Dass hier eben nicht mehr Tatsachen, sondern Meinungen disktutiert
 werden.  Und genau dass das den Leuten selbst gar nicht klar ist, worüber sie gerade reden,
