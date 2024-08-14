@@ -70,7 +70,7 @@ dogmatisiert, sind aber keine Dogmatischen Begriffe sondern Begriffe aus Wissens
 
 Bitte behaltet im Hinterkopf:
 
-- Wer wissenschaftlich vorgehet, der spricht über das Klima.
+- Wer wissenschaftlich vorgeht, der spricht über das Klima.
 - Wer poltitisieren will, der spricht über den Klimawandel.
 - Wer dogmatiersieren will, der spricht dann vom Menschengemachten Klimawandel.
 
