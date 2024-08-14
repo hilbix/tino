@@ -285,7 +285,7 @@ Wow.  Ist das noch irgendwie zu toppen?
 # Klimalüge
 
 Ich jedenfalls nenne all dies "Klimalüge".  Diesen ganzen Komplex an Unfähigkeit, Unwille,
-falscher Moralisiererei und dümmlichen Politikergebrabbel.
+falscher Moralisiererei und dümmlichem Politikergebrabbel.
 
 Und ach ja, diejenigen, die wenigstens etwas tun wollen, werden dann von so Leuten wie BSW
 als die Gefahr schlechthin bezeichnet.  Klar doch.
