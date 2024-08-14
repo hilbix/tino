@@ -31,7 +31,7 @@ eine Meinung.  Meinungen sind gut und wichtig und wir müssen sie ernst nehmen. 
 
 Trotzdem sind Meinungen eben nicht wissenschaftlich.  Sie unterliegen vor allem einem Confirmation Bias.
 Ob das gut oder schlacht ist ist hier irrelevant.  Es geht um die Tatsachen, die verschwiegen wird.
-Es geht um die Klimalüge, die wir leben.  Und genau das tun wir:  Wir verwechseln Meinungen mit Tatsachen.#
+Es geht um die Klimalüge, die wir leben.  Und genau das tun wir:  Wir verwechseln Meinungen mit Tatsachen.
 
 Auftritt "Klimawandel".  Während **"Klima" das wissenschaftliche Wort ist**, ist
 **"Klimawandel" ein politischer Begriff**.  Immer, wenn jemand über "Klimawandel" redet
