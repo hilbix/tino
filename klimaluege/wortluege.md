@@ -21,7 +21,7 @@ Da ist nirgendwo eine Klimalüge.  Das Klima lügt nicht.  Und hört "echten" Kl
 die sagen tatsächlich die Wahrheit.  Und wenn man sie nach ihrer persönlichen Meinung fragt,
 dann sind sie alle höchst besorgt.
 
-Aber höhrt ihnen bitte nicht nur zu.  Versucht auch zu verstehen, was sie sagen.  Und ganz besonders,
+Aber hört ihnen bitte nicht nur zu.  Versucht auch zu verstehen, was sie sagen.  Und ganz besonders,
 was sie nicht sagen!  Interpretiert da bitte nichts hinein.  Da gibt es nichts zu interpetieren.
 Sie sagen wie es ist.  Und fertig.  Aber auch eben nicht mehr.  Das "mehr" ist dann die persönliche
 Meinung des Klimawissenschaftlers.  Diese ist fundiert und gut begründet, aber trotzdem eben nur
