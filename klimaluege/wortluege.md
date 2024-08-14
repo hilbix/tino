@@ -294,5 +294,5 @@ Nee, ich bin auch nicht unbedingt auf dem Kurs der Grünen.  Aber die versuchen 
 zu bewegen!  Wenn, wie ich finde, zwar mit den vollkommen falschen Mitteln, aber immerhin
 versuchen sie etwas zu tun, statt einfach nur **konzeptlos dagegen** zu sein!
 
-Aber hey, was soll's.  Bringt ja doch nichts.  Aber wenigstens konnte ich hier ein Wenig von meinem Permafrust loswerden.
+Aber hey, was soll's.  Bringt ja doch nichts.  Wenigstens konnte ich hier ein Wenig von meinem Permafrust von der Seele reden.
 Bevor er dann morgen wieder weiter ansteigt.  Denn [Entropie kann nicht sinken](https://de.wikipedia.org/wiki/Zweiter_Hauptsatz_der_Thermodynamik#Entropie).
