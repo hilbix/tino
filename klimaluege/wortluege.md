@@ -63,7 +63,7 @@ Aber bisher wurde die Menschheit durch Erkenntnise und Wissen noch nie von Graus
 Dogmen haben leider die unangenehme Eigenschaft, eine Art Eigenleben zu entwickeln und
 daraus ist, meistens jedenfalls, nichts gutes entstanden.  Anders als bei Moral und Anstand
 (nicht selten stehen Moral und Anstand im krassen Widerspruch).  Beides wird viel zu oft
-dogmatisiert, sind aber keine Dogmatischen Begriffe sonde Begriffe aus Wissenschaft und Politik
+dogmatisiert, sind aber keine Dogmatischen Begriffe sondern Begriffe aus Wissenschaft und Politik
 (Moral ist der wissenschaftliche, Anstand der poltische).
 
 ### TL;DR
