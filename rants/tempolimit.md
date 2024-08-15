@@ -130,7 +130,7 @@ Und bitte keine Milchmädchenrechungen wie beim HVO100.  Der ist ja noch mindest
 Wenn wir die Energiewende nachhaltig beschädigen wollen und gewillt sind, eine zusätzliche 400 Jahres-Hypothek in die Zukunft
 aufzunehmen, dann, und nur dann, bringen eFuels die Verbrenner, CO2-mäßig, tatsächlich auf denselben Nenner wie BEV.
 
-> 400 Jahre.  Das ist die Zeit, die ein Wald benötigt, um sich von selbst zu regnerieren, wenn man sie in Ruhe lässt.
+> 400 Jahre.  Das ist die Zeit, die ein Wald benötigt, um sich von selbst zu regnerieren, wenn man ihn in Ruhe lässt.
 > Das stammt zwar aus einer vagen Aussage, aber etwas besseres konnte ich dazu bisher nicht finden.
 > Deshalb nehme ich mal als gegeben an, dass sich Biomasse binnen 400 Jahre regenerieren kann, wenn man sie passend in Ruhe lässt.
 > **Wer es besser weiß, der kann es mir ja hier bei GitHub mitteilen!**
