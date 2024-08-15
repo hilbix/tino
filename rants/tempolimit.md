@@ -246,6 +246,7 @@ Die 100 sollten dann nur für NICHTAUTONOM fahrende Fahrzeuge gelten.  Was aber 
 
 Ich kenne einige Kurven, die nicht beschränkt sind, aber die man nicht gut genug einsehen kann, um bei unvorhersehbaren
 Hindernissen (Hirsch) noch rechtzeitig anzuhalten.  Stimmt, da darf man dann nicht so schnell fahren.  Tut nur jeder.
+Das ist der Quatsch mit den 100!
 
 Level 4 Fahrzeuge fahren da übrigens dann auch 100.  Nur mit dem Unterschied, sie können noch rechtzeitig anhalten.
 Weil die reagieren im Millisekundenbereich und "wissen", dass an dieser Stelle der Bremsweg auf jeden Fall ausreicht.
