@@ -10,7 +10,7 @@ so lange ist das generelle Tempolimit auf Autobahnen reine kontraproduktive Auge
 
 Kontraproduktiv, weil wir dann behaupten können, wir tun etwas, obwohl es nicht nur äußerst wenig bringt,
 sondern auch deutlich negative Auswirkungen hat oder haben wird,
-die wir, wenn sie eintretten, gar nicht sicher deduzieren können.
+die wir, wenn sie eintreten, gar nicht sicher deduzieren können.
 
 Sprich, wir wissen nicht, ob das Gute das Schlechte überwiegt.  Gerade wenn das Gute derart gering zu sein scheint
 wie es sich darstellt, ist die Frage nach der Verhältnismäßigkeit gegeben:
