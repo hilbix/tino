@@ -4,9 +4,9 @@
 
 Ich bin generell für Tempolimits.  Aber nur dort, wo sie sinnvoll sind.
 
-Obwohl es mich inzwischen nicht mehr betrifft bin ich deshalb weiterhin gegen ein Tempolimit auf den Autobahnen.
+Obwohl es mich inzwischen nicht mehr betrifft bin ich deshalb weiterhin gegen ein generelles Tempolimit auf den Autobahnen.
 So lange wir keine Tempolimits dort einführen oder sinnvoll nutzen wo es deutlich mehr bringt,
-so lange ist das Tempolimit auf Autobahnen reine kontraproduktive Augenwischerei.
+so lange ist das generelle Tempolimit auf Autobahnen reine kontraproduktive Augenwischerei.
 
 Kontraproduktiv, weil wir dann behaupten können, wir tun etwas, obwohl es nicht nur äußerst wenig bringt,
 sondern auch deutlich negative Auswirkungen hat oder haben wird,
