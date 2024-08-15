@@ -211,7 +211,9 @@ Sprich, der Fahrer fährt eigentlich nimmer sondern "lenkt" das Fahrzeug nur noc
 Das Leben könnte wirklich sehr einfach sein.  Vatern braucht kein zweites limitiertes Auto mehr.  Wenn der 15-Jährige Sohn es mal haben will,
 dann kann er einfach damit losfahren.  Und er ist dann auch auf Landstraßen kein Road-Block mehr der nur 45 fährt, weil das Auto ja übernimmt.
 
-> Und Vatern kann auf der App nachsehen, was das Auto gerade tut.
+> Und Vatern kann auf der App nachsehen, wo sich Sohnemann gerade mit dem Auto rumtreibt.
+>
+> Und ach ja die Tochter, wo bleibt die?  Die ist erst 13 und schlauer als ihr Bruder und lässt sich fahren, mit dem Level 5-Auto von Muttern ;)
 
 Alles super einfach.  Und damit kann dann jemand mit AM sogar auf der Autobahn fahren.  Weil da das Auto mit Level 4 übernimmt.
 
