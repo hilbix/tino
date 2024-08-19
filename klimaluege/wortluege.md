@@ -64,7 +64,7 @@ Dogmen haben leider die unangenehme Eigenschaft, eine Art Eigenleben zu entwicke
 daraus ist, meistens jedenfalls, nichts gutes entstanden.  Anders als bei Moral und Anstand
 (nicht selten stehen Moral und Anstand im krassen Widerspruch).  Beides wird viel zu oft
 dogmatisiert, sind aber keine Dogmatischen Begriffe sondern Begriffe aus Wissenschaft und Politik
-(Moral ist der wissenschaftliche, Anstand der poltische).
+(Moral ist der wissenschaftliche, Anstand der politische).
 
 ### TL;DR
 
