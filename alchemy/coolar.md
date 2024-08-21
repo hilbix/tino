@@ -6,7 +6,7 @@ Der erste Eintrag in dieser Reihe: 2018-04-14
 
 ## COOLAR
 
-- http://coolar.de
+- ~~http://coolar.de~~ https://coolar.co/
 
 ### Motivation
 
