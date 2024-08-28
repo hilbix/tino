@@ -2,6 +2,31 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
+
+# 2024-08-28 You must be kidding, right?  But that's not funny at all!
+
+![image](https://github.com/user-attachments/assets/e2cbba45-beec-4fea-80f8-691dd2fb108a)
+
+Leute, wirklich, macht mal ein Reality-Check.  Wie viele Menschen auf diesem Planeten wissen, wie so etwas geht?
+
+Das ist in etwa so als ob man von einem einem EV-Fahrer verlangt, dass er den Benzinmotor von seinem Auto
+selbst auseinandernimmt um die Zylinderkopfdichtung zu ölen.
+
+> Hints:
+> - EVs haben keinen Benzinmotor
+> - Die Zylinderkopfdichtungen ölt man nicht
+
+Was bitte ist so schwer daran
+
+- den QR-Code Bildschirmfüllend anzuzeigen
+- und den Kontrast entsprechend einzustellen
+
+Nein, stattdessen zeigt man den QR mit einem Trauerrand an, so dass Smartphones diesen unmöglich erfassen können,
+weil der Trauerrand alles kaputtmacht.  Und das im Jahr 2024!  Leute, das ist keine Note 6 mehr, das ist ein instant durchgefallen und mindestens 100 Jahre lang Nachsitzen!  Während mich Bomben auf dem Oktoberfest nicht terrorisieren,
+das, was ihr da abliefert, liebe Signal-Leute, **das terrorisiert mich**!  Hört also bitte auf, Terroristen zu sein,
+und fangt mal ein bisschen Hirn ein (ich empfehle dazu den Film Starship Troopers, so geht man mit Bugs um)!
+
+
 # 2024-07-28 Signal-Kontakte nur unsicher weiterleitbar?
 
 - Ja, man kann tatsächlich Signal-Kontakte **auf sichere Weise** an andere Weiterleiten
