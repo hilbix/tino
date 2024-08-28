@@ -15,6 +15,34 @@ Usability at its worst.  No way that I ever can recommend this to others.  This 
 
 > Sadly I must use this crap because else **others get into trouble**.  But really, this is complete garbage.
 
+Ja, klar, "alles muss sicher sein!".  Fürn Arsch!  If Freiheit so aussehen würde, wären wir nicht frei,
+sondern in ein Korsett gezwängt, in dem man nicht einmal atmen kann.
+
+Ja, klar, "das dürfen wir nicht anbieten, weil das evtl. für andere eine Gefahr darstellt".  Verstehe ich ja.
+Warum also kein Flag zu setzen "ich bin mehr als nur total paranoid, deswegen dürfen meine Nachrichten nicht gesharet
+werden".  So wie das mit den automatisch sich selbstvernichtenden Nachrichten (was Signal nicht garantieren kann).
+
+Das ist dann die BITTE an andere, dass sie das nicht machen.  Nicht mehr.  Signal kann ja dann zurückmelden,
+dass der andere dieser Bitte nicht nachkommt, so dass derjenige darauf reagieren kann.
+
+So sieht ein Schuh aus.  Aber das, was ihr da macht, sorry, nein, das ist nicht einmal Augenwischerei,
+das ist schlicht nur destruktiv.  Denn .. ich kann das alles umgehen.  Ich.  Ich ganz alleine.
+
+> Und das gilt vor allem für Stories!  Ich kann die PERMANENT FÜR IMMER speichern.  Bei mir werden die also auch noch
+> in 1 Million Jahre (sofern mein Datenarchiv überlebt, man kann das auf Granit sichern)  verfügbar sein.
+>
+
+Also, wenn ich das sowieso kann, warum macht ihr es ALLEN ANDEREN so schwer das auch zu tun?
+Denn es NICHT zu tun bedeutet Scheinsicherheit.  Weil die ANDEREN denken, dass es nicht geht, weil ihr das nicht anbietet.
+
+**Es gibt nichts schlimmeres als Scheinsicherheit!** 
+
+Also was soll dieser Scheiß?  Wie kommt ihr überhaupt auf unsäglich hyperbrunzdumme Ideen wie Stories,
+anstatt die Dinge so anzubieten, dass man die Leute nicht komplett im Regen stehen lässt?
+
+Gegen euch ist der Rote-Faden-Typ in John Brunners "Morgenwelt", der vor dem Fernseher sitzt und immer
+sagt "Mein Gott, was für eine Phantasie ich habe" ja geradezu ein Genie!
+
 
 # 2024-08-28 You must be kidding, right?  But that's not funny at all!
 
