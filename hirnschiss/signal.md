@@ -2,7 +2,7 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
-# 2024-08-28 Usability at is worst!
+# 2024-08-28 Usability at its worst!
 
 ![image](https://github.com/user-attachments/assets/14f72c9f-6f5d-4162-b53c-662e350b9286)
 
