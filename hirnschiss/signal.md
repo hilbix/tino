@@ -40,8 +40,9 @@ Denn es NICHT zu tun bedeutet Scheinsicherheit.  Weil die ANDEREN denken, dass e
 Also was soll dieser Scheiß?  Wie kommt ihr überhaupt auf unsäglich hyperbrunzdumme Ideen wie Stories,
 anstatt die Dinge so anzubieten, dass man die Leute nicht komplett im Regen stehen lässt?
 
-Gegen euch ist der Rote-Faden-Typ in John Brunners "Morgenwelt", der vor dem Fernseher sitzt und immer
-sagt "Mein Gott, was für eine Phantasie ich habe" ja geradezu ein Genie!
+Gegen euch ist der komplett durchgenkallte Rote-Faden-Typ in John Brunners "Morgenwelt",
+der vor dem Fernseher sitzt und immer sagt "Mein Gott, was für eine Phantasie ich habe",
+ja geradezu ein Genie!
 
 
 # 2024-08-28 You must be kidding, right?  But that's not funny at all!
