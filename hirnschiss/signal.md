@@ -2,6 +2,19 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
+# 2024-08-28 Usability at is worst!
+
+![image](https://github.com/user-attachments/assets/14f72c9f-6f5d-4162-b53c-662e350b9286)
+
+Really?  Then, what is Signal Desktop for?
+
+As the connection to Signal permanently breaks, you cannot rely on it to see the messages.
+Hence if the phone breaks, everything breaks.
+
+Usability at its worst.  No way that I ever can recommend this to others.  This is just unusable crap.
+
+> Sadly I must use this crap because else **others get into trouble**.  But really, this is complete garbage.
+
 
 # 2024-08-28 You must be kidding, right?  But that's not funny at all!
 
