@@ -11,6 +11,8 @@ Der GitHub-Editor packt leider Uploads nicht ins Repo - was ich eigentlich erwar
 >
 > Leute, ich denke hier immer grundsätzlich an Dinge wie eine Offline Lab Situation,
 > also die vollständige(!) Mitnahme eines Repos per USB-Stick etc.
+>
+> Und wie ist das eigentlich mit der Vault?  Sichert die auch die GitHub-Assets korrekt mit?
 
 Folgendes schrieb ich dazu in mein README hier, inzwischen habe ich das durch einen Link auf diese Seite ersetzt:
 
