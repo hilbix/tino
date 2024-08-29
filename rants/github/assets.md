@@ -10,7 +10,7 @@ Der GitHub-Editor packt leider Uploads nicht ins Repo - was ich eigentlich erwar
 > den sich so jemand wie ich zusammengebastelt hat, sondern die z.B. ein Teil vom offiziellen Debian sind?
 >
 > Leute, ich denke hier immer grundsätzlich an Dinge wie eine Offline Lab Situation,
-> also die Mitnahme eines Repos per USB-Stick etc.
+> also die vollständige(!) Mitnahme eines Repos per USB-Stick etc.
 
 Folgendes schrieb ich dazu in mein README hier, inzwischen habe ich das durch einen Link auf diese Seite ersetzt:
 
