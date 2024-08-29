@@ -128,4 +128,12 @@ Sofern die sowieso Vollzugriff haben und keinen gesonderten Deployment-Key benö
 >   - Vielleicht können GitHub-Actions das ja irgendwie.
 >   - Vielleicht kann man Deployment-Keys ja irgendwie auf einen speziellen Branch einschränken, so dass sie nur PRs machen können
 > - Ich habe bisher schlicht keine Ahnung, wie sich GitHub das ohne Zweitaccount vorstellt.
-
+>
+> Mist, ich muss mir unbedingt mal wieder ein aktuelles GitLab heranzüchten um zu sehen,
+> ob man das passend hinhacken kann, um Automaten auf bestimmte Branches einzuschränken.
+> Mein momentanes GitLab ist uralt, weil massiv umgehackt, denn ich brauchte schreibbare Deployment-Keys.
+> Das hatte es damals hat nocht und als ich jemandem bei GitLab anhaute,
+> dass ich schreibbare Deployment-Keys wie bei GitHub brauche, bekam ich etwas in der Art zu hören,
+> dass niemand soetwas braucht weshalb GitLab das auch nicht unterstützen wird.
+>
+> Wenn ich es richtig mitbekommen habe, hat GitLab ja inzwischen schreibbare Deployment-Keys ..
