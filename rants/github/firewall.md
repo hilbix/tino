@@ -26,6 +26,18 @@ Summary:
 >
 > As a naming:  Instead account `XXXX` use account `XXXX-fw`
 
+**IMPORTANT NOTE:**  According to the rules, it is forbidden to create a secondary free account,
+As individuals are only allowed to one single free account!  If you have multiple accounts,
+all except a single one must be paid accounts!
+
+> Hence you can implement a firewall for (currently) $48 per year.  However, some minor VPS, which is able
+> to do everything you want with `git`, usually costs less than that.  So I think a GitHub Team
+> account is far too expensive for just that purpose alone.  (Note that you cannot use it for something
+> else, as the paid account is used as firewall and hence cannot provide anything else.
+> Vice versa would be problematic because, if you run out of money, it is easier to drop the firewall
+> than change the plan on the main account.  And please remember people living below the poverty threshold!
+> These should also be able to afford the same protection as anybody else on this planet.)
+
 
 # GitHub Firewall
 
