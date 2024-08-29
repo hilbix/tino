@@ -1,26 +1,6 @@
 [![Asset-Status](https://api.cirrus-ci.com/github/hilbix/tino.svg?branch=master)](https://cirrus-ci.com/github/hilbix/tino/master)
 
-Kann mich bitte mal jemand aufklären, wie man den GitHub-Editor korrekt anwenden kann?  Danke!  
-Denn wenn obiges einen Fehler angezeigt, dann habe ich es mal wieder gehörig verbockt, vermutlich dank dieses Editors!
-
-Statt meine unermüdliche Faulheit zu überwinden habe ich dann wahrscheinlich den GitHub-Editor verwendet,
-und dabei mal wieder eine der unendlichsten aller Dummheiten begangen:
-
-Nämlich in dem Editor eine Grafik per Copy&amp;Paste hochzuladen!
-
-Das landet dann nicht in der Git-Historie, sondern irgendwo außerhalb meines Begreifens!
-
-> Ich weiß selbstredend, was GitHub-Assets sind, denn ich würde diesen Schlonz gerne global sperren!
->
-> Dass ich das weiß ändert aber kein Stück an meiner Meinung.
-> Im Gegenteil, es verhärtet meinen Standpunkt auf unveränderlich!
-> GitHub heißt nun einmal GitHub und nicht AssetHub.
->
-> Aber selbst wenn, würde ich immer noch erwarten, dass hinter den Assets eine komplette Versionskontrolle steckt.
-> Wir sind schließlich nicht mehr im Mittelalter sondern schreiben schon das 3. Jahrtausend.
-> Nur scheinen da halt noch nicht alle angekommen zu sein.
->
-> (FWIW [nutze ich Versionskontrolle schon länger als es Linux gibt](https://www.ibiblio.org/pub/Linux/apps/graphics/capture/ppic0.5.lsm))
+Wenn da "build failing" steht (oder ganz oben ein rotes X neben der Commit-Message), dann habe ich es [mal wieder gehörig mit dem GitHub-Editor verbockt](rants/github/assets.md) und dieses Repo bedarf einer dringenden Reparatur.  Warum?  Weil es sonst Sachen enthält, die es nicht enthält.  Äh .. ja .. Logik a la GitHub würde ich sagen ..
 
 
 # Tinos Zettelkasten
