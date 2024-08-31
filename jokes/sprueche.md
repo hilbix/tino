@@ -170,3 +170,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-07-14 AT&amp;T ist die erste Firma, der es gelungen ist, [mehr Kundendaten zu verlieren](https://www.heise.de/news/Mega-Sicherheitspanne-Cyberkriminelle-ergattern-Daten-fast-aller-AT-T-Kunden-9800343.html), als sie Kunden haben.
 
 - 2024-08-31 Mich interessiert nicht, warum etwas nicht geht.  Mich interessiert stattdessen, warum etwas überhaupt geht!
+
+- 2024-08-31 Ich leide nicht an Political Correctness.  Ich leide wegen ihr.
