@@ -172,3 +172,6 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-08-31 Mich interessiert nicht, warum etwas nicht geht.  Mich interessiert stattdessen, warum etwas überhaupt geht!
 
 - 2024-08-31 Ich leide nicht an Political Correctness.  Ich leide wegen ihr.
+
+- 2024-09-04 Der heutige Respekt hat keine Jugend mehr vor dem Alter.
+
