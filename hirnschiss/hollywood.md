@@ -14,7 +14,7 @@
 - Knopfzellen (von Fishbeacons) halten ewig (mehr als 3 Jahre unter Dauerbelastung)
 - Beacons senden ihre Position je schneller je näher Du ihnen kommst
 - Glaube niemals Experten die Du nicht selbst bestochen hast.
-- Schall breitet sich optisch aus:  Explosionen hört man nur, wenn man gerade hinsieht.
-- Schalte Deine Geräte (wie Sonar) erst ein, wenn es schon längst zu spät ist
-- Wenn Du vor Haien fliehst, springe vom sicheren Land erst einmal ins Wasser
+- Schall breitet sich optisch aus:  Explosionen hört man nur, wenn man gerade hinsieht.  (Die nächste Stufe ist in "Lost":  Das Monster hört man nur, wenn man weiß, dass das, was man gerade ansieht, das Monster ist)
+- Schalte Deine Geräte (wie Sonar) erst ein, wenn Du weißt, dass es schon längst zu spät ist
+- Wenn Du vor Haien im Wasser fliehst, springe vom sicheren Land erst einmal ins Wasser
 - Haie sind Tribbles
