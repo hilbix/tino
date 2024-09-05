@@ -8,8 +8,20 @@ Ein Netflix-Film mit Jennifer Lopez
 > produzieren können.  Und es gibt wirklich beim allerbesten Willen keinen Grund, warum dieser Megamüll
 > ins Drehbuch geschrieben wurde.  Das ist nämlich weder Cool noch sonstwas, das ist einfach nur Gülle.
 
-Ich verstehe nicht, warum Schauspieler in derart schlechten Filmen mitspielen.  Kamera, technische Umsetzung,
-Spezialeffekte etc. alles handfest, also ordentlich umgesetzt.  Aber dieses Drehbuch ist mal wieder ein Lowlight.
+Das Beste am ganzen Film ist wenn der Abspann anfängt.
+Nicht nur, weil man dann den Film mit diesem komplett hirntoten Drehbuch endlich überstanden hat,
+sondern vor allem, weil da Kate Bush spielt.
+
+### Zusammenfassung
+
+Eine skrupellose Kartellkillerin muss ihre Brut vor ihrem Kartell retten, das sie dem FBI ans Messer geliefert hat.
+Das FBI sieht dem blutigen Gemetzel vollkommen tatenlos zu, weil das die sinnfreie Aneinanderreihung von
+Drehbuchszenen gestört hätte.
+
+### TL;DR
+
+Ich verstehe nicht, warum Schauspieler derart schlechte Drehbücher akzeptieren.  Kamera, technische Umsetzung,
+Spezialeffekte etc. alles handfest, also ordentlich umgesetzt.  Aber dieses Drehbuch ist mal wieder ein wahnsinniges Lowlight.
 
 Leute, ernsthaft?  Was ihr da - vollkommen ohne Not - abliefert, nominiere ich mal zum Schlonz des Jahres 2023.
 
@@ -184,3 +196,55 @@ Weil man es ja während der Entführung abschaltet, damit ich nicht um Hilfe ruf
 > Mir ist beim besten Willen kein Wort eingefallen, mit dem man etwas bezeichnen kann,
 > das nochmals um Größenordungen beschissener ist als aboluter Hirnschiss.
 
+Wenn jemand in ein Ärzteverbundsystem einen Patienten einträgt, dann hat das Kartell sofort alle Informationen
+und kommt mit einer ganzen Armee oder zwei.
+
+Das FBI hingegen, das dieses Kartell überwacht (wenn nicht, sorry, nee, echt) pennt und bemerkt nichts,
+nicht einmal wie das Kartel einen militärartigen Konvoi durch Alaska transportiert.  Alles klar?!?
+
+Und der Boss ist natürlich in der Lage, aus einem Schneemobil eine Aktive Guided Bomb zu machen,
+natürlich ohne jede notwendige Nachsteuerung, weil so ein Ding, wenn man den Lenker mit flexiblen
+Seilen festzurrt ja auf Kilometer hinweg auf jedem beliebigen Terrain absolut geradlinig unterwegs sein wird!
+
+Denn so ein Schneemobil, das wissen wir, darf von einem Drehbuch ja niemals abweichen.
+
+> Also, wenn ihr schon beim Drehen sicher Probleme hattet, das Ding auf Kurs zu halten,
+> dann sollte euch das vielleicht Stoff zum Nachdenken geben.  Warum muckt da eigentlich niemand auf?
+> Haben sich alle auch ihre letzte Hirnzelle weggekokst oder wie kann es sein, dass überhaupt jemand
+> auf die Idee kommt, einen derartigen Schwachsinn tatsächlich in einen teuren Film umzusetzen?
+>
+> Ich meine, es wäre sinnvoller, das Geld gleich zu verbrennen, als sich auch noch derart plakativ
+> als unendlicher Volldepp zu verewigen!  Und überhaupt, wieso tut das eigentlich nicht weh, so dumm zu sein,
+> und warum gibt es Geldgeber, die diese Form der Dummheit auch noch fördern?
+
+Und wann fährt man sich fest?  Wenn es das Drehbuch verlangt, natürlich.  Alles klar, sonst funktioniert
+das Timing vom Dehbuch selbstredend nicht.
+
+> Sprich, das Kartell ist nicht auch nur besser als Allwissend, es ist sogar Präkognitiv, um zu wissen,
+> wann es wie wo sein muss, damit das Drehbuch funktioniert.  Spaceballs, irgenwer?
+
+Und sie wollen sie töten.  Also ist es natürlich logisch, dass die bis an die Zähne bewaffneten Kartellschergen
+nicht selbst feuern.  Selbst wenn sie sie perfekt im Fokus haben.
+
+Äh, wie war das mit der dämlichen Szene bevor sie die Körperpanzerung abgelegt hat?
+
+Immerhin bleibt das Drehbuch sich selbst treu und ist kein Plagiat, sondern kupfert sogar die dämlichsten Ideen
+bei sich selbst ab.
+
+> Nur so nebenbei:  Warum muss sie den Tarnanzug in der Szene ausziehen?
+> Damit man die beiden Kämpfer auch aus der Ferne besser unterscheiden kann!
+
+Ach ja, die Tochter kann genauso zoomen wie das Auto, das rammte.
+
+Nicht nur das Timing des Drehbuchs ist brutal schlecht, auch die "überraschenden" Wendungen sind mehr als absurd.
+
+Und schade, leider haben sie den Film mit dem letzten Schuss dann endgültig vergeigt.
+Denn ich spoilere, dass der ganze Scheiß natürlich ein Happy End haben muss.
+Also dass die liebende Massenmörderin selbstredend ihre Tochter retten kann,
+indem sie sie mit dem Hirn von Boss 2 vollspritzt.
+
+Ich wünschte mir, das wäre das eine Geschichte von Roald Dahl, sauber umgesetzt, ohne die vollkommen unnötigen
+Drehbuchpatzer (denn jede einzelne Szene hätte es in dieser Form nicht gebraucht) und einen bösen Schluss.
+
+Game Of Thrones hat bewiesen, dass das möglich ist (aber auch da haben sie es ja geschafft, den Abgang zu verkacken).
+Doch wenn ein Drehbuch dermaßen vergeigt wird, kann man so etwas selbstredend ebenfalls nicht erwarten.
