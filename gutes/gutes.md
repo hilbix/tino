@@ -10,7 +10,7 @@ Das muss auch mal gesagt werden.  Denn ansonsten lade ich hier in meinem Zettelk
 Es dürfte klar sein, dass alle Angaben hier vollkommen willkürlich und subjektiv sind und deshalb reine Meinung darstellen.
 
 
-## List guter Dinge
+## Liste guter Dinge
 
 Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten Dinge inzwischen wirklich suchen, da sie in der ganzen anderen Scheiße untergeht.
 
