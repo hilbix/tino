@@ -78,7 +78,7 @@ In diesem Sinne frohe Weihachten, denn das kommt auch immer schneller, als man d
 
 > Verrückte Welt:
 >
-> X verwende ich seit mindestens 1989,
+> [X](https://x.org/) verwende ich seit mindestens 1989,
 > bin aber weder auf Facebook noch Instragram noch Twitter ..
 
 Für das Impressum siehe [https://valentin.hilbig.de/](https://valentin.hilbig.de/)
