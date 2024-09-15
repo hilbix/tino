@@ -14,13 +14,15 @@ Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten
 
 > Die Sortierung der jeweiligen Teilliste ist, wenn möglich, in chronologischer Reihenfolge.  Meiner Chronologie.
 
-### Protokoll
+### Standard
 
 - [Deutsches Grundgesetz](https://www.gesetze-im-internet.de/gg/pr_ambel.html) und wie!
   - Vor allem die ersten 20 Artikel (die eigentlich inzwischen 24 sind)
   - Und bitte niemals die [Präambel](https://www.gesetze-im-internet.de/gg/pr_ambel.html) vergessen!
-- [Internet](https://de.wikipedia.org/wiki/Internet), das ich für mich schon länger [nutze](https://datatracker.ietf.org/doc/html/rfc527) [als](https://datatracker.ietf.org/doc/std10/) [es](https://datatracker.ietf.org/doc/html/rfc114) [das](https://datatracker.ietf.org/doc/html/rfc5536) WWW gibt
+- [Internet](internet.md), das ich für mich schon länger [nutze](https://datatracker.ietf.org/doc/html/rfc527) [als](https://datatracker.ietf.org/doc/std10/) [es](https://datatracker.ietf.org/doc/html/rfc114) [das](https://datatracker.ietf.org/doc/html/rfc5536) WWW gibt
 - [Unicode](https://unicode.org/) insbesondere [dieser](https://www.unicode.org/charts/nameslist/n_1F300.html#1F595)
+- [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02016R0679-20160504) trotz kleinerer Probleme ein großer Wurf
+  - Dass es noch so gut wie nirgendwo wirklich hart durchgesetzt wird und außerdem oftmals total falsch verstanden wird, steht auf einem vollkommen anderen Blatt
 
 ### Software
 
