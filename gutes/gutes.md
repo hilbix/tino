@@ -7,6 +7,8 @@ Das muss auch mal gesagt werden.  Denn ansonsten lade ich hier in meinem Zettelk
 >
 > Obwohl (vollkommen unspezifische) "sie" wohl auch schon daran arbeiten, einem das nachhaltig zu vermiesen.
 
+Es dürfte klar sein, dass alle Angaben hier vollkommen subjektiv sind und deshalb reine Meinung darstellen.
+
 
 ## List der guten Dinge
 
