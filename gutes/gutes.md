@@ -14,6 +14,9 @@ Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten
 
 > Die Sortierung der jeweiligen Teilliste ist, wenn möglich, in chronologischer Reihenfolge.  Meiner Chronologie.
 
+Es geht hier um Dinge, die ansonsten nichts mit mir selbst zu tun haben.  Denn Eigenlog stinkt, oder so ähnlich ..
+
+
 ### Standard
 
 - [Deutsches Grundgesetz](https://www.gesetze-im-internet.de/gg/pr_ambel.html) und wie!
@@ -68,3 +71,8 @@ Honorable mention:
 - [Deutschland](https://de.wikipedia.org/wiki/Deutschland) ähm .. sic, auch wenn es redundant ist.  Diese Listung meine ich.
   - Ich bin sowas von Deutsch, das kriegt niemand aus mir raus.
   - Außer vielleicht die AFD?
+
+
+# PS
+
+- Hier im Text befindet sich ein Tippfehler, der dort genau so stehen soll!  <!-- Spoiler: Eigenlog -->
