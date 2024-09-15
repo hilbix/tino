@@ -43,6 +43,8 @@
 - 2019-12-07 [`--` nenne ich ab sofort Parameterneua](https://www.heise.de/forum/heise-Security/News-Kommentare/Entfernte-Angreifer-koennten-das-Authentifizierungssystem-von-OpenBSD-umgehen/Fehlende-Parameterneua-Mit-PAM-waere-das-nicht-passiert/posting-35733351/show/)
 
 - 2020-01-27 Wahnsinn für Fremdsprachler: Mal wieder das Für und Wider für den [Widder](https://de.wikipedia.org/wiki/Hydraulischer_Widder) abwägen.
+  - Nachtrag 2024-09-15:  Und versucht ihnen mal das Wort "umfahren" zu erklären.  Mit all seinen Facetten.
+    Weitere Worte mit in gewisser Weise diametralen Bedeutungen sind z.B. "abgefahren", "überdacht" und "einstellen".
 
 - 2020-01-27 [in Abwesenheit eines Maxwellschen Dämons entkommt nichts dem 2. Fundamentalsatz der Thermodynamik](https://www.heise.de/forum/heise-Security/News-Kommentare/Emotet-IT-Totalschaden-beim-Kammergericht-Berlin/Dagegen/posting-36011734/show/)
 
