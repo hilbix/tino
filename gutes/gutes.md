@@ -12,7 +12,7 @@ Es dürfte klar sein, dass alle Angaben hier vollkommen willkürlich und subjekt
 
 ## Liste guter Dinge
 
-Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten Dinge inzwischen wirklich suchen, da sie in der ganzen anderen Scheiße untergeht.
+Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten Dinge inzwischen wirklich suchen, weil sie in der ganzen anderen Scheiße unterzugehen drohen.
 
 > Die Sortierung der jeweiligen Teilliste ist, wenn möglich, in chronologischer Reihenfolge.  Meiner Chronologie.
 
