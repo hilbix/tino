@@ -14,7 +14,8 @@ Diese Liste ist vermutlich nie ganz vollständig.  Allerdings muss man die Guten
 
 > Die Sortierung der jeweiligen Teilliste ist, wenn möglich, in chronologischer Reihenfolge.  Meiner Chronologie.
 
-Es geht hier um Dinge, die ansonsten nichts mit mir selbst zu tun haben.  Denn Eigenlog stinkt, oder so ähnlich ..
+Es geht hier um Dinge, die ansonsten nichts mit mir selbst zu tun haben, denn sonst müsste ich hier zumindest meinen Sohn aufführen uvm.
+Ich lasse das deshalb hier weg, denn Eigenlog stinkt, oder so ähnlich ..
 
 
 ### Standard
