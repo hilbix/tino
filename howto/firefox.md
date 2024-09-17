@@ -2,26 +2,42 @@
 
 ## TL;DR
 
-`about:config` (like Windows you often need to restart FF to allow changes to take effekt)
+`about:config` (restart FF to allow changes to take effekt, like Windows)
 
 - `identity.fxaccounts.enabled`: `false` (disable FF account)
-- `signon.management.page.fileImport.enabled`: `true` (allow import of logins)
+
+- `signon.management.page.fileImport.enabled`: `true` (allow import, too)
   - `about:logins`: "Import from a File..." shows up at the `...` menu
+
 - `devtools.chrome.enabled`: `true` (enables Dev-Console Ctrl+Shift+J)
   - to show all extensions (there are trainloads of hidden ones):
     ```
     Components.utils.import("resource://gre/modules/AddonManager.jsm", null).AddonManager.getAllAddons().then(_ => _.filter(addon => addon.type == "extension")).then(_=>_.forEach(_=>console.log(_.name,_.getResourceURI().spec)))
     ``` 
-- `extensions.sdk.console.logLevel`: `all` (enable all output to console for:)
+
+- `extensions.sdk.console.logLevel`: `all` (enable all output to console)
   - `about:debugging#/runtime/this-firefox` then click on `Inspect`
+
 - `toolkit.legacyUserProfileCustomizations.stylesheets`: `true` to enable `userChrome.css`
 
 `"$HOME"/.mozilla/firefox*/*/chrome/userChrome.css` [hacks](https://www.userchrome.org/how-create-userchrome-css.html):
 
-- `#tabbrowser-tabs .tabbrowser-tab .tab-close-button { display:none!important; }` remove `x` on Tabs (must be tested again)
+- Must start with:
+  ```
+  @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* only needed once */
+  ```
+
+- remove `x` on Tabs (untested):
+  ```
+  #tabbrowser-tabs .tabbrowser-tab .tab-close-button { display:none!important; }
+  ```
   - still closes Tabs on middle mouse button (missed the `+` button by a fragment of a pixel?  You are doomed!  Thanks, Mozilla!)
-- `toolbarbutton.bookmark-item > .toolbarbutton-icon { display:none!important; }` kill all icons on bookmark toolbar
-  - Either be drowned or die from thirst; As a glass of water is disallowed!  (the default Microsoft strategy)
+
+- Kill all(!) icons on bookmark toolbar:
+  ```
+  toolbarbutton.bookmark-item > .toolbarbutton-icon { display:none!important; }
+  ```
+  - You cannot control individual icons, only all or nothing.
 
 
 ## Unsolved
@@ -182,3 +198,18 @@ But one thing cannot be denied:  The world lost some freedom.  Freedom to do goo
 If you think, this is good, then think again.  As Entropy cannot get lower, it is impossible to make the world more easy.
 All you can do is to increase the disturbance.
 As Mozilla did.  They cannot deny this fact.  And they cannot deny, that they are the only one, who is responsible for this.
+
+### Kill all icons on Bookmark bar
+
+`"$HOME"/.mozilla/firefox*/*/chrome/userChrome.css`:
+
+```
+toolbarbutton.bookmark-item > .toolbarbutton-icon { display:none!important; }
+```
+
+Note that this removes all icons.
+So there is no good way to disable the icon on one bookmark and enable them
+on others.
+
+Mozilla follows the default Microsoft strategy here:  
+Either be drowned or die from thirst; As a glass of water is strictly disallowed!
