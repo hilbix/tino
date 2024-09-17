@@ -1,5 +1,26 @@
 # Firefox Tricks
 
+## TL;DR
+
+`about:config` (like Windows you often need to restart FF to allow changes to take effekt)
+
+- `identity.fxaccounts.enabled`: `false` (disable FF account)
+- `signon.management.page.fileImport.enabled`: `true` (allow import of logins)
+  - `about:logins`: "Import from a File..." shows up at the `...` menu
+- `devtools.chrome.enabled`: `true` (enables Dev-Console Ctrl+Shift+J)
+  - `Components.utils.import("resource://gre/modules/AddonManager.jsm", null).AddonManager.getAllAddons().then(_ => _.filter(addon => addon.type == "extension")).then(_=>_.forEach(_=>console.log(_.name,_.getResourceURI().spec)))` to show all extensions (there are trainloads of hidden ones)
+- `extensions.sdk.console.logLevel`: `all` (enable all output to console for:)
+  - `about:debugging#/runtime/this-firefox` then click on `Inspect`
+- `toolkit.legacyUserProfileCustomizations.stylesheets`: `true` to enable `userChrome.css`
+
+`"$HOME"/.mozilla/firefox*/*/chrome/userChrome.css` [hacks](https://www.userchrome.org/how-create-userchrome-css.html):
+
+- `#tabbrowser-tabs .tabbrowser-tab .tab-close-button { display:none!important; }` remove `x` on Tabs (must be tested again)
+  - still closes Tabs on middle mouse button (missed the `+` button by a fragment of a pixel?  You are doomed!  Thanks, Mozilla!)
+- `toolbarbutton.bookmark-item > .toolbarbutton-icon { display:none!important; }` kill all icons on bookmark toolbar
+  - Either be drowned or die from thirst; As a glass of water is disallowed!  (the default Microsoft strategy)
+
+
 ## Unsolved
 
 ### Let FF ESR stay aliave
@@ -33,7 +54,7 @@ Here is how to import your logins from another FF without data leaving your comp
   - `signon.management.page.fileImport.enabled`
   - `true`
 - `about:logins`
-  - Import from a File..." shows up at the `...` menu
+  - "Import from a File..." shows up at the `...` menu
 - After import
   - `about:config`
   - `signon.management.page.fileImport.enabled`
@@ -93,9 +114,9 @@ In about:config you need to enable
 
 first, then use
 
-	Strg+Alt+J
+	Ctrl+Alt+J
 
-to open Web-Console and enter JavaScript on Browser level.
+to open Web-Console and enter JavaScript on Browser level (or is it `Ctrl+Shift+J` now?)
 
 > I really have no idea why such important settings are disabled
 
@@ -118,7 +139,10 @@ which endangers people by downloding possibly trojaned version from the web inst
 
 ## Remove close button on all TABs
 
+> This is probably outdated, see TL;DR above for update
+
 FF56++ (until Mozilla decides to change it .. again .. and again .. as usual):
+
 ```
 for a in "$HOME"/.mozilla/firefox*/*;
 do
