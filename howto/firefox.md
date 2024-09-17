@@ -8,7 +8,10 @@
 - `signon.management.page.fileImport.enabled`: `true` (allow import of logins)
   - `about:logins`: "Import from a File..." shows up at the `...` menu
 - `devtools.chrome.enabled`: `true` (enables Dev-Console Ctrl+Shift+J)
-  - `Components.utils.import("resource://gre/modules/AddonManager.jsm", null).AddonManager.getAllAddons().then(_ => _.filter(addon => addon.type == "extension")).then(_=>_.forEach(_=>console.log(_.name,_.getResourceURI().spec)))` to show all extensions (there are trainloads of hidden ones)
+  - to show all extensions (there are trainloads of hidden ones):
+    ```
+    Components.utils.import("resource://gre/modules/AddonManager.jsm", null).AddonManager.getAllAddons().then(_ => _.filter(addon => addon.type == "extension")).then(_=>_.forEach(_=>console.log(_.name,_.getResourceURI().spec)))
+    ``` 
 - `extensions.sdk.console.logLevel`: `all` (enable all output to console for:)
   - `about:debugging#/runtime/this-firefox` then click on `Inspect`
 - `toolkit.legacyUserProfileCustomizations.stylesheets`: `true` to enable `userChrome.css`
