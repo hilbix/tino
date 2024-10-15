@@ -14,6 +14,6 @@ Der von mir verwendete Trick ist utlraeinfach, deshalb wundere ich mich, dass es
 
 Hinten an einer Zeile füge ich einfach ein paar Leerzeichen hinzu.  Der Decoder zählt die Leerzeichen und gibt eine entsprechende Zahl für passende Zeilen aus.
 
-So kann man dann problemlos steganographisch kommunizieren.  Und die Leerzechen findet man übrigens auch beim Zitieren.
+So kann man dann problemlos steganographisch kommunizieren.  Und die Leerzeichen findet man übrigens auch beim Zitieren.
 
 Mehr dazu, inklusive der dekodierten Botschaft, steht im [README vom Dekoderscript](https://github.com/hilbix/geheis), das setzt nur bash/sed/awk voraus, kann also z.B. mit Git-Shell unter Windows laufen.
