@@ -2,7 +2,7 @@
 
 > Der Decoder kommt noch, moment bitte ;)
 
-## 26.07.2024 Heise als Command and ControlCenter
+## 26.07.2024 HeiseC als Command and ControlCenter
 
 Ich habe [auf Heise ein Rätsel gepostet](https://www.heise.de/forum/heise-online/Kommentare/Malware-Verteilung-ueber-GitHub-Geister-Account-Netzwerk-entdeckt/Gewinnspiel-Wer-findet-die-geheime-Botschaft-in-diesem-Text-von-mir/posting-44247573/show/).
 
