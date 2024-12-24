@@ -178,3 +178,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-09-04 Der heutige Respekt hat keine Jugend mehr vor dem Alter.
 
 - 2024-09-15 [Ich bin sowas von Deutsch, das kriegt niemand aus mir raus. Außer vielleicht die AFD?](https://github.com/hilbix/tino/blob/master/gutes/gutes.md#sonstiges)
+
+- 2024-12-24 [Puppet is more Cathedral and Ansible more Bazaar](https://github.com/hilbix/tino/blob/master/howto/ansible/README.md)
