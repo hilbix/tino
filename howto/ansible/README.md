@@ -29,6 +29,7 @@
 > So I stay with (Open Source) Ansible, because it works, needs no server, needs no client, and is flexible enough.
 > Even that I find the YAML way to declare things far too inflated and ridiculously complex.
 
+Impatient? [Have a look into my Playbooks](https://github.com/hilbix/ansible)
 
 # HowTo Ansible
 
