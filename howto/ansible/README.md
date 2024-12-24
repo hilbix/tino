@@ -1,13 +1,13 @@
-> If you have a clean strictly organised machine Zoo, then probably Puppet is better.  (Note that I do not know Chef.)
+> If you have a clean strictly organised machine Zoo, then probably Puppet is better.  (Note that I do not know Chef nor others.)
 >
 > With Puppet you do not need to think about the targets or how something is done.  As ist is strictly organized,
 > you simply define the Puppet way to be your organization and everything is set up.
 >
 > However if you have a wild Zoo where each thingie is not strictly organized and perhaps needs special treatment,
-> then I think that Ansible is superior to puppet, as with Ansible you always know the sequence something happens.
+> then I think that Ansible is superior to Puppet, as with Ansible you always know the sequence something happens.
 > And quite often in the wild, there is a difference about how Puppet would do it and how it must be done.
 >
-> You can declare the sequence things must run to Puppet, that is right, but this is clumsy and takes away much strengths
+> You can declare the sequence things must run is Puppet, that is right, but this is clumsy and takes away much strengths
 > of Puppet.  Hence in a case where you do want certain things to be done in exactly the order you want,
 > Ansible is superior to Puppet, because that is how Ansible works.
 >
@@ -19,7 +19,15 @@
 > While in Ansible you need to explicitly know how it is done, such that you can do things in the right sequence.
 >
 > Ansible is good to be used on demand while things are implemented.  While Puppet is better for things,
-> which are fully designed before they are actually implemented.  **So Puppet is more Cathedral and Ansible more Bazaar.**
+> which are fully designed before they are actually implemented.
+>
+> **So Puppet is more Cathedral and Ansible more Bazaar.**
+>
+> However when I read the opinion of others, who know Chef or things like Salt etc., then it looks like Puppet is no
+> viable option anymore and others might be better.  Including, but not limited to Ansible.
+>
+> So I stay with (Open Source) Ansible, because it works, needs no server, needs no client, and is flexible enough.
+> Even that I find the YAML way to declare things far too inflated and ridiculously complex.
 
 
 # HowTo Ansible
