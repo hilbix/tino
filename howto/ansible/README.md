@@ -1,3 +1,27 @@
+> If you have a clean strictly organised machine Zoo, then probably Puppet is better.  (Note that I do not know Chef.)
+>
+> With Puppet you do not need to think about the targets or how something is done.  As ist is strictly organized,
+> you simply define the Puppet way to be your organization and everything is set up.
+>
+> However if you have a wild Zoo where each thingie is not strictly organized and perhaps needs special treatment,
+> then I think that Ansible is superior to puppet, as with Ansible you always know the sequence something happens.
+> And quite often in the wild, there is a difference about how Puppet would do it and how it must be done.
+>
+> You can declare the sequence things must run to Puppet, that is right, but this is clumsy and takes away much strengths
+> of Puppet.  Hence in a case where you do want certain things to be done in exactly the order you want,
+> Ansible is superior to Puppet, because that is how Ansible works.
+>
+> In a clean strictly organized Zoo this is different.  Nothing must get a special treatment there.  Things must
+> be pluggable together and scale, hence special treatment is a PITA.  Here lies the strength of Puppet:
+>
+> You no more declare how it is done but only what needs to be done and the dependencies.  The rest is handled by Puppet.
+>
+> While in Ansible you need to explicitly know how it is done, such that you can do things in the right sequence.
+>
+> Ansible is good to be used on demand while things are implemented.  While Puppet is better for things,
+> which are fully designed before they are actually implemented.  **So Puppet is more Cathedral and Ansible more Bazaar.**
+
+
 # HowTo Ansible
 
 I am always looking for doing things the most easy way.  With ease means "I do not have to think about it".
