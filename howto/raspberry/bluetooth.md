@@ -13,7 +13,7 @@ Then you do following as the logged in user (not `root`):
 
 ```
 rfkill unblock bluetooth
-service start bluetooth
+service restart bluetooth
 bluetoothctl
 ```
 
@@ -42,7 +42,8 @@ You now will see something like
 The `AA:BB:CC:DD:EE:FF` is the MAC address of the device.  To pair it say:
 
 ```
-pair AA:BB:CC:DD:EE:FF
+pair  AA:BB:CC:DD:EE:FF
+trust AA:BB:CC:DD:EE:FF
 ```
 
 My mouse is immediately connected afterwards.  Now I can use the Desktop's method to connect the keyboard, because this involves entering of a PIN.
