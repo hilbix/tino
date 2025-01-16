@@ -47,7 +47,7 @@ Nicht mitgeliefert werden:
 Das Gehäuse ist durchdacht.  Es bietet folgende Anschlüsse:
 
 - Vorne ist eine angeschraubte Platte
-  - USB-C Serielle Schnittstelle mit 115200 Baud, siehe `socat /dev/ttyACM0,b115200 -,cfmakeraw`
+  - USB-C Serielle Schnittstelle mit 115200 Baud, siehe `socat /dev/ttyACM0,b115200,rawer -,cfmakeraw`
   - 1 User-Button
   - 1 USB2.0-Anschluss
   - 3 LEDs mit verschiedenen Farben
