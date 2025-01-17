@@ -255,7 +255,12 @@ Das ergibt folgende Kommandos (die man auf dem Computer bequem ins Terminal past
 
 ```
 cd /tmp
-df -h .    # sollte 400 MB oder mehr anzeigen
+df -h .
+```
+
+Es sollten 400 MB oder mehr frei sein.
+ 
+```
 wget https://downloads.openwrt.org/snapshots/targets/mediatek/filogic/openwrt-mediatek-filogic-openwrt_one-squashfs-sysupgrade.itb
 wget https://downloads.openwrt.org/snapshots/targets/mediatek/filogic/sha256sums
 wget https://downloads.openwrt.org/snapshots/targets/mediatek/filogic/sha256sums.asc
@@ -306,7 +311,13 @@ und auf dem Router
 sha256sum -c -
 ```
 
-Und dann den Output vom ersten Rechner dort reinpasten und `C-D` eingeben (Ctrl+D).
+Und dann den Output vom ersten Rechner dort reinpasten (mit Return).  Es erscheint:
+
+```
+sha256sums: OK
+```
+
+Nun mit `C-D` (Ctrl+D) oder `C-C` abbrechen.
 
 Nun kann man den Systemupgrade durchführen:
 
