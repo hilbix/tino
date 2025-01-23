@@ -182,3 +182,5 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-12-24 [Puppet is more Cathedral and Ansible more Bazaar](https://github.com/hilbix/tino/blob/master/howto/ansible/README.md)
 
 - 2024-12-31 Wann feiern eigentlich die Ewiggestrigen Silvester?
+
+- 2025-01-24 [Aber hey, warum juckt mich das eigentlich? In 100 Jahren ist das alles kein Thema mehr. Dann ist die Menschheit entweder AGI. Oder tot. Oder beides.](https://www.heise.de/forum/heise-online/Kommentare/Meuterei-auf-der-ownCloud-Entwickler-wechseln-zu-OpenCloud/Ich-bin-mir-da-nicht-so-sicher/posting-44840210/show/)
