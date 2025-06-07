@@ -184,3 +184,6 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 - 2024-12-31 Wann feiern eigentlich die Ewiggestrigen Silvester?
 
 - 2025-01-24 [Aber hey, warum juckt mich das eigentlich? In 100 Jahren ist das alles kein Thema mehr. Dann ist die Menschheit entweder AGI. Oder tot. Oder beides.](https://www.heise.de/forum/heise-online/Kommentare/Meuterei-auf-der-ownCloud-Entwickler-wechseln-zu-OpenCloud/Ich-bin-mir-da-nicht-so-sicher/posting-44840210/show/)
+
+- 2025-06-07 Achim Wendler spricht das vielleicht genialste Schlusswort dieses Jahrzehnts, denn es ist wahr und sagt alles: ["Ich kommentiere nichts, was Sie sagen"](https://youtu.be/FOQFbDf9o_w?t=468)  Vielen Dank dafür!  (Leider sind die Kommentare unter dem Video - aus vermutlich gutem Grund - pausiert.)
+
