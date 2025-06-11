@@ -55,7 +55,7 @@ So the problem in this case is with Debconf parameters.
 
 Wash:
 
-    # DEBCONF_DEBUG=developer dpkg -D2 --configure --pending
+    # DEBIAN_SCRIPT_DEBUG=true DEBIAN_SCRIPT_TRACE=true DEBCONF_DEBUG=developer dpkg -D2 --configure --pending
     Setting up $PACKAGE (4.0~0lhm2) ...
     D000002: fork/exec /var/lib/dpkg/info/$PACKAGE.postinst ( configure  )
     + . /usr/share/debconf/confmodule
