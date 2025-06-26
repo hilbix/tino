@@ -1,7 +1,13 @@
-> T.B.D. not ready yet
 
 # Anatomy of a secure backup
 
+Best thing found so far:
+
+- [BUP](http://bup.github.io/)
+
+> Even that the rest here is not ready, I probably will not update this in future.
+>
+> TL;DR: Use BUP.  It probably does not get better.
 
 ## What are backups?
 
