@@ -3,6 +3,10 @@
 Well, there is good documentation out there.  But it is .. wrong way, like important last.
 This here tries to be short and comprehensive.
 
+See also:
+  - ​https://lwn.net/Articles/365835/
+  - https://lwn.net/Articles/366796/ 
+
 ## Kernel Debug (Trace Event)
 
 Everything is below this here:
