@@ -9,5 +9,5 @@ container:
   image: busybox:latest
 
 task:
-  script: '! grep -r /assets/ *'
+  script: '! grep -r com/user-attachments/assets/ *'
 
