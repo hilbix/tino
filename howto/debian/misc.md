@@ -14,6 +14,7 @@ Miscellaneous short notes
 ## Links
 
 - [System TAP](../stap.md)
+- [Some Unix tools](../unix.md)
 - Kernel Debugging with Ftrace
   - ​https://lwn.net/Articles/365835/
   - https://lwn.net/Articles/366796/ 
