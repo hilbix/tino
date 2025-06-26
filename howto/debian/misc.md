@@ -18,14 +18,6 @@ This is from me:
 - [AppArmor](../apparmor.md)
 - [AVAHI/mDNS](../avahi-mdns.md)
 - [ControlGroups](../cg.md)
+- [Kernel Trace (FTrace)](linux-kernel-trace.md)
 - [System TAP](../stap.md)
 - [Unix tools](../unix.md)
-
-
-## Noted
-
-This is from others:
-
-- Kernel Debugging with Ftrace
-  - ​https://lwn.net/Articles/365835/
-  - https://lwn.net/Articles/366796/ 
