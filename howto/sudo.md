@@ -15,7 +15,7 @@ WTF why is such an option present at all?
 Seems to be a well hidden secret, but following fixes that issue:
 
 ```
-echo '`Defaults !fqdn' > /etc/sudoers.d/fqdn`
+echo 'Defaults !fqdn' > /etc/sudoers.d/fqdn
 ```
 
 The most annoying part is, that errors like this usually do not happen in normal operation,
