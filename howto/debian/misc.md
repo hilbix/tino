@@ -12,9 +12,10 @@ Miscellaneous short notes
 ```
 apt install bpfcc-tools
 ```
-
 ```
 execsnoop-bpfcc -tUx
+```
+```
 exitsnoop-bpfcc
 ```
 
