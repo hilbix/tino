@@ -3,6 +3,8 @@
 # vim: ft=bash
 #
 # Pull GitHub asset links into the repo itself
+#
+# Version for 2025, YMMV (it was different in past and probably will change in future, too)
 
 cd "$(dirname -- "$0")" || exit
 
@@ -15,8 +17,21 @@ v() { local -n ____="$1"; ____="$(x "${@:2}")ERROR" && ____="${____%ERROR}"; }		
 r() { "${@:2}" < "$1"; }
 w() { "${@:2}" > "$1"; }
 
-# Disguise the URL a bit, so grep below does not fetch it
-URL="https://github.com/user-attachments/ass"ets/
+# Disguise the URL a bit, so grep below does not fetch it just by chance
+URL='https://github.com/user-att'achments/
+
+mime-img()
+{
+  local e="${2##*/}"
+  mime="image/$e"		# image/EXT from                  mime */EXT
+  out="${1##*/}.$e"		# UUID.EXT  from assets/$UUID and mime */EXT
+}
+
+mime-file()
+{
+  mime="application/${1##*.}"	# EXT      from files/NR/name.EXT
+  out="${1##*/}"		# NAME.EXT from files/NR/NAME.EXT
+}
 
 while	read -ru6 -d '' file;								# grep sends NUL terminated filenames
 do
@@ -28,23 +43,33 @@ do
 		o v TMP2 mktemp;
 		o v TMP3 mktemp;
 
+		# all OK.
+		# asset=assets/UUID		for images
+		# asset=file/NR/name.ext	for other uploaded files
+		case "$asset" in
+		(assets/*)	type=img;;
+		(files/*/*.*)	type=file;;
+		(*)		OOPS cannot understand: "$asset";;
+		esac
+
 		# fetch asset into TMP1 with headers in TMP2 and status in TMP3
 		o v CODE curl -g --location --output "$TMP1" --dump-header "$TMP2" -w '%{exitcode} %{size_download} %{content_type}' -- "$URL$asset";
 		o read a b c <<<"$CODE";						# exitcode size_download content_type
-		e="${CODE##*/}"								# extension (type) of the image
 		o v count r "$TMP1" wc -c;						# real count on filesystem
+
+		mime=MUSTbeSETinMIME-$type
+		out=MUSTbeSETinMIME-$type
+		o "mime-$type" "$asset" "$c";						# extract the matching mime type
 
 		# this deliberately fails when we do not get an image
 		# as this script is not yet prepared for anything else
-		o test ".0 $count image/$e" = ".$a $b $c";				# check the result being an image of correct size
+		o test ".0 $count $mime" = ".$a $b $c";					# check the result being an image of correct size and type
 		o fgrep -qix "content-length: $b"$'\r' "$TMP2";				# check the size in headers
 
-		# all OK
-
-		DIR="${file%/*}/img"
-		OUT="$DIR/$asset.$e"
+		DIR="${file%/*}/$type"
 		abs="$URL$asset"
-		rel="img/$asset.$e"
+		OUT="$DIR/$out"								# out is set above in mime-$type
+		rel="$type/$out"
 
 		[ -d "$DIR" ] || o mkdir "$DIR";					# create the image directory
 
