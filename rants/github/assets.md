@@ -70,7 +70,7 @@ Und was mich noch viel stärker wundert ist, dass das Zeug nicht auf Azure sonde
 Ein `curl` auf eines meiner Assets ergibt (das URL ist so seltsam geschrieben damit mein [checker script](../../.cirrus.yml) nicht anschlägt:
 
 ```
-curl -s -D- 'https://github.com/user-attachments/ass''ets/14f72c9f-6f5d-4162-b53c-662e350b9286' | grep ^location
+curl -s -D- 'https://github.com/user-att''achments/ass''ets/14f72c9f-6f5d-4162-b53c-662e350b9286' | grep ^location
 location: https://github-production-user-asset-6210df.s3.amazonaws.com/994093/362249671-14f72c9f-6f5d-4162-b53c-662e350b9286.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240828T130504Z&X-Amz-Expires=300&X-Amz-Signature=6bc5df04d30b8e8bd2a261431d65f42a2ad07d550e69212e056815a5c1f10af7&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=90519800
 ```
 
@@ -90,7 +90,7 @@ Das kann ich dann manuell überprüfen und committen.
 Vermutlich kann man das dann auch irgendwie in eine GitHub-Action ummünzen.
 Hat bei mir aber vorerst noch ein Geschmäckle, weil dann ein CI Vollzugriff auf das Repo nehmen kann.
 
-Und wir wissen ja "[To err is human; To really foul things up requires a computer](https://quoteinvestigator.com/2010/12/07/foul-computer/)" ([Backup](https://github.com/user-attachments/files/16796295/To.Err.is.Human.To.Really.Foul.Things.Up.Requires.a.Computer.Quote.Investigator.pdf))
+Und wir wissen ja "[To err is human; To really foul things up requires a computer](https://quoteinvestigator.com/2010/12/07/foul-computer/)" ([Backup](file/To.Err.is.Human.To.Really.Foul.Things.Up.Requires.a.Computer.Quote.Investigator.pdf))
 
 > Warum dieser Backup hier?  Weil ich keine Zeit habe, gebrochenen Links nachzugehe und [QI die WayBack verbietet](https://web.archive.org/web/20240000000000*/https://quoteinvestigator.com/2010/12/07/foul-computer/).  Es ist ein Oxymoron, Informationen zu verbreiten und zeitgleich deren Verbreitung zu verbieten.  Das PDF ist ein Ausdruck der Darstellung meines Browsers mit einem ordentlichen Verweis auf deren Original.  Was für wissenschaftliche Arbeiten gilt (bei diesen muss man eine zitatfähige Referenz beilegen, bei Webseiten bedeutet das eine Kopie), muss auch für den Bereich der freien Meinungsäußerung gelten.  Ohne verfügbare Quellen zitieren zu dürfen (ich zitiere ja nur einen Ausschnitt von denen) ist ein ordentlicher demokratischer Diskurs IMHO unmöglich, insbesondere da man sonst ja nicht sehen kann, worauf ich mich wirklich beziehe (da alles im Internet einem stetigen Wandel unterliegt).  Deshalb ist auch gerade der exakte Point-In-Time wichtig.  Ergo der Backup.  Und warum verwende ich QI?  Weil ich etwas gegen Fake-News habe!  Dies war die bisher beste Quelle die ich finden konnte und die mir gerade sinnvoll erscheint.  YMMV, aber ich jedenfalls habe dieses Zitat bisher immer [OEDO 808](https://www.imdb.com/title/tt0220218/) zugeordnet (dort habe ich es das erste Mal gehört), was offensichtlich aber eben nicht die Quelle zu sein scheint.
 
