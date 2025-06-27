@@ -8,6 +8,7 @@
 container:
   image: busybox:latest
 
+# Fail if there are GitHub references which are NOT under git control
 task:
-  script: '! grep -r com/user-attachments/assets/ *'
+  script: '! grep -r github\\.com/user-attachments/ *'
 
