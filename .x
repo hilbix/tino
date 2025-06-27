@@ -52,12 +52,17 @@ do
 		x cmp -s "$TMP1" "$OUT" || o cp --backup=t "$TMP1" "$OUT";		# copy the image into repo
 		o sync;									# dont become inconsistent on sudden power outage below
 
+		git add "$OUT";								# do not forget to add these
+
 		# now that we have the image in the repo, replace the link in the source to it
 		o sed -i "s (${abs//./\\.}) ($rel) g" "$file";				# replace the asset link (git tracks the change, so no backup needed)
+
 
 		o rm -f "$TMP1" "$TMP2" "$TMP3";					# cleanup (on sudden reboot the reboot does the cleanup for us)
 
 	done 6< <(o sed -n "s .*(${URL//./\\.}\\([^)]*\\)).* \1\\n gp" "$file");	# extract unwanted asset references
 
 done 6< <(x grep --null -l -r "$URL" *);						# iterate over all files with asset links
+
+o git status --porcelain;
 
