@@ -4,7 +4,7 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 # 2024-08-28 Usability at its worst!
 
-![image](https://github.com/user-attachments/assets/14f72c9f-6f5d-4162-b53c-662e350b9286)
+![image](img/14f72c9f-6f5d-4162-b53c-662e350b9286.png)
 
 Really?  Then, what is Signal Desktop for?
 
@@ -47,7 +47,7 @@ ja geradezu ein Genie!
 
 # 2024-08-28 You must be kidding, right?  But that's not funny at all!
 
-![image](https://github.com/user-attachments/assets/e2cbba45-beec-4fea-80f8-691dd2fb108a)
+![image](img/e2cbba45-beec-4fea-80f8-691dd2fb108a.png)
 
 Leute, wirklich, macht mal ein Reality-Check.  Wie viele Menschen auf diesem Planeten wissen, wie so etwas geht?
 
