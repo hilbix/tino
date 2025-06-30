@@ -16,6 +16,8 @@ Everything needs `root` as you are dealing with the kernel directly.
 
 - `apt-get install systemtap systemtap-doc`
   - You can leave `systemtap-doc` away if you like if you rather read manpages online
+- `apt-get install debuginfod`
+  - might be needed, too
 - `stap-prep`
   - Ubuntu 20.04: This downloads (via `apt`) all needed debug symbols of the currently running kernel
   - **Warning** This puts 5GB+ under `/usr/lib/debug/`.  Per kernel, of course.
@@ -23,6 +25,61 @@ Everything needs `root` as you are dealing with the kernel directly.
     That's right, as you need `linux-image-4.19.0-13-amd64-dbg` without `sym`.  WTF?
 - `stap -v -e 'probe oneshot { println("Hello World") }'`
   - This is not instant and takes a while to compile and run.
+
+### Ubuntu 24.04 fails
+
+The recipe above fails for me with Ubuntu 24.04.
+
+`/etc/apt/sources.list.d/ddebs.list`:
+```
+deb http://ddebs.ubuntu.com noble main restricted universe multiverse
+deb http://ddebs.ubuntu.com noble-updates main restricted universe multiverse
+```
+
+But
+
+```
+# stap -v -e 'probe oneshot { println("Hello World") }'
+Pass 1: parsed user script and 488 library scripts using 148200virt/120448res/11648shr/108388data kb, in 100usr/40sys/143real ms.
+Pass 2: analyzed script: 1 probe, 1 function, 0 embeds, 0 globals using 149652virt/122368res/12032shr/109840data kb, in 10usr/0sys/6real ms.
+Pass 3: translated to C into "/tmp/stapDXNaxs/stap_68ceca2adcea817a55712678146aaa66_1027_src.c" using 149784virt/122880res/12544shr/109972data kb, in 0usr/0sys/0real ms.
+In file included from /usr/share/systemtap/runtime/linux/access_process_vm.h:6,
+                 from /usr/share/systemtap/runtime/linux/runtime.h:315,
+                 from /usr/share/systemtap/runtime/runtime.h:26,
+                 from /tmp/stapDXNaxs/stap_68ceca2adcea817a55712678146aaa66_1027_src.c:21:
+/usr/share/systemtap/runtime/linux/access_process_vm.h: In function ‘__access_process_vm_’:
+/usr/share/systemtap/runtime/linux/stap_mmap_lock.h:10:43: error: ‘struct mm_struct’ has no member named ‘mmap_sem’; did you mean ‘mmap_base’?
+   10 | #define mmap_read_lock(mm) down_read(&mm->mmap_sem)
+      |                                           ^~~~~~~~
+/usr/share/systemtap/runtime/linux/access_process_vm.h:33:3: note: in expansion of macro ‘mmap_read_lock’
+   33 |   mmap_read_lock (mm);
+      |   ^~~~~~~~~~~~~~
+/usr/share/systemtap/runtime/linux/access_process_vm.h:63:36: error: passing argument 1 of ‘get_user_pages_remote’ from incompatible pointer type [-Werror=incompatible-pointer-types]
+   63 |       ret = get_user_pages_remote (tsk, mm, addr, 1, write, 1, &page, &vma);
+      |                                    ^~~
+      |                                    |
+      |                                    struct task_struct *
+```
+(and a few hundred more errors)
+
+Solution (see https://askubuntu.com/a/1173958):
+
+> Note that I am not convinced, that this is the right solution because this downloads something on your computer which is **unverified**!  Perhaps a microsecond before you do this somebody compromized the repo, as it is not signed!
+
+```
+apt remove systemtap
+apt install libboost-dev
+git clone git://sourceware.org/git/systemtap.git
+cd systemtap
+./configure && make && make
+make install
+```
+
+Now it works again:
+
+```
+hash -r; stap -v -e 'probe oneshot { println("Hello World") }'
+```
 
 ## Probes
 
