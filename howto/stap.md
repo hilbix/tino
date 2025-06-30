@@ -7,6 +7,7 @@ See also:
 - https://sourceware.org/systemtap/wiki/
   - https://sourceware.org/systemtap/man/
   - https://sourceware.org/systemtap/examples/
+  - https://sourceware.org/systemtap/tutorial.pdf
 - https://wiki.debian.org/SystemTap
 
 ## Getting started
