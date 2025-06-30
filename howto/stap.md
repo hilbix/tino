@@ -26,17 +26,26 @@ Everything needs `root` as you are dealing with the kernel directly.
 - `stap -v -e 'probe oneshot { println("Hello World") }'`
   - This is not instant and takes a while to compile and run.
 
+## Problems
+
+### "Guru mode" `-g` fails with `Invalid module format`
+
+```
+# stap -g -e 'probe oneshot { println("Hello World") }'
+ERROR: Couldn't insert module '/tmp/stapPu3dP4/stap_60e9ed8117298b3743496b850b4dbe36_1046.ko': Invalid module format
+WARNING: /usr/local/bin/staprun exited with status: 1
+Pass 5: run failed.  [man error::pass5]
+```
+
+Fix is to [add `-B CONFIG_MODVERSIONS=y`](https://sourceware.org/legacy-ml/systemtap/2019-q2/msg00097.html):
+
+```
+# rm -rf ~/.systemtap/cache/
+# stap -B CONFIG_MODVERSIONS=y -g -e 'probe oneshot { println("Hello World") }'
+Hello World
+```
+
 ### Ubuntu 24.04 fails
-
-The recipe above fails for me with Ubuntu 24.04.
-
-`/etc/apt/sources.list.d/ddebs.list`:
-```
-deb http://ddebs.ubuntu.com noble main restricted universe multiverse
-deb http://ddebs.ubuntu.com noble-updates main restricted universe multiverse
-```
-
-But
 
 ```
 # stap -v -e 'probe oneshot { println("Hello World") }'
@@ -62,7 +71,7 @@ In file included from /usr/share/systemtap/runtime/linux/access_process_vm.h:6,
 ```
 (and a few hundred more errors)
 
-Solution (see https://askubuntu.com/a/1173958):
+[Solution](https://askubuntu.com/a/1173958):
 
 > Note that I am not convinced, that this is the right solution because this downloads something on your computer which is **unverified**!  Perhaps a microsecond before you do this somebody compromized the repo, as it is not signed!
 
@@ -150,6 +159,8 @@ probe kernel.function("do_fsync").return { ns=(gettimeofday_ns() - @entry(gettim
 probe begin { printf("list of fsync() calls (does not catch 'sync's):\n") }
 ```
 
+> Nowadays this fails as `do_fsync` is inlined, so has no `.return` probe anymore.
+
 Suppress `fsync`s of a given process name (give the process name on commandline, see above to list names):
 
 - Based on https://sourceware.org/systemtap/examples/io/eatmydata.stp
@@ -170,6 +181,16 @@ probe kernel.function("do_fsync").return { if (pid2execname(pid()) == @1) try { 
 
 probe begin { printf("supressing fsync() from %s (outputs just the suppressed fildes)\n", @1) }
 probe error,end { printf("ok=%ld err=%ld\n", ok, err) }
+```
+
+> Nowadays this fails for the exact same reason, see above
+
+## Ubuntu 24.04
+
+`/etc/apt/sources.list.d/ddebs.list`:
+```
+deb http://ddebs.ubuntu.com noble main restricted universe multiverse
+deb http://ddebs.ubuntu.com noble-updates main restricted universe multiverse
 ```
 
 ## Ubuntu 20.04
