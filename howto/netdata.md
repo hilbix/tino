@@ -1,3 +1,12 @@
+# Netdata vs. Debian Trixie
+
+As [Netdata has been removed from Debian Trixie](https://bugs.debian.org/1107082) I am now looking for a good replacement.
+
+> There are proprietary repositories from NetData.  However I do not considere these a trustworthy replacement, as I do not know how good they defend their signing process.  As even Microsoft has show serious trouble in this respect, I do not think that a much smaller company will perform better in this respect.
+
+Read: I doubt, that I will extend this here up to a suitable usable level.  Sorry.  But it is not my fault that NetData was unable to stay in Debian.
+
+
 **This is not complete yet**
 
 > If you are puzzled, I am using [Hetzner Cloud](https://hetzner.cloud/).
