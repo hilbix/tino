@@ -1,5 +1,9 @@
 # Bilder-Jokes
 
+## 2025-10-15 nVIDIA
+
+![Da weiß ich echt nicht, was ich dazu sagen soll](img/NvidiaMWD.png)
+
 ## 2023-07-09 Google SPAM
 
 ![google-erkennt-sich-als-spam](img/google-erkennt-sich-als-spam.png)
