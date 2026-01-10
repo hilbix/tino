@@ -2,6 +2,46 @@
 
 Some recipes to HaProxy which are not exactly so straight forward.  Adapt accordingly.
 
+## Using `namespace`
+
+Using `namespace` with HaProxy is a bit of a nightmare.  Because when it does not work for any apparent reason.
+
+- It works fine in `bind` lines, as those are bound when HaProxy starts.
+  - But this also means, that the Namespace must be already available when HaProxy starts.
+  - Which is a real PITA if you work with dynamic namespaces!
+- However if seems not to work in `server` lines
+  - This is, because HaProxy does not "register" to these namespaces when it starts.
+  - This means, that it is able to startup even if the namespace is not yet available, which is good.
+  - However then all your `server` entries fail
+
+So we essential have two problems here, one which is very sad and one which I do not know how to solve at all!
+
+- The first problem is with namespaces not yet existing on startup.
+  - HaProxy just fails to start
+  - There is apparently no way to circumvent this
+- The second problem is that HaProxy is not able to gain access to namespaces after it has dropped privileges
+  - In the enterprise sector, there seems to be a workaround by placing `setcap cap_sys_admin` into the `global` section, but I was not able to verify this.
+  - Also this is a very bad and sad thing, as this thwarts security separation.
+
+### WORKAROUNDS
+
+- **If you have problems using `namespace` in `server` lines** stop using `user` and `group` in `global` section
+  - This, however, runs HaProxy fully privileged
+- **If you have problems using `namespace` in `bind` lines** then make sure the namespaces exist when starting or reloading HaProxy
+  - No other workaround is known here
+
+### Better solution
+
+A better solution would be that HaProxy runs some privileged process to access namespaces, and pass that file handles to the unprivileged processes.
+
+This can solve both problems:
+
+- The `bind` lines are delayed until the namespace becomes available
+- The `server` lines fail until the namespace becomes available
+
+However, this is not implemented.  Sadly.  (Perhaps I can do this on my own and patch HaProxy?)
+
+
 ## Use a configuration directory
 
 Newer HaProxy versions allow a directory as configuration.  But I do not know of any distribution which implements that.
