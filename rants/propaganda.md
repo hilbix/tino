@@ -58,9 +58,50 @@ Wichtigster Punkt hier:  Aller Content muss vollständig gemeinfrei sein und kos
 Zweitwichtigster Punkt hier ist, dass ich mir einen eigenen Kanal anlegen kann, über den der vorgefilterte Content abrufbar ist.
 
 - Dieser Kanal wird über die App (siehe unten) verwaltet.
-- 
-- 
-Die Plattform ist dafür gebaut,
+- Und ich kann diesen Kanal abonnieren, OHNE dass man das nachvollziehen kann.
+- Sprich, die Plattform rückt die Kriterien, die ich dem Kanal gegeben habe, nicht heraus.
+- Da aber die Daten der Kanäle öffentlich sind, bedeutet das, dass man den exakten Kanal, auf dem ich bin, nicht herausfinden kann.
+  - Das funktioniert mit einem Mix.  Ich abonniere also mehrere Kanäle mit einer Gewichtung.
+  - Und das wird an die Plattform verschlüsselt übertragen.
+
+Die Einbindung geschieht dabei strikt webbasiert.  Sprich, die Inhalte werden über HTTP bereitgestellt (bzw. HTTPS, oder HTTP/2 oder HTTP/3 oder was auch immer).
+
+Es gibt außerdem weitere Möglichkeiten wie `git` (welches ja auch webbasiert funktioniert).
+
+Technisch reicht also ein IFRAME auf einer Homepage und der Inhalt kommt von der Plattform.
+
+ABER ..
+
+.. es ist halt wichtig, dass ich den IFRAME auch selbst ausliefern kann.
+
+Das ist inbesondere für Overlay-Netzwerke wie ToR oder I2P notwendig.  Während ich davon ausgehe, dass die Plattform in beiden Netzen verfügbar gestellt wird (hauptsächlich für den anonymen Upload), gibt es aber viele weitere Overlay-Netzwerke.  Und es soll hier keine Vorentscheidung getroffen werden.
+
+Sprich: Jeder kann einen Proxy oder Cache oder Mirror der Plattform für sich selbst aufbauen.  Wobei "Mirror" wohl niemals vollständig sein kann, da die Plattform viel zu groß werden wird.
+
+Das ist sogar auf Dauer essentiell.  Denn die Plattform erscheint zwar zentralisiert, aber sollte nach und nach komplett dezentralisiert werden.
+
+> Mir schwebt sogar eine Infrastruktur vor, die vollständig Community-Driven ist,
+> so wie bei BitCoin.  Dann braucht es idealerweise nur einen Koodinator,
+> und alles ab da, inkl. Redundanz, kommt von der Community.
+
+Die Plattform wird nicht ganz so enorme Datenmengen wie Youtube oder PornHub speichern müssen,
+da die Beiträge ja kurz und prägnant sein sollen, aber der Speicheraufwand wird durchaus
+beachtlich sein.  Ein großer Vorteil ist, dass man sehr gut archivieren kann,
+da die Kanäle ja festlegen, was ausgeliefert wird.  So kann man ältere Dinge "wegarchivieren",
+und nur dann, wenn jemand doch darauf zugreifen will (Download), dann stellt man sie wieder bereit.
+
+Außerdem kann die Plattform auf externe Ressourcen zugreifen.  Niemand sagt, dass die Dateien lokal
+liegen müssen.  Sie können auch auf Plattformen wie GitHub oder sonstigen Hostern gespeichert sein,
+man kann also das freie Potential nutzen.  Alles was es dazu braucht ist halt ein Backup, falls
+man ein externer Hoster wegbricht.
+
+All das reduziert die Kosten.  Auch die für die Teilnahme.  Denn Verfügbarkeit ist alles.
+
+Wie ich es einbinde, darin bin ich also dann frei.  Ich kann wählen, woher die Daten stammen,
+und wie sie an meine Nutzer ausgeliefert werden.  Und wenn ich nicht mit dem, was die Plattform
+bietet oder wie sie es macht einverstanden bin, dann kann ich das alles halt selbst machen.
+
+Denn alles ist klipp und klar gemeinfrei (so lange ich die Dispute korrekt beachtet werden).
 
 
 ## Teilnahme
