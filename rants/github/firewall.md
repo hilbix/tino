@@ -1,3 +1,87 @@
+# Update 2026
+
+GitHub allows you to have a single Machine Account.  This is exactly what this here was about.  Hence this is obsolete now.
+
+Read:
+
+If you want to protect your account against security nightmares like Travis CI, you now can do this by:
+
+- Setting up a machine account
+- Push your precious repositories there
+- Then Travis-CI or any other can rampage on this machine account while your precious repos are still safe in your main account.
+
+# THANK YOU GITHUB!
+
+This is the right thing to do.  Sadly I became aware of this very useful new feature in 2026.  I dunno when they have introduced that.  I whish, I'd knew this more early.
+
+Also Machine accounts are very helpful to cache repos of others.  Hence this is how it works then:
+
+- Clone the other account's repo into your machine account to keep it safe for your pipeline
+  - No hassle if the origin goes away, force pushes, or does some other weird thing, as the repo is cloned in your machine account
+- This way you do no more need to clutter your own personal account with such backup-repos
+  - I already have tons of such clones, just to be sure that a `git submodule update --init --recursive` does not suddenly fail!
+  - As this happens just too frequently with foreign other repos!
+- And if you need to change a bit
+  - Clone it from your machine account (or the origin?)
+- You then can do push requests to your machine account
+  - And this way your machines can automatically take hold on your changes and process them
+
+So what I must do now, sigh, is:
+
+- Create a machine account for me
+  - For this I first need to have a good name for this (is there a good naming convention?  Anywhere?)
+- Identify all the safety-clones in my repo
+  - This is a bit of effort, because I have to change the submodule registries for this
+  - Note that I always use `git config --global url.https://github.com/MYACCOUNT/repo.git.insteadOf https://github.com/OTHERACCOUNT/OTHERREPO.git`
+  - So I do not need to change the `.gitmodule` files anywhere (I really like how `git` handles such things!)
+- Clone them into the machine account (from the old origin if it still exists!)
+  - Delete them from my own account (if they are not modified)
+- Update all the submodule URLs to use the copy of the machine account
+  - Note that I do not need to change `.gitmodules` for that, as there is
+    `git config --global url.https://github.com/MACHINEACCOUNT/repo.git.insteadOf https://github.com/OTHERACCOUNT/OTHERREPO.git`
+- And then create a mirror process to update all the repos in the machine account
+  - FF only, of course
+  - With backup of old/renamed branches
+  - Keeping a history, too.
+- This mirror process also **must** check if the machine account was vandalized by a third party
+  - Like Travis-CI which needs far too broad permission sets!
+
+Then I can add Code Coverage and other automated tasks to my repos I did not manage to use until now, because I considered it far too dangerous to allow them access to my account.
+
+THIS IS A LOT OF WORK!
+
+Please note that I am only talking of Public Repos.  AFAICS it makes not much sense to have private repos in the machine account, EXCEPT for keeping some machine logs or other machine private data (like settings the machines shall be able to update).
+
+One thing I perhaps will consider is auto-signing things on the machine account:
+
+- Each machine has its own private key for signing
+- This way I can detect which machine is responsible
+
+I did not use that for my own account, yet, because I consider automatic signing keys to be far too dangerous.  As anybody who gains access to the machine can do this signing.
+
+Well, yes, there are things like TPMs or HSMs.
+
+- But this hardware must be secured, such that nobody can get hold on it, not even for a short time.
+- It is easy to trick an HSM to sign something which is not authentic, hence a HSM does not improve the security much (it is just a tar-pit).
+- Therefor I am working on some Soft-HSM based on a Raspberry PI Zero.
+  - Zero, not Zero W!
+  - It then can be attached to something else (like a PI Zero W) which does the communication
+  - However I did not come around this until today (I have the hardware here, but not the time to do it properly)
+
+And no, you CANNOT implement this just on some PI or so.  There MUST be a hardware barrier / media break in the communication path.
+The idea behind this is, if the communication PI Zero W is compromized/hacked, you can throw it away.
+However due to the pure text only communication protocol between the PI Zero and the PI Zero W, all data on the PI Zero still is intact!
+
+> Note that the PI Zero will backup its data - asymmatrically encrypted - via the PI Zero W.  So it can send binary data, but not receive them.
+>
+> Yes, if it comes to firewalls, I am really paranoid.  Or said differently:  A bad firewall is worse then no firewall at all!  Stay alert!
+
+-------------------------------------------------------------
+
+# Below now mostly is obsolete now!
+
+As you can use a (single!) machine account.
+
 Summary:
 
 - [Cirrus CI](https://cirrus-ci.com) ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
