@@ -344,7 +344,7 @@ aber ich denke es wäre sinnvoll, alles auf bekannte und gut verstandene Weise z
 anstatt auf irgendetwas ohne Bodenhaftung zu setzen.
 
 In diesem Sinne, fragt nicht nur Politik, Juristen und Polizei, sondern vergesst bitte uns nicht,
-**die Admins, der den ganzen Scheiß am Ende für euch und uns alle ausbaden müssen!**
+**die Admins, die den ganzen Scheiß am Ende für euch und uns alle ausbaden müssen!**
 
 > Diesen Text habe ich in der Hoffnung verfasst, etwas Konstruktives zu der Diskussion um die VDS beizutragen.
 > Aber wie immer erwarte ich exakt gar nichts, denn uns Admins fragt man ja meistens erst dann, wenn sowieso alles bereits zu spät ist.
