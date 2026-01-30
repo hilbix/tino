@@ -83,7 +83,7 @@ Als Technischer Vorgang muss es außerdem resilient implementiert sein, damit es
 
 > Beispiel: Tesla-Mitarbeiter konnten (können?) unautorisiert Zugriff auf die Kameras von Teslas nehmen, und hätten (haben?) die Möglichkeit gehabt, Pärchen beim Sex zu filmen und dies auf Social-Media zu verbreiten.
 
-Das Problem dabei ist aber weniger der Missbrauch, mehr die Erosion der Vorgänge.  Wenn ein Vorgang jahre und jahrzehnte besteht, dann wird die Kontrolle laxer.
+Das Problem dabei ist aber weniger der Missbrauch, mehr die Erosion der Vorgänge.  Wenn ein Vorgang Jahre und Jahrzehnte besteht, dann wird die Kontrolle laxer.
 Damit das NICHT passiert, ist es notwendig, die Schnittstelle zu überwachen.  Aber aufgrund der sich stetig sich verändernden Notwendigkeiten und damit
 notwendigen Anpassungen von Prozessen ist es eine PITA (Pain In The Ass), wenn irgendwo eine Schnittstelle existiert, um die man sich permanent kümmern muss.
 Vor allem dann, wenn man gar nicht die richtige Stelle ist, um dies zu tun!
@@ -323,7 +323,7 @@ Es besteht also die Gefahr, dass ich einen Fehler begehe, und dann irrtümlich a
 
 Genau das Risiko kann ich bei etwas derart wichtigem wie dem Datenschutz nicht eingehen!
 Aus diesem Grund muss ich IMMER davon ausgehen, dass ICH und NUR ICH die GESAMTE Verantwortung trage.
-Und nur so kann ich, der Admin, bei einem Vorgang wie der Vorratsdaten mitmachen.
+Und nur so kann ich, der Admin, bei einem Vorgang wie der VDS mitmachen.
 
 So, und nicht anders.
 
