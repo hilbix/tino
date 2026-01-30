@@ -1,3 +1,5 @@
+> Dies ist eine Reaktion auf [39C3 - The Last of Us - Fighting the EU Surveillance Law Apocalypse](https://www.youtube.com/watch?v=pfVng5csqyk)
+
 # Technische Vorratsdatenspeicherung (VDS)
 
 Ich bin Admin (AKA SysOp).  Admin zu sein bedeutet, **dass man das Allerletzte ist**.
