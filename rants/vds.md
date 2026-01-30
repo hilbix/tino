@@ -22,7 +22,7 @@ Wir Admins sind dafür verantwortlich, dass
 Wir Admins sind NICHT dafür verantwortlich, dass
 
 - uns die Materialen zur Verfügung gestellt werden, die wir brauchen.
-  - Wir erklären nur, was wir brauchen.  Wenn das nicht der Fall ist obliegt das nicht unserer Verantwortung.
+  - Wir erklären nur, was wir brauchen.  Wenn wir es dann nicht bekommen, obliegt das nicht unserer Verantwortung.
   - Gemäß "wenn möglich, optimal" weiter oben bedeutet, dass wir auch tatsächlich nur das fordern, was auch wirklich notwendig ist!
 - uns falsche Materialien zur Verfügung gestellt werden.
   - Beispiel wenn irgendein Marketing-Fuzzy das Management falsch berät und ihnen so einen Scheiß wie "Intranet in der Cloud" verkauft.
