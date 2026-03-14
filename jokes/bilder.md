@@ -1,5 +1,11 @@
 # Bilder-Jokes
 
+## 2026-03-14
+
+![KI essen Zukunft auf ..](img/ki-essen-zukunft-auf.png)
+
+[FYI](https://de.wikipedia.org/wiki/Angst_essen_Seele_auf)
+
 ## 2025-10-15 nVIDIA
 
 ![Da weiß ich echt nicht, was ich dazu sagen soll](img/NvidiaMWD.png)
