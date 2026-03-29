@@ -46,12 +46,12 @@ But what to do with the Windows-install.  Wouldn't it be nice to run this from P
 If you want to install the VirtIO ISOs (I didn't use them, it works without), here is how:
 
 - First, make sure you downloaded the Driver-ISO
-- You need a Storage for ISO which can
+- You need a Storage for ISO which can hold the download, so:
 - In "Datacenter" use `Storage` to create or find the storage for `ISO image`
 - Then in the `Server view` or `Folder view` select this storage and then `ISO images`
 - Click on `Download from URL` and enter the URL for the `virtio-win-*.iso` and let it download
 
-According to the [Proxmox documentation](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers#virtio-win_Releases), you can find them there:  
+According to the [Proxmox documentation](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers#virtio-win_Releases), you can find the ISO URLs there:  
 <https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/?C=M;O=D>
 
 Then the rest is straight forward with the Proxmox wizard:
