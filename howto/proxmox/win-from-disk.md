@@ -57,9 +57,11 @@ According to the [Proxmox documentation](https://pve.proxmox.com/wiki/Windows_Vi
 Then the rest is straight forward with the Proxmox wizard:
 
 - Create a new VM (I chose number `111`).
-- Select `Windows 11` but do not use any media
+- Select `Windows 11` and `Do not use any media`
   - Optionally add the driver ISO here
-- Do not use any disk, as the Wizard does not support it directly
+- Use the `OVMF (UEFI)` BIOS
+  - The EFI disk is not used by the OS but only by Proxmox to keep the EFI settings
+- Do not add any disk, as the Wizard does not support it directly
 - Give it at least 8 GB of RAM, else things get very slow
 - Select Windows11 OS
 - No Networking for now, this avoids driver problems
