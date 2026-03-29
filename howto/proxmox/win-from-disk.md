@@ -63,7 +63,6 @@ Then the rest is straight forward with the Proxmox wizard:
   - The EFI disk is not used by the OS but only by Proxmox to keep the EFI settings
 - Do not add any disk, as the Wizard does not support it directly
 - Give it at least 8 GB of RAM, else things get very slow
-- Select Windows11 OS
 - No Networking for now, this avoids driver problems
 
 
