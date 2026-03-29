@@ -144,6 +144,11 @@ Hence I had to fix that using `gdisk /dev/mapper/win-virtual` and then:
 - `w`rite the resulting partition tables  
   which only works if `gdisk` is able to re-write the `GPT` backup partition table.
 
+> To stress it:
+> - `/dev/mapper/win-virtual` reads from `/dev/nvme0n1` but does not write to it!
+> - All changes are written to the COW device `/dev/mapper/win-virtual-cow`  
+>   which is backed by `/dev/mapper/work-tmp--cow` in my case!
+
 Now the virtual disk `/dev/mapper/win-virtual` is usable!
 
 
