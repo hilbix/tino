@@ -95,3 +95,13 @@ und damit dann beweist, dass er offensichtlich von seinem Metier weniger versteh
 Und noch amüsanter ist, wenn diese Blender das nicht einmal raffen ..
 
 > Ich schreibe nicht Idioten, denn das täte [allen Idioten wie mir](https://de.wikipedia.org/wiki/Idiotes) Unrecht.
+
+
+# Nachtrag
+
+Die KI von ai.updf.com hatte übrigens vollkommen Recht!
+
+- https://translate.google.com/ funktionierierte genau so, wie von mir erwünscht
+- Und die Übersetzung war absolut brauchbar, wenn auch nicht zu 100% perfekt
+
+Nichts anderes war auch von KI im Jahr 2026 zu erwarten.
