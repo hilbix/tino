@@ -2,6 +2,48 @@ Den Leuten von Signal muss jemand ins Hirn geschissen haben.
 
 > Das oder es kommt nur noch eine viel unfreundlichere Erklärung in Betracht.
 
+
+# 2026-05-26 Signal Backup ist immer noch kein Backup
+
+Signal bietet immer noch kein Backup an!  Stattdessen haben sie folgende 2 Möglichkeiten:
+
+- Ein kostenloses Backup bis 100 MB der letzten 45 Tage
+- Eine bezahlte Version für 2 EUR/Monat bis 100 GB
+- Und unter Android ein Backup auf die Speicherkarte des Handys
+
+Alles 3 ist immer noch kein Backup.  Denn die bezahlte Version sichert ja nicht die Daten, sondern nur die NEUEN Daten, und das auch nur bis zu mageren 100 GB.
+Der Preis ist noch lächerlicher!  Für ein eigenes VPS mit über 5 GB nutzbarem Speicher kostet 1 EUR pro Monat.
+
+Microsoft, Google usw. bieten alle außerdem kostenlose 5 GB Speicher.
+
+> Ich kann zwar verstehen, dass ihr dafür Geld verlangt, aber sorry, dieser aufgerufene Preis ist schlichtweg **reiner Wucher**.
+> Mehr als 10 EUR pro Jahr darf dieser Service nicht kosten, und am Besten verkauft ihr den außerdem auf 5 Jahre.
+
+Ich habe 5 TiB Onlinespeicher, der mich keine weiteren Gebühren kostet.  Nennt sich Lifetime Speicher den ich mir für einer Einmal-Zahlung gesichert habe.
+Ja, der hat mich über 500 EUR gekostet.  Aber pro 100 GB pro Monat bin ich bereits UNTER DEM PREIS, den Signal dafür aufruft!
+
+> Sprich: Wenn Signal dort den Speicher einkauft, machen sie mit diesen 10 EUR pro Jahr immer noch viel Gewinn.
+
+Ich verstehe zwar sehr gut, dass man seine eigene Plattform gerne monetarisieren will.  Aber wenn, dann sollte man das bitte mit etwas mehr Fingerspitzengefühl machen.
+
+> Weil ich den Leuten immer von Signal abrate und ihnen Threema ans Herz lege habe ich schon einige von mir gekaufte Threema-Lizenzen verschenkt!
+>
+> Es kommt halt immer darauf an, ob die Kosten in einem sinnvollen Verhältnis zu dem Nutzen stehen!
+> Bei Threema, das man kaufen muss, ist das für mich gegeben.
+> Das - kostenlose - Signal aber halt ich für maßlos überteuert.
+> Nennt mich meinetwegen seltsam, aber es ist, wie es ist.
+
+Es wird IMHO schon länger Zeit für eine offene Open-Source-Signal-Alternative, die etwas mehr wie Threema ist, und die vollständig auf WebRTC basiert.
+
+> Was nicht von Grund auf E2E ist, das ist KEINE Alternative.  Außerdem muss die Plattform **deutlich einfacher** funktionieren als beide.
+> Wenn jetzt jemand meint, das geht nicht, Leute, denkt nach!
+
+Es gibt ausreichend frei verfügbare Kommunikationsinfrastruktur im Internet,  die man dafür nutzen kann.
+Und alle, die sich davon unabhängig machen wollen und etwas beitragen wollen, für die muss ein Raspberry Pico 2W bzw. ein 1 EUR VPS reichen!
+
+Natürlich von Anfang an mit vollautomatischem Backup!  Kostenlos und komplett frei verfügbar!
+
+
 # 2024-08-28 Usability at its worst!
 
 ![image](img/14f72c9f-6f5d-4162-b53c-662e350b9286.png)
