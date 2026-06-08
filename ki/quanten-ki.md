@@ -41,8 +41,8 @@ und damit *behaupten*, dass ihr Urheberrecht durch das Endprodukt beeinträchtig
 > Ich bin da aus logischen Erwägungen heraus ganz anderer Meinung.
 >
 > Das Urheberrecht wird vor allem dadurch beeinträchtigt, dass man die Werke NICHT zum Training hernehmen darf.
-> Oder anders gesagt:  Wenn ein Künstler dagegen ist, **muss er die bezeichnung Künstler verlieren**,
-> und darf sich stattdessen nur noch **"Verkarkter eigener Werke"** nennen.
+> Oder anders gesagt:  Wenn ein Künstler dagegen ist, **muss er die Bezeichnung Künstler verlieren**,
+> und darf sich stattdessen nur noch **"Vermarkter eigener Werke"** nennen.
 >
 > Der Urheberrechtsverstoß entsteht nämlich nicht durch den Output, sondern beim Input, also dem Training der KI.
 > Aber nur dann, wenn der Urheber der digitalen Verarbeitung seiner Werke nicht zugestimmt hat.
