@@ -1,3 +1,10 @@
+# Update 2026-06 CirrusCI is gone due to AI
+
+CirrusCI has been shut down by OpenAI, hence I lack a CI now.
+
+- Travis-CI is dangerous
+- Circle-CI is dangerous, too (see update below)
+
 # Update 2026
 
 GitHub allows you to have a single Machine Account.  This is exactly what this here was about.  Hence this is obsolete now.
@@ -85,6 +92,7 @@ As you can use a (single!) machine account.
 Summary:
 
 - [Cirrus CI](https://cirrus-ci.com) ([Marketplace](https://github.com/marketplace/cirrus-ci)) - [works for me as it only wants read access](../howto/cirrus-ci.md), Linux/Windows/MacOS-X, minimal Web-UI, but needs not-so-easy-to-use file `.cirrus.yml` (except with `Dockerfile`s, which I do not grok yet)
+- [CircleCI](https://circleci.com/blog/cirrus-ci-alternative/) is no CirrusCI alternative.
 - [Opensource Travis CI](https://travis-ci.org/) (Marketplace) seems to work with only read access, not completely evaluated.  Needs not-so-easy-to-use file `.travis.yml`
 - [Commercial Travis CI](https://travis-ci.com/) ([Marketplace](https://github.com/marketplace/travis-ci)) - cannot use without firewall as it wants full write access.  Needs not-so-easy-to-use file `.travis.yml`
 - Semaphore ([Marketplace](https://github.com/marketplace/semaphore)) - cannot use without firewall as it wants full write access.  Besides of that it looks very easy to use.
@@ -292,13 +300,14 @@ Perhaps this relationship is very very complex.  Like something, which works whe
 Cirrus CI apparently does not support this easily today.  Which is a sad thing.
 
 
-## CircleCI (not yet evaluated)
+## CircleCI
 
-- Pros: I do not know yet.
-- Cons: I do not know yet.
+- Pros: I have no idea, as I gave up quickly
+- Cons: Permission monster, endangers your repos the same way as all others
 
-Perhaps I will evaluate next, if I fail with Cirrus CI.
+Unusable, see screenshot:
 
+![CircleCI too dangerous](img/circleci-unusable.png)
 
 ## Codefresh (not yet evaluated)
 
