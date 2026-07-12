@@ -1,7 +1,12 @@
-[![Asset-Status](https://api.cirrus-ci.com/github/hilbix/tino.svg?branch=master)](https://cirrus-ci.com/github/hilbix/tino/master)
+~~[![Asset-Status](https://api.cirrus-ci.com/github/hilbix/tino.svg?branch=master)](https://cirrus-ci.com/github/hilbix/tino/master)~~
 
-Wenn da "build failing" steht (oder ganz oben ein rotes X neben der Commit-Message), dann habe ich es [mal wieder gehörig mit dem GitHub-Editor verbockt](rants/github/assets.md) und dieses Repo bedarf einer dringenden Reparatur.  Warum?  Weil es sonst Sachen enthält, die es nicht enthält.  Äh .. ja .. Logik a la GitHub würde ich sagen ..
+~~Wenn da "build failing" steht (oder ganz oben ein rotes X neben der Commit-Message), dann habe ich es [mal wieder gehörig mit dem GitHub-Editor verbockt](rants/github/assets.md) und dieses Repo bedarf einer dringenden Reparatur.  Warum?  Weil es sonst Sachen enthält, die es nicht enthält.  Äh .. ja .. Logik a la GitHub würde ich sagen ..~~
 
+> OpenAI hat das einzige weltweit sicher nutzbare Cirrus-CI geklaut und leider durch die Sicherheitskatastrophe CircleCI ersetzt.
+> Da ich bisher leider nicht herausgefunden habe, wie ich hier ein anderes CI auf sichere Art und Weise einsetzen kann, funktioniert das halt nimmer.
+>
+> Hint: Ein CI darf bei mir **keinerlei Schreibzugriff** auf meine Repos haben.  Leider verlangen alle, die ich in GitHub finden konnte, einen vollen Schreibzugriff.
+> Cirrus-CI war das einzige, das Read-Only verlangte.  Dieses Killer-Feature ist nun nachhaltig verschwunden.  Ein Schelm, wer Böses dabei denkt.
 
 # Tinos Zettelkasten
 
