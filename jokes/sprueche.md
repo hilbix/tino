@@ -187,3 +187,9 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 
 - 2025-06-07 Achim Wendler spricht das vielleicht genialste Schlusswort dieses Jahrzehnts, denn es ist wahr und sagt alles: ["Ich kommentiere nichts, was Sie sagen"](https://youtu.be/FOQFbDf9o_w?t=468)  Vielen Dank dafür!  (Leider sind die Kommentare unter dem Video - aus vermutlich gutem Grund - pausiert.)
 
+- 2026-08-03 Aufgrund Rechtsrucks, Putin und AfD wird es immer unwahrscheinlicher, dass ich meine Rente überhaupt noch erlebe ([Quelle](https://github.com/hilbix/tino/blob/master/blog/20260722-susi.md))
+
+
+
+
+
