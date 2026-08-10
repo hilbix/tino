@@ -189,7 +189,7 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 
 - 2026-08-03 Aufgrund Rechtsrucks, Putin und AfD wird es immer unwahrscheinlicher, dass ich meine Rente überhaupt noch erlebe ([Quelle](https://github.com/hilbix/tino/blob/master/blog/20260722-susi.md))
 
-
+- 2026-08-10 Das letzte Wort zum Thema Ordnung in Deutschland ist [`bekloppt`](https://gist.github.com/hilbix/22816af649fb44c5d9c1345e67b51007).
 
 
 
