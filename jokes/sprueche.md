@@ -191,5 +191,4 @@ Update 2023-01-28: Übrigens lehne ich aus denselben Gründen auch Reichsbürger
 
 - 2026-08-10 Das letzte Wort zum Thema Ordnung in Deutschland ist [`bekloppt`](https://gist.github.com/hilbix/22816af649fb44c5d9c1345e67b51007).
 
-
-
+- 2026-10-15 Inzwischen leben wir in der Schönen Neuen Welt von Huxley:  Du hast Angststörungen?  Pille, alles wieder gut.  Du hast Jähzorn?  Pille, alles gut.  Du hast Erektionsstörungen?  Pille, alles perfekt.  Du bist ein Arschloch?  Pille, und Du bist immer noch ein Arschloch.
